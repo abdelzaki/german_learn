@@ -10,6 +10,7 @@
     - am Rätsel
 
 ### Fall:
+
 - Fall:
     - der Fall 
     - ob so ein Fall eintreten wird 
@@ -20,10 +21,10 @@
     - ich bekomme einen Anfall wenn du nicht aufräumst 
 
 - Vorfall:
-- Zwischenfall:
-    - der Vorfall 
-    - der Zwischenfall 
-    - ich wollte diesen Zwischenfall vergessen 
+
+  - der Vorfall
+  - der Zwischenfall
+  - ich wollte diesen Zwischenfall vergessen
 
 - Durchfall:
     - der Durchfall 
@@ -40,21 +41,21 @@
     - der Abfall 
 
 - Unfall:
-    - der Unfall 
-    - ich habe einen Unfall 
 
+  - der Unfall
+  - ich habe einen Unfall
 - Ausfall:
     - der Ausfall 
     - ich habe Stromausfall 
 
 - Beifall:
-    - der Beifall 
-    - mein Vorschlag hat keinen Beifall gefunden 
 
+  - der Beifall
+  - mein Vorschlag hat keinen Beifall gefunden
 - Einfall:
-    - der Einfall 
-    - ich habe einen guten Einfall 
 
+  - der Einfall
+  - ich habe einen guten Einfall
 - Rückfallebene:
     - eine Rückfallebene
     - das ist eine Rückfallebene 
@@ -5618,7 +5619,7 @@
     - ich habe keine Meinung ich bete nach was er mir gasgt hat 
 
 ### eilen
- beeilen:
+- beeilen:
     - ich beeile mich mit der Arbeit 
 
 - übereilen:
@@ -5628,8 +5629,314 @@
     - ich eile ihm nach
 
 
+### klemmen
+- klemme:
+    - die Klemme
+    - ich halte das mit einer klemme zusammen
+    - ich stecke in der Klemme
+
+- abklemmen:
+    - ich klemme das Kabel ab, bevor ich mit der Reparatur anfangen
+
+- beklemmen:
+  - das Gefühl beklemmt mich
+
+- dahinterklemmen:
+  - wenn du dich dahinterklemmst, wirst du es schaffen
+
+- einklemmen:
+  - ich habe mir den Finger in der Tür eingeklemmt
+
+- verklemmen:
+  - die Tür hat sich verklemmt
+
+### klammer
+- Klammer:
+    - die Klammer
+    - runde, spitze, Eckige, geschweife Klamme
+    - ich setze den Name in Klammern
+
+- anklammern:
+    - ich klamme die Wäsche an der Leine an
+
+- ausklammern:
+    - ich werde das thema ausklammern
+
+- festklammern:
+  - ich klammere mich am Geländer fest
+
+### festigen
+- festigen:
+    - das festigt die Haare
+    - die Beziehung hat sich durch Kind gefestigt
+
+- befestigen:
+    - ich werde das Regal an der Wand befestigen
+
+### dienen
+
+- dienlich:
+  - das war mir sehr dienlich
+
+- abdienen:
+  - ich habe bei der Bundeswehr abgedient
+
+- bedienen:
+    - ich weiss nicht wie ich es bedienen muss
+
+- ausgedient:
+  - das Gerät hat ausgedient
+
+- verdienen:
+  - ich habe das verdient
+  - ich verdiene viel Geld
+
+### heilen
+- abheilen:
+- ausheilen:
+    - die Wunde braucht Zeit um abzuheilen
+
+- anheilen:
+    - die Wunde wird bald anheilen
+
+- verhielen:
+    - das muss vollstündig verheilen
+
+- heilen:
+    - das heilt gut
+    - der Artzt hat ihn geheilt
+
+### freund
+- anfreunden:
+- befreunden:
+    - ich kann mich mit dieser Idee anfreunden
+- Freundeskreis:
+    - der Freundeskreis
+    - allein in meinem Freundeskreis hat ich 2 Motorschaden
+
+### frei
+- freinehmen:
+- freimachen:
+    - ich nehme morgen frei
+
+- freigeben:
+- freibekommen:
+    - er hat mir morgen freigegeben
+    - ich habe drei Tage freibekommen
+
+- freihaben:
+    - ich habe Morgen frei
+
+- einwandfrei:
+    - es funktionert einwandfrei
+
+- freistellen:
+    - der Chef hat mich für den Fortbildungslehrgang freigestellt (akku)
+    - ich stelle dir frei, ob du kommen willst oder nicht
+
+### fressen
+- fressen:
+  - die Aufgabe frisst viel Zeit
+  - das hat mein Geld gefressen
+
+- anfressen:
+- zerfressen:
+  - die Mäuse haben es angefressen
+
+- aufreiben:
+- auffressen:
+- zermürben:
+    - die Arbeit reibt mich auf
+
+### dringen
+- dringen:
+    - die Sonne dringt durch den Dach
+    - das dringt auf eine Lösung (insist)
+
+- eindringen:
+    - das Wasser dringt in das Zelt ein
+    - ich dringt auf dich ein bis du nachgibst
+
+- vordringen:
+    - sie dringen in fremdes Land vor
+
+### drängen
+- drängen:
+  - ich werde das zur Seite drängen
+  - Sie drängen auf baldige Lösung
+  - ich will dich nicht in die Ecke drängen
+  - er hat micht zur Eile gedrängt
+  - ich dränge mich nach vorne
+
+- abdrängen:
+  - er drängt mich vom Weg ab
+
+- aufdrängen:*
+  - ich will dir meine Hilfe nicht aufdrängen
+
+- bedrängen:
+  - ich will dich nicht bedrängen
+  - sie bedrängen die Touristen Produkte zu kaufen
+
+- verdrängen:
+    - Laptop hat pc verdrängt
+
+- vordrängen:
+  - ich werde mich vordrängen
+
+- zusammendrängen:
+    - Die Tiere wurden auf kleinstem Raum zusammengedrängt.
+
+### nötigen
+- nötigen:
+    - das Wetter nötigt mich zu Hause zu bleiben
+
+- benötigen:
+  - ich benötige deine Hilfe
+
+- aufnötigen:
+  - ich will dir meine Hife nicht aufnötigen
+
+- abnötigen:
+  - Der Vernehmer versuchte, dem Verdächtigen ein Geständnis abzunötigen
+
+### rutschen
+- rutschen:
+    - ich bin ins Rutschen gekommen
+    - meine Hose rutscht
+    - die Vase ist mir aus der Hand
+    - könntest du ein bisschen rutschen
+
+- abrutschen:
+  - ich bin von der Leiter 
+  
+- durchrutschen:
+    - die Fehler sind mir 
+    
+- herausrutschen:
+    - das wollte ich nicht sagen dass es mir einfach herausgerutscht
+
+- verrutschen:
+  - die Brille verrutscht immer
+
+### rücken
+- rücken:
+- abrücken:
+- vorrücken:
+    - ich rücke den Stuhl vom Tisch ab
+    - ich rücke den Stühl vor
+    - ich rücke das zur Seite
+
+- auffrücken:
+  - rücken Sie bitte auf
+
+### hören
+- hören:
+    - er hat auf mich nicht gehört
+    - hörst du mich
+    - ich habe von ihm nichts gehört
+
+- zuhören:
+    - höre mir zu
+
+- abhören:
+    - sie hört mir die Wörter ab
+    - ich wollte meine Mailbox abhören
+
+- hörensagen:
+    - das kenne ich vom hörensagen
+    - das kenne ich vom Sehen
+
+- überhören:
+    - ich habe das Telefon überhört
+
+- durchhören:
+    - ich durch durch die Wand durch
+
+- verhören:
+    - ich habe mich wahrscheinlich verhört
+
+- weghören:
+    - wenn er redet, höre ich einfach weg
+
+- umhören:
+    - ich werde mich bei ihm nach besserem Angebot umhören
+
+- mithören:
+    - die Wand ist sehr dunn dass ich fast alles mithören kann
+
+- aufhören:
+    -ich will mit soetwas aufhören
+
+- gehören:
+    - es gehört Mut dazu dass zu machen
+    - es gehört nicht zum Thema
+
+- hingehören:
+    - das gehört einfach nicht hin
+
+- angehören:
+    - ich gehöre dieser Familie an
+
+- Angehörigkeit:
+    - die Angehörigkeit
+
+- dazugehören:
+    - hier wird computer verkauft und alles was dazugehört
+    - das gehört auch dazu
+
+### scheiden
+- scheiden:
+    - Sie lassen sich scheiden
+
+- ausscheiden:*
+    - die Lösung scheidet für mich aus weil es sehr lange Zeit dauert
+
+- bescheiden:
+  - er ist sehr bescheidener Mensch
+  - das ist aber ein beschiedener Wunsch
+
+- entscheiden:
+  - über die Sache will ich allein nicht entscheiden
+
+- unterscheiden:
+    - wir kann die beiden nicht unterscheiden
+
+### schätzen
+- abschätzen:
+    - ich kann die Zahl nicht abschätzen
+
+- einschätzen:
+    - ich kann ihn / die Situation nicht einschätzen
+
+- schätzen:
+    - ich schätze ihn sehr
+
+- verschätzen:
+    - ich habe mich verschätzt
+
+- überschätzen:
+- unterschätzen:
+    - ich habe mich überschätzt
+    - ich habe die Kosten
+
 
 ##
+- ausgeliefert
+- abblöcken
+- schätzen
+- kleben
+- prallen
+- eins auswischen
+- hineinsteigern
+- Rückzieher
+- herunterputzen
+- nachlaufen
+- verehren:
+- anhimmeln:
+- ausrasten:
+- ausflippen:
+
 
 
 
