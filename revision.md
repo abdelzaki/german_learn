@@ -199,6 +199,9 @@
 
 - baufällig:
     - das Haus ist sehr baufällig 
+
+- Rückfällig:
+    - er ist Rückfällig geworden
   
 ### fangen
 - fangen:
@@ -362,6 +365,9 @@
 - Abzug:
     - wir haben auch viele Abzüge 
 
+- hinterziehen:
+    - er hat Steuer hinterzogen
+
 - aberziehen:
 - anerziehen:
     - ich erziehe meinem Kind dieses Verhalten ab
@@ -420,7 +426,7 @@
 	- Dieser Fehler hat sich durch die gesammte Arbeit durchgezogen
 
 - unterziehen:
-    - ich muss mich diesem Test unterziehen damit ich den Pass erhalten [uterwerfen]
+    - ich muss mich diesem Test unterziehen damit ich den Pass erhalten [unterwerfen]
 
 - entziehen:
     - die Kinder wurden ihm entzogen 
@@ -478,6 +484,14 @@
 - heranziehen:
     - ich werde Gerhard zu dieser Entscheidung heranziehen 
 
+### zögern 
+- zögern:   
+    - ich habe mit meiner Antwort gezögerz 
+
+- verzögern:
+- hinauszögern:
+    - technische Probleme verzögert den Beginn 
+
 ### züglich 
 - abzüglich:
 - zuzüglich:
@@ -486,6 +500,9 @@
 
 - vorzüglich:
     - Das Essen war vorzüglich.
+
+- unverzüglich:
+    - mach das unverzüglich
 
 
 - anzüglich:
@@ -1352,6 +1369,43 @@
 - ungelegte:
     - über ungelegte Eier werde ich nicht sprechen 
 
+
+### lagern 
+- ablagern:
+    - In Wasserleitungen kann sich Kalk ablagern. 
+
+- auslagern:
+    - die Arbeitstelle wird nach China ausgelaggert 
+
+- belagern:
+    - die Feinde haben uns belaggert 
+
+- einlagern:
+    - wir lagern Essen ein 
+
+- überlagern:
+    -  Unsere Interessen überlagern sich. 
+
+- umlagern:
+    - wir lagern die Patienten um 
+
+- verlagern:
+    - unsere Interesse hat sich verlagert 
+
+- zwischenlagern:
+    - du kannst deine Gepäck bei mir zwischenlagern 
+
+- Unterlage:
+    - die Unterlage
+    - ich brauche eine Unterlage 
+
+- Unterlagen:
+    - wo sind deine Unterlagen 
+
+- Auflage:
+    - die Auflage 
+    - er macht mir zur Auflage, dass ich das jeden Tag machen muss 
+
 ### liegen 
 - angelegen:
     - was du machen muss, es ist dir angelegen 
@@ -1451,6 +1505,10 @@
 - einbrechen:
     - sie haben gestern in die Bank eingebrochen 
 
+- durchbrechen:
+    - ich breche den Holz durch 
+    - das Auto durchbreche die Absperrung
+
 - Kopfzerbrechen:
     - das Kopfzerbrechen
     - das bereitet mir Kopfzerbrechen 
@@ -1486,6 +1544,10 @@
     - das Verbrechen
     - das war mein einziges Verbrechen 
 
+- Verbrecher:
+    - der Verbrecher 
+    - es ist ein Verbrecher 
+
 - zusammenbrechen:
     - das System ist zusammengebrochen 
     - eine Frau ist auf der Straße zusammengebrochen 
@@ -1500,7 +1562,7 @@
     - ich bin tief im Thema gesteckt 
 
 - umstecken:
-    - ich stecke die Strecker umstecken 
+    - ich stecke die Strecker ums
 
 - abstecken:
     - wir habe die Grenze abgesteckt 
@@ -1808,6 +1870,13 @@
     - ich schüttle die Jacke ab 
     - ich schüttle meine Angst ab 
 
+### rütteln
+- rütteln:
+    - ich rüttle an der Tür 
+
+- wachrütteln:
+    - das Ergebnis hat mich wachgerüttelt 
+
 ### schöpfen
 - schöpfen:
     - ich konnte Energie aus meinem Glauben schöpfen 
@@ -2063,13 +2132,17 @@
 - markieren:
     - meine Antwort ist farblich markiert 
 
-### prägen***
+### prägen
 - prägen:
     - das hat mich geprägt 
 
 - einprägen:
     - ich habe mir das eingeprägt 
     - die Wörter haben sich mir eingepragt 
+
+- ausprägen:
+    - das hat dieses Land ausgeprägt 
+    
 
 ### schließen 
 - schließen:
@@ -2477,7 +2550,10 @@
     - alle fähren in Urlaub und ich habe das Nachsehen 
 
 - abschauen:
-    - ich habe von meinem Vater abgeschaut wie macht man das
+    - ich habe von meinem Vater abgeschaut wie macht man das 
+
+- wiedersehen:
+    - ich hoffe das wir uns wiedersehen werden 
 
 ### Sicht 
 
@@ -2614,7 +2690,10 @@
     - das gibt die Temperaure in C an 
     - es wird das angegebene Parameter verwendet 
     - es muss in einer folgenden Formen angegeben werden
-    - er gibt immer an
+    - er gibt immer an 
+
+- angeblich:
+    - er ist angeblich Reich 
 
 - abgeben:
     - ich will mich mit soetwas nicht abgeben 
@@ -2859,7 +2938,6 @@
 - anfahren:  
 - streifen:
 	- ich habe beim Einparken ein anderes Auto gestreift / angefahren 
-    - beim Anfahren ruckelt das Auto 
     - der Bus fahrt viel Bushaltestelle an 
     - ich fahre mein Auto an
 
@@ -2905,7 +2983,10 @@
     - er hat mich mit diesem Angebot überfahren
     - ich habe ein Tier überfahren 
     - der Hund ist überfahren 
-    - er hat die Ampel überfahren
+    - er hat die Ampel überfahren 
+
+- zusammenfahren:
+    - die beiden Autos sind zusammengefahren
 
 - vorbeifahren:
     - er fährt sehr dicht an mir vorbei 
@@ -2980,6 +3061,19 @@
     - der Leerlauf 
     - wenn man Leerlauf hat 
 
+- Anlauf:
+    - der Anlauf
+    - beim ersten Anlauf 
+
+- Lauf:
+	- der Lauf 
+	- ich empfinde den Lauf der Zeit nicht wirklich
+	- im Laufe der Woche
+    - ich habe meiner Wut freien Lauf lassen  
+
+- Laufpass:
+    - sie gibt ihm dem Laufpass
+
 - leerlaufen:
     - der Tank ist leergelaufen
 
@@ -3028,11 +3122,12 @@
 
 - überlaufen:
     - das Wasser / das Glass  läuft über 
-    - der Ort ist überlaufen im Sommer 
+    - der Ort ist überlaufen im Sommer [überfüllen]
 
 - umlaufen:
     - er hat mich umgelaufen 
-    - Das Wasser lauft in Heizung um
+    - Das Wasser lauft in Heizung um 
+    - die Erde umläuft die Sonne [umkreisen]
 
 - auslaufen:
     - Vertrag, Angebot 
@@ -3060,6 +3155,10 @@
 
 - fortlaufend:
     - es ist ein fortlaufender Prozess 
+
+- hochlaufen:
+- herunterlaufen:
+    - ich laufe die Treppe hoch 
 
 
 ### finden
@@ -3130,6 +3229,7 @@
 
 - übertreten:
     - ich trete zum Islam über 
+    - er hat das Gesetzt übertreten
 
 - vortreten:
 - zurücktreten:
@@ -3159,6 +3259,10 @@
 - Auftreten:
     - das Auftreten 
     - er hat sie gutes Auftreten 
+
+- zusammentreten:
+    - ich trete den Karton zusammen damit es in den Müllton passt 
+    - wir treten morgen zusammen 
 
 ### greifen
 - greifen:
@@ -3342,6 +3446,11 @@
     
 - Schrittweise:
     - wir können das schrittweise machen 
+
+- netterweise:
+- möglicherweise:
+- gemeinerweise:
+- idealerweise
 
 - naseweis:
 - altklug:
@@ -3653,7 +3762,6 @@
     - ich konnte mich mit ihm verständigen 
     - wir haben uns auf einen Kompromis verständigen 
 
-
 - zustande:
     - das wird bald zustande kommen 
     - wir haben das endlich zustande gebracht 
@@ -3889,7 +3997,8 @@
 ### planen
 - Plan:
     - der Plan 
-    - das ist sehr guter Plan
+    - das ist sehr guter Plan 
+    - wir sind mit der Arbeit im Plan
 
 - planen:
     - was hast du am Wochenende geplant  
@@ -4575,7 +4684,7 @@
 
 ### wältigen 
 - bewältigen:
-    - ich kann diese Situation bewältigen 
+    - ich kann diese Situation bewältigen [handeln]
 
 - überwältigen:
     - das Gefühl hat mich überwäligt 
@@ -4651,6 +4760,10 @@
 - Arbeitstier:
     - das Arbeitstier 
     - er ist ein Arbeitstier 
+
+- überarbeiten:
+    - ich habe den Code überarbeitet [noch einmal gearbeitet]
+    - ich habe mich überarbeitet 
 
 ### lesen 
 - durchlesen:
@@ -4892,10 +5005,17 @@
     - die Wehmut 
     - ich erinnere mich wehmut an diese Sache  
 
+- Unmut:
+    - der Unmut 
+    - ich kann deinen Unmut verstehen
+
 - mutig:
 - übermütig:
     - es war sehr mutig von dir
-    - er ist sehr mutiger Mensch
+    - er ist sehr mutiger Mensch 
+
+- freimütig:
+    - ich kann dir das freimütig sagen 
 
 - ermutigen:
     - ich wollte dich ermutigen 
@@ -5214,8 +5334,10 @@
 
 ### trocknen
 - trocknen:
-- austrocknen:
     - die Sonne wird es trocknen 
+
+- austrocknen:
+    - der Fluss trocknet aus 
 
 - abtrocknen:
     - ich trockne mich ab (mit tuch) 
@@ -5493,7 +5615,8 @@
     - ich habe mich auf lange Wartung eingerichtet (sich) [einstellen]
 
 - errichten:
-    - Gebäude errichten 
+    - Gebäude errichten [bauen]
+    - Durchgang errichten
 
 - herrichten:
     - ich habe den Raum für den Besucher hergerichtet 
@@ -5993,7 +6116,7 @@
 - überhäufen:
     - er hat mich mit Arbeit überhäuft 
 
-### haben+++
+### haben
 - abhaben:
     - kann ich etwas von Kuchen abhaben 
 
@@ -6065,6 +6188,10 @@
     - wir wollen ihn nicht verbrennen lassen 
     - ich habe mir den Finger am Herd verbrannt 
     - ich habe mich am Herd verbrannt 
+    - Kalorie verbennen 
+
+- gebrannt:
+    - ich bin gebranntes Kind 
 
 ### still
 - stillstand:
@@ -6430,7 +6557,7 @@
 
 - erwärmen:
 - durchwärmen:
-    - ich das das Zimmer erwärmen 
+    - ich habe das Zimmer erwärmen 
 
 - vorwärmen:
     - ich wärme den Motor vor bevor ich mit dem Auto gehe 
@@ -7212,7 +7339,13 @@ durchdringen
     - ich rücke das zur Seite
 
 - aufrücken:
-  - rücken Sie bitte auf [aufschließen]
+  - rücken Sie bitte auf [aufschließen] 
+
+- ruckeln:*
+    - es ruckelt
+    - der Motor beginnt zu ruckeln 
+    - beim Anfahren ruckelt das Auto 
+
 
 ### scheiden
 - scheiden:
@@ -7542,6 +7675,9 @@ durchdringen
 - zerschmeißen:
     - ich habe das Glass zerschmissen 
 
+- aufgeschmissen:
+    - ohne dich wäre ich totall aufgeschmissen 
+
 ### schubsen
 - schubsen:
     - er hat mich geschubst 
@@ -7660,7 +7796,16 @@ durchdringen
     - ich wollte meine Frau bei Hausarbeit entlasten 
 
 - auslasten:
-    - ich bin mit der Arbeit ausgelastet
+    - ich bin mit der Arbeit ausgelastet 
+
+- zulast:
+    - die Reparature geht zulasten des Mieters
+
+- belästigen:
+    - ich wollte dich nicht belästigen [nerven]
+
+- lästig:
+    - das ist eine lästige Frage 
 
 ### brauchen 
 - brauchen:
@@ -7740,6 +7885,7 @@ durchdringen
 
 - umreißen:
     - ich habe die Situation umrissen 
+    - die Vulkan hat alles umgerissen [mitreißen]
 
 - verreißen:
     - er hat den Film verrißen  
@@ -8494,10 +8640,12 @@ vorsprung:
 - Strafe:
     - die Strafe 
     - das ist eine Strafe 
-    - 
 
 - bestrafen:
     - sie haben mich bestraft für meine Aktion 
+
+- strafbar:
+    - das ist aber Strafbar
 
 ### messen 
 - messen:
@@ -8778,6 +8926,14 @@ vorsprung:
 - widerrufen:
     - ich widerrufe meine Ansage 
 
+- einberufen:
+    - er wird zum Dienst einberufen 
+
+- Beruf:
+    - der Beruf 
+    - das ist serh guter Beruf 
+    - Brotberuf
+
 ### wett    
 - wetten:   
     - ich wette dass er nicht kommen wird
@@ -9005,6 +9161,7 @@ vorsprung:
 - Wissen:
     - das Wissen 
     - das ist ohne mein Wissen passiert 
+    - im Wissen dass wir das nicht entschädigen können
 
 - lassenwissen:
     - ich lasse dich wissen 
@@ -9015,12 +9172,34 @@ vorsprung:
 - bewusst:
     - es war mir bewusst dass es nicht gehen wird 
 
+- Gewissheit:
+    - die Gewissheit 
+    - ich muss mir erste darüber Gewissheit verschaffen 
+    - ich kann das nicht mit Gewissheit sagen 
+
+- Gewissen:
+    - das Gewissen
+    - ich habe schlechtes Gewissen wenn ich das nicht machen werde
+    - ich habe ihm ins Gewissen geredet 
+
+- wissentlich:
+    - er hat das wissentlich gemacht 
+
+- Vorwissen:
+    - das Vorwissen 
+    - wir brauchen hier Vorwissen     
+
+- Wissenschaft:
+    - die Wissenschaft
+    - das ist Wissenschaft für sich 
+
+
 ### kreisen
 - kreisen:
     - die Erde kreist um die Sonne 
 
 - umkreisen:
-    - die Erde umkreist die Sonne 
+    - die Erde umkreist die Sonne [umlaufen]
 
 - einkreisen:
     - wir haben das Problem einkreist  
@@ -9236,6 +9415,12 @@ vorsprung:
     - das Vorbild 
     - er ist ein Vorbild für mich 
 
+
+- Gesamtbild:
+    - das Gesamtbild
+    - ich will das Gesamtbild verstehen
+
+
 ### baden
 
 - baden:
@@ -9369,7 +9554,11 @@ vorsprung:
 
 - sauer:
     - das ist sehr sauer 
-    - ich bin sauer auf mich selbst
+    - ich bin sauer auf mich selbst 
+
+- Sauklaue:
+    - die Sauklaue 
+    - sie hat eine echte Sauklaue ich kann es nicht lesen 
 
 ### kneifen
 - kneifen:
@@ -9383,12 +9572,19 @@ vorsprung:
     - ich kann mir das verkniefen 
     - ich sollte mir diesen Kommentar verkniefen 
 
-### kreichen 
+### kreichen && zappeln && krabbeln 
 - kriechen:
     - er fängt an zu krieche 
 
-- verkreichen:
-    - der Hand hat sich in die Hütte verkrochen
+- verkriechen:
+    - der Hund hat sich in die Hütte verkrochen
+
+- zappeln:
+    - er zappelt die ganze Nacht 
+    - lass ihn zappeln 
+
+- krabbeln:
+    - das Kind fängt an zu krabbeln 
 
 ### schweifen
 - schweifen:
@@ -9406,7 +9602,6 @@ vorsprung:
 ### hemmen
 - hemmen:
     - das hemmt die Entwicklung 
-
 
 - gehemmt:
     - ich bin einbischen gehemmt 
@@ -10728,7 +10923,7 @@ vorsprung:
 - schwernehmen:
     - nimm es nicht schwer, du wirst eine Stelle finden 
 
-- beschwerden:
+- beschweren:
 	- ich beschwere mich nicht 
 	- ich werde mich bei deinem Chef über diese Situation beschweren
 
@@ -10852,30 +11047,6 @@ vorsprung:
 - ausklinken:
     - Sie klinkte sich aus dem Projekt aus, da sie keine Zeit mehr hatte.
 
-### lagern 
-- ablagern:
-    - In Wasserleitungen kann sich Kalk ablagern. 
-
-- auslagern:
-    - die Arbeitstelle wird nach China ausgelaggert 
-
-- belagern:
-    - die Feinde haben uns belaggert 
-
-- einlagern:
-    - wir lagern Essen ein 
-
-- überlagern:
-    -  Unsere Interessen überlagern sich. 
-
-- umlagern:
-    - wir lagern die Patienten um 
-
-- verlagern:
-    - unsere Interesse hat sich verlagert 
-
-- zwischenlagern:
-    - du kannst deine Gepäck bei mir zwischenlagern 
 
 ### zünden 
 - zünden:
@@ -10896,6 +11067,9 @@ vorsprung:
 
 - aufwiegen:
     - die Vorteile wiegen die Nachteile auf 
+
+- ausgewogen:
+    - ausgewogene Ernährung ist wichtig
     
 - überwiegen:
     - die Antzahl der Frauen überwiegt die Anzahl der Männer 
@@ -10903,7 +11077,6 @@ vorsprung:
 - Waage:
     - die Waage 
     - ich stelle mich auf die Waage 
-
 
 - erwägen:
     - ich habe das erwogen 
@@ -11312,21 +11485,566 @@ vorsprung:
 - anschwellen:
     - der Lärm schwillt ab 
 
+### Speise 
+- Speise:
+    - die Speise 
+    - die Speise sind inbegriffen 
+
+- Speisekarte:
+    - die Speisekarte 
+
+- abspeisen:
+    - ich lasse mich nicht mit leeren Versprechungen abspeisen 
+
+- einspeisen:
+    - die Anlage speist Strom ins Netz ein 
+
+### Weg
+- Umweg:*
+    - der Umweg 
+    - auf der Fahrt nach Hamburg machen wir einen Umweg über die Stadt um Essen abzuholen 
+    - das habe ich auf Umwegen erfahren 
+
+- Weg:
+    - der Weg 
+    - ich mache mich auf den Weg 
+    - ich bin auf dem Weg 
+    - ich brauche 2 Stunden für den Weg zur Arbeit
+    - aus dem Weg räumen/schaffen/ genommen 
+
+- Mittelweg:
+    - der Mittelweg 
+    - wir suchen einen Mittelweg
+
+### artig 
+- bösartig:
+- gutartig:
+    - das ist bösartig 
+
+- eigenartig:
+    - das ist aber eigenartig von dir 
+
+- gleichartig:
+    - wir haben mit gleichartigen Problemen zu kämpfen
+
+- abartig:
+    - abartige Neigungen haben 
+
+### lauschen
+- lauschen:
+    - er lauscht kommische Muskik 
+
+- belauschen:
+    - unseres Gespräch wird belauscht 
+
+
+
+
+### pennen
+- pennen:
+    - ich will pennen 
+
+- verpennen:
+    - ich habe die Chance verpennt 
+
+- penner:
+    - er ist ein Penner 
+
+### bügeln
+- bügeln:
+    - ich will meine Kleidung bügeln 
+
+- ausbügeln
+    - ich konnte meinen Fehler wiede ausbügeln 
+
+### würde 
+- würde:
+    - in Würde leben 
+
+- würdig:
+    - er ist der Job würdig 
+
+- Merkmürdig:
+- kritikwürdig:
+    - das ist merkwürdig
+
+### Münze
+- Münze:
+    - die Münze 
+
+- ummünzen:
+    - die Niederlage in einen Ergolg ummünzen 
+
+### kost 
+- Kosten:
+- auf Kosten:
+    - die Kosten 
+    - das geht auf Kosten der Natur 
+    - ich kann nicht die Kosten abdecken 
+
+- kosten:
+    - das kostet mich ein Vermögen 
+    - das kostet nur einen Anruf 
+
+- auskosten:
+    - ich koste meinen Erfolg aus 
+
+- verkosten:
+    - kann ich das Essen verkosten 
+
+### preis 
+- Preis:
+    - der Preis 
+    - der Preis ist sehr hoch
+    - der Preis ist mit Frühstuck 
+
+- preisgeben:
+    - er gibt nicht preis wer das gemacht hat 
+
+### schmelzen 
+- schmelzen:
+    - bei dieser Temperatur wird die schnee schmelzen 
+
+- verschmelzen:
+    - hier hat man Gold und Silber verschmolzen 
+
+### biss und schiss
+- Biss:
+- Schiss:
+    - der Biss 
+    - der Schiss 
+    - ich hatte Schiss das zu machen 
+    - er hat Biss 
+
+### checken
+- abchecken:
+    - ich werde es mit dem Chef abchecken ob das gehen kann 
+
+- einchecken:
+- auschecken:
+    - ich will einchecken (hotel)
+
+- durchchecken:
+    - er hat mein Auto durchgecheckt 
+
+### durch 
+- durcharbeiten:
+    - ich arbeite heute die Nacht durch 
+    - ich habe mich durch diese komplexe Aufgabe durchgearbeitet (sich) 
+
+- durchbeißen:
+    - ich beiße mich durch die Aufgabe durch 
+
+- durchboxen:
+    - ich habe mich bis oben durchgeboxt 
+
+- durchbrechen:
+    - ich breche den Holz durch 
+    - das Auto durchbrecht die Absperrung 
+
+- durchbringen:
+    - die Mutter soll alleine die Kinder durchbringen
+
+- durcheinanderbringen:
+    - Du darfst die beiden Sachen nicht durcheinanderbringen.
+
+- durchchecken:
+    - er hat mein Auto durchgecheckt 
+
+- durchdrehen:
+    - er dreht schnell durch 
+    - wenn er das weiss, wird er schnell durchdrehen 
+
+- durchbringen:
+    - das Wasser dringt durch das Dach durch 
+    - das Gefühl durchdringt mich
+
+- durchfahren:
+    - wir fahren durch einen Tunnel durch 
+    - wir fahren durch 
+    - ich haben Berlin durchfahren 
+
+- durchgreifen:
+    - die Stadt muss gegen soetwas durchgreifen
+
+### welken && blühen 
+- welken:
+- verwelken:
+    - die Blumen welken [verkümmern]
+
+- blühen:
+    - im Sommer blüht es überall 
+
+- aufblühen:
+    - seit er allein ist, ist er aufgeblüht 
+    - gerade blüht die Wirtschaft auf 
+
+- verblühen:
+    - die Blumen verblühen sehr schnell 
+
+### wach 
+- wach:
+    - bist du immer noch wach 
+
+- aufwachen:    
+    - ich bin um 12:00 aufgewacht 
+
+- überwachen:
+    - das wird ständig überwacht 
+
+### mangel && standen && reklamieren && beschweren
+- Mangel:
+    - der Mangel 
+    - er herscht Mangel an Lebensmitteln 
+
+- bemängeln:
+- reklamieren:
+- beanstanden:
+    - der Kunde hat beanstanden dass das Gerät funktioniert nicht 
+
+### zucken 
+- zucken:
+    - meine Hand zuckt vor Kälte 
+
+- zusammenzucken:
+    - er zuckt zusammen als er das gehört hat 
+
+### sack 
+- Rucksack:
+    - der Rucksack 
+    - er trägt seinen Rücksack mit sich herum 
+
+- absacken:
+    - lass die Knie nicht absacken  
+
+- einsacken:
+    - ich sacke Kartofel ein
+
+- Sackgasse:
+    - die Sackgasse 
+    - ich bin in eine Sackgasse geraten 
+
+- zusammensacken:
+    - das Projekt sackt zusammen weil kein Geld vorhanden ist 
+
+
+
+### nähren && nähern 
+- nähren:
+    - das nährt den Verdacht 
+
+- ernähren:
+    - ich habe eine Familie zu ernähren 
+
+- Ernährung:
+    - die Ernährung 
+    - ausgewogene Ernährung ist wichtig 
+
+- nähern:
+    - der Sommer nähert sich
+
+### glaube
+- glauben:
+    - ich glaube an dich 
+    - ich glaube ihm nicht 
+
+- Glaube:
+    - der Glaube 
+    - ich habe den Glaube an ihn verloren 
+
+- Aberglaube:   
+    - Aberglaube 
+    - das ist ein Aberglaube 
+
+- beglaubigen:
+    - ich will das Zeritifkate beglaubigen lassen
+
+### ringen 
+- abringen:
+    - er hat mir das Versprechen abgerungen
+
+- aufraffen:
+- durchringen:
+    - ich muss mich dazu aufraffen, früh aufzustehen 
+    - ich muss mich durchringen das zu machen 
+
+- umringen:
+    - sie haben den Star umringt 
+
+### sterben 
+- sterben:
+- versterben:
+    - er ist seit 5 Jahre gestorben 
+
+- absterben:
+    - die Zelle sterben ab 
+
+- aussterben:
+    - viel Tier sind ausgestorben 
+
+- wegsterben:
+    - seine Frau ist weggestorben 
+
+### trinken
+- trinken:
+    - mann soll ausreichend trinken 
+
+- austrinken:
+    - er hat die Milch ausgetrunken 
+
+- ertrinken:
+    - man kann dort ertrinken 
+
+### statten 
+- gestatten:
+    - es ist dir nicht gestattet 
+
+- erstatten:
+    - wir werden ihnen die Kosten erstatten
+    - die Kosten werden näturlich erstattet 
+
+- ausstatten:
+    - ich werde dich mit warmer Kleindung ausstatten 
+
+### wahren 
+- bewahren:
+    - die Ruhe bewahren 
+
+- aufbewahren:
+    - das Doku aufbewahren
+
+### subjekiv 
+- subjektiv:
+    - das ist meine subjektive Meinung 
+
+- objetiv:
+    - ich will objetiv bleiben 
+
+- sachlich:
+    - das ist keine sachliche Kritik 
+
+### leihen 
+- leihen:
+- ausleihen:
+    - ich werde dir mein Auto leihen 
+    - kann ich mir das Auto leihen 
+
+- beleihen:
+    - ich muss mein Haus beleihen um Kredit zu bekommen 
+
+- verleihen:
+    - ich verleihe gerne nicht mein Auto 
+
+- entleihen:
+    - das Auto ist entliehen 
+
+### Miete 
+- Miete:    
+    - die Miete 
+    - ich wohne zur Miete 
+
+- mieten:
+    - ich miete eine Wohnung 
+
+- vermieten:
+    - ich vermiete nur an nichtraucher 
+
+- untermieten:
+- untervermieten:
+    - ich habe ein Zimmer untervermietet
+
+### eben 
+- eben:
+    - das land hier ist eben 
+    - er kommt eben 
+    - deswegen hast du das gemacht ? eben 
+
+- ebenfalls:
+    - viel Glück. ebenfalls (gleichfalls, ebenso) 
+
+- Ebene:
+    - die Ebene
+    - das ist eine andere Ebene 
+    - auf der untersten Ebene 
+
+### meinen 
+- meinen:
+    - ich meine dich wenn ich das sage 
+
+- vermeintlich:
+    - der vermeintliche Urlaub war viel arbeit 
+
+- Meinung:
+    - die Meinung 
+    - ich habe eine andere Meinung 
+
+- gemein:
+    - du bist aber gemein 
+
+### Frist 
+- Frist:
+    - die Frist
+    - ich halte mich an die Frist
+    - ich werden die Frist einhalten
+
+- befristen:
+    - der Vertrag ist befristet 
+
+- Fristgerecht:
+    - ich will die Aufgabe fristgerecht erledigen
+
+### fliehen && flüchten
+- fliehen:
+    - ich will aus dem Land fliehen 
+
+- entfliehen:
+    - ich will dem Alttag entfliehen 
+
+- flüchten:
+    - ich will aus dem Land flüchten 
+
+- verflüchtigen:
+    - Alkoho verflüchtigt sich beim Kochen 
+    - mein Ärger hat sich verflüchtigt 
+
+- Flüchtling:
+    - er ist ein Flüchtling 
+
+- Flucht:
+    - die Flucht 
+    - er ist auf Flucht 
+
+- Fluchtartig:
+    - er hat Fluchtartig das Zimmer verlassen
+
+### füllen 
+- ausfüllen:
+    - ich muss dieses Dokument ausfüllen 
+
+- füllen:
+    - ich muss den Eimer mit Wasser füllen 
+
+- anfüllen:
+    - das Regal ist mit Bücher angefüllt 
+
+- erfüllen:
+    - ich kann leider deine Erwartungen nicht erfüllen 
+
+- überfüllen:
+    - der Ort ist überfüllt [überlaufen] 
+
+
+    - der Beginn hat sich verzögert 
+
+### List 
+- List:
+    - die List 
+    - ich benütze List um mich zu betrügen 
+
+- Liste:
+    - das ist aber eine Lange Liste 
+
+- auflisten:
+    - ich habe hier alles aufgelistet was wir brauchen 
+
+- überlisten:
+    - er will mich überlisten
+
+### formulieren 
+- formulieren:
+    - wie kann ich das richtig formulieren 
+    - das war nicht richtig formuliert 
+
+- ausformulieren:
+    - ich werde es näturlich ausformulieren 
+
+- umformulieren:
+    - ich werde es umformulieren 
+
+### kürzen 
+- kürzen:
+    - das Gehalt kürzen 
+
+- abkürzen:
+    - den Weg 
+    - das Gespräch 
 ##
 
 
 
 
+- Pflicht:
+    - die Pflicht
+    - das ist natürlich keine Pflicht 
 
 
+- verpflichten:
+    - du bist nicht zur Teilnahme verpflichtet
+    - Das offen der Verpackung verpflichtet zum Einfkauf
+    - das verpflichten dich zum Einkauf 
+
+- Gewicht:
+    - das Gewicht
+    - jemand, der ein normales Gewicht hat, kann das einfach machen  
+    - das fällt kaum ins Gewicht (es ist unwichtig)
+    - ich verliere gleich Gewicht
+
+- Einheit:
+    - die Einheit 
+
+- Wandel:
+    - der Wandel 
+    - das ist stetigem Wandel unterworfen 
+    - Die Sprache ist in stetigem Wandel 
+
+- verlangen:
+    - das verlangt mehr Geduld 
+
+- Verlangen:
+    - das Verlangen 
+    - ich kann das auf Verlangen machen 
+
+- fortschreiten:
+    - Der Bau schreitet fort  
+    - die Arbeit schreitet fort 
 
 
+- Abstecher:
+    - der Abstecher 
+    - wir haben einen Abstecker zu meinem Freund gemacht 
 
+- Abstrich:
+    - der Abstrich 
+    - wur müssen Abstrichhe hinnehmen 
+    - der Artz hat einen Abstrich gemacht 
 
+- hüten:
+    - ich muss mich vor Dieb hüten
 
+- fragwürdig:
+	- diese Entscheidung ist fragwürdig 
 
-- auftauen:
-    - ich muss erste das Fleisch auftauen
+- eifersüchtig:
+    - Sie ist auf mich eifersüchtig 
+
+- knifflig:
+    - das ist sehr knifflige Aufgabe 
+
+- überrumpeln:
+    - du hast mich mit dieser Frage überrumpelt 
+
+- meistern:
+    - ich habe das Problem gemeistert 
+
+- Strick:
+    - der Strick 
+    - wenn alle Stricke reißen bleibt uns noch die Möglichkeit 
+
+- rutschig:
+    - der Boden ist sehr rutschig 
+
+- zittern:
+    - es ist normal dass die Person zittert 
 
 - schaben:
     - das Hemd kratzt mich am Hals 
@@ -11375,17 +12093,7 @@ vorsprung:
     - der zusatz
     - das kann man durch zusatz von Chlor sauber machen 
 
-- ausgewogen:
-    - ausgewogene Ernährung ist wichtig
 
-- aufraffen:
-- durchringen:
-    - ich muss mich dazu aufraffen, früh aufzustehen 
-    - ich muss mich durchringen das zu machen 
-
-- Pflicht:
-    - die Pflicht
-    - das ist natürlich keine Pflicht 
 
 - wettermäßig:
 - Geldmäßig:
@@ -11405,10 +12113,6 @@ vorsprung:
 - Spur:
     - der Abdruch 
     - die Spur 
-
-- Sackgasse:
-    - die Sackgasse 
-    - ich bin in eine Sackgasse geraten 
 
 - platzieren:
     - das sollte ganz oben platiert werden
@@ -11437,8 +12141,7 @@ vorsprung:
     - der Favorit 
     - es ist der Favorit 
 
-- gestatten:
-    - es ist dir nicht gestattet 
+
 
 - sachlich: 
     - ich will sachlich bleiben 
@@ -11475,8 +12178,7 @@ vorsprung:
 - Säule:
     - die Säule 
 
-- überlisten:
-    - er wollte mich überlisten 
+
 
 - gratis:
     - die Nutzung ist gratis
@@ -11536,162 +12238,7 @@ vorsprung:
     - der Bart 
     - ich lasse mir meinen Bart stehen / wachsen
 
-2____________________________________________
-
-- ummünzen:
-    - die selbe Frage auf das lokale Abspeichern umgemüntzt.
-
-- Konto:
-    - das Konto
-    - ich habe nicht viel Geld auf dem Konto
-    - ich kann sicherlich vom Konto überweisen 
-    - ich will ein Konto eröffnen 
-
-- Ausland:
-    - das Ausland 
-    - ich gehe ins Ausland 
-    - ich bin im Ausland 
-
-- Obst 
-- Gemüse:
-    - das Obst 
-    - das Gemüse 
-
-- Respekt:
-    - der Respekt
-    - ich habe keinen Respekt vor seinem Verhalten
-    - man muss die Älteren mit Respekt behandeln
-
-- Mühe:
-    - die Mühe
-    - mache dir keine Mühe
-    - trotz aller Mühe die ich investiert habe, gelang es mir nicht das gewünschte Ergebnis zu erzielen 
-    - es ist nicht der Mühe Wert 
-    - das erfordert viel Mühe 
-
-- Gesamtbild:
-    - das Gesamtbild
-    - ich will das Gesamtbild verstehen
-
-- intensivieren:
-    - wir können das Training intensivieren  
-
-- Kosten:
-- auf Kosten:
-    - die Kosten 
-    - das geht auf Kosten der Natur 
-    - ich kann nicht die Kosten abdecken 
-
-- kosten:
-    - das kostet mich ein Vermögen 
-    - das kostet nur einen Anruf 
-
-- Preis:
-    - der Preis 
-    - der Preis ist sehr hoch
-    - der Preis ist mit Frühstuck 
-
-- schmelzen:
-    - das Eis wird schmelzen 
-
-- planmässig:
-    - wir sind planmässig abgefahren
-
-- Kerze:
-    - die Kerze  
-
-- Duft:
-- Geruch:
-    - der Duft 
-    - der Geruch 
-
-- Magie:
-    - die Magie
-
-- Biss:
-- Schiss:
-    - der Biss 
-    - der Schiss 
-    - ich hatte Schiss das zu machen 
-    - er hat Biss
-
-- schräg:
-    - die Wand ist schräg 
-    - sie ist eine schräge familie 
-
-- vorbei schaffen:
-    - ich habe das an ihm vorbeigeschafft 
-
-- Rückgrat:*
-    - der Rückgrat 
-    - er hat null Rückgrat 
-    - ich habe ihm Rückgrat gezeigt
-
-- Bach:*
-    - der Bach (kleiner Fluss)
-    - dann geht alles den Bach runter 
-    - das projekt ist den Bach runtergegangen 
-
-- Krach:
-    - der Krach 
-    - was ist das für einen Krach 
-    
-- Verbot / Angebot:
-    - das Verbot 
-    - das Angebot
-    - ich mache dir ein gutes Angebot 
-    - es war im Angebot
-    - ich kaufe nur im Angebot
-
-- Schema:
-    - das Schema
-    - es läuft immer nach dem gleichen Schema ab
-    - wir mussen uns an das Schema halten
-
-- deal:
-    - der Deal 
-    - wir können guten Deal machen
-
-- Wille:
-    - der Wille
-    - ich habe den Willen
-    - wo ein Wille ist, ist auch ein Weg
-    - er hat seinen Willen durchgesetzt 
-    - ich habe gegen meinen Willen gelacht
-
-- willens:
-    - ich bin willens(bereit) das zu machen
-
-- Bordstein:
-    - der Bordstein 
-
-- Bordsteinkante:   
-    - die Bordsteinkante
-
-- daheim:
-    - ich bin daheim 
-
-- dämlich:
-    - es ist näturlich sehr dämlich das zwei mal zu machen
-
-- Damm:
-    - der Damm 
-
-- dämmen:
-    - ich muss das Haus dämmen
-
-- platzhalter:
-    - das ist ein Platzhalter für den Name
-    - der Platzhalter wird durch den Wert ersetzt
-
-- tapfer:
-    - es ist sehr tapferes Kind
-
-- überqueren:
-    - ich will die Straße überqueren 
-
-- beimessen:
-    - ich werde dieser Sache keine große Wert beimessen 
+2_
 
 - akkurat:
     - das ist aber nicht mehr akkurat
@@ -11829,16 +12376,6 @@ vorsprung:
 - ernähren:
     - ich muss meine Familie ernähren 
 
-- durchbringen:
-    - die Mutter solle die Kinder allein durchbringen 
-
-- durchboxen:
-    - ich versuche mich im Leben durchzuboxen 
-
-- durchgehen:
-    - ich gehe die Schritte noch einmal durch 
-    - ich bin den Code auf einen Fehler durchgegangen 
-    - ich werde dir diesen Fehler durchgehen lassen
 
 - inwieweit:
 - inwiefern:
@@ -11889,9 +12426,6 @@ vorsprung:
 - widmen:
     - ich widme meine Zeit der Familie
 
-- Wissenschaft:
-    - die Wissenschaft
-    - das ist Wissenschaft für sich 
 
 - wurscht:
     - das ist mir ganz wurscht 
@@ -11909,9 +12443,7 @@ vorsprung:
     - der Koffer
     - ich kann den Koffer nicht tragen
 
-- Rucksack:
-    - der Rucksack 
-    - er trägt seinen Rücksack mit sich herum 
+
 
 - Portemonnaie:
 - Geldbeutel:
@@ -11986,37 +12518,6 @@ vorsprung:
     - ich werde es zum Abschluss bringen
     - das Meeting kommt endlich zum Abschluss 
 
-- fortschreiten:
-    - Der Bau schreitet fort  
-    - die Arbeit schreitet fort 
-
-
-
-- Abstecher:
-    - der Abstecher 
-    - wir haben einen Abstecker zu meinem Freund gemacht 
-
-- Abstrich:
-    - der Abstrich 
-    - wur müssen Abstrichhe hinnehmen 
-    - der Artz hat einen Abstrich gemacht 
-
-- hüten:
-    - ich muss mich vor Dieb hüten
-
-- fragwürdig:
-	- diese Entscheidung ist fragwürdig 
-
-- leihen:
-- ausleihen:
-    - ich werde dir mein Auto leihen 
-    - kann ich mir das Auto leihen 
-
-- verleihen:
-    - ich verleihe gerne nicht mein Auto 
-
-- entleihen:
-    - das Auto ist entliehen
 
 - aufmerksam:
     - ich wollte dich darauf aufmerksam machen 
@@ -12045,11 +12546,7 @@ vorsprung:
 	- die Routine
 	- das ist bei mir zur Routine geworden
 
-- Lauf:
-	- der Lauf 
-	- ich empfinde den Lauf der Zeit nicht wirklich
-	- im Laufe der Woche
-    - ich habe meiner Wut freien Lauf lassen  
+
 
 - es
     - ich habe es eile 
@@ -12136,12 +12633,9 @@ vorsprung:
     - ins Datail gehen
     - ich will vermeiden das wir in Details vertiefen
 
-- ausfüllen:
-    - ich muss dieses Dokument ausfüllen 
 
-- formulieren:
-    - wie kann ich das richtig formulieren 
-    - das war nicht richtig formuliert 
+
+
 
 - Hang:
     - der Hang
@@ -12168,9 +12662,7 @@ vorsprung:
     - er war immer zu fies zu mir 
     - das ist aber fies 
 
-- Anlauf:
-    - der Anlauf
-    - beim ersten Anlauf 
+
 
 - Argument:
     - das Argument 
@@ -12208,8 +12700,7 @@ vorsprung:
 - prekär:
     - das ist aber eine prekäre Situation 
 
-- wissentlich:
-    - er hat das wissentlich gemacht 
+
 
 - entschleunigen:
     - ich wollte mich entschleunigen
@@ -12224,14 +12715,9 @@ vorsprung:
 - jucken:
     - es juckt mich am Rücken 
 
-- bedürfen:
-    - es bedarf erklärung 
-    - es gibt einen Erklärungsbedarf 
 
-- Mangel:
-    - der Mangel 
-    - der Mangel an Vertrauen 
-    - ich habe das nicht gemacht aus Geldmangel 
+
+
 
 - ängstigen:
     - das ängstigt mich
@@ -12303,19 +12789,6 @@ vorsprung:
     - der Abweg 
     - dann wird er auf Abwege geraten 
 
-- Kompromiss:*
-
-- Umweg:*
-    - der Umweg 
-    - auf der Fahrt nach Hamburg machen wir einen Umweg über die Stadt um Essen abzuholen 
-    - das habe ich auf Umwegen erfahren 
-
-- Weg:
-    - der Weg 
-    - ich mache mich auf den Weg 
-    - ich bin auf dem Weg 
-    - ich brauche 2 Stunden für den Weg zur Arbeit
-    - aus dem Weg räumen/schaffen/ genommen
 
 - Tüte:
     - die Tüte 
@@ -12543,16 +13016,6 @@ vorsprung:
     - ich bevorzuge den ersten Vorschag vor meinem Vorschag 
     - ich wird bevorzugt behandelt 
 
-- Gewissheit:
-    - die Gewissheit 
-    - ich muss mir erste darüber Gewissheit verschaffen 
-    - ich kann das nicht mit Gewissheit sagen 
-
-- Gewissen:
-    - das Gewissen
-    - ich habe schlechtes Gewissen wenn ich das nicht machen werde
-    - ich habe ihm ins Gewissen geredet 
-
 - klauen:
     - er hat mir geklaut 
 
@@ -12654,11 +13117,7 @@ vorsprung:
 - büßen:
     - ich muss für meine Fehler büßen
 
-- ausbügeln:
-    - ich konnte meinen Fehler wiede ausbügel
 
-- bereuen:
-	- ich bereue den Fehler 
 
 - korrigieren / berichtigen:
 	- korrigier mich bitte wenn ich irre
@@ -12767,8 +13226,7 @@ vorsprung:
     - wir machen eine kürze Pause 
     - das kann man in der Pause machen
 
-- verlieben:
-    - er hat sich in dich verliebt 
+
 
 
 - verabschieden:
@@ -12778,8 +13236,6 @@ vorsprung:
 - verspüren:
     - ich verspüre nichts
 
-- füllen:
-    - ich muss den Eimer mit Wasser füllen 
 
 - bestätigen:
     - das hat meine Vermutung bestätigen 
@@ -12997,15 +13453,8 @@ vorsprung:
     - ich hatte viel Glück 
     - auf gut Glück 
 
-- nerven:
-- belästigen:
-    - ich wollte dich nicht nerven 
 
-- böse:
-    - er ist mir böse weil ich das Meeting vergessen 
 
-- eifersüchtig:
-    - sie ist sehr eifersüchtige Frau 
 
 - Angst:
     - die Angst 
@@ -13020,12 +13469,9 @@ vorsprung:
 - Hass:
     - der Hass 
 
-- hassen:
-    - ich hasse es, wenn ich früh aufstehen muss 
 
-- bösartig:
-- gutartig:
-    - das ist bösartig
+
+
 
 - feindselig:
     - das ist feindselig Umgebung
@@ -13057,21 +13503,6 @@ vorsprung:
     - der Schritt 
     - das ist sehr wichtiger Schritt für uns 
     - wir haben diesen Schritt ausgelassen 
-
-- Einheit:
-    - die Einheit 
-
-- Wandel:
-    - der Wandel 
-    - das ist stetigem Wandel unterworfen 
-    - Die Sprache ist in stetigem Wandel 
-
-- verlangen:
-    - das verlangt mehr Geduld 
-
-- Verlangen:
-    - das Verlangen 
-    - ich kann das auf Verlangen machen 
 
 - Zelt:
     - das Zelt 
@@ -13211,10 +13642,7 @@ vorsprung:
     - der Kern 
     - das ist nicht der Kern der Sache 
 
-- Frist:
-    - die Frist
-    - ich halte mich an die Frist
-    - ich werden die Frist einhalten
+
 
 - Älter:
     - das Älter 
@@ -13253,8 +13681,6 @@ vorsprung:
     - der Computer 
     - ich sitze am Computer 
 
-
-
 - meckern:
 	- ich werde nicht darüber mackern
 
@@ -13267,12 +13693,6 @@ vorsprung:
     - das Wetter 
     - das Wetter war super 
     - das Wetter war beständig
-
-
-
-
-- abhärten:
-    - ich härte mich durch kaltes Duschen ab 
 
 - verkraften:
     - ich habe das bis jetzt nicht verkraft
@@ -13292,13 +13712,6 @@ vorsprung:
 - vermeiden:
 	- ich versuche das zu vermeiden
 	- ich vermeide ihn
-
-- glauben:
-    - ich glaube an dich 
-
-- Glaube:
-    - der Glaube 
-    - ich habe den Glaube an ihn verloren 
 
 - Garantie:
     - die Garantie
@@ -13337,10 +13750,6 @@ vorsprung:
 - Matte:
     - die Matte 
     - ich wollte die Fussmatte saubermachen 
-
-- groß:
-- klein:
-    - es ist 2 Meter groß 
 
 - verdeutlichen:
     - das kann man an einem Beispiel verdeutlichen 
@@ -13456,10 +13865,6 @@ vorsprung:
     - das Gebiet 
     - er ist ein Expert auf diesem Gebiet 
 
-- Vorwissen:
-    - das Vorwissen 
-    - wir brauchen hier Vorwissen     
-
 - abhandeln:
     - wir haben das Thema abgehandelt 
 
@@ -13497,9 +13902,6 @@ vorsprung:
 - taugen:
     - er taugt nicht für diese Aufgabe 
 
-
-
-
 - Absatz:
     - der Absatz 
     - ich werde einen neuen Absatz beginnen 
@@ -13512,9 +13914,6 @@ vorsprung:
     - das Seminar 
     - ich besuche ein Seminar hier 
 
-- erstatten:
-    - wir werden ihnen die Kosten erstatten
-    - die Kosten werden näturlich erstattet 
 
 - Instrument:
     - das Instrument 
@@ -13558,8 +13957,6 @@ vorsprung:
 - verwandt:
     - wir sind verwandt 
 
-
-
 - Kultur:
     - die Kultur 
 
@@ -13599,17 +13996,6 @@ vorsprung:
 - dominieren:
     - die Meinung herrscht hier vor 
 
-- verpflichten:
-    - du bist nicht zur Teilnahme verpflichtet
-    - Das offen der Verpackung verpflichtet zum Einfkauf
-    - das verpflichten dich zum Einkauf 
-
-- Gewicht:
-    - das Gewicht
-    - jemand, der ein normales Gewicht hat, kann das einfach machen  
-    - das fällt kaum ins Gewicht (es ist unwichtig)
-    - ich verliere gleich Gewicht
-
 - erst:
     - ich arbeite erst seit 3 Tagen in dieser Firma 
 
@@ -13619,7 +14005,6 @@ vorsprung:
 - abschnüren:
     - die Hose schnürt mir den Magen ab 
 
-   
 - offen:
     - die Tür ist offen 
 
@@ -13666,30 +14051,6 @@ vorsprung:
 - fremd:
     - das ist mir bekannt 
     - das ist mir fremd
-
-- eifersüchtig:
-    - Sie ist auf mich eifersüchtig 
-
-
-- knifflig:
-    - das ist sehr knifflige Aufgabe 
-
-
-- überrumpeln:
-    - du hast mich mit dieser Frage überrumpelt 
-
-- meistern:
-    - ich habe das Problem gemeistert 
-
-- Strick:
-    - der Strick 
-    - wenn alle Stricke reißen bleibt uns noch die Möglichkeit 
-
-- rutschig:
-    - der Boden ist sehr rutschig 
-
-- zittern:
-    - es ist normal dass die Person zittert 
 
 - Scheibe:
     - die Scheibe 
@@ -13803,8 +14164,6 @@ vorsprung:
     - der Hund 
     - es kommt auf den Hund 
 
-- absacken:
-    - lass die Knie nicht absacken  
 
 - einhandeln:
 
@@ -13856,8 +14215,6 @@ vorsprung:
     - ich muss das abstempeln    
 
 - absterben:
-    - die Pflanzen fangen an zu verkümmern 
-    - ich will meine Talente nicht verkümmern lassen  
 
 - zeitig:
     - das ist sehr zeitig 
@@ -13896,8 +14253,6 @@ vorsprung:
     - der Anhaltspunkt
     - es gibt keinen Anhaltspunkt für das Thema 
 
-
-
 - verspötten:
 - hänseln:
 - necken:
@@ -13928,9 +14283,6 @@ vorsprung:
 - bevormunden:
     - ich lasse mich nicht von dir bevormunden 
 
-- gebrannt:
-    - ich bin gebranntes Kind 
-
 - Mitspracherecht:
     - das Mitspracherecht 
     - bei diesem Thema habe ich ein Mitspracherecht 
@@ -13946,8 +14298,6 @@ vorsprung:
 
 - Schlauch:
     - ich brauche einen Schlauch 
-
-
 
 - lügen: hat gelogen 
     - ich muss lügen wenn ich sage dass es mir gefallen hat 
@@ -13995,9 +14345,9 @@ vorsprung:
     - Was hat er dir denn heute wieder für eine Geschichte aufgetischt?
 
  
-- rufen 
+
 - geordnet 
-- aufgeschnappt 
+
 - dahingestellt
 - von sich aus
 
@@ -14060,12 +14410,9 @@ vorsprung:
 - ich lasse mich die Sache dürch den Kopf gehen 
 - Finger weg von ihn 
 - wir laufen uns immer wieder über den weg 
-
-
--  
 - volltreffer 
 
-- sind wir aufgeschmissen 
+
 
 - auftischen 
 
@@ -14093,22 +14440,13 @@ vorsprung:
 - der Beleg 
 
 - heulen 
-
-
 - von etwas Wind bekommen 
-
-
 - mein bestes geben 
 - ich brauch Auszeit 
-
 - quälen 
 - telefonat 
-
 - aufwärmen 
-
 - vorlauf
-
-
 - ich bin satt 
 - zwischenzeit 
 
@@ -14119,9 +14457,7 @@ vorsprung:
 
 - die Herrschaft 
 
-- weiterhelfen 
- 
-- beleben 
+  
 - blauäugig 
 - mir sind die Hände gebunden 
 - Schälen
@@ -14142,8 +14478,6 @@ vorsprung:
 
 - das ist ein fleißarbit 
 - um eine Aussage treffen 
-
-
 
 - verehren:
 - anhimmeln:
@@ -14170,11 +14504,115 @@ vorsprung:
     - die Armme hat kapituliert 
 
 
-- Auflage:
-    - die Auflage 
-    - er macht mir zur Auflage, dass ich das jeden Tag machen muss 
+
 
 ## 
+
+- sattelfest:
+    - in der Grammtik muss man sattelfest sein
+
+- füttern:
+    - ich muss den Hund füttern 
+- tauen:
+- auftauen:
+- abtauen:
+    - bei Null Temperature taut 
+
+- Schema:
+    - das Schema
+    - es läuft immer nach dem gleichen Schema ab
+    - wir mussen uns an das Schema halten
+
+- deal:
+    - der Deal 
+    - wir können guten Deal machen
+
+- Wille:
+    - der Wille
+    - ich habe den Willen
+    - wo ein Wille ist, ist auch ein Weg
+    - er hat seinen Willen durchgesetzt 
+    - ich habe gegen meinen Willen gelacht
+
+- willens:
+    - ich bin willens(bereit) das zu machen
+
+- Bordstein:
+    - der Bordstein 
+
+- Bordsteinkante:   
+    - die Bordsteinkante
+
+- daheim:
+    - ich bin daheim 
+
+- dämlich:
+    - es ist näturlich sehr dämlich das zwei mal zu machen
+
+- Damm:
+    - der Damm 
+
+- dämmen:
+    - ich muss das Haus dämmen
+
+- platzhalter:
+    - das ist ein Platzhalter für den Name
+    - der Platzhalter wird durch den Wert ersetzt
+
+- tapfer:
+    - es ist sehr tapferes Kind
+
+- überqueren:
+    - ich will die Straße überqueren 
+
+- schräg:
+    - die Wand ist schräg 
+    - sie ist eine schräge familie 
+- Rückgrat:*
+    - der Rückgrat 
+    - er hat null Rückgrat 
+    - ich habe ihm Rückgrat gezeigt
+
+- Bach:*
+    - der Bach (kleiner Fluss)
+    - dann geht alles den Bach runter 
+    - das projekt ist den Bach runtergegangen 
+
+- Krach:
+    - der Krach 
+    - was ist das für einen Krach 
+- Duft:
+- Geruch:
+    - der Duft 
+    - der Geruch 
+
+- Magie:
+    - die Magie
+
+- intensivieren:
+    - wir können das Training intensivieren  
+
+- Respekt:
+    - der Respekt
+    - ich habe keinen Respekt vor seinem Verhalten
+    - man muss die Älteren mit Respekt behandeln
+- Ausland:
+    - das Ausland 
+    - ich gehe ins Ausland 
+    - ich bin im Ausland 
+
+- Obst 
+- Gemüse:
+    - das Obst 
+    - das Gemüse 
+
+- Konto:
+    - das Konto
+    - ich habe nicht viel Geld auf dem Konto
+    - ich kann sicherlich vom Konto überweisen 
+    - ich will ein Konto eröffnen 
+- bereuen:
+	- ich bereue den Fehler 
 - Nuss:
     - die Nuss 
     - das ist eine harte Nuss 
@@ -14200,7 +14638,8 @@ vorsprung:
 - Band: 
     - das Band, die Bänder
     - die Bänder sind ok 
-
+- böse:
+    - er ist mir böse weil ich das Meeting vergessen 
 
 
 - Knöchel:
@@ -14255,7 +14694,6 @@ vorsprung:
     - das Bündel 
     - es handelt sich um ein ganzes Bundel von eingenschaften 
 
-
 - Klima:
     - das Klima
     - es herrscht hier gutes Klima 
@@ -14269,7 +14707,6 @@ vorsprung:
     - die Blamage 
     - die Schande 
     - das war eine Blamage für mich 
-
 
 - bluten:
     - sie hat viel geblutet 
@@ -14299,7 +14736,6 @@ vorsprung:
 - glitschen:
     - das glitscht mir aus der Hand
 
-
 - Spirale:
     - die Spirale 
     - ich wollte mich aus dieser Spirale herausholen 
@@ -14309,7 +14745,6 @@ vorsprung:
 - Absatz:
     - der Absatz 
     - mach neuen Absatz 
-
 
 - Abseits:
     - das Abseits 
@@ -14329,8 +14764,6 @@ vorsprung:
 - naschen:
     - ich nasche gerne 
 
-
-
 - Bescherung:
     - die Bescherung 
     - das ist eine schöne Bescherung 
@@ -14338,7 +14771,6 @@ vorsprung:
 - Abschaum:
     - der Abschaum 
     - sie sind der Abschaum der Gesellschaft  
-
 
 - Affekt:
     - der Affekt 
@@ -14351,7 +14783,6 @@ vorsprung:
 - Alarm:
     - der Alarm 
     - es war ein blinder Alarm 
-
 
 - aufbauschen:  
 - aufblähen:
@@ -14387,7 +14818,6 @@ vorsprung:
 - aufstacheln:
     - ich wollte dich anstacheln 
 
-
 - anbahnen:
 - einfädeln:
 - anstiften:
@@ -14413,9 +14843,6 @@ vorsprung:
 - ausgelaugt:
     - ich bin ausgelaugt
 
-- ruckeln:*
-    - es ruckelt
-    - der Motor beginnt zu ruckeln 
 
 - versöhnen:
 - aussöhnen:
