@@ -145,7 +145,6 @@
 - hinwegsetzen:
     - er hat sich über die Vorerschirften hinweggesetzt 
 
-
 ### vor 
 - vorlaut:
 - vorwitzig:
@@ -271,7 +270,26 @@
 - unterwegs:
     - ich bin schon unterwegs 
     - ich bin mit der Bus unterwegs zu dir, und sollte in etwas 30 Minuten ankommen
-    - ich kaufe mir was unterwegs
+    - ich kaufe mir was unterwegs 
+
+### drauf
+- drauf sein:
+    - er ist heute gut / schlech drauf 
+
+- drauf haben:
+    - in Programmierung hat er schön was drauf 
+
+- drauf und daran:
+    - ich war drauf und daran das Meeting zu verlassen 
+
+### gegen 
+- gegen:
+    - wir treffen uns gegen Abend 
+    - wir kampfen gegen unfair 
+
+- Gegenargument:
+    - das Gegenargument 
+    - ich kann Gegenargument vorbringen 
 
 ### Fall:
 - Fall:
@@ -643,7 +661,10 @@
 
 - Grundzug:
     - der Grundzug 
-    - das ist die Grundzüge der Sprache
+    - das ist die Grundzüge der Sprache 
+
+- zügig:
+    - das könnte zügig gehen
 
 - ziehen:
     - Wagen ziehen [schieben]
@@ -2111,6 +2132,11 @@
 - abbrechen:
     - ich habe mein Studium abgebrochen 
 
+- Abbruch:
+    - der Abbruch 
+    - das führt zum Abbruch des Programms 
+    - das tut unserer Beziehung keinen Abbruch
+
 - Aufbruch:
     - der Abruch 
     - das Zeichen zum Aufbruch geben 
@@ -2541,7 +2567,7 @@
 
 ### stehen
 - davorstehen:
-    - ich stehe kurz davor 
+    - ich stehe kurz davor ihn anzurufen [im Begriff]
 
 - stehenbleiben:
     - die Uhr ist einfach stehengeblieben und funktioniert nicht mehr 
@@ -2892,6 +2918,9 @@
     - ich gehe zur Haltestelle 
     - ich steige an der Haltestelle um 
     - ich bin an der Bushaltestelle 
+
+- nachhaltig:
+    - das ist aber nicht nachhaltig 
 
 ### stellen 
 - Schiefstellung:
@@ -3325,7 +3354,7 @@
 
 - Erschöpfung:
     - die Erschöpfung 
-    - ich habe vor ERschöpfung geschlafen 
+    - ich habe vor Erschöpfung geschlafen 
 
 - schuften:
     - ich bin bereit dafür zu schuften  
@@ -4454,7 +4483,10 @@
     - Ausländer werden ausgewiesen
 
 - zurechtweisen:
-    - er hat mich zurechtgewiesen[tadeln] [ermahnen]
+    - er hat mich zurechtgewiesen[tadeln] [ermahnen] 
+
+- zurückweisen:
+    - er hat meine Anschuldigung zurückgewiesen
 
 - unterweisen:
     - der Leher unterweis mich in Englisch
@@ -4514,6 +4546,9 @@
 
 - Zeitweise:   
     - er ist ok wenn du das Zeitweise macht
+
+- wesentlich:
+    - das war im Wesentlichen alles was ich sagen wollte
 
 ### Maß 
 - Maß:
@@ -4656,6 +4691,7 @@
 
 - einwenden:
     - ich habe gegen ihn nichts einzuweden 
+    - diese Glaubenssätze lassen sich auch auf unseren Fall anwenden
 
 - Anwendung:
     - die Anwendung 
@@ -4720,6 +4756,9 @@
 
 - zutraulich:*
     - mein Kind ist sehr scheu 
+
+misstrauisch: [stutzig] [Skeptisch]
+    - das macht mich misstrauisch [stutzig] 
 
 ### trauern 
 - trauern:
@@ -6029,9 +6068,7 @@
     - er hat null Rückgrat 
     - ich habe ihm Rückgrat gezeigt 
 
-- parat:
-    - ich habe es parat 
-    - ich habe eine parate Antwort 
+
 
 - akkurat:
     - das ist aber nicht mehr akkurat
@@ -8513,6 +8550,58 @@
     - ich hatte ein komisches / gemischtes Gefühl 
     - ich habe kein Gefühl mehr in meinen Fingern 
 
+- fröhlich:
+    - ich bin sehr fröhlich dass es geklappt hat 
+
+- froh:
+- glücklich:
+    - ich bin sehr froh darüber 
+    - ich bin um jeden Tipp froh 
+
+- traurig:
+    - ich bin sehr traurig darüber 
+
+- Trauer:
+    - die Trauer 
+    - das ist Zeit der Trauer
+
+- Wut:
+    - die Wut 
+    - ich packe meine Wut 
+    - ich lasse meine Wut nicht an dir aus 
+    - ich mache meine Wut luft in dem ich sport machen 
+
+- Wütend:
+    - ich bin auf ihn nicht wütend
+
+- Leid:
+    - das Leid
+    - das tut mir Leid 
+    - ich bin es leid 
+
+- Glück:
+- Unglück:
+- Pech:
+    - das Glück 
+    - das Unglück
+    - das Pech 
+    - ich hatte viel Glück 
+    - auf gut Glück 
+
+
+- Angst:
+    - die Angst 
+    - ich habe Angst vor ihm / vor Hunden 
+    - ich habe Angst um ihn 
+    - das macht mir Angst 
+    - um dir die Angst an der Sache zu nehmen 
+
+- neidisch:
+    - ich war auf sein neues Auto neidisch 
+
+- Hass:
+    - der Hass 
+
 
 ### schlucken
 - schlucken:
@@ -8597,6 +8686,10 @@ vorsprung:
 
 - zerstören:
     - die Stadt wird in dem Krieg zerstöret 
+
+- Störung:
+    - die Störung 
+    - mein Auto hat eine Störung 
 
 ### harren
 - harren:
@@ -9191,6 +9284,9 @@ vorsprung:
 - müde:
     - ich bin müde 
 
+- ermüdend:
+    - das Training ist ermüdend [anstrengend]
+
 ### eignen 
 - eignen:
     - er eignet sich sehr gut für diese Aufgabe 
@@ -9372,7 +9468,6 @@ vorsprung:
 - Wissenschaft:
     - die Wissenschaft
     - das ist Wissenschaft für sich 
-
 
 ### kreisen
 - kreisen:
@@ -9940,6 +10035,9 @@ vorsprung:
 
 - verschwitzen:
     - ich habe das Tshirt verschwitzt 
+
+- verschwitzt:
+    - ich war total verschwitzt
 
 ### klagen 
 - klagen:
@@ -10972,6 +11070,33 @@ vorsprung:
 - hastig:*
     - wir wollen nicht hastig arbeiten
 
+### tisch 
+- Tisch:
+    - der Tisch 
+
+- Tischbein:
+    - das Tischbein 
+    - die Tischbeine sollen die gleiche größe haben 
+
+- auftischen:
+    - Was hat er dir denn heute wieder für eine Geschichte aufgetisch
+
+- problematisch:
+    - das ist leider problematisch 
+
+- skeptisch:
+	- ich bin einbischen skeptisch 
+
+- akut:
+    - vor allem bei Akutem Ärgere ist es hilfreich 
+
+- akustisch:
+    - ich habe dich akustisch nicht verstanden 
+
+- chaotisch:
+- ordentlich:
+    - er ist sehr chaotischer Mensch 
+
 ### kapseln
 - abkapseln:
     - wir müssen das abkapseln 
@@ -11016,7 +11141,7 @@ vorsprung:
 
 ### klingen 
 - klingen:
-    - er kligt müde 
+    - er klingt müde 
 
 - abklingen:
     - der Schmerzen klingt ab 
@@ -12191,12 +12316,21 @@ vorsprung:
 - ausstatten:
     - ich werde dich mit warmer Kleindung ausstatten [versehen]
 
-### wahren 
+### wahr 
+- wahrhaben:
+    - ich wollte diese Sache einfach nicht wahrhaben 
+
+- wahrnehmen:
+    - ich nehme diese Chance wahr
+
 - bewahren:
     - die Ruhe bewahren 
 
 - aufbewahren:
-    - das Doku aufbewahren
+    - das Doku aufbewahren 
+
+- bewahrheiten:
+    - meine Angst hat sich bewahrheitet 
 
 ### subjekiv 
 - subjektiv:
@@ -13399,6 +13533,10 @@ vorsprung:
 - anstiften:
     - er hat mich zu dieser Tat angestiftet 
 
+ Stift:
+    - der Stift 
+    - ich brauche einen Stift 
+
 ### Rück 
 - Rückfall:
     - der Rückfall 
@@ -13787,7 +13925,10 @@ vorsprung:
     - er hat proaktiv gehandelt 
 
 - aktivieren:
-    - wie kann ich das aktivieren
+    - wie kann ich das aktivieren 
+
+- passiv:
+    - ich will nicht passiv verhalten
 
 ### schirm 
 - Schirm:  
@@ -13914,6 +14055,9 @@ vorsprung:
     - das hat mich langweilt 
     - ich will dich nicht mit meiner Frage langweilen 
 
+- langwierig:
+    - der Prozess ist langwierig
+
 - Wille:
     - der Wille
     - ich habe den Willen
@@ -13980,6 +14124,9 @@ vorsprung:
     - die Existenz 
     - es geht um die Existenz 
 
+- weiterexistieren:
+    - ob das so weiterexistieren kann 
+
 ### respekt
 - Respekt:
     - der Respekt
@@ -13993,7 +14140,236 @@ vorsprung:
     - die Ressource  
     - die Ressourcen sind endlich
 
+### schaft 
+- Gesellschaft:
+    - die Gesellschaft
+    - er ist in schlechte Gesellschaft geraten 
+
+- Herrschaft:  
+    - die Herrschaft 
+    - sie üben Herrschaft über die Palestine 
+
+- Belegschaft: [personal]
+    - die Belegschaft 
+    - die Belegschaft muss kurzarbeiten 
+
+- Eigenschaft:
+    - die Eigenschaft 
+    - er hat viele Eigenschaften
+
+### schlauch 
+- Schlauch:
+    - der Schlauch:
+    - ich brauche einen Schlauch 
+    - ich stehe auf dem Schlauch [nicht verstehen] 
+    - das Meeting war ein echter Schlauch 
+
+- schlauchen:
+    - das hat mich geschlaucht 
+    - ich bin so geschlaucht von dem Tag 
+
+### stapel 
+- Stapel:
+    - der Stapel 
+    - auf dem Tisch leigt großer Stapel Post 
+    - ich habe einen Stapel Bücher die ich lesen möchte 
+
+- stapeln:
+    - die Rechnung stapelt sich mehr und mehr 
+    - ich werde die Kleidung stapeln 
+
+- aufeinanderstapeln:
+    - ich staple die Kisten aufeinander 
+
+- hochstapeln:
+- tiefstapeln:
+    - er stapelt gerne hoch 
+
+### papier 
+- Papier:
+    - das Papier 
+    - ich brauche einen Stift und ein Papier 
+
+- Zettel:
+    - der Zettel 
+    - ich habe es auf einen Zettel geschrieben 
+
+- Notiz:
+    - die Notiz 
+    - ich mache mir Notizen 
+
+- notieren:
+    - das habe ich mir notiert 
+    - ich muss das mir notieren 
+
+### reparieren
+- reparieren:
+    - ich will mein Auto reparieren lassen
+
+- reparabel:
+    - ich weiss nicht ob das reparabel ist oder nicht 
+
+- Reparatur:
+    - die Reparatur 
+    - wir brauchen eine schnelle Reparatur 
+    - manchmal ist Reparatur teuerer als Neuanschaffung
+    - ich weiss nicht, ob eine Reparatur sich löhnt 
+
+- Service:
+    - der Service 
+    - das Essen war sehr gut, der Service war aber nicht 
+    - wir bezahlen für den Service mit unseren Daten 
+
+- Technik:
+    - die Technik 
+    - ich wollte die Technik kontrollieren 
+    - wir arbeiten mit moderner Technik 
+
+- Defekt:
+    - der Defekt 
+    - ich habe den defekten Teil ausgetauscht 
+    - der unfall ist durch einen Defekt an den Bremsen verurascht 
+
+### person 
+- Person:
+    - die Person 
+    - pro Person 
+    - es gibt genung Platz für 3 Personen 
+
+- Personal:
+    - das Personal 
+    - wir haben gute Personale 
+
+- persönlich:
+    - die Kritik war nicht Persönlich 
+    - er nimmt es persönlich 
+    - das ist eine persönliche Sache 
+
+### Aspekt 
+- Aspekt:
+    - der Aspekt
+    - ich habe diesen Aspekt nicht betrachtet 
+
+- Perspektive:
+    - die Perspktive 
+    - aus dieser Persptive sieht die Situation anders aus 
+    - es gibt keine Perspktive auf Verbesserung 
+
+### ismus 
+- Kapitalismus
+    - der Kapitalismus 
+
+- Realismus:
+    - der Realismus 
+    - mit seinem Realismus hat er seine Grenzen erkannt 
+
+- realistisch:
+    - ich werde realistisch verhandeln 
+
+- Pessimisumus:
+    - der Pessimismus
+    - er hat neigung zum Pessimismus 
+
+- pessimistisch:    
+    - ich will nicht pessimistisch 
+
+- Optimismus:
+    - der Optimismus 
+    - sein Optimismus war zu bewundern
+
+- optimistisch:
+    - er ist sehr optimistisch 
+
+### Besteck 
+- Besteck:
+    - das Besteck
+    - wo finde ich die Bestecke 
+
+- Löffel:
+    - der Löffen 
+    - Zwei Löffel Zucker
+
+- Messer:
+    - das Messer 
+    - die scharte Seite des Messers heisst Schneide 
+    - stumpfes Messer 
+
+- Gabel:
+    - die Gabel 
+    - mit der Gabel aufstechen 
+
+- Gabelung:
+    - die Gabelung 
+    - ab hier gibt es eine Gabelung
+
+### p
+- Palette:
+    - die Palette  
+    - wir haben eine große Palette an Produkten 
+
+- Panik:
+    - die Pankik 
+    - es besteht kein Grund zur Panik 
+    - keine Panik 
+    - er gerät in Panik 
+
+- parat:
+    - ich habe es parat 
+    - ich habe eine parate Antwort 
+
+- Privileg:
+- Vorrecht:
+- Sonderrecht:
+    - das Privileg 
+    - das Vorrecht 
+    - das Sonderrecht
+    - das ist ein Privileg 
+
+- Prinzip:
+	- das Prinzip 
+
+- Passagier:
+    - der Passagier 
+    - das hat die Passgiere genervt 
+    - es war 20 Passagiere im Zug 
+
+- passieren:
+    - da muss etwas passiert sein 
+    - warum sollte das mir immer passieren 
+
+- Patent:
+    - das Patent  
+    - wir haben kein Patent 
+
+- Patient:
+    - der Patient 
+    - ich bin Patient von Doktor 
+
+- Pause:
+    - die Pause 
+    - wir machen eine kürze Pause 
+    - das kann man in der Pause machen 
+
+- pfad:
+    - der Pfad 
+    - den Pfand ändern 
+
+- Pfeil:
+    - der Pfeil 
+    - grüner Pfeil 
+
+- Pfand:
+    - der Pfand 
+    - auf der Flasche ist Pfand 
+
+- Pferd:
+    - das Pferd 
+
+
 ##
+
+- 
+
 - Hälfte:
     - die Hälfte 
     - ich habe die Arbeit zur Hälfte erledigt 
@@ -14016,8 +14392,6 @@ vorsprung:
 - sie erzeugen gleichwertigen Code 
 
 
-vorbringen den Punkt
-in stein gemeißelt
 
 - Erkältung:
     - die Erkältung 
@@ -14077,9 +14451,9 @@ in stein gemeißelt
 	- das Engagement
 	- er hat Engagment gezeigt
 
-- skeptisch:
-	- ich bin einbischen skeptisch 
 
+- gemächlich:
+    - er joggt sehr gemächlich
 - Geschirr:
     - das Geschirr 
     - ich spühle das Geschirr
@@ -14122,8 +14496,6 @@ in stein gemeißelt
     - stelle es bitte auf den Boden
     - es ist auf dem Boden 
 
-
-
 - fies:
     - er war immer zu fies zu mir 
     - das ist aber fies 
@@ -14131,7 +14503,6 @@ in stein gemeißelt
 - Argument:
     - das Argument 
     - das war ein gutes Argument 
-
 
 - Schwäche:
     - die Schwäche
@@ -14166,8 +14537,6 @@ ______________________________________
     - das ängstigt mich
     - ich ängstige mich um dich 
     - ich ängstige mich vor Hunden 
-
-
 
 - Besonderheit:
     - die Besonderheit
@@ -14221,14 +14590,6 @@ ______________________________________
     - der Abweg 
     - dann wird er auf Abwege geraten 
 
-- akut:
-    - vor allem bei Akutem Ärgere ist es hilfreich 
-
-- akustisch:
-    - ich habe dich akustisch nicht verstanden 
-
-- gemächlich:
-    - er joggt sehr gemächlich
 
 - Streit:
     - der Streit 
@@ -14243,11 +14604,6 @@ ______________________________________
 - kämmen:
     - ich wollte mich kämmen 
 
-
-
-- Tischbein:
-    - das Tischbein 
-    - die Tischbeine sollen die gleiche größe haben 
 
 
 - Station:
@@ -14281,8 +14637,7 @@ ______________________________________
     - der Junge 
     - das Mädchen 
 
-- problematisch:
-    - das ist leider problematisch
+
 
 - Blöße:
     - die Blöße 
@@ -14364,13 +14719,6 @@ ______________________________________
     - der Luxus 
     - ich geniesse den Luxus 
 
-- Privileg:
-- Vorrecht:
-- Sonderrecht:
-    - das Privileg 
-    - das Vorrecht 
-    - das Sonderrecht
-    - das ist ein Privileg 
 
 - bevorzugen:
     - ich bevorzuge den ersten Vorschag vor meinem Vorschag 
@@ -14514,10 +14862,7 @@ ______________________________________
 - anpeilen:
     - ich peile einen neuen Job an
 
-- Pause:
-    - die Pause 
-    - wir machen eine kürze Pause 
-    - das kann man in der Pause machen
+
 
 - verabschieden:
     - ich wollte mich von dir verabschieden 
@@ -14617,58 +14962,6 @@ ______________________________________
 - ähnlich:
     - Sie ist ihrer Mutter Ähnlich 
 
-- fröhlich:
-    - ich bin sehr fröhlich dass es geklappt hat 
-
-- froh:
-- glücklich:
-    - ich bin sehr froh darüber 
-    - ich bin um jeden Tipp froh 
-
-- traurig:
-    - ich bin sehr traurig darüber 
-
-- Trauer:
-    - die Trauer 
-    - das ist Zeit der Trauer
-
-- Wut:
-    - die Wut 
-    - ich packe meine Wut 
-    - ich lasse meine Wut nicht an dir aus 
-    - ich mache meine Wut luft in dem ich sport machen 
-
-- Wütend:
-    - ich bin auf ihn nicht wütend
-
-- Leid:
-    - das Leid
-    - das tut mir Leid 
-    - ich bin es leid 
-
-
-- Glück:
-- Unglück:
-- Pech:
-    - das Glück 
-    - das Unglück
-    - das Pech 
-    - ich hatte viel Glück 
-    - auf gut Glück 
-
-
-- Angst:
-    - die Angst 
-    - ich habe Angst vor ihm / vor Hunden 
-    - ich habe Angst um ihn 
-    - das macht mir Angst 
-    - um dir die Angst an der Sache zu nehmen 
-
-- neidisch:
-    - ich war auf sein neues Auto neidisch 
-
-- Hass:
-    - der Hass 
 
 
 
@@ -14727,25 +15020,8 @@ ______________________________________
 - abtransportieren:
     - ich wollte den Müll abtransportieren 
 
-- Stift:
-    - der Stift 
-    - ich brauche einen Stift 
 
-- Papier:
-    - das Papier 
-    - ich brauche einen Stift und ein Papier 
 
-- Zettel:
-    - der Zettel 
-    - ich habe es auf einen Zettel geschrieben 
-
-- Notiz:
-    - die Notiz 
-    - ich mache mir Notizen 
-
-- notieren:
-    - das habe ich mir notiert 
-    - ich muss das mir notieren 
 
 - naiv:
     - ich war sehr naiv das zu glauben 
@@ -14826,8 +15102,7 @@ ______________________________________
 - feige:
     - ich war sehr feige das zu machen 
 
-- Prinzip:
-	- das Prinzip
+
 
 - umgehend:
 	- wir müssen umgehend handeln
@@ -15088,9 +15363,6 @@ ______________________________________
 - Kultur:
     - die Kultur 
 
-- Gesellschaft:
-    - die Gesellschaft
-    - er ist in schlechte Gesellschaft geraten 
 
 - wappnen:
     - es ist nicht gegen Angriff gewappnet 
@@ -15348,8 +15620,7 @@ ______________________________________
     - das Attest
     - ich muss Attest vorlegen 
 
-- Schlauch:
-    - ich brauche einen Schlauch 
+
 
 
 --------------
@@ -15375,8 +15646,6 @@ ______________________________________
 
     - er ist der Gastgeber
 
-- auftischen:
-    - Was hat er dir denn heute wieder für eine Geschichte aufgetischt?
 
 - vorgeschossen
 
@@ -15409,7 +15678,7 @@ ______________________________________
 
 
 
-- Gesellschaft brauchen 
+
 - einheiraten 
 
 
@@ -15419,10 +15688,6 @@ ______________________________________
 - Finger weg von ihn 
 - wir laufen uns immer wieder über den weg 
 - volltreffer 
-
-
-
-- auftischen 
 
 - teufel an die wand malen 
 - bei mir hat es ausgehakt 
@@ -15463,7 +15728,7 @@ ______________________________________
 
 - verspannt 
 
-- die Herrschaft 
+
 
   
 - blauäugig 
@@ -15515,8 +15780,7 @@ ______________________________________
 
 
 ## 
-- zügig:
-    - das könnte zügig gehen
+
 
 - widmen:
     - ich widme meine Zeit der Familie
@@ -15631,29 +15895,7 @@ ______________________________________
 - konstant:
     - das ist variabel
 
-- reparabel:
-    - ich weiss nicht ob das reparabel ist oder nicht 
 
-- Reparatur:
-    - die Reparatur 
-    - wir brauchen eine schnelle Reparatur 
-    - manchmal ist Reparatur teuerer als Neuanschaffung
-    - ich weiss nicht, ob eine Reparatur sich löhnt 
-
-- Service:
-    - der Service 
-    - das Essen war sehr gut, der Service war aber nicht 
-    - wir bezahlen für den Service mit unseren Daten 
-
-- Technik:
-    - die Technik 
-    - ich wollte die Technik kontrollieren 
-    - wir arbeiten mit moderner Technik 
-
-- Defekt:
-    - der Defekt 
-    - ich habe den defekten Teil ausgetauscht 
-    - der unfall ist durch einen Defekt an den Bremsen verurascht 
 
 - begegnen:
     - ich bin ihm auf der Straße begegnet
@@ -15694,9 +15936,7 @@ ______________________________________
     - die nostalgie 
     - es gibt hier überall Nostalgie 
 
-- chaotisch:
-- ordentlich:
-    - er ist sehr chaotischer Mensch 
+
 
 - inwieweit:
 - inwiefern:
@@ -16039,9 +16279,7 @@ ______________________________________
 - zumüllen:
     - ich will das nicht zumüllen 
 
-- Palette:
-    - die Palette  
-    - wir haben eine große Palette an Produkten 
+
 
 - zurückrudern:
     - ich muss zurückrudern weil ich das vielleicht falsch verstanden haben 
@@ -16118,19 +16356,10 @@ ______________________________________
 
 
 
-- wesentlich:
-    - das war im Wesentlichen alles was ich sagen wollte
-
-
 
 - anstacheln:
 - aufstacheln:
     - ich wollte dich anstacheln 
-
-
-
-
-
 
 - bespaßen
     - ich habe keine Lust die Kinder zu bespaßen 
