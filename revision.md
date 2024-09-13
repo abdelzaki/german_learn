@@ -16,15 +16,17 @@
 
 - Selbstactung:
     - die Selbstachtung 
-    - es ist wichtig selbstachtung zu haben
-    - ine gute Selbstachtung führt zu einem höheren Selbstwertgefühl 
+    - es ist wichtig Selbstachtung zu haben
+    - eine gute Selbstachtung führt zu einem höheren Selbstwertgefühl 
+
+- selbstbewusst:
+    - er ist sehr selbstbewusst 
+
 
 - selbstständig:
 - eigenständig:
     - er will selbstständig werden 
 
-- selbstbewusst:
-    - er ist sehr selbstbewusst 
 
 - selbstbewusstsein:
     - das Selbstbewusstsein 
@@ -46,7 +48,6 @@
 - selbstwertgefühl:
     - das Selbstwertgefühl 
     - er hat niederiges Selbstwertgefühl
-
 
 ### ent 
 - entzweien:
@@ -135,18 +136,17 @@
 ### lassen
 - lassen:
     - wir lassen das außen vor
+    - ich habe mein Handy hier gelassen
 
 - ablassen:
     - wir lassen den Gas ab 
     - er hat sich davon abgelassen das zu machen
 
-- schmorenlassen:
-    - er hat mich schmoren lassen
-
 - alleinlassen:
     - ich lass dich allein
 
 - anlassen:
+    - sie können die Schuhe anlassen
     - die Sache lasst sich gut an 
 
 - auslassen:
@@ -186,6 +186,9 @@
 - sitzenlassen:
     - ich bräuchte Hilfe, aber er hat mich sitzenlassen 
     - das kann ich nicht auf mir sitzenlassen
+
+- schmorenlassen:
+    - er hat mich schmoren lassen
 
 - vorlassen:
     - er hat mich vorgelassen
@@ -296,6 +299,9 @@
 
 - vorstellbar:
     - das ist vorstellbar 
+
+- vorig:
+    - in meiner vorigen Stelle 
 
 ### ver
 - vermiesen:
@@ -1120,6 +1126,7 @@
 
 - verzögern:
     - technische Probleme verzögert den Beginn 
+    - das Meeting wird sich um 10 Minuten verzögern 
 
 - hinauszögern:
     - ich habe die Entscheidung hisausgezögert 
@@ -1210,10 +1217,37 @@
 
 ### bringen
 - bringen:
+    - er hat es im Leben zu etwas bringen
     - soll ich dir etwas bringen 
     - das will ich hinter mich bringen 
     - ich kann das nicht über mich bringen 
     - das bringt mich zum Umdenken 
+
+- abbringen:
+	- ich will dich nicht von deinem Plan abbringen
+
+- anbringen:
+    - ich bringe die Lampe an die Wand an 
+    - Kritik anbringen [vorbringen] 
+    - Wissen anbringen [beweisen]
+
+- aufbringen:
+    - wir können die das Geld für ein Auto nicht aufbringen [Geld_sammel]
+    - ich bin darüber sehr aufgebracht  
+    - er hat alle gegen sich aufgebracht 
+
+- bribringen:
+    - Soll ich dir die Tanzschritte beibringen?
+
+- durcheinanderbringen:
+    - er bringt alles durcheinander 
+
+- einbringen:
+    - das Geld bringt profit ein 
+    - ich kann mich in die Diskussion einbringen
+
+- herumbringen:
+    - wir müssen die Zeit irgendwie herumbringen
 
 - wegbringen:
     - ich bringe das weg damit du arbeiten kannst 
@@ -1221,23 +1255,11 @@
 - verbringen:
     - ich habe gute Zeit mit ihm verbracht 
 
-- bribringen:
-    - Soll ich dir die Tanzschritte beibringen?
-
 - zubringen:
     - ich bringe die Tür nicht zu  [schließen]
 
-- anbringen:
-    - ich bringe die Lampe an die Wand an 
-    - Kritik anbringen [vorbringen] 
-    - Wissen anbringen [beweisen]
-
 - vorbringen:
     - ich kann ein gutes Argument vorbringen
-
-- einbringen:
-    - das Geld bringt profit ein 
-    - ich kann mich in die Diskussion einbringen
 
 - mitbringen:
 	- man muss das nötige Fachwissen für den Job mitbringen
@@ -1248,25 +1270,14 @@
     - ich kann nicht die Mobel in der Wohnung unterbringen 
     - ich bringe alles unter
 
-- abbringen:
-	- ich will dich nicht von deinem Plan abbringen
-
 - durchbringen:
     - die Mutter solle die Kinder allein durchbringen [Unterhalt_bezahlen]
-
-- aufbringen:
-    - wir können die das Geld für ein Auto nicht aufbringen [Geld_sammel]
-    - ich bin darüber sehr aufgebracht  
-    - er hat alle gegen sich aufgebracht 
 
 - voranbringen:
     - wir wollten STV voranbringen 
 
 - angebracht:
     - es ist angebracht 
-
-- durcheinanderbringen:
-    - er bringt alles durcheinander 
 
 - umbringen:
     - bring dich nicht um 
@@ -1283,6 +1294,41 @@
     - ich weiß nich wie ich das Geld für die Miete zusammenbringen muss
 
 ### nehmen
+- nehmen:
+    - das nimmt mir die Lust an der Arbeit [vergehen]
+    - ich habe auf mich genommen das zu machen [vornehmen]
+    - ich nehme mir die Zeit um mir das anzusehen 
+    - ich nehme am morgen nichts zu mir [essen] 
+    - dann haben wir die letzte Hürde auf dem Weg genommen
+    - ich nehmen die Kritik zu Herzen [ernstnehmen]
+
+- abnehmen:
+- zunehmen:
+    - das sollte mir die Arbeit abnehmen
+    - ich kann ihm diesen Satz nicht abnehmen [abkaufen]
+    - er hat abgenommen / zugenommen
+
+- Abnahme:
+- Zunahme:
+    - die Abnahme 
+    - die Zunahme 
+    - die Abnahme der Bevölkerung ist ein großes Problem 
+
+- annehmen:
+    - ich kann das Angebot nicht annehmen 
+    - ich nehme mich deines Problem an 
+    - das Problem nimmt gefährliche Form an [abzeichnen] [andeuten]
+    - die Haut nimmt rote Farbe an 
+
+- aufnehmen:
+	- ich nehme den Kontakt mit ihm auf
+	- ich nehme mein Studium auf
+    - sie nimmt Wasser auf
+    - ich bin gut aufgenommen
+    - ich wollte das meiner Parterin sagen aber sie hat es nicht gut aufgenommen [reagieren]
+    - ich nehme es mit dir jederzeit auf 
+
+
 - vorwegnehmen:*
     - wir wollen die Probleme vorwegnehmen in dem wir mit dem Chef reden werden [vorgreifen]
     - ich will das Ergebnis nicht vorwegnehmen aber ich glaube es wird nicht funktionieren
@@ -1300,14 +1346,6 @@
 - hinnehmen:
     - ich nehme das einfach hin
 
-- nehmen:
-    - das nimmt mir die Lust an der Arbeit [vergehen]
-    - ich habe auf mich genommen das zu machen [vornehmen]
-    - ich nehme mir die Zeit um mir das anzusehen 
-    - ich nehme am morgen nichts zu mir [essen] 
-    - dann haben wir die letzte Hürde auf dem Weg genommen
-    - ich nehmen die Kritik zu Herzen [ernstnehmen]
-
 - vornehmen:
     - wir müssen die Arbeit erledigen was wir uns(dativ) vorgenommen haben (sich)
     - ich habe mir meinen Sohn vorgenommen [tadeln] (sich)
@@ -1321,20 +1359,6 @@
 - ausnehmen:(geld weg nehmen)
     - sie nehmen Touristen aus 
     - das betrifft alle Leute, ich nehme mich nicht aus 
-au
-- annehmen:
-    - ich kann das Angebot nicht annehmen 
-    - ich nehme mich deines Problem an 
-    - das Problem nimmt gefährliche Form an [abzeichnen] [andeuten]
-    - die Haut nimmt rote Farbe an 
-
-- aufnehmen:
-	- ich nehme den Kontakt mit ihm auf
-	- ich nehme mein Studium auf
-    - sie nimmt Wasser auf
-    - ich bin gut aufgenommen
-    - ich wollte das meiner Parterin sagen aber sie hat es nicht gut aufgenommen [reagieren]
-    - ich nehme es mit dir jederzeit auf 
 
 - momentaufnahme:
     - die Momentaufnahme 
@@ -1378,18 +1402,6 @@ au
 - abgespannt:
 - angespannt:
     - ich bin gesundheitlich angegriffen 
-
-- abnehmen:
-- zunehmen:
-    - das sollte mir die Arbeit abnehmen
-    - ich kann ihm diesen Satz nicht abnehmen
-    - er hat abgenommen / zugenommen
-
-- Abnahme:
-- Zunahme:
-    - die Abnahme 
-    - die Zunahme 
-    - die Abnahme der Bevölkerung ist ein großes Problem 
 
 - herausnehmen:(sich)*
     - ich habe mir viel Freiheit herausgenommen 
@@ -2000,16 +2012,14 @@ au
 
 - ankommen:
     - sind sie gut ankommen 
-    - das kommt bei den Kunden gut an
-    - Es kommt auf das Wetter an, ob wir grillen können oder nicht.
-    - wir lassen es auf einen Versuch / Streit ankommen,
-    - es kommt darauf an 
-    - es kommt auf den Tag nicht an
-    - komm mir nicht mit deinem Problem an 
+    - das kommt bei den Kunden gut an [bei]
+    - Es kommt auf das Wetter an, ob wir grillen können oder nicht [auf]
+    - wir lassen es auf einen Versuch / Streit ankommen, [lassen]
+    - komm mir nicht mit deinem Problem an [mit]
+    - ich komme gegen ihn nich an [gegen]
     - oh komm doch damit nicht wieder an
     - wenn ich drauf ankommt, kann man sich auf ihn verlassen
     - ich lass es drauf ankommen
-    - ich komme gegen ihn nich an
 
 - aufkommen:
     - die Eltern kommen für den Schaden auf 
@@ -2022,10 +2032,11 @@ au
     - ich komme mit diesem Geld nicht aus 
 
 - beikommen:
-    - ich werde dem Problem beikommen 
+    - ich werde dem Problem beikommen [lösen]
 
 - bekommen:
     - ich habe die Stelle nicht bekommen 
+    - mit sein: das Essen ist mir nicht bekommen
 
 - davonkommen:
     - ich bin bei diesem Unfall mit einer Geldstrafe davongekommen 
@@ -2045,9 +2056,9 @@ au
     - ich wollte das machen, aber ist mir etwas dazwischengekommen 
 
 - drankommen:*
-    - ich komme an die Bücher nicht dran 
     - du kommst als nächstes dran 
     - das Thema ist heute drangekommen [dran sein]
+    - ich komme an die Bücher nicht dran 
 
 - herumkommen:
     - wir kommen darum nicht herum 
@@ -2184,15 +2195,9 @@ au
 - legen:
     - wir legen Gewicht auf eure Meinung 
 
-- auflegen:
-    - er hat sie schnell aufgelegt, ich konnte nicht ciao sagen 
-
-- aufgelegt:
-    - ich bin heute gut aufgelegt 
-    - ich bin heute nicht zum Lernen aufgelegt 
-
 - ablegen:
     - wo soll ich das ablegen 
+    - er legt seine Gewöhenheit ab
 
 - anlegen:
     - ich werde ein Ticket / einen Ordner anlegen 
@@ -2200,6 +2205,13 @@ au
     - er hat sich mit dem Chef angelegt 
     - er legt es auf einen Streit an 
     - ich wollte es nicht drauf anlegen
+
+- auflegen:
+    - er hat sie schnell aufgelegt, ich konnte nicht ciao sagen 
+
+- aufgelegt:
+    - ich bin heute gut aufgelegt 
+    - ich bin heute nicht zum Lernen aufgelegt 
 
 - auslegen:
     - könntest du mir für das Essen auslegen 
@@ -2453,7 +2465,7 @@ au
     - das Haus wird abgerissen 
     - der Kontakt ist nicht abgerissen 
     - ich will nicht den Kontakt abreißen lassen 
-    - dann wird mir den Chef den Kopf abreißen
+    - dann wird mir der Chef den Kopf abreißen
 
 - anreißen:*
     - ich reiße die Verpackung an (anschneiden)
@@ -2531,17 +2543,27 @@ au
 - brechen:
     - ich will nicht mein Wort brechen
 
+- abbrechen:
+    - ich habe mein Studium abgebrochen 
+    - die Verbindung ist abgebrochen
+    - ich werde mir keinen abbrechen um das zu schaffen
+
 - anbrechen:
     - ich habe mein Bein angebrochen
     - ich breche das Medikament an 
 
-- erbrechen:(sich):[übergeben]
-- übergeben:(sich)
-    - ich will mich erbrechen 
-
 - aufbrechen:
     - ich werde die Verpackug aufbrechen 
     - wir brechen morgen früh auf 
+
+- ausbrechen:
+    - der Krieg ist ausgebrochen 
+    - das Tier ist aus dem Zoo ausgebrochen
+    - ich habe mir ein Zahn ausgebrochen 
+
+- erbrechen:(sich):[übergeben]
+- übergeben:(sich)
+    - ich will mich erbrechen 
 
 - einbrechen:
     - sie haben gestern in die Bank eingebrochen 
@@ -2560,9 +2582,6 @@ au
 - unterbrechen:
     - ich wollte dich nicht bei der Arbeit unterbrechen 
 
-- abbrechen:
-    - ich habe mein Studium abgebrochen 
-
 - Abbruch:
     - der Abbruch 
     - das führt zum Abbruch des Programms 
@@ -2580,11 +2599,6 @@ au
 - Durchbruch:
     - der Durchbruch 
     - das ist ein großer Durchbruch 
-
-- ausbrechen:
-    - der Krieg ist ausgebrochen 
-    - das Tier ist aus dem Zoo ausgebrochen
-    - ich habe mir ein Zahn ausgebrochen 
 
 - Verbrechen:
     - das Verbrechen
@@ -2690,7 +2704,7 @@ au
 - erstechen:
     - er wurde erstochen
 
-### schlag
+### schlag--
 - schlag:
     - der Schlag 
     - das passiert auf einen Schlag 
@@ -2819,6 +2833,7 @@ au
 - abstimmen:
     - wir können über den Termin abstimmen [voten]
     - ich habe das Ergebnis mit ihm abgestimmt [vereinbaren] 
+    - wir müssen unsere Termine abstimmen
     - das ist nicht auf indiviuales Bedürfnis abgestimmt
 
 - beistimmen:
@@ -3309,11 +3324,9 @@ au
     - der Bus halt an
     - Meine Erkältung hält hartnäckig an, sie will nicht fortgehen.[andauern] 
 
-- ranhalten:
-    - ich muss mich ranhalten damit ich den Bus nicht verpassen
 
-- auseinanderhalten:
-    - wir müssen die zwei Punkte auseinanderhalten 
+- angehalten:
+    - ich bin angehalten das zu machen 
 
 - aufhalten:
     - diese Diskussion hält uns unnötig auf 
@@ -3324,29 +3337,37 @@ au
     - ich habe den Kontakt mit ihr aufrechterhalten 
     - er erhält den Kontak aufrecht 
 
-- angehalten:
-    - ich bin angehalten das zu machen 
-
 - aushalten:
     - ich kann ihn nicht mehr aushalten 
     - ich halte es nicht mehr aus 
     - sie hat sich nie aushalten lassen * 
 
-- raushalten:
-    - ich halte mich bei diesem Problem raus
+- auseinanderhalten:
+    - wir müssen die zwei Punkte auseinanderhalten 
 
 - behalten:
     - das hast du behalten 
+    - das kannst du behalten
     - das behalte ich für mich 
 
 - bereithalten:
     - ich halte es bereit 
 
 - beibehalten:
-    - ich würde gerne das beibehalten 
+    - ich würde gerne meine Traditionen beibehalten 
 
 - beinhalten:
     - das beinhaltet auch dass man mit ihm reden muss
+
+- dichthalten:
+    - ich kann dichthalten
+
+- ranhalten:
+- daranhalten:
+    - ich muss mich ranhalten damit ich den Bus nicht verpassen
+
+- durchhalten:
+    - ich kann nicht mehr bei dieser Arbeit durchhalten
 
 - einhalten:
     - die Verabredung einhalten
@@ -3373,22 +3394,28 @@ au
 - fernhalten:
     - ich halte mich von ihm fern 
 
+- hinhalten:
+    - du hast mich genug hingehalten 
+    - ich versuche ihn hinzuhalten bis du kommst 
+    - den Kopf für ihn hinhalten [ausbaden]
+
+- herhalten:
+    - er hält mich als Sündenbock her 
+
+- knapphalteln:
+    - die Eltern hat die Kinder mit Taschengeld knapp 
+
 - mithalten:
     - ich kann mit ihm nicht mithalten 
 
 - offenhalten:
     - ich wollte mir den Ausweg offenhalten 
 
+- raushalten:
+    - er hat mich immer aus der Sache rausgehalten
+
 - zugutehalten:
     - ich muss ihm zugutehalten dass er viel versucht hat 
-
-- hinhalten:
-    - du hast mich genug hingehalten 
-    - ich versuche ihn hinzuhalten bis du kommst 
-    - den Kopf hinhalten [ausbaden]
-
-- herhalten:
-    - er hält mich als Sündenbock her 
 
 - standhalten:
     - das Gebäude halt stand
@@ -3401,9 +3428,6 @@ au
     
 - verhalten:(sich)
     - wie soll ich mich hier verhalten 
-
-- dichthalten:
-    - ich kann dichthalten
 
 - zurückhalten:
     - ich halte mich bei dieser Diskussion zurück
@@ -3434,7 +3458,7 @@ au
 
 - Haltestelle:
     - die Haltestelle
-    - ich gehe an die Haltestelle 
+    - ich gehe zur Haltestelle 
     - ich steige an der Haltestelle um 
     - ich bin an der Bushaltestelle 
 
@@ -3448,6 +3472,7 @@ au
 - Inhalt:
     - der Inhalt 
     - ich werde dir den Inhalt meines Koffers nicht zeigen
+
 
 ### stellen 
 - Schiefstellung:
@@ -3768,7 +3793,7 @@ au
 
 ### schütten
 - schütten:
-    - wasser schütten 
+    - wasser in den Eimer schütten 
 
 - aufschütten:
     - sand auf das Land aufschütten 
@@ -3807,7 +3832,7 @@ au
     - ich habe ihn hangengelassen 
 
 - hängenbleiben:
-    - ich habe viel gelesen aber es bleibt von dem wm ende wenig hängen 
+    - ich habe viel gelesen aber es bleibt von dem am ende wenig hängen 
     - ich bin dort hängengeblieben
 
 - hängen:
@@ -4602,6 +4627,8 @@ au
 
 - anführen:
     - ich kann ein Beispiel anführen 
+    - wer hat die Studenten abgeführt 
+    - willst du mich anführen lassen [verarschen]
 
 - aufführen:
     - ich habe alles hier aufgeführt 
@@ -4674,6 +4701,11 @@ au
     - man kann sein Glück herbeiführen
 
 ### fahren
+- Farher:
+- Beifarher:
+    - der Fahrer 
+    - ich bin nur der Beifahrer
+
 - Einfahrt:
 - Ausfahrt:
 - zufahrt:
@@ -4689,7 +4721,6 @@ au
 - fahren:
     - ich fahre dich zum Bahnhof 
     - wir sind mit dieser Stragtie immer gut gefahren 
-    - was ist in sich gefahren
 
 - abfahren:
     - ich wollte von der Autobahn abfahren 
@@ -4990,29 +5021,29 @@ au
     - er hat mir den Job weggeschnappt [abjagen]
 
 ### beißen
+- beißen:
+    - er hat mich gebissen 
+
+- abbeißen:
+    - ich beiße ein Stück von dem Kuchen ab 
+
 - anbeißen:
     - ich habe den Apfel angebissen 
     - sie ist zum Anbeißen 
     - ich werde nicht auf das Angebot anbeißen 
-
-- abbeißen:
-    - ich beiße ein Stück ab 
 
 - aufbeißen:
     - ich beiße den Bonbon auf 
     - die Lippe aufgebissen
 
 - ausbeißen:
-    - ich habe mir an dieser Aufgabe ein Zahn ausgebissen 
+    - ich habe mir an dieser Aufgabe einen Zahn ausgebissen 
 
 - durchbeissen:
     - ich weiss es ist sehr schwerig aber ich muss mich durch das Projekt durchbeißen bis ich es schaffe 
 
 - festbeißen:   
     - er hat sich an dieser Idee festgebissen [festfahren]
-
-- beißen:
-    - er hat mich gebissen 
 
 - verbissen:(sturkopf oder entschlossen)
     - ich trainere verbissen 
@@ -5211,14 +5242,14 @@ au
 - weisen:
     - ich weise ihm den Weg [zeigen]
     - er hat mich aus dem Saal gewiesen [wegjagen]
-    - es weis in eine Richtung
+    - es weis in eine Richtung / auf die Frau
     - er hat den Vorwurf von sich gewiesen 
 
 - gewiesen:
     - der Weg ist gewiesen
 
 - abweisen:
-    - er weist meinen Antrag ab
+    - er weist meinen Antrag ab [ablehnen]
     - er hat mich an der Tür abgewiesen [wegschicken]
     - die Karte wurde abgewiesen 
 
@@ -5226,7 +5257,11 @@ au
     - er ist sehr abweisende Person [schroff,brusk]
 
 - anweisen:*
-    - du kannst ihn anweisen, die Sache zu machen [beauftragen]
+    - du kannst ihn anweisen, die Sache zu machen [beauftragen] 
+
+- Anwesend:
+- Abwesend:
+    - die Anwesend
 
 - angewiesen:
     - ich bin auf jeden Euro angewiesen 
@@ -5277,6 +5312,7 @@ au
 
 - zurückweisen:
     - er hat meine Anschuldigung zurückgewiesen
+    - sie hat mich zurückgewiesen
 
 - unterweisen:
     - der Leher unterweis mich in Englisch
@@ -5423,6 +5459,7 @@ au
 - abladen:
 - aufladen:
     - ich muss das Auto abladen
+    - er ladet die Schuld auf mich
 
 - aufladen:
 - entladen:
@@ -5917,6 +5954,7 @@ au
 - nachholen:
     - ich will die Verspätung aufholen 
     - da ich gesund bin, habe ich viel aufzuholen 
+    - ich hole meine Familie nach
 
 - einholen:
     - du hast ihn gerade verfehlt, aber du kannst ihn einholen 
@@ -6019,7 +6057,7 @@ au
 - andersherum:
     - und genauso gibt es andersherum 
 
-- ander:
+- andere:
     - ich bin anderer Meinung 
     - was sagen die anderen 
     - ich nehme es von anderen nicht weg
@@ -6395,6 +6433,7 @@ au
 - ablesen:
     - das kann man an der Endung des Worts ablesen 
     - ablesen(den Strom ablesen)
+    - er liest seiner Frau jeden Wunsch von den Augen ab
 
 - anlesen:
     - ich habe das Buch nur angelesen
@@ -6495,9 +6534,7 @@ au
     - der Übermut
 
 - übermütig:
-    - es war sehr mutig von dir
-    - er ist sehr mutiger Mensch 
-    - er ist klug und gleichzeitig nicht hochmütig
+    - er ist eher übermütig als mütig
 
 - demütig:
     - er ist sehr demütig [hochmütig]
@@ -6517,6 +6554,9 @@ au
 
 - großmütig:
     - er ist großmütig und gibt viel Geld aus [großzügig]
+
+- reumütig:
+    - er kommt reumütig zu mir zurück
 
 - Unmut:
     - der Unmut 
@@ -6989,6 +7029,7 @@ au
 
 - abraten:
     - er hat mir abgeraten das zu machen 
+    - ich habe ihm von dieser Reise abraten
 
 - zuraten:
     - er hat mir zu dieser Entscheidung zugeraten 
@@ -7295,7 +7336,7 @@ au
     - ich will es in die richtige Richtung lenken 
 
 - ablenken:
-    - ich will dich nicht ablenken 
+    - ich will dich bei der Arbeit nicht ablenken 
 
 - Lenkrad:
     - das Lenkrad
@@ -7379,6 +7420,10 @@ au
 - Warteschlange:
     - die Warteschlange 
     - die Warteschlange war sehr Lange 
+
+- Warteschleife:
+    - die Warteschleife 
+    - er setzt mich auf die Warteschleife 
 
 ### mischen
 - mischen:
@@ -7530,6 +7575,7 @@ au
 - ändern:
     - kann ich meine Bestellung ändern 
     - die Situation hat sich geändert  
+    - soll ich etwas an der Arbeit ändern
 
 - abändern:
     - ich habe das Schreiben abändern  
@@ -9091,6 +9137,11 @@ au
     - allein in meinem Freundeskreis hat ich 2 Motorschaden
 
 ### frei
+- Freie:
+    - das Freie 
+    - im freien übernachten
+    - ins Freie gehen
+
 - freinehmen:
 - freimachen:
     - ich nehme morgen frei
@@ -9256,7 +9307,9 @@ au
     - der Drang nach Freiheit 
 
 - Andrang:
+- Gedränge:
     - der Andrang 
+    - das Gedränge
     - am weichnachen herrscht größer Andrang
 
 ### drücken 
@@ -9560,6 +9613,7 @@ au
 
 - verhauen:
     - ich habe mich bei dieser Prüfung verhauen 
+    - sie hat ihn verhauen
 
 ### schonen 
 - schonen:
@@ -9943,7 +9997,7 @@ au
 
 - anreisen:
 - abreisen:
-    - ann reist du an 
+    - wann reist du an 
 
 - einreisen:
 - ausreisen:
@@ -10745,8 +10799,10 @@ au
 
 ### wehren 
 - wehren:
+    - ich muss mich gegeh den Angriff wehren
+
 - abwehren:
-    - ich muss mich gegen ihn wehren 
+    - er hat den Angriff abgewehrt 
 
 - verwehren:*
     - sie hat mir verwehrt die Kinder zu sehen 
@@ -10885,12 +10941,12 @@ au
     - Brotberuf 
 
 - hervorrufen:
-    - diese Aussage hat viele Probleme hervorgerufen 
+    - diese Aussage hat viele Probleme hervorgerufen [herbeiführen]
 
 ### schwören
 - schwören:
     - ich schwöre dir dass es wahr ist 
-    - ich habe wir geschworen [vornehmen]
+    - ich habe mir geschworen [vornehmen]
 
 - abschwören:
     - ich habe dem Rauchen abgeschworen 
@@ -10966,17 +11022,18 @@ au
     - ich habe einen Fehler / großen Mist gebaut 
 
 - abbauen:
-    - ich baue Zeit ab 
+    - ich baue Zeit/ zelt ab 
 
 - anbauen:
     - wir bauen kartoffel an 
-    - ich baue eine Garage an 
+    - ich baue eine Garage an das Haus an
+    - wir müssen anbauen der Platz hier ist sehr eng  
 
 - aufbauen:
     - ich baue das Zelt auf 
 
 - ausbauen:
-    - ich baue den Motor aus 
+    - ich baue den Motor aus dem Auto aus 
     - ich werde den Speicher ausbauen 
     - ich werde die Straße ausbauen 
 
@@ -11671,6 +11728,8 @@ ausbremsen:
 
 ### schimpfen 
 - schimpfen:
+    - er hat mich / mit mir / auf mich geschimpft
+    - er hat über das Wetter geschimpft
     - er hat mich geschimpft weil ich gestern nicht da war 
     - der Vater schimpft mit seinem Kind
     - er schimpft sich Software-ingienieur [behaupten] 
@@ -12692,6 +12751,10 @@ ausbremsen:
 - Schlaf:
     - der Schlaf 
     - ich könnte keinen Schlaf zu finden 
+    - im Schlaf reden
+
+- Schlaflösigkeit:
+    - die Schlaflösigkeit 
 
 ### schrott 
 - Schrott:  
@@ -12771,6 +12834,9 @@ ausbremsen:
 - abgehärtet:
 - robust:
     - es ist sehr robust 
+
+- abhärten:
+    - kaltes Duschen härtet gegen Erkältung ab
 
 - enthärten:
     - das wird das Wasser enthärtet 
@@ -12935,7 +13001,7 @@ ausbremsen:
     - er klingt müde 
 
 - abklingen:
-    - der Schmerzen klingt ab 
+    - der Schmerz klingt ab 
 
 - anklingen:
     - in seinen Worten klingen Trauer an 
@@ -13153,6 +13219,7 @@ ausbremsen:
     - ich wollte meine Mailbox abhören 
 
 - anhören:
+    - du hörst dich traurig an
     - das hört sich gut an 
     - das höre ich mir nicht mehr an 
     - ich kann mir diese Lügen nicht mehr anhören 
@@ -13316,7 +13383,7 @@ ausbremsen:
 
 - Senkung:
     - die Senkung
-    - eine mögliche Senkung der Seuern 
+    - eine mögliche Senkung der Steuern 
 
 - versenken:
     - das kann das gegnerische Schiff versenken 
@@ -13462,7 +13529,11 @@ ausbremsen:
     - zwei Autos sind gestern aufeinandergeprallt 
 
 - knallen:
-    - die Maus knallt auf den Boden
+    - die Maus knallt auf den Boden 
+
+- Knall:
+    - der Knall 
+    - vor einer Woche kam beu uns der große Knall
 
 ### putzen
 - putzen:
@@ -13612,6 +13683,7 @@ ausbremsen:
 - dicht:
     - der Wasserhahn ist dicht 
     - der Verkehr war sehr dicht 
+    - wenn du dicht an das Bild herangehst 
 
 - abdichten:
 - dichten:
@@ -14049,6 +14121,9 @@ ausbremsen:
 - beanstanden:
 - beschweren:
     - der Kunde hat beanstanden dass das Gerät funktioniert nicht 
+
+- beschwerlich:
+    - die Reise war sehr beschwerlich [anstrengend]
 
 ### schwer
 - schwer:
@@ -14951,6 +15026,8 @@ ausbremsen:
 - abstoßen: 
     - ich stoße mich von Rand ab 
     - die schmutzigen Toilette stoßen mich ab 
+    - der Mantel stoßt Wasser ab 
+    - ich will mein altes Auto abstoßen
 
 - anstoßen:
     - wir können auf neue Jahr anstoßen 
@@ -15296,6 +15373,11 @@ ausbremsen:
 
 - überhand:
     - Die Müdigkeit nimmt überhand 
+
+- Handy:
+    - das Handy 
+    - ruf mich auf meinem Handy 
+    - er geht nicht auf das Handy 
 
 ### streng
 - anstrengen:
@@ -16188,6 +16270,9 @@ ausbremsen:
 - Abgrund:
     - der Abgrund 
     - wir stehen vor dem Abgrund
+    - ich stehe am Abgrung
+    - an den Abgrung bringen
+    - aus dem Abgrung herausarbeiten
 
 ### fern && eifer
 - fernbleiben:
@@ -16228,6 +16313,14 @@ ausbremsen:
 
 - nacheifern:
     - das Kind eifert dem Vater nach 
+
+- Fernsehen:
+    - das Fernsehen 
+    - das Fernsehen hat einen Einfluss auf die Leute 
+
+- Fernseher:
+    - der Fernseher 
+    - ich kaufe einen Fernseher 
 
 ### hoch && höhe && breit  && tief && lang
 - hoch:
@@ -16618,6 +16711,7 @@ ausbremsen:
 
 - stricken:
     - er ist einfach gestrickter Mensch 
+    - ich bin anders gestrickt
 
 - verstricken:
     - er hat mich in dieses Problem verstrickt 
@@ -16648,8 +16742,9 @@ ausbremsen:
 
 ### macken 
 - meckern:
-- herummeckern:
+- herummeckern: [nörgeln]
 	- ich werde nicht darüber mackern 
+    - ja mehr ich gemeckert habe , umso weniger hat er mir geholfen und teilweise auch absichtlich
 
 - Macke:
     - die Macke 
@@ -17144,8 +17239,12 @@ ausbremsen:
 - junge:
     - er ist ein Junge 
 
-- jungdlich:
-    -er ist Junglich
+- jugend:
+    - die Jugend 
+    - in meiner Jugend habe ich viel erlebt 
+
+- jugendlich:
+    - das ist eine jugendliche Art 
 
 ### dampf 
 - Dampf:
@@ -17166,12 +17265,24 @@ ausbremsen:
 - abschwemmen:
     - der Sand wird von der Straßen abgeschwemmt 
 
-- überschwemmung:
+- überschwemmen:
     - der Fluss überschwemmt die Stadt 
     - sie werden den Markt überschwemmen 
 
 - Überschwemmung:
-    - die Überschwemmung
+    - die Überschwemmung 
+
+- schwappen:
+    - das Wasser schwappt als ich ins Wasser gespringt habe 
+
+- überschwappen:
+    - das Fass ist übergeschwappt
+
+- schwimmen:
+    - sie schwimmt sehr gut 
+
+- verschimmen:
+    - die Erinnerung verschimmt 
 
 ### ist mir 
 - sie ist dir ähnlich 
@@ -17202,6 +17313,42 @@ ausbremsen:
     - der Meister 
     - er ist ein Meister im Schwimmen
 
+### enden
+- Ende:
+    - das Ende 
+    - ich bin am Ende 
+
+- enden:
+    - der Programm endet bald 
+
+- beenden:
+    - ich habe das Meeting beendet 
+
+### backen
+- Kuchen:
+    - der Kuchen 
+
+- backen:
+    - wir haben einen Buchen gebacken 
+
+- aufbacken:
+    - du müsst nur das Brot aufbacken 
+
+- überbacken:
+    - das überbackst du mit Käse 
+
+### warnen 
+- warnen:
+    - dummerweise werden wir erst dann gewarnt wenn wir die schmerzliche Erfahrung gemacht haben
+    - ich warne dich 
+
+- vorwarnen:
+    - ich habe dich vorgewarnt
+    - das Gerät warnt vor, wenn die Batterien leer werden 
+
+- Warnung:
+    - die Warnung 
+    - er hat alle Warnungen ignoriert 
 
 ##
 
@@ -17770,9 +17917,7 @@ ______________________________________
     - es besteht die Möglichkeit 
     - es gibt zwei Möglichkeiten das zu machen  
 
-- Gegend:
-    - die Gegend 
-    - ich kenne diese Gegend nicht 
+
 
 - geräumig:
     - es ist sehr geräumig 
@@ -17846,16 +17991,10 @@ ______________________________________
     - der Hinterkopf
     - ich muss das machen aber immer im Hinterkopf haben 
 
-- Gebiet:
-    - das Gebiet 
-    - er ist ein Expert auf diesem Gebiet 
 
 
 
-- Markt:
-    - der Markt
-    - die Situation auf dem Markt ist nicht gut 
-    - ich kauf auf dem Markt
+
 
 
 
@@ -18404,6 +18543,7 @@ ______________________________________
     - wenn keine Widersprüche sind dann haben wir die Sache beschlossen  
 
 - Welt:
+- Umwelt:
     - die Welt 
     - das kannst du auf der Welt machen 
 
@@ -18850,13 +18990,99 @@ ______________________________________
 - zwischen 
 
 ### beispiele 
-- ich gehe an den Strand damit ich am Strand laufe 
+- ich gehe an den Strand damit ich am Strand entlang laufe 
 - ich fahre auf die Autobahn weil auf der Autobahn darf man schnell fahren 
 - ich jogge in den Park damit ich im Park jogge  
 - ins Wasser springen und dann im Wasser springen 
 - Haus am Wasser
 - ich gehe in die Sonne , ich stehe in der Sonne, ich komme aus der Sonne
-- du hast etwas im Gesicht , am Körper
+- du hast etwas im Gesicht , am Körper 
+
+- Heimat:
+    - die Heimat 
+    - in der Heimat, in die Heimat 
+
+- Medien:
+    - die Medien 
+    - in den Medien, in die Medien, aus den Medien 
+
+- Militär:
+    - das Militär 
+    - beim Militär, zum Militär
+
+- Bildschirm:
+    - der Bildschirm
+    - auf dem Bildschirm
+
+- Hang:
+    - der Hang 
+    - am Hang stehen, an Hang gebaut 
+
+- Ferne:
+    - die Ferne 
+    - in der Ferne , in die Ferne, aus der Ferne
+
+- Freie:
+    - das Freie 
+    - im Freie
+
+- Feier:
+    - die Feier 
+    - auf der feier treffen, zur Feier 
+
+- Fest:
+- Festival:
+    - das Fest 
+    - auf dem Fest, zum Fest
+
+- Fernsehen:
+    - das Fernsehen 
+    - im Fernsehen 
+
+- Fernseher:
+    - der Fernseher 
+    - vor dem Fernseher
+
+- Flur:
+    - der Flur 
+    - auf dem Flur 
+
+- Bahnsteig:
+- Bürgersteig:
+- Gehweg:
+    - der Gehsteig 
+    - auf dem Gehsteig 
+
+- Radweg:
+    - der Radweg 
+    - auf dem Radweg
+
+- Spaziergang:
+    - der Spaziergang 
+    - auf dem Spazierganh 
+
+- Gegend:
+    - die Gegend 
+    - in der Gegend
+    - ich kenne diese Gegend nicht 
+
+- Gebiet:
+    - das Gebiet 
+    - er ist ein Expert auf diesem Gebiet 
+
+- Abgrund:
+    - der Abgrund 
+    - wir stehen vor dem Abgrund
+    - ich stehe am Abgrung
+    - an den Abgrung bringen
+    - aus dem Abgrung herausarbeiten
+
+- Essen:
+    - das Essen 
+    - beim Essen, zum Essen 
+
+- Abseits:
+    - im Abseits 
 
 - Hause:    
     - das Hause 
@@ -18904,11 +19130,224 @@ ______________________________________
 
 - Berg:
     - die Berge 
-    - ich gehe in die Berge 
+    - ich gehe in die Berge , in den Bergen, aus den Bergen
    
 - Park:
     - der Park 
     - ich gehe in den Park 
+
+- Bank:
+- Post:
+    - die Bank
+    - gehe auf die Bank 
+    - bin auf der Bank 
+    - aus / von der Bank 
+
+- Spielplatz:
+    - der Spielplatz 
+    - gehe auf den Spielplatz 
+    - auf dem Sielplat 
+    - von Spielplatz
+
+- Kiosk:
+    - der Kiosk 
+    - am Kiosk kaufen 
+    - zum kiosk 
+
+- Bäckerei:
+    - die Bäckerei 
+    - in der Bäckerei Kaufen 
+    - zur Käckerei
+
+- Bahnhof:
+    - der Bahnhof 
+    - zum Bahnhof 
+    - im Bahnhof 
+    - von Bahnhof 
+
+- Badezimmer:
+    - das Badezimmer 
+    - ins Badezimmer
+    - im Badezimmer 
+    - aus dem Badezimmer
+
+- Haltestelle:
+    - die Haltestelle
+    - ich gehe zur Haltestelle 
+    - ich steige an der Haltestelle um 
+    - ich bin an der Bushaltestelle 
+
+- Balkon:
+    - der Balkon
+    - auf den Balkon 
+    - auf dem Balkon 
+    - vom Balkon
+
+- Toilette:
+    - die Toilette 
+    - auf die Toilette 
+    - auf der Toilette 
+    - von der Toilette 
+
+- Auto:
+    - das Auto 
+    - im Auto 
+    - zum meinem Auto 
+
+- Verein:
+    - der Verein 
+    - in einen Verein 
+    - im Verein
+
+- Markt:
+    - der Markt
+    - die Situation auf dem Markt ist nicht gut 
+    - ich kauf auf dem Markt
+
+- Arbeitsplatz:
+    - der Arbeitsplatz 
+    - am Arbeitsplatz, an den Arbeitsplatz, von dem 
+
+- Ausgang:
+- Eingang:
+    - der Ausgang
+    - warte am Ausgang, zum Ausgang, vom Ausgang
+
+- Baustelle:*
+    - die Baustelle 
+    - auf der Baustelle, auf die Baustelle, von der Baustelle 
+
+- Gleis:
+    - das Gleis 
+    - auf Gleis - vom Gleis
+
+- Google:
+    - auf Google , von Google 
+
+- Grafik:
+    - die Grafik 
+    - in der Grafik, in die Grafik, aus der Grafik 
+
+- Grenze:
+    - die Grenze 
+    - an der Grenze, an die Grenze, von der Grenze
+    
+- Halteverbot:
+    - das Halteverbot
+    - im Halteverbot, in Halteverbot, aus dem Halteverbot
+
+- Kofferraum:
+    - der Kofferraum 
+    - im Kofferraum, in den Kofferraum, aus dem Kofferraum
+
+- Konto:
+    - das Konto 
+    - auf dem KOnto, auf das Konto, vom Konto
+
+- Kopf:
+    - der Kopf 
+    - im Kopf, in den Kopf, aus dem Kopf 
+
+- Land:
+    - das Land 
+    - auf dem Land, auf das Land, vom Land 
+
+- Leine:
+    - die Leine 
+    - ich nehme die Hund an die Leine 
+    - ich lasse den Hund an der Langen Leine
+
+- zusammenfassung:
+    - die Zusammenfassung 
+    - in der Zusammenfassung, in die Zusammenfassung, aus der Zusammenfassung 
+
+- Zukunft:
+- Vergangheit:
+    - die Zukunft 
+    - in der Zukunft werden wir das anders machen 
+    - investition in die Zukunft, blick in die Zukunft 
+
+- Ziel:
+    - das Ziel 
+    - am Ziel, zum Ziel
+
+- Zettel:
+    - der Zettel 
+    - auf dem Zettel steht, auf den Zettel schreiben, vom Zettel lesen 
+
+- Wohnheim:
+    - das Wohnheim 
+    - im Wohnheim, ins Wohnheim
+
+- Tafel:
+    - die Tafel 
+    - an der Tafel stehen, an die Tafel schreiben 
+
+- Tankstelle:
+    - die Tankstelle 
+    - an der Stankstelle, an die Tankstelle 
+
+- Karte:
+    - die Karte 
+    - auf der Karte
+
+- Zentrum:
+    - das Zentrum 
+    - im Zenturm, ins/zum Zentrum, aus dem Zenturm 
+
+- Zeitung:
+    - die Zeitung 
+    - in der Zeitung, in die Zeitung, aus der Zeitung 
+
+- Wüste:
+    - die Wüste 
+    - in der Wüste 
+
+- Webseite:
+    - die Webseite 
+    - auf der Webseite, auf die Webseite, von der Webseite 
+
+- Wanderung:
+    - die Wanderung 
+    - bei Wanderung, zur Wanderung
+
+- Gespräch:
+    - das Gespräch 
+    - Im Gespräch, ins Gespräch, aus dem Gespräch 
+
+- Ort:
+    - der Ort 
+    - am Ort, an den Ort, vom Ort 
+
+- Stelle:
+    - die Stelle 
+    - an der Stelle 
+
+- Platz:
+    - der Platz 
+    - auf dem Platz
+
+- Umweg:    
+    - der Umweg 
+    - auf Umweg 
+
+- Treffpunkt:
+    - der Treffpunkt 
+    - am Treffpunkt, an den Treffpunkt 
+
+- Höhepunkt:
+    - der Höhepunkt
+    - auf dem Höhepunkt
+
+- Teller:
+    - der Teller 
+    - auf dem Teller 
+
+- Tastatur:
+    - die Tastatur
+    - auf der Tastatur 
+
+
 
 ### Innerhalb und außerhalb des Dorfes
 - entlang:
@@ -19006,9 +19445,79 @@ ______________________________________
     - ich meine es ernst
     - mit dieser Idee können wir es weitbringen
     - er hat es in seiner Karrier weitgebracht 
+    - es hat öfters gebrodelt 
 
 ### Konjunktionen 
+- ab:
+    - dativ 
+    - ab hier kannst du auto fahren 
+    - ab morgen kann man das machen 
+    - es gibt Produkte ab 30 Euro 
+    - ab 16 jahren kann man das machen
+
+- als:
+    - akustive 
+    - als Deutscher liebt er die Ordnung
+
+- an:
+    - an der Elbe 
+    - am Montag
+    - am weichnachten 
+    - an die 20 Leute 
+    - das Beste an der Sache 
+    - an sich ist es ok  
+
+- auf:
+    - auf dem Land 
+    - auf Reisen
+    - auf gut Glück  
+    - auf dem Herzen haben
+    - die Rechnung geht auf mich 
+    - auf dem Sprung sein 
+    - auf dem Fuß
+    - auf der Tasche 
+    - auf die lange Bank
+
+- bis:
+    - bis Hamburg 
+    - bis zur nächsten Haltestelle 
+    - bis Oktober 
+    - es kostet bis zu 50 Euro 
+    - bis auf dich waren alle dort 
+
+- in:
+    - ins Freie gehen 
+    - ich lege mich in die Sonne 
+    - es hat es in sich
+    - im Oktober 
+    - im Herbst 
+
+- mit:
+    - mit 20 habe ich mein Führschein
+
 #### Doppel kon nektoren 
+- sowohl etwas als auch:
+    - ich kann sowohl English als auch Deutsch sprechen 
+    - sowohl English als auch Arabisch ist gut 
+
+- nicht nur sondern auch:
+    - er ist nicht nur informationen Medium sondern auch ein Tool 
+
+- entweder oder:
+    - ich kann ender einen Laptop oder ein Fahrrad kaufen 
+
+- weder noch:
+    - weder Facebook noch Wiki stehen zur Verfügung 
+
+- teils teils:
+    - ich benuzte es teils zum Lesen, teils zum Arbieten
+
+- zwar aber:
+    - es ist zwar interessant aber sehr teuer 
+
+- ja desto:
+    - ja schneller man arbeitet desto schneller bekommt man Geld 
+
 #### Gegensatz
 - aber:
     - er ist schlank aber kräftig 
@@ -19068,6 +19577,9 @@ ______________________________________
 
 - weil:
     - ich werde es an jemanden andere übergeben weil ich keine Zeit habe 
+
+- denn:
+    - sieht dich warm, denn es ist klat 
 
 - wobei:
     - er hat es sehr schnell die Aufgabe gemacht wobei er manche Fehler gemacht hat 
