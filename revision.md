@@ -185,6 +185,8 @@
 - lassen:
     - wir lassen das außen vor
     - ich habe mein Handy hier gelassen
+    - er lasst mich nicht zu Wort
+    - ich kann das nicht auf mir sitzen lassen
 
 - ablassen:
     - wir lassen den Gas ab 
@@ -196,6 +198,7 @@
 - anlassen:
     - sie können die Schuhe anlassen
     - die Sache lasst sich gut an 
+    - ich lasse es mir nicht nehmen, ihn persönlich zu treffen
 
 - auslassen:
     - das lassen wir aus
@@ -552,7 +555,20 @@
     - ich muss mich mit diesem Problem herumschlagen 
 
 - herumdrucksen:
-    - er hat nicht den wahre Grund gesagt er hat einfach herumgedruckst
+    - er hat nicht den wahre Grund gesagt er hat einfach herumgedruckst 
+
+### spucken
+- Spucke:
+    - die Spucke
+
+- spucken:
+    - er spuckt auf den Boden 
+
+- ausspucken:
+    - im Auto spuckt er aus 
+
+- bespucken:
+    - er hat mich bespuckt 
 
 ### argument 
 - Argument:
@@ -841,6 +857,7 @@
 - werfen:
     - ich kann sehr weit werfen 
     - ich werde es auf dich werfen 
+    - wir habe es über Bord geworfen
 
 - abwerfen:
     - die Bäume werfen die Blätter ab 
@@ -898,6 +915,9 @@
 
 - zuwerfen:
     - wirf mir den Ball zu
+
+- zurückwerfen:
+    - hat es dich weitergebracht oder zurückgeworfen 
 
 ### schieben 
 - schieben:
@@ -2442,13 +2462,18 @@
 
 - zusammenlegen:
     - wir haben für den Urlaub zusammengelegt [geld sammeln]
+    - T-Shirt zusammenlegen
 
 ### lagern 
 - lagern:
     - ich lagere das im Keller 
 
 - ablagern:
-    - In Wasserleitungen kann sich Kalk ablagern. [ansetzen]
+    - In Wasserleitungen kann sich Kalk ablagern. [ansetzen] 
+
+- Ablage:
+    - die Ablage 
+    - ich werde das in die Ablage legen
 
 - auslagern:
     - die Arbeitstelle wird nach China ausgelaggert 
@@ -2467,6 +2492,10 @@
 
 - verlagern:
     - unsere Interesse hat sich verlagert 
+
+- Vorlage:
+    - die Vorlage 
+    - ich benutzt es als Vorlage 
 
 - zwischenlagern:
     - du kannst deine Gepäck bei mir zwischenlagern 
@@ -2536,7 +2565,8 @@
     - ich schneide das Fleisch
     - Haar / Nägel Bschneiden 
     - ich habe mich geschnitten(sich)[verletzt]
-    - ich habe mir in den Finger geschnitten 
+    - ich habe mir in den Finger geschnitten  
+    - in scheiben schneiden [in scheiben]
 
 - kleinschneiden:
     - schneide es bitte klein
@@ -2891,6 +2921,14 @@
 
 - beschlagen:
     - die Brille ist beschlagen 
+
+- beschlag:_
+    - der Beschlag 
+    - gestern nimmt das Kind den Fernseher in Beschlag 
+
+- Türbeschlag:
+    - der Türbeschlag
+    - der Türbeschlag muss gereinigt werden
 
 - erschlagen:[schockiert]
     - die Komplexität des Systems hat mich erschlagen 
@@ -3766,7 +3804,15 @@
 
 - Inhalt:
     - der Inhalt 
-    - ich werde dir den Inhalt meines Koffers nicht zeigen
+    - ich werde dir den Inhalt meines Koffers nicht zeigen 
+
+- Behälter:
+    - der Behälter 
+    - ich brauche einen Behälter 
+
+- Zuhälter:
+    - der Zuhälter 
+    - er ist ein Zuhälter
 
 ### stellen 
 - stellen:
@@ -4301,6 +4347,11 @@
     - mit dem Alter verstifen sich die Gelenke 
     - er hat sich auf das Ziel versteift 
 
+- Bogen:
+    - der Bogen 
+    - den Bogen überspannen [übertreiben]
+    - den Bogen aushaben [verstanden]
+
 ### starr 
 - starren:
     - er starrt auf den Bildschirm 
@@ -4470,6 +4521,14 @@
 
 - entbinden:
     - ich werde dich von deiner Pflichten entbinden 
+
+- Band: 
+    - das Band, die Bänder
+    - die Bänder sind ok 
+
+- Bandage:
+    - die Bandage 
+    - mit harten Bandagen kämpfen
 
 ### spalten
 - spalten:
@@ -4747,7 +4806,11 @@
     - das hat dieses Land ausgeprägt 
 
 - predigen:
-    - willst du mir über das predigen
+    - willst du mir über das predigen 
+
+- präferenz:
+    - die Präferenz 
+    - gibt es präferenzen 
     
 ### schließen 
 - schließen:
@@ -4776,8 +4839,9 @@
     - wo finde ich den Internet-Anschluss 
     - ich habe einen Anschlusstermin 
     - im Anschluss daran können wir das besprechen 
-    - ich habe den Anschluss verpasst 
-    - den Anschluss verlieren
+    - ich habe den Anschluss verpasst [zurückbleiben]
+    - den Anschluss verlieren 
+    - Anschluss finden [kontakt aufbauen]
 
 - anschließen:
     - ich schliße mich deiner Meinung an 
@@ -5618,6 +5682,7 @@
 
 - hochfahren:
 - herunterfahren:
+- neuen Start machen
 - hochladen:
     - das System fährt hoch 
     - ich habe das Bild hochgeladen 
@@ -5894,7 +5959,7 @@
     - das Fundament
     - das ist das Fundament für den Erfolg
 
-### pfuschen
+### pfuschen_
 - pfuschen:
     - hier wird gepfuscht 
 
@@ -5903,6 +5968,19 @@
 
 - herumpfuschen:
     - ich will nicht an dem Laptop herumpfuschen
+
+### fuchsen 
+- fuchsen:
+    - es fuchst mich dass er heute nicht gekommen ist 
+
+- einfuchsen:
+    - ich fuchse mich in das Thema ein 
+
+- ausgefuchst:
+    - die Leute hier sind nicht sehr ausgefuchst 
+
+- fuchs:
+    - er ist ein fuchs
 
 ### scheißen 
 - scheißen:
@@ -6569,6 +6647,9 @@
 - zusammenschweißen:
     - das hat uns zusammengeschweißt 
 
+- schmieden:
+    - einen Plan schmieden
+
 ### Maß 
 - Maß:
     - das Maß 
@@ -6576,6 +6657,10 @@
     - ein gewisses Maß an Geduld ist hier nötig 
     - das kann man zu einem gewissen Maß machen
     - das geht über das normale Maß hinaus 
+
+- Masse:
+    - die Masse 
+    - die breite Masse sind dagegen 
 
 - maßhalten:
     - ich halte beim Essen maß 
@@ -6618,7 +6703,10 @@
 - Geldmäßig:
 - planmässig:
 - Gefühlsmäßig:
+- Verhältnismäßig:
     - Wettermäßig war heute alles super 
+    - verhältnismäßig ist es teuer
+
 
 - folgendermaßen:
     - ich werde die Situation foldendermaßen erklären 
@@ -7993,6 +8081,9 @@
 - wehmütig:
     - ich werde wehmütig, als ich meine alte Freunde gesehen habe 
 
+- langmütig:
+    - er ist sehr langmütig
+
 - freimütig:
     - ich kann dir das freimütig sagen 
     - ich spreche freimütig über meine Fehler
@@ -8124,12 +8215,23 @@
 - begutachten:
     - wir müssen die Software begutachten lassen 
 
+- Bach:_
+    - der Bach (kleiner Fluss)
+    - dann geht alles den Bach runter 
+    - das projekt ist den Bach runtergegangen 
+
 ### Körper
 - Körper:
     - der Körper 
     - ich wollte meinen ganzen Körper trainieren 
     - mein Körper tut weh 
     - das habe ich auf meinem Körper gefühlt 
+
+- körperlich:
+    - körperlich ist es sehr anstrengend 
+
+- geistig:
+    - geistig bin ich nicht da
 
 - Herz:
     - das Herz- dem Herzen - des Herzens
@@ -8363,6 +8465,9 @@
 
 - verrühren:
     - Milch und Eier verrühren
+
+- klumpen:
+    - Mehl klumpt schnell
 
 ### ruhe 
 - beruhen:
@@ -8855,6 +8960,14 @@
     - die Menge 
     - das ist eine Menge Arbeit
 
+- Mischung:
+    - die Mischung 
+    - das ist eine Mischung aus arabisch und englisch 
+
+- Mischmasch:
+    - der Mischmasch 
+    - wir wollten den Mischmasch vermeiden 
+
 ### schulden
 - Schuld:
     - die Schuld 
@@ -9300,7 +9413,16 @@
     - meine Gedanken schweifen öft ab 
 
 - ausschweifend:
-    - ich wollte nicht ausschweifend leben
+    - ich wollte nicht ausschweifend leben 
+
+### butter 
+- Butter:
+    - die Butter 
+    - alles in Butter 
+    - ich lass mir nicht die Butter vom Brot nehmen  
+
+- unterbuttern:
+    - ich lass mich nicht unterbuttern 
 
 ### kreuzen
 - kreuzen:
@@ -10475,6 +10597,10 @@
     - ich wollte ein großes Bett 
     - ich leige im Bett 
     - ich freue mich im Bett zu liegen 
+    - sich ins gemachte Bett legen
+
+- betteln: 
+    - sie müssen sogar betteln 
 
 ### eilen
 - eilig:
@@ -10542,7 +10668,10 @@
     
 - Freundeskreis:
     - der Freundeskreis
-    - allein in meinem Freundeskreis hat ich 2 Motorschaden
+    - allein in meinem Freundeskreis hat ich 2 Motorschaden 
+
+- freundlich:
+    - wir haben uns auf freundlicher Basis
 
 ### frei
 - Freie:
@@ -11481,7 +11610,7 @@
     - die Reparature geht zulasten des Mieters
 
 - belästigen:
-    - ich wollte dich nicht belästigen [nerven]
+    - ich wollte dich nicht belästigen [nerven] [mobben]
 
 - lästig:
     - das ist eine lästige Frage 
@@ -12214,6 +12343,12 @@
 - stolpern:
     - ich bin über das Problem gestolpert 
 
+- stülpen:
+    - ich stülpe ein Gass über die Spinne 
+
+- umstülpern:
+    - ich stülpere den Eimer um, und darauf 
+
 ### stürzen 
 - stürzen:
     - ich bin kopfüber ins Wasser gestürzt 
@@ -12463,6 +12598,14 @@
 - ermüdend:
     - das Training ist ermüdend [anstrengend]
 
+- fix und fertig 
+- K.o
+- im Eimer 
+- ich bin gerädert
+- abgeschlafft 
+- ausgepowert sein
+
+
 ### eignen 
 - eignen:
     - er eignet sich sehr gut für diese Aufgabe 
@@ -12570,6 +12713,9 @@
 - zusammenklappen:
     - der Stuhl kann man zusammenklappen 
 
+- einklappen:
+    - ich klappe den Ärmel ein
+
 - überlappen:
     - die beiden Termine überlappen sich Zeitlich 
     - es gibt Überlappung 
@@ -12619,6 +12765,9 @@
 - Distanz:
     - die Distanz 
     - aus Distanz sehen 
+
+- Diskrepanz:
+    - es gibt näturlich Diskrepanz zwischen A und B 
 
 ### wissen
 - wissen:
@@ -13169,6 +13318,25 @@
     - die Fäden haben sich verwickelt 
     - sie verwickelt ihn in dieses Problem 
 
+### hülle 
+- Hülle:
+    - die Hülle 
+    - eine schützende Hülle 
+
+- hüllen:
+- einhüllen:
+    - ich hülle das Kind in ein Tuch 
+
+- enthüllen:
+    - ich enthülle mein Geheimnis 
+
+
+- umhüllen:
+    - das ümhüllt den Körper 
+
+- verhüllen:
+    - ich habe das verhüllen 
+
 ### packen 
 - abpacken:
     - ich packe das Essen ab 
@@ -13619,6 +13787,23 @@
 - Kummer:
     - der Kummer 
 
+### krumm 
+- krumm:
+    - sein Rücken ist krumm 
+
+- krümmen:
+    - die Arbeit hat meinen Rücken gekrümmt 
+
+### krümeln 
+. krümeln:
+    - das Brot krümeln 
+
+- krümel:   
+    - dre Krümel 
+
+- zerkrümeln:
+    - das Essen zerkrümeln sich
+
 ### blenden
 - blenden:
     - die Sonne blendet mich 
@@ -13688,6 +13873,12 @@
 
 - erkämpfen:
     - ich habe mir die Stelle erkämpft 
+
+- rebellieren:
+    - sie haben gegen die Regierung rebelliert 
+
+- rebellisch:
+    - er ist rebellisch 
 
 ### fliegen
 - Flug:
@@ -13795,6 +13986,7 @@
 ### Ball 
 - Ball:
     - der Ball 
+    - dem Ball flach halten
 
 - ballen:
     - er ballt seine Hand zur Faust
@@ -14249,6 +14441,20 @@
 
 - ausklinken:
     - Sie klinkte sich aus dem Projekt aus, da sie keine Zeit mehr hatte.
+
+### klicken
+- Klick:
+    - der Klick 
+    - das kann man mit einem Klick machen 
+
+- klicken:
+    - auf das Symbol klicken 
+
+- anklicken:
+    - das Symbol anklicken 
+
+- wegklicken:
+    - ich klicke es weg
 
 ### gönnen:
 - gönnen:_
@@ -14765,6 +14971,9 @@
 - ausschmücken:
     - ich habe die Geschichte ausgeschmückt 
 
+- Mücke:
+    - die Mücke 
+    
 ### schminken 
 - schmincken:
     - sie schminken sich stark 
@@ -15159,16 +15368,25 @@
     - diese Kleidung verbleichen schnell 
 
 ### schwellen
-- Schwellung:
-    - die Schwellung 
-    - ich habe eine Schwellung bekommen 
-
 - schwellen:
     - meine Füße sind geschwollen 
 
 - abschwellen:
 - anschwellen:
     - der Lärm schwillt ab 
+
+- Schwellung:
+    - die Schwellung 
+    - ich habe eine Schwellung bekommen 
+
+- Stich:
+    - der Stich 
+    - ich haben einen Stich 
+    - im stich lassen 
+
+- Krazter:
+    - der Kratzer
+    - der Kratzer heilen gut
 
 ### Speise 
 - Speise:
@@ -15337,12 +15555,16 @@
     - hier hat man Gold und Silber verschmolzen 
 
 ### checken
+- checken:
+    - ich checke es einfach nicht 
+
+
 - abchecken:
     - ich werde es mit dem Chef abchecken ob das gehen kann 
 
 - einchecken:
 - auschecken:
-    - ich will einchecken (hotel)
+    - ich will mich einchecken (hotel)
 
 - durchchecken:
     - er hat mein Auto durchgecheckt 
@@ -15514,7 +15736,14 @@
 
 - scheitern:
     - es ist an der Finanzierung gescheitert
-    - es sollte nicht an dir scheitert
+    - es sollte nicht an dir scheitert 
+
+- bescheinigen: [quittieren]
+    - könntest du mir den Empfang bescheinigen 
+
+- Bescheinigung:
+    - die Bescheinigung
+    - ich brauche eine Bescheinigung 
 
 ### schämen 
 - schämen:
@@ -15576,7 +15805,25 @@
 
 - Öffnungszeiten:
     - die Öffnungszeiten 
-    - außerhalb der Öffnungzeiten ist eine Besichtigung nach Absprache möglich
+    - außerhalb der Öffnungzeiten ist eine Besichtigung nach Absprache möglich 
+
+- Friedhof:
+    - der Friedhof 
+
+- Bahnhof:
+    - der Bahnhof 
+    - ich verstehe nur Bahnhof 
+
+### fried
+- Frieden:
+    - der Frieden 
+    - sie sehnen sich nach frieden 
+
+- befriedigen:
+    - das kann mich befriedigen 
+
+- zufrieden:
+    - ich bin mit dem Ergebnis zufrieden
 
 ### zucken
 - zucken:
@@ -16414,6 +16661,12 @@
 - nachhinken:
     - wir hinken der Entwicklung hinterher 
 
+- hocken:
+    - er kann hocken 
+
+- hüpfen:
+    - die Kinder hüpfen 
+
 ### Hand 
 - Hand:
     - die Hand 
@@ -16900,8 +17153,12 @@
 - Rechenschaft:
     - ich bin niemandem Rechenschaft schüldig 
 
-- Bürschaft:
+- Bürgschaft:
     - die Bürgschaft 
+
+- Nachbarschaft:
+    - die Nachbarschaft
+    - er ist in Nachbarschaft gezogen
 
 ### schlauch 
 - Schlauch:
@@ -17152,10 +17409,6 @@
     - das Pferd 
 
 ### c 
-- Computer:
-    - der Computer 
-    - ich sitze am Computer 
-
 - Chance:
     - die Chance 
     - deine Chancen sind gut
@@ -17346,9 +17599,6 @@
 - Ferne:
     - ich habe es aus der Ferne gesehen 
 
-- abstumpfen:_
-    - diese Erfahrung hat mich abgestumpft 
-
 - Eifer:
     - der Eifer 
     - ich mache es mit großen Eifer 
@@ -17413,7 +17663,50 @@
     - Er hat ungefähr meine Größe 
 
 - Größenordnung:
-    - ich finde 10% ganz gute Größenordnung
+    - ich finde 10% ganz gute Größenordnung 
+
+- quer:
+    - ich bin quer über die Wiesen gelaufen 
+    - ich habe es quer geschnitten 
+
+- längs:
+    - es ist längs geschnitten 
+
+- Kreuz:
+    - das Kreuz 
+
+### lang 
+- langlebig:
+- kurzliebig:
+    - der Akku ist langlebig 
+
+- langatmig:
+    - es ist etwas langatmig [langweilig]
+
+- langfristig:
+    - das ist ein langfristiger Plan 
+
+- längerfristig:
+    - wir müssen längerfristig eine Lösung finden 
+
+- langmütig:
+    - er ist sehr langmütig
+
+### linie 
+- Linie:
+    - die Linie 
+    - in erster Linie 
+    - wir bilden eine Linie 
+    - wir stellen uns auf einer Linie 
+
+- gestrichelte Linie:
+- durchgezogene Linie:
+- Richtlinie:
+    - das ist eine gestrichelte Linie 
+
+- geradlinig:
+    - ich bin geradlinige Person
+
 
 ### mir ist
     - mir ist peinlich 
@@ -17451,6 +17744,24 @@
 
 - Vorfeld:
     - ich habe viel im Vorfeld gemacht 
+
+- Blickfeld:
+    - das Blickfeld 
+    - er hat beschränkes Blickfeld 
+
+### stampfen _
+- stampfen:
+    - sie haben das Einkaufszentrum aus dem Boden gestampfen
+
+- einstampfen:  
+    - wir werden das Auto einstampfen 
+
+- stumpf:
+- scharf:
+    - das mache ich ganz stumpf 
+
+- abstumpfen:_
+    - diese Erfahrung hat mich abgestumpft 
 
 ### sehnen
 - sehnen:
@@ -18115,6 +18426,13 @@
 - zweimonatlich:
     - wir schicken es monatlich / zweimonatlich 
 
+- jährig:
+    - zweijähriges Kind 
+
+- volljährig:
+- Minderjährig:
+    - er ist volljährig
+
 ### fesseln 
 - fesseln:
     - ich habe ihn gefesselt 
@@ -18310,6 +18628,10 @@
 - verarmen:
     - das hat die Leute verarmen 
 
+- Ärmel:
+    - der Ärmel 
+    - der Ärmel hochkrempeln
+
 ### ist mir 
 - sie ist dir ähnlich 
 - mir ist übel 
@@ -18498,18 +18820,7 @@
     - die Scheidung
     - die Trennung 
 
-### fuchsen 
-- fuchsen:
-    - es fuchst mich dass er heute nicht gekommen ist 
 
-- einfuchsen:
-    - ich fuchse mich in das Thema ein 
-
-- ausgefuchst:
-    - die Leute hier sind nicht sehr ausgefuchst 
-
-- fuchs:
-    - er ist ein fuchs
 ### weit
 - weit:
     - man muss bis weit in Zukunft planen
@@ -18696,6 +19007,26 @@
 - Tischplatte:
     - die Tischplatte 
 
+- Festplatte:
+    - die Festplatte 
+    - auf der Festplatte
+
+- Brett:_
+	- das Brett
+	- er hat ein Brett vor dem Kopf wenn es um Datenschatz geht
+    - dicke Brette bohren muss 
+
+### speichern 
+- speichern:
+- abspeichern:
+    -ich speichere es auf der Festplatte 
+
+- zwischenspeichern:
+    - ich speichere es zwischen 
+
+- aufspeichern:
+    - das speichert Energie auf 
+
 ### lauern 
 - lauern:
     - die Katze lauert auf die Mause 
@@ -18731,7 +19062,256 @@
     - ich muss die Platte hobeln 
 
 - uneben:
-    - die Platte ist uneben
+    - die Platte ist uneben 
+
+### affe &&& waffe
+- Affe:
+    - der Affe 
+    - ich mache mich nicht zum Affen 
+
+- waffe:
+    - die Waffe 
+    - das ist eine gefährliche Waffe 
+
+- bewaffnen:
+    - ich werde ihn bewaffnen 
+    - er ist bewaffnet 
+
+- wappnen:
+    - es ist nicht gegen Angriff gewappnet 
+
+- Wappen:   
+    - das Wappen
+ 
+### gestalten 
+- gestalten:
+    - wir gestalten das Meeting so dass wir früher feierabend machen können 
+    - die Arbeit gestaltet sich sehr schwerig [sich]
+
+- veranstalten:
+    - er hat das Feuer veranstaltet
+
+- Anstalten:    
+    - die Anstalten 
+    - er macht keine Anstalten uns zu helfen 
+
+### an sich 
+- an sich:
+    - an sich ist es nicht schlecht 
+
+- an sich nehmen:
+- an sich bringen:
+    - du kannst nicht einfach das Geld an sich nehmen 
+
+### das A
+- das A und o:
+    - Vertrauen ist für mich das A und o 
+
+### acker 
+- acker:
+    - ich mache mich vom Acker 
+    - ich mache mich vom Acker 
+
+- ackern:
+    - ich habe für diesen Job geackert 
+
+### Bank 
+- Bank:
+    - die Bank 
+    - auf die lange Bank schieben 
+
+- bankrott:
+    - er geht bankrott
+
+### blatt
+- Blatt:
+    - das Blatt 
+    - ich will ein Blatt papier 
+    - die Blätter sind grün 
+
+- blättern:
+    - er hat im Buch geblättert
+
+- abblättern:
+    - die Farbe ist abgeblättert
+
+- durchblättern:
+    - ich habe den Code nur durchgeblättert 
+
+- umblättern:
+    - ich blättere die Seite um 
+
+### Computer 
+- kompilieren:
+    - ich muss es erst kompilieren 
+
+- scrollen:
+    - scroll bitte runter/hoch/weiter 
+
+- Prozess:
+	- der Prozess
+
+- Portieren:
+    - portieren nach Windows 
+
+- anpingen:
+    - kannst du diese Website anpingen 
+
+- Bedienungsfehler:
+    - der Bedienungsfehler 
+
+- Kommandozeilepargumente
+    - die Kommandozeileargumente 
+
+- Cursor:
+    - der Cursor 
+
+- Datentyp:
+    - der Datentyp 
+
+- Dateityp:
+    - der Dateityp 
+
+- Datenbank:
+    - die Datenbank 
+
+- E-Mail-Adresse:
+    - die E-Mail-Adresse 
+
+- Einheit:
+    - die Einheit 
+
+- Passwort:
+    - das Passwort 
+
+- Endbenutzer:
+    - der Endbenutzer 
+
+- Instanz:
+    - die Instanz 
+
+- Instanziieren:
+    - du musst es instanziieren 
+
+- Konsole:
+    - die Konsole 
+
+- Puffer:
+    - der Puffer 
+
+### sabbern
+- sabbern:
+    - das Kind sabbert 
+
+- Speichel:
+    - der Speichel 
+    - übermäßiger Speichel 
+
+- Schleim:
+    - der Schleim 
+
+- schnäuzen:
+    - ich will mir die Nase schnäuzen
+
+- Schnupfen:
+    - der Schnupfen 
+    - ich habe einen Schnupfen bekommen 
+
+- schnaufen:
+    - ich muss schnaufen 
+    - ich komme ins Schnaufen 
+
+- durchschnaufen:
+    - ich muss durchschnaufen 
+
+- verschanufen:
+    - ich muss mich verschnaufen 
+
+### Sekt 
+- Sekte:
+    - die Sekte 
+
+- Sektor:
+    - der Sektor 
+
+- Insekt:
+    - das Insekt
+
+- Mücke:
+    - die Mücke 
+
+- Fliege:
+    - die Fliege 
+    - es gibt viel Fliege  
+
+### spicken
+- spicken:
+    - er hat bei der Prüfung gespickt 
+
+- spicker:
+    - der Spicker 
+    - wo soll ich den Spicker verstecken 
+
+- abspecken:
+    - das ist eine abgespeckte Version 
+
+### explizit
+- explizit:
+- implizit:
+    - er hat das implizit gesagt 
+
+### Haus 
+- Haus:
+    - das Haus 
+    - ich kann von zu Haus arbeiten 
+
+- Laufhaus:
+    - das Laufhaus
+
+- schauspielern:
+    - ich habe es geschauspielert 
+
+### quer 
+- Quere:_
+    - ich will dir nicht in der Quere stehen 
+    - das wird uns in die Quere kommen
+
+- querdenken:
+    - ich habe quergedacht um das Problem zu lösen 
+
+- querlegen:
+- querlegen:
+    - alle waren einig aber du musst dich immer querlegen  [sich]
+- querlesen:
+    - ich habe das nur quergelesen 
+
+- durchqueren:
+    - um Turkei zu erreichen muss man Poland durchqueren 
+
+- überqueren:
+    - ich habe die Brücke überquert 
+
+- unterqueren:
+    - wir haben die Brücken unterquert
+
+- querschießen:
+    - er hat gegen das Projekt quergeschossen 
+
+### Matte 
+- matschig:
+    - der Boden war matschig
+
+- Matsch:
+    - der Matsch 
+    - im Matsch ausrutschen
+
+- Matte:
+    - die Matte 
+    - ich wollte die Fussmatte saubermachen 
+
+- Matraze:
+    - die Matraze 
+    - das ist eine harte Matratze 
 
 ### FUGENZEICHEN
 - der Sicherheitscode
@@ -18740,12 +19320,6 @@
 
 ##
 
-
-- betteln: 
-    - sie müssen sogar betteln 
-
-
- 
 
 
 
@@ -18764,8 +19338,7 @@
 Pressezensur
 
 
-- wappnen:
-    - es ist nicht gegen Angriff gewappnet 
+
 
 - wappentier 
 
@@ -18817,9 +19390,7 @@ Pressezensur
 	- der Rand
 	- der Rand des Tisches ist gut
 
-- Ding:
-	- das Ding
-	- ich kann das Ding reparieren 
+
 
 - Kabel:
     - das Kabel 
@@ -18846,9 +19417,6 @@ Pressezensur
 	- die Software
 	- ich muss die Software installieren
 
-- Anstalten:    
-    - die Anstalten 
-    - er macht keine Anstalten uns zu helfen 
 
 - Detail:
     - das Detail
@@ -19024,8 +19592,7 @@ ______________________________________
     - die Lust 
     - ich habe keinen Bock auf soetwas
 
-- Prozess:
-	- der Prozess
+
 
 
 - Knopf:
@@ -19049,8 +19616,7 @@ ______________________________________
     - der Kanal
     - das kann über einen gesonderten Kanal gesendet werden
 
-- abspecken:
-    - das ist eine abgespeckte Version 
+
 
 - Gitter:_
     - das Gitter 
@@ -19279,9 +19845,7 @@ ______________________________________
     
 
 
-- Matte:
-    - die Matte 
-    - ich wollte die Fussmatte saubermachen 
+
 
 - verdeutlichen:
     - das kann man an einem Beispiel verdeutlichen 
@@ -19657,7 +20221,7 @@ ______________________________________
 - ich habe voreilig gehandelt 
 - der Chef hat mich überfahren 
 - er macht mir angst 
-- ich mache mich vom acker 
+
 - intern 
 
 - durchspielen (Möglichkeit)
@@ -19701,7 +20265,7 @@ ______________________________________
 - du kommst mir gerade recht 
 - ausrutscher 
 
-- geradlinig
+
 
 - gebrauchsanleitung 
 
@@ -19738,13 +20302,7 @@ ______________________________________
     - das ist mir ganz wurscht 
 	- was für ein Auto ich fahre ist mir total wurscht, habe sache es bringt mich von A nach B
 
-- Brett:_
-	- das Brett
-	- er hat ein Brett vor dem Kopf wenn es um Datenschatz geht
 
-- stumpf:
-- scharf:
-    - das mache ich ganz stumpf 
 
 
 - Tasche:
@@ -19836,9 +20394,7 @@ ______________________________________
     - die Welt 
     - das kannst du auf der Welt machen 
 
-- Haus:
-    - das Haus 
-    - ich kann von zu Haus arbeiten 
+
 
 - nostalgie:
     - die nostalgie 
@@ -19895,13 +20451,10 @@ ______________________________________
     - er bricht in Tränen
 
 
-- Diskrepanz:
-    - es gibt näturlich Diskrepanz zwischen A und B 
 
 
-- Quere:_
-    - ich will dir nicht in der Quere stehen 
-    - das wird uns in die Quere kommen
+
+
 
 
 
@@ -19993,10 +20546,7 @@ ______________________________________
     - es ist sehr tapferes Kind
 
 
-- Bach:_
-    - der Bach (kleiner Fluss)
-    - dann geht alles den Bach runter 
-    - das projekt ist den Bach runtergegangen 
+
 
 - Magie:
     - die Magie
@@ -20037,9 +20587,7 @@ ______________________________________
     - der Sumpf 
     - das Moor
 
-- Band: 
-    - das Band, die Bänder
-    - die Bänder sind ok 
+
 
 
 
@@ -20048,8 +20596,7 @@ ______________________________________
     - der Wortschatz 
     - ich will meinen Wortschat erweitern 
 
-- ackern:
-    - ich muss für die Prüfung ackern 
+
 - vorab:
     - ich will das vorab testen 
 
@@ -21400,3 +21947,4 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 
 
 - 
+9362565195 
