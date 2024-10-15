@@ -583,7 +583,18 @@
     - ich kann näturlich argumentieren dass es so nicht gehen wird 
 
 - wegargumeniteren:
-    - ich kann die Fakten nicht wegargumentieren
+    - ich kann die Fakten nicht wegargumentieren 
+
+### Mauer 
+- Mauer:
+    - die Mauer 
+    - das ist eine riesige Mauer 
+
+- Wand:
+    - die Wand 
+
+- Zaun:
+    - der Zaun
 
 ### Fall:
 - Fall:
@@ -2512,6 +2523,11 @@
     - er macht mir zur Auflage, dass ich das jeden Tag machen muss 
 
 ### liegen 
+- liegen:
+    - das liegt gerade bei dir [deine Entscheidung]
+    - das liegt an dir [du bist der Grund]
+    - das liegt mir an dir [du bist mir wichtig]
+
 - angelegen:
     - was du machen muss, es ist dir angelegen 
     - ich muss mir das Thema angelegen sein lassen 
@@ -2649,6 +2665,7 @@
 - einreißen:
     - ich habe das bild einreißen 
     - das Foto ist eingerissen 
+    - ich weiss dass ich es einreißen lassen [zur Gewöhnheit geworden]
 
 - ausreißen:
     - ich werde mir kein Bein für ihn ausreißen 
@@ -2914,6 +2931,10 @@
 
 - ausschlagen:
     - ich werde das Angebot ausschlagen 
+
+- ausschlaggebend:
+    - das war der ausschlaggebende Motiv warum ich das gemacht habe  [knackpunkt]
+    - das war ausschlaggebend dafür, dass ich das bekommen habe 
 
 - Ausschlag:
     - der Ausschlag 
@@ -3943,6 +3964,9 @@
 - zusammenstellen:
     - ich habe alle Informationen zusammengestellt die ich finden konnte 
 
+- wiedergherstellen:
+    - so kann man die Verbindung wiederhertellen 
+
 - Stelle:
 	- die Stelle
 	- an der Vereinbarten Stelle
@@ -4401,6 +4425,11 @@
     - ich staube die Kissen ab 
 
 ### strecken
+- Strecke:
+    - die Strecke 
+    - die Strecke ist sehr lange 
+    - auf der Strecke geblieben 
+
 - strecken: 
 - ausstrecken:
 - durchstrecken:
@@ -4422,7 +4451,14 @@
 - Tiefpunkt:
 - Höhepunkt:
     - der Tiefpunkt
-    - wir waren auf dem Tiefpunkt
+    - wir waren auf dem Tiefpunkt 
+
+- Gipfel:
+    - der Gipfel 
+    - das ist der Gipfel 
+
+- gipfeln:
+    - es gipfelt in einem Streit
 
 - Anhaltspunkt:
     - der Anhaltspunkt
@@ -4822,6 +4858,9 @@
     - ich mache aber jetzt mit der Arbeit Schluss 
     - ich habe den Schluss gezogen 
     - wir kommen zum Schluss dass er nicht möglich ist
+
+- Verschluss:
+    - der Verschluss
 
 - abschliessen:
     - hast du die Tür abgeschlossen
@@ -5581,6 +5620,10 @@
     - was kostet die Fahrt nach Köln 
     - ich wünnsche dir gute Fahrt 
 
+- Bahnfahrt:
+- Autofahrt:
+    - es ist eine Stunde bahnfahrt [ein stunde zu Fuß]
+
 - fahren:
     - ich fahre dich zum Bahnhof 
     - wir sind mit dieser Stragtie immer gut gefahren 
@@ -5658,7 +5701,13 @@
     - dann fragt man sich, wie könnte soetwas einem widerfahren 
 
 - nachfahren:
+- vorfahren:
     - ich fahre dir nach 
+    - kannst du vorfahren 
+
+- Vorfahr:
+- Nachfahr:
+    - woher kommen deine Vorfahren
 
 - losfahren:
     - ich fahre morgen los 
@@ -6485,6 +6534,10 @@
 
 - verwischen:_
     - die Schrift ist verwischt 
+
+- Lappen:
+    - der Lappen 
+    - mit einem Lappen wischen
 
 ### weichen
 - weich:
@@ -8082,7 +8135,11 @@
     - ich werde wehmütig, als ich meine alte Freunde gesehen habe 
 
 - langmütig:
-    - er ist sehr langmütig
+    - er ist sehr langmütig 
+
+- lebensmut:
+    - der Lebensmut 
+    - sie hat nie den Lebensmut verloren
 
 - freimütig:
     - ich kann dir das freimütig sagen 
@@ -9063,6 +9120,29 @@
     - der Nachfolger 
     - er ist mein Nachfölger 
 
+### reihe 
+- Reihe:
+    - die Reihe 
+    - eine lange Reihe  von Menschen 
+    - in erster Reihen 
+    - ich mache es der Reihe nach
+    - ich habe endlich das auf die Reihe gekriegt 
+    - ich mache es außer der Reihe 
+
+- Reihenfolge:
+    - die Reihenfolge 
+    - in umgekehrter Reihenfolge 
+
+- einreihen:
+    - ich reihe mich ein 
+
+- zuletzt:
+- zunächst:
+- zuletzt:
+    - zunächst müssen wir das planen 
+    - wann warst du zuletzt beim Artz
+
+
 ### anspruchen
 - Anspruch:
     - der Anspruch 
@@ -9257,6 +9337,13 @@
     - ich kann mir das verkneifen 
     - ich sollte mir diesen Kommentar verkneifen 
 
+- Kniff:
+    - der Kniff
+    - er hat mir einen Kniff gezeigt wie man das machen kann 
+
+- knifflig:
+    - das ist sehr knifflige Aufgabe 
+
 ### kreichen && zappeln && krabbeln 
 - kriechen:
     - er fängt an zu kriechen
@@ -9332,7 +9419,22 @@
     - ich habe alles beschriftet 
 
 - beschriftung:
-    - ich muss die Beschriftung anbringen 
+    - ich muss die Beschriftung anbringen  
+
+- Zuschrift:
+    - die Schrift 
+    - wir haben viele Zuschrift bekommen 
+
+- schriftlich:
+    - ich will etwas schriftlich erhalten 
+
+- Handschrift:
+    - die Handschrift 
+    - sie haben schlechte Handschrift 
+
+- Überschrift:
+    - die Überschrift 
+    - passende Überschrift
 
 ### knapp
 - knapp:
@@ -11264,6 +11366,13 @@
 - ordentlich:
     - er ist sehr ordentlich 
 
+- Ordnung:
+    - die Ordung 
+    - um wiederherstellung der Ordnung muss man das machen 
+
+- ordner:
+    - Ordner erstellen 
+
 ### sichern 
 - sicher:
     - ich bin mir sicher 
@@ -11510,6 +11619,7 @@
 
 - wegschmeißen:
     - ich schmeiße das weg
+    - ich kann nicht 3 Jahre einfach wegschmeißen
 
 - zerschmeißen:
     - ich habe das Glass zerschmissen 
@@ -11934,6 +12044,9 @@
 - betrüben:
     - diese Nachricht hat mich betrübt 
 
+- trübselig:
+    - er war trübselig [weinerlich]
+
 ### schlucken
 - schlucken:
     - ich habe viel Wasser geschluckt 
@@ -12328,7 +12441,7 @@
     - ich kann das nicht tragen ich werde es schleifen 
     - sie hat mich ins Theater geschleift 
 
-- schleifenlassen:
+- schleifenlassen:_
     - Urlaub heißt nicht schleifen lassen 
     - ich habe viel schleifen lassen 
 
@@ -12665,6 +12778,17 @@
 	- das Gebäude
 	- das ist seht schönes Gebäude
 
+### Pflanzen
+- pflanzen:
+- anpflanzen:
+    - wir haben Bäume gepflantz 
+
+- bepflanzen:
+    - ich bepflanze den Garten mit Bäumen 
+
+- einpflanzen:
+    - meine Familie hat mir das Gefühl eingepflanzt 
+
 ### wöhnen 
 - gewöhnen:
     - ich muss mich erste an die Umgebung gewöhnen 
@@ -12758,16 +12882,6 @@
 - Beglückwünschung:
     - die Beglückwünschung 
 
-### distanz 
-- distanzieren:
-    - er hat sich von mir distanziert 
-
-- Distanz:
-    - die Distanz 
-    - aus Distanz sehen 
-
-- Diskrepanz:
-    - es gibt näturlich Diskrepanz zwischen A und B 
 
 ### wissen
 - wissen:
@@ -12788,6 +12902,12 @@
     - es war mir bewusst dass es nicht gehen wird 
     - ich war mir keiner Schuld bewusst 
 
+- Gewiss:
+    - ich bin mir gewiss dass du es schaffen kannst 
+
+- ungewiss:
+    - es ist ungewiss ob er das schaffen kann 
+
 - Gewissheit:
     - die Gewissheit 
     - ich muss mir erste darüber Gewissheit verschaffen 
@@ -12799,7 +12919,10 @@
     - ich habe ihm ins Gewissen geredet 
 
 - Gewissenhaft:
-    - er ist sehr Gewissenhafter Mensch [sorgfältig]
+    - er ist sehr Gewissenhafter Mensch [sorgfältig] 
+
+- Gewissenlos:
+    - er ist gewissenlos
 
 - gewisse:
     - das deutet auf gewisse Reife hin
@@ -13444,6 +13567,8 @@
 - aufblähen:
     - wenn wir alles schreiben werden, wird es aufblähen 
 
+
+
 ### dauern
 - dauern:
     - es dauert 2 Stunden 
@@ -13787,6 +13912,9 @@
 - Kummer:
     - der Kummer 
 
+- kümmerlich:
+    - er ist sehr kümmerlich [armselig] [üppig]
+
 ### krumm 
 - krumm:
     - sein Rücken ist krumm 
@@ -13879,6 +14007,19 @@
 
 - rebellisch:
     - er ist rebellisch 
+
+### dezimieren 
+- dezimieren:
+    - die Tier wird dezimiert 
+
+- desertieren:
+    - viele Soldaten haben desertiert 
+
+- meutern:
+    - sie haben gegen den Kapitän gemeutert
+
+- Meuterei:
+    - die Meuterei 
 
 ### fliegen
 - Flug:
@@ -14439,8 +14580,14 @@
 - anklingen:
     - in seinen Worten klingen Trauer an 
 
+- durchklingen:
+    - ich bin überfordert, ich habe das öfters durchklingen lassen 
+
 - ausklinken:
     - Sie klinkte sich aus dem Projekt aus, da sie keine Zeit mehr hatte.
+
+- klingeln:
+    - es klingelt bei mir 
 
 ### klicken
 - Klick:
@@ -14846,6 +14993,13 @@
 
 - entzünden:
     - Die Wunde hat sich entzündet 
+
+### reduzieren 
+- reduzieren:
+    - du reduzierst das ganze auf diese Sache  
+
+- erhöhen:
+    - die Preise erhöht sich
 
 ### steigen 
 - steigen:
@@ -15347,6 +15501,9 @@
 - wegblasen:
     - ich blase den Staub weg 
 
+- pusten:
+    - den Staub pusten 
+
 ### blass 
 - blass:
     - er ist blass geworden 
@@ -15409,6 +15566,14 @@
 - spießig:
     - es klingt spießig 
 
+### Peitsche:
+- Peitsche:
+    - die Peitsche 
+    - Zuckerbrot und Peitsche
+
+- peitschen:
+    - ein Tier peitschen 
+ 
 ### Weg
 - Abweg:
     - der Abweg 
@@ -15425,6 +15590,7 @@
     - ich bin auf dem Weg 
     - ich brauche 2 Stunden für den Weg zur Arbeit
     - aus dem Weg räumen/schaffen/ genommen 
+    - selbst er kriegst es nicht zu Wege
 
 - Mittelweg:
     - der Mittelweg 
@@ -15787,6 +15953,7 @@
     - sie hat mir ihre Liebe offenbart 
 
 - offenbar:
+- offenkundig:
     - das ist offenbar 
 
 - Öffnung:
@@ -16683,6 +16850,7 @@
     - das war eine Blamage für mich 
 
 - überhand:
+- oberhand:
     - Die Müdigkeit nimmt überhand 
 
 - Handy:
@@ -16731,7 +16899,29 @@
     - die Qualifikation 
 
 - qualifiziert:
-    - er ist sehr qualifiziert 
+    - er ist sehr qualifiziert  
+
+- quengelig:
+    - Kinder sind quengelig [weinerlich]
+
+### Gleis 
+- Gleis:
+    - das Gleis 
+
+- Gleisnummer:
+    - die Gleisnummer  
+
+- Abstellgleis:
+    - ich fühle mich auf das abstellgleis gestellt 
+
+- entgleisen:
+    - der Zug ist entgleist 
+
+- Gleissperrung:
+    - die Gleissperrung 
+
+- zweigleisig:
+    - du kannst nicht zweigleisig fahren
 
 ### fremd 
 - fremdgehen:
@@ -17088,6 +17278,12 @@
 
 - konvertieren:
     - du muss die Daten konvertieren 
+
+- Konzept:
+    - das ist einfach das Konzept 
+
+- konfus:
+    - du machst mich konfus
 
 ### motiv
 
@@ -17478,8 +17674,6 @@
     - der Korb 
     - ich brauche einen Korb
 
-- knifflig:
-    - das ist sehr knifflige Aufgabe 
 
 - Krach:
     - der Krach 
@@ -17846,6 +18040,31 @@
 
 - differenzieren:   
     - wir müssen zwischen Meinungen und Fakten differenzieren 
+
+- differenz:
+    - die Differenz 
+    - die Differenz zwischen uns beide ist erheblich 
+
+- diktieren:
+    - ich will mir diktieren was ich machen soll 
+
+- dilemma:
+    - das Dilemma 
+    - das ist das Dilemma 
+
+- Dimension:
+    - die Dimension 
+    - das hat eine andere Dimension
+
+- distanzieren:
+    - er hat sich von mir distanziert 
+
+- Distanz:
+    - die Distanz 
+    - aus Distanz sehen 
+
+- Diskrepanz:
+    - es gibt näturlich Diskrepanz zwischen A und B 
 
 ### stückeln 
 - Stück:
@@ -19282,6 +19501,7 @@
 - querlegen:
 - querlegen:
     - alle waren einig aber du musst dich immer querlegen  [sich]
+
 - querlesen:
     - ich habe das nur quergelesen 
 
@@ -19296,6 +19516,13 @@
 
 - querschießen:
     - er hat gegen das Projekt quergeschossen 
+
+### brücke 
+- überbrücken:
+    - ich habe die Zeit mit lesen überbrücken 
+
+- Brücke:
+    - die Brücke 
 
 ### Matte 
 - matschig:
@@ -19313,13 +19540,105 @@
     - die Matraze 
     - das ist eine harte Matratze 
 
+- matt:
+    - nach dem Training bin ich matt [schlapp]
+    - die Farben waren matt ich muss es polieren 
+
+### glänzen &&& glatt
+- glänzen:
+    - das Auto gläntz 
+
+- glatt:
+    - die Oberfläche ist glatt [uneben] [rau] 
+
+- glattgehen:
+    - wenn alles glattgeht, sind wir in einer Stunde fertig 
+
+- glattmachen:
+- glattziehen:
+    - ich mache den Streit glatt 
+
+### donnern 
+- donnern:
+    - die Kinder haben den Ball an die Wand gedonnert 
+
+- aufdonnern:
+    - wieso bist du so aufgedonnert 
+
+- losdonnern:
+    - er donnert mit seinem Auto los 
+
+- vorbeidonnern:
+    - er donnert an uns vorbei
+
+### ins
+- ins Augen fallen:
+    - soetwas fällt ins Auge 
+
+- ins Wasser fallen:
+    - unsere Pläne fallen ins Wasser 
+
+- ins Gewicht:
+    - soetwas fällt ins Gewicht
+
+- ins Auge fassen:
+    - wir haben ein Haus zu kaufen ins Auge gefasst 
+
+- ins Geld gehen:
+    - ein neues Auto zu kaufen geht schon ins Geld 
+
+- ins Bild passen:
+    - das passt ins Bild 
+
+- ins wort fallen:
+    - er fällt mir ständig ins Wort 
+
+### Seuche 
+- Seuche:
+    - die Seuche 
+    - die Seuche bricht aus 
+
+- verseuchen:
+    - das wird das Wasser verseuchen 
+
+### rangieren 
+- rangieren:    
+    - das rangiert bei uns nur am Rande 
+
+- arrangieren:
+    - ich kann das schnell arrangieren 
+
+- ausrangieren:
+    - ich rangiere die alten Kleidung aus 
+
+- Rand:
+	- der Rand
+	- der Rand des Tisches ist gut
+
+
 ### FUGENZEICHEN
 - der Sicherheitscode
 - der Gefühlsmensch 
 - das Wartezimmer 
 
 ##
+- überbrücken
+- bestreiten 
 
+- tilgen:
+    - ich will die Schulden tilgen 
+
+- platt:
+    - der Reifen ist Platt 
+
+- prägnant:
+    - der Text soll prägnant sein 
+
+- absorbieren:
+    - das absorbiert das Licht 
+
+- abstrahieren:
+    - ich habe versucht das zu abstrahieren
 
 
 
@@ -19386,9 +19705,6 @@ Pressezensur
     - ich habe es eile 
     - 
 
-- Rand:
-	- der Rand
-	- der Rand des Tisches ist gut
 
 
 
@@ -19512,8 +19828,6 @@ ______________________________________
     - das Kind ist in der Ecke 
     - gehen um die Ecke
 
-- Schild:
-    - das Schild 
 
 - Junge:
 - Mädchen:
@@ -19669,8 +19983,7 @@ ______________________________________
     - der Müll 
     - das kann man in den Müll werfen 
 
-- Konzept:
-    - das ist einfach das Konzept 
+
 
 
 
@@ -19763,9 +20076,8 @@ ______________________________________
 	- das Kompliment
 	- er macht mir ein Kompliment über mein Aussehen
 
-- Kniff:
-    - der Kniff
-    - er hat mir einen Kniff gezeigt wie man das machen kann 
+
+
 
 - Bad:
     - das Bad 
@@ -19901,21 +20213,9 @@ ______________________________________
     - der Hinterkopf
     - ich muss das machen aber immer im Hinterkopf haben 
 
-
-
-
-
-
-
-
 - überheblich:
 - arrogant:
     - er ist sehr arrogant 
-
-
-
-
-
 
 - Absatz:
     - der Absatz 
@@ -19934,9 +20234,6 @@ ______________________________________
     - das Instrument 
     - das ist sehr wichtiges Instrument um das Ziel zu erreichen 
 
-
-
-
 - Semester:
     - das Semester 
     - ich bin im dritten Semester
@@ -19950,61 +20247,25 @@ ______________________________________
     - der Wohnort 
     - wie ist dein Wohnort 
 
-
-
-
 - verwandt:
     - wir sind verwandt 
-
-
-
-
-
 
 - Land:
     - das Land 
     - ich wollte ins Land ziehen 
     - ich wohnen auf dem Land
 
-
-
 - feien:
-
 
 - Substanz:
     - die Substanz 
     - es geht an die Substanz 
 
-
-
-
-
-
-
 - erst:
     - ich arbeite erst seit 3 Tagen in dieser Firma 
 
-
-
-
-
-
 - dankbar:
     - ich bin dir sehr dankbar 
-
-
-
-
-
-
-- Scheibe:
-    - die Scheibe 
-    - ich mache die Scheibe zu 
-
-
-
-- überbrücken:
-    - ich werde den Lohnausfall mit diesem Geld überbrücken 
 
 - Erspartes:
     - das Erspartes 
@@ -20018,18 +20279,11 @@ ______________________________________
 - bergauf:
     - es geht Stück für Stück mit ihm bergab / bergauf
 
-
-
 - Getreide:
     - das Getreide 
 
 - besiegen:
     - ich habe meine Angst besiegt 
-
-- Reihe:
-    - die Reihe 
-    - ich habe endlich das auf die Reihe gekriegt 
-
 
 - Wasser:
     - das Wasser
@@ -20039,11 +20293,6 @@ ______________________________________
     - die Faust 
     - das darfst du nicht auf eigene Faust ändern 
 
-
-
-
-
-
 - antanzen:
     - der Chef hat mich antanzen lassen 
 
@@ -20051,16 +20300,8 @@ ______________________________________
     - der Anzug 
     - das Gewitter ist im Anzug 
 
-
-
-
 - modifizieren:
     - ich muss das Programm modifizieren 
-
-
-
-
-
 
 - Abgabe:
     - die Abgabe 
@@ -20077,47 +20318,17 @@ ______________________________________
     - der Hund 
     - es kommt auf den Hund 
 
-
-
-
 - hinreichend:
     - ich bin hinreichend informiert 
-
-
-
-- Akt:
-    - der Akt
-
-- Akteur:
-    - der Akteur 
 
 - absurd:
 - abwegig:
     - die Situation ist absurd 
 
-- tilgen:
-    - ich will die Schulden tilgen 
-
-- platt:
-    - der Reifen ist Platt 
-
-- prägnant:
-    - der Text soll prägnant sein 
-
-- absorbieren:
-    - das absorbiert das Licht 
-
-- abstrahieren:
-    - ich habe versucht das zu abstrahieren
-
-
-
 
 
 - Boulevard:
     - der Boulevard 
-
-
 
 - analog:
     - Der Gefriervorgang läuft analog zu dem eines Kühlschranks ab 
@@ -20130,13 +20341,6 @@ ______________________________________
     - ich flehe um Vergeben 
     - ich flehe dich an mir zu vergeben 
 
-
-
-
-
-
-
-
 - vergraulen:
     - ich wollte nicht meine Freunde vergraulen 
 
@@ -20147,16 +20351,9 @@ ______________________________________
     - das Mitspracherecht 
     - bei diesem Thema habe ich ein Mitspracherecht 
 
-
-
-
-
 - Attest:
     - das Attest
     - ich muss Attest vorlegen 
-
-
-
 
 --------------
 - gerissen:
@@ -20170,26 +20367,7 @@ ______________________________________
     - das Tuch 
     - ich will es erst in tockene Tücher bringen 
 
-
-
-
-- vorgeschossen
-
-
-- ballern 
-
-- blauarbeiten 
-
-
-- das heißt für mich
-
-
-- festplatte 
-
 - pregnant
-
-
-
 
 - nicht darüberhinaus
 
@@ -20199,14 +20377,6 @@ ______________________________________
 - haben
 - spalte ist zusammengedrückt
  
-
-
-
-
-
-
-
-
 - ich lasse mich die Sache dürch den Kopf gehen 
 - Finger weg von ihn 
 - wir laufen uns immer wieder über den weg 
