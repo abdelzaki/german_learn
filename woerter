@@ -1559,7 +1559,7 @@ regieren:
 - Fernseher:
     - der Fernseher 
     - ich kaufe einen Fernseher 
----------
+
 ### wischen
 - wischen:
     - den Schmutz wischen 
@@ -1700,6 +1700,181 @@ regieren:
 - Geruch:
     - der Duft 
     - der Geruch 
+
+### atmen 
+- atmen:
+    - er atmet schwer 
+
+- aufatmen:
+    - endlich kann ich wieder azfatmen 
+
+- ausatmen:
+- einatmen:
+    - atme aus
+
+- beatmen:
+    - er muss beatmet werden 
+
+- durchatmen:
+    - atme durch 
+
+- Atmung:
+    - die Atmung
+
+- husten:
+    - er hustet die ganze Zeit 
+
+### ticken
+- ticken:
+    - ich verstehe nicht wie er tickt 
+
+- austicken:
+    - wenn ein Problem gibt, tickt er aus [durchdrehen]  [ausflippen]
+
+- verticken:
+    - ich werde die alten Möbel verticken 
+
+- intakt:
+    - das Gerät ist intakt 
+
+- kicken:
+    - ich kicke den Ball auf mich 
+    - sie haben mich aus dem Chat rausgekickt 
+
+#####
+zuspielen
+
+### schreien
+- schreien:
+    - ich schreie vor Schmerzen 
+    - das Kinder schreit vor Hunger 
+    - es war sehr laut dass wir schreien müssen um miteinander zu reden 
+
+- anschreien:
+    - ich habe meine Frau angeschrien 
+    - er schreit mich an und beschimpft mich
+
+- Schrei:
+    - der Schrei 
+    - ich muss den Schrei unterdrücken 
+
+### fach
+- Fach:
+    - das Fach 
+    - der Geldbeutel ist im untersten Fach 
+    - es ist unter Dach und fach
+
+- einfach:
+    - das ist aber sehr einfach zu machen  [rudimentär]
+
+- Vereinfachung:
+    - für die Vereinfachung 
+
+- vereinfachen:
+    - ich werde es vereinfachen 
+
+- verdreifachen:
+    - die Arbeit hat sich verdreifacht 
+
+- anfachten:
+- entfachen:
+    - ein Feuer anfachen 
+
+### flach 
+- flachfallen:
+    - die Aufgabe fällt weg 
+
+- abflachen:
+    - das Interesse flacht ab 
+
+- flachhalten:
+    - wir halten den Ball flach 
+
+- flachliegen:
+    - ich liege seit 3 Tagen flach
+
+### eng 
+- eng:
+    - das Zimmer ist eng [breit]
+
+- beengen:
+    - die kleine Wohnung engt mich ein 
+    - ich fühle mich beengt / eingeengt
+
+- einengen:
+    - ich fühle mich in meinen Rechten eingeengt 
+
+- verengen:
+    - die Straße verengt sich 
+
+- verengern:
+    - ich will die Hose verengern [verbreitern]
+
+### kümmern 
+- kümmern:
+    - ich muss mich darum kümmern 
+    - es kümmert niemanden 
+
+- bekümmern:
+    - das bekümmert mich 
+
+- verkümmern:
+    - die Pflanzen verkümmert 
+    - ich will meine Talente nicht verkümmen lassen 
+
+- Kummer:
+    - der Kummer 
+
+- kümmerlich:
+    - er ist sehr kümmerlich [armselig] [üppig]
+
+### krumm 
+- krumm:
+    - sein Rücken ist krumm 
+
+- krümmen:
+    - die Arbeit hat meinen Rücken gekrümmt 
+
+### krümeln 
+. krümeln:
+    - das Brot krümeln 
+
+- krümel:   
+    - dre Krümel 
+
+- zerkrümeln:
+    - das Essen zerkrümeln sich
+
+### blenden
+- blenden:
+    - die Sonne blendet mich 
+
+- abblenden:
+- aufbleden:
+    - ich muss abblenden [ausschalten]
+    - ich muss aufblenden [einschalten] 
+
+- ausblenden:
+- einblenden:
+    - die Datei ausblenden 
+
+- verblenden:
+    - der Erfolg hat ihn verblendet 
+
+- blind:
+    - bist du blind 
+    - blinder Alarm  
+
+### Filter 
+- Filter:
+    - der Filter 
+    - das ist ein effektiver Filter 
+
+- filtern:
+    - den Kaffen filtern 
+
+- ausfiltern:
+    - das Gehirn filtert unwichtigen Informationen aus 
 
 ### staunen
 - staunen:
@@ -14882,153 +15057,7 @@ regieren:
 - übernachten:
     - wir können im Hotel übernachten 
 
-### ticken
-- ticken:
-    - ich verstehe nicht wie er tickt 
 
-- austicken:
-    - wenn ein Problem gibt, tickt er aus [durchdrehen]  [ausflippen]
-
-- verticken:
-    - ich werde die alten Möbel verticken 
-
-- intakt:
-    - das Gerät ist intakt 
-
-- kicken:
-    - ich kicke den Ball auf mich
-
-### schreien
-- schreien:
-    - ich schreie vor Schmerzen 
-    - das Kinder schreit vor Hunger 
-    - es war sehr laut dass wir schreien müssen um miteinander zu reden 
-
-- anschreien:
-    - ich habe meine Frau angeschrien 
-    - er schreit mich an und beschimpft mich
-
-- Schrei:
-    - der Schrei 
-    - ich muss den Schrei unterdrücken 
-
-### fach
-- Fach:
-    - das Fach 
-    - der Geldbeutel ist im untersten Fach 
-    - es ist unter Dach und fach
-
-- einfach:
-    - das ist aber sehr einfach zu machen  [rudimentär]
-
-- Vereinfachung:
-    - für die Vereinfachung 
-
-- vereinfachen:
-    - ich werde es vereinfachen 
-
-- verdreifachen:
-    - die Arbeit hat sich verdreifacht 
-
-- anfachten:
-- entfachen:
-    - ein Feuer anfachen 
-
-### flach 
-- flachfallen:
-    - die Aufgabe fällt weg 
-
-- abflachen:
-    - das Interesse flacht ab 
-
-- flachhalten:
-    - wir halten den Ball flach 
-
-- flachliegen:
-    - ich liege seit 3 Tagen flach
-
-### eng 
-- eng:
-    - das Zimmer ist eng [breit]
-
-- beengen:
-    - die kleine Wohnung engt mich ein 
-    - ich fühle mich beengt / eingeengt
-
-- einengen:
-    - ich fühle mich in meinen Rechten eingeengt 
-
-- verengen:
-    - die Straße verengt sich 
-
-- verengern:
-    - ich will die Hose verengern [verbreitern]
-
-### kümmern 
-- kümmern:
-    - ich muss mich darum kümmern 
-    - es kümmert niemanden 
-
-- bekümmern:
-    - das bekümmert mich 
-
-- verkümmern:
-    - die Pflanzen verkümmert 
-    - ich will meine Talente nicht verkümmen lassen 
-
-- Kummer:
-    - der Kummer 
-
-- kümmerlich:
-    - er ist sehr kümmerlich [armselig] [üppig]
-
-### krumm 
-- krumm:
-    - sein Rücken ist krumm 
-
-- krümmen:
-    - die Arbeit hat meinen Rücken gekrümmt 
-
-### krümeln 
-. krümeln:
-    - das Brot krümeln 
-
-- krümel:   
-    - dre Krümel 
-
-- zerkrümeln:
-    - das Essen zerkrümeln sich
-
-### blenden
-- blenden:
-    - die Sonne blendet mich 
-
-- abblenden:
-- aufbleden:
-    - ich muss abblenden [ausschalten]
-    - ich muss aufblenden [einschalten] 
-
-- ausblenden:
-- einblenden:
-    - die Datei ausblenden 
-
-- verblenden:
-    - der Erfolg hat ihn verblendet 
-
-- blind:
-    - bist du blind 
-    - blinder Alarm  
-
-### Filter 
-- Filter:
-    - der Filter 
-    - das ist ein effektiver Filter 
-
-- filtern:
-    - den Kaffen filtern 
-
-- ausfiltern:
-    - das Gehirn filtert unwichtigen Informationen aus 
 
 ### ende
 - Ende:
@@ -15269,28 +15298,6 @@ regieren:
 - ernüchtern:
     - das wird dich ernüchtern
 
-### atmen 
-- atmen:
-    - er atmet schwer 
-
-- aufatmen:
-    - endlich kann ich wieder azfatmen 
-
-- ausatmen:
-- einatmen:
-    - atme aus
-
-- beatmen:
-    - er muss beatmet werden 
-
-- durchatmen:
-    - atme durch 
-
-- Atmung:
-    - die Atmung
-
-- husten:
-    - er hustet die ganze Zeit 
 
 
 
@@ -21286,10 +21293,6 @@ ______________________________________
 - das ist ein fleißarbit 
 - um eine Aussage treffen 
 
-
-- ausrasten:
-- ausflippen:
-    - ich werde nicht ausrasten 
 
 - aufhalsen:
     - Ich wollte ihr diese Last nicht aufhalsen
