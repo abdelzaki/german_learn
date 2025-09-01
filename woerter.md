@@ -14,8 +14,6 @@
 - gleichbedeutend:
     - das ist gleichbedeutend mit einer Absage
 
-
-
 ### selbst 
 - selbst:
     - das hast du selbst nicht geschafft 
@@ -3258,6 +3256,331 @@ regieren:
 - Warteschleife:
     - die Warteschleife 
     - er setzt mich auf die Warteschleife 
+
+### stimmen 
+- stimmen:
+    - das stimmt nicht 
+
+- abstimmen:
+    - wir können über den Termin abstimmen [voten]
+    - ich habe das Ergebnis mit ihm abgestimmt [vereinbaren] 
+    - wir müssen unsere Termine abstimmen
+    - das ist nicht auf indiviuales Bedürfnis abgestimmt
+
+- beistimmen:
+- zustimmen:
+    - ich stimme dir zu 
+
+- bestimmen:
+    - ich kann bestimmen wer ich einlade 
+    - das Geld war für die Renvioerung bestimmt 
+
+- mitbestimmen:
+- fremdbstimmen:
+- selbstbestimmen:
+    - Kinder bestimmen auch mit
+    - das wird immer fremdbestimmt 
+
+- überstimmen:
+- niederstimmen:
+- umstimmen:
+    - ich würde überstimmt 
+    - ich lass mich umstimmen 
+
+- vorausbestimmen:
+    - das war vorausbestimmt 
+
+- übereinstimmen:
+    - in diesem Punkt stimmen wir überein 
+    - das stimmt mit der Realität nicht überein 
+    - der errechnte Betrag stimmt nicht mit der Kassenstand überein 
+
+- Stimmung:
+    - die Stimmung war sehr gut  
+
+- Stimme:
+    - die Stimme 
+
+### kleckern 
+- Leck:
+    - das Leck 
+    - der Tank hat ein Leck
+    - das Leck stopfen
+
+- lecken:
+    - er leckt am Finger 
+    - das Boot leckt
+
+- ablecken:
+    - den Honfig vom Löffel ablecken 
+
+- kleckern:
+    - ich habe mich auf das Hemd gekleckert 
+    - ich habe essen auf meine Kleidung gekleckert 
+
+- bekleckern:(beschmutzen)
+    - ich habe mich bekleckert
+    - ich habe mein Hemd mit Essen bekleckert
+
+### Fleck 
+- Fleck:
+    - der Fleck. die Flecken 
+    - ich wollte die Flecken reinigen
+
+- beflecken:
+    - ich habe das Hemd befleckt 
+
+- Flicken:
+    - der Flicken 
+    - das ist ein Flickenteppich 
+
+### schmutz && dreck
+- Schmutz:
+    - der Schmutz
+    - ich muss den Schmutz kehren 
+
+- schmutzen:
+    - Weiss beschmutzt leicht 
+
+- beschmutzen: 
+- verschmutzen:
+    - ich will das nicht verdrecken/ verschmutzen  
+
+- verschmutzig:
+- schmutzig:
+- dreckig:
+    - es ist verschmutzig
+    - das ist sehr dreckig 
+
+### sau 
+- sau:
+    - mein Chef hat mich zur Sau gemacht 
+    - unter aller Sau [sehr schlecht]
+    - die Sau rauslassen 
+
+- sauerei:
+    - die Sauerei 
+    - das ist hier eine sauerei 
+
+- sauer:
+    - das ist sehr sauer 
+    - ich bin sauer auf mich selbst 
+
+- einsauen:
+    - du hast dich mit Essen eingesaut [verschmutzen]
+
+- versauen:
+    - du hast das T-shirt versaut 
+    - du hast die Prüfung versaut 
+
+- Sauklaue:
+    - die Sauklaue 
+    - sie hat eine echte Sauklaue ich kann es nicht lesen 
+
+### meinen 
+- meinen:
+    - ich meine dich wenn ich das sage 
+
+- vermeintlich:
+    - der vermeintliche Urlaub war viel arbeit 
+
+- Meinung:
+    - die Meinung 
+    - ich habe eine andere Meinung 
+
+- gemein:
+    - du bist aber gemein 
+
+- allgemeines:
+    - das ist viel zu allgemeinver
+
+- verallgemeinern:
+    - ich will nicht verallgemeinern
+
+### suchen 
+- Suche:
+	- die Suche
+	- ich bin auf der Suche nach einem Beruf
+    - Jobsuche 
+    - Wohnungssuche
+
+- suchen:
+    - das hat hier nichts zu suchen 
+    - ich suche neue Wege um das zu realisieren 
+
+- durchsuchen:
+    - haben durchsucht 
+    - ich habe das Gebäude nach ihm durchsucht
+
+- untersuchen:
+    - ich muss das untersuchen 
+    - ich wollte mich untersuchen lassen
+
+- versuchen:
+    - ich habe das versucht aber es hat nicht geklappt 
+    - ich kann das auf einem anderen Weg versuchen 
+
+- Versuch:
+    - der Versuch 
+    - ich habe den Versuch unternommen aber es hat leider nicht geklappt 
+    - beim ersten Versuch 
+
+- aussuchen:
+- heraussuchen:
+    - ich suche mir was Schönes aus
+
+- Besuch:
+    - der Besuch 
+    - ich war dort zu Besuch 
+
+- Fehlersuche:
+    - die Fehlersuche 
+    - ich betreibe die Fehlersuche 
+
+- ersuchen:
+    - ich habe dich ersucht mir zu helfen 
+
+- aufsuchen:
+    - ich werde einen Artzt aufsuchen [gehen] 
+
+- süchtig:
+    - das macht süchtig 
+
+- eifersüchtig:
+    - Sie ist auf mich eifersüchtig 
+
+- Gast:
+- Gastgeber:
+    - der Gast
+    - bei mir sind Freunde zu Gast 
+    - er ist der Gastgeber
+
+### bauen
+- bauen:
+    - wir werden nächstes Jahr bauen 
+    - ich baue auf dich 
+    - ich habe einen Fehler / großen Mist gebaut 
+
+- abbauen:
+    - ich baue Zeit/ zelt ab 
+
+- anbauen:
+    - wir bauen kartoffel an 
+    - ich baue eine Garage an das Haus an
+    - wir müssen anbauen der Platz hier ist sehr eng  
+
+- aufbauen:
+    - ich baue das Zelt auf 
+
+- ausbauen:
+    - ich baue den Motor aus dem Auto aus 
+    - ich werde den Speicher ausbauen 
+    - ich werde die Straße ausbauen 
+
+- einbauen:
+    - ich werde das in das bestehende System einbauen 
+
+- verbauen:
+    - ich will mir diese Chance nicht verbauen [sich]
+    - wir haben teuere Material verbaut 
+
+- Gebäude:
+	- das Gebäude
+	- das ist seht schönes Gebäude
+
+### Pflanzen
+- pflanzen:
+- anpflanzen:
+    - wir haben Bäume gepflantz 
+
+- bepflanzen:
+    - ich bepflanze den Garten mit Bäumen 
+
+- einpflanzen:
+    - meine Familie hat mir das Gefühl eingepflanzt 
+
+### wöhnen 
+- gewöhnen:
+    - ich muss mich erste an die Umgebung gewöhnen 
+
+- abgewöhnen:
+- angewöhnen:
+    - ich muss mir das abgewöhnen 
+
+- eingewöhnen:
+    - ich habe mich in der Stadt eingewöhnt [einleben] [hineinfinden]
+
+- verwöhnen:
+    - ich wollte mich verwöhnen
+
+- Gewohnheit:
+    - die Gewohnheit 
+    - es ist zur Gewohnheit geworden 
+
+- wohnen:
+    - ich wohne auf dem Land 
+
+- bewohnen:
+    - ich bewohne das Haus 
+
+- Wohnung:
+    - die Wohnung
+
+### bohren*
+- bohren:
+    - sie bohren nach Öl 
+
+- nachbohren:
+    - ich muss immer nachbohren bis ich Informationen bekomme 
+
+- verbohrt:
+    - mein Kind ist sehr verbohrt er Ändert nie seine Meinung [starrsinning] [starrsinnig]
+
+### helfen
+- helfen:
+    - er hat mir bei deser Aufgabe geholfen
+    - allein hilft das nicht 
+    - das hat gegen den Schmerzen geholfen 
+    - ich wusste mir nicht zu helfen
+
+- abhelfen:_
+    - das sollte dem Missverständis abhelfen 
+
+- behelfen:
+    - ich muss mich mit diesem Mittel behelfen 
+
+- aushelfen:
+    - Er hat seiner Schwester im Laden ausgeholfen, als eine Mitarbeiterin krank war
+    
+- beihelfen:
+    - er hat mir beigeholfen 
+
+- nachhelfen:
+    - du kannst dem Auto beim Start nachhelfen indem du Gas geben 
+
+- verhelfen:
+    - die Vorbereitung hat mir zu Erfolg verholfen 
+
+- weiterhelfen:
+    - ich höffe ich konnte dir weiterhelfen 
+
+- hinweghelfen:
+    - er hat mir über mein Problem hinweggeholfen 
+
+- unbeholfen:
+    - wir sind alles unbeholfen
+
+- Hilfe:
+    - die Hilfe 
+    - brauchst du Hilfe 
+
+- hilfreich:
+- hilfsbereit:
+    - das war sehr hilfreich 
+
+- behilflich:
+    - er war mir beim Uzug sehr behilflich
+
 ### klatsch
 - Klatsch:
     - der Klatsch 
@@ -3279,6 +3602,7 @@ regieren:
 
 - anreden:
     - ich habe ihn angeredet 
+    - wie soll ich sie anreden
 
 - Ausrede:
     - die Ausrede 
@@ -6758,51 +7082,6 @@ regieren:
 - verprügeln:
     - wir haben ihn verprügelt
 
-### stimmen 
-- stimmen:
-    - das stimmt nicht 
-
-- abstimmen:
-    - wir können über den Termin abstimmen [voten]
-    - ich habe das Ergebnis mit ihm abgestimmt [vereinbaren] 
-    - wir müssen unsere Termine abstimmen
-    - das ist nicht auf indiviuales Bedürfnis abgestimmt
-
-- beistimmen:
-- zustimmen:
-    - ich stimme dir zu 
-
-- bestimmen:
-    - ich kann bestimmen wer ich einlade 
-    - das Geld war für die Renvioerung bestimmt 
-
-- mitbestimmen:
-- fremdbstimmen:
-- selbstbestimmen:
-    - Kinder bestimmen auch mit
-    - das wird immer fremdbestimmt 
-
-- überstimmen:
-- niederstimmen:
-- umstimmen:
-    - ich würde überstimmt 
-    - ich lass mich umstimmen 
-
-- vorausbestimmen:
-    - das war vorausbestimmt 
-
-- übereinstimmen:
-    - in diesem Punkt stimmen wir überein 
-    - das stimmt mit der Realität nicht überein 
-    - der errechnte Betrag stimmt nicht mit der Kassenstand überein 
-
-- Stimmung:
-    - die Stimmung war sehr gut  
-
-- Stimme:
-    - die Stimme 
-
-
 ### tragen
 - Beitrag:
 - Eintrag:
@@ -9667,65 +9946,6 @@ regieren:
 - vernachlässigen:
     - wir haben das vernachlässigt 
 
-### suchen 
-- Suche:
-	- die Suche
-	- ich bin auf der Suche nach einem Beruf
-    - Jobsuche 
-    - Wohnungssuche
-
-- suchen:
-    - das hat hier nichts zu suchen 
-    - ich suche neue Wege um das zu realisieren 
-
-- durchsuchen:
-    - haben durchsucht 
-    - ich habe das Gebäude nach ihm durchsucht
-
-- untersuchen:
-    - ich muss das untersuchen 
-    - ich wollte mich untersuchen lassen
-
-- versuchen:
-    - ich habe das versucht aber es hat nicht geklappt 
-    - ich kann das auf einem anderen Weg versuchen 
-
-- Versuch:
-    - der Versuch 
-    - ich habe den Versuch unternommen aber es hat leider nicht geklappt 
-    - beim ersten Versuch 
-
-- aussuchen:
-- heraussuchen:
-    - ich suche mir was Schönes aus
-
-- Besuch:
-    - der Besuch 
-    - ich war dort zu Besuch 
-
-- Fehlersuche:
-    - die Fehlersuche 
-    - ich betreibe die Fehlersuche 
-
-- ersuchen:
-    - ich habe dich ersucht mir zu helfen 
-
-- aufsuchen:
-    - ich werde einen Artzt aufsuchen [gehen] 
-
-- süchtig:
-    - das macht süchtig 
-
-- eifersüchtig:
-    - Sie ist auf mich eifersüchtig 
-
-- Gast:
-- Gastgeber:
-    - der Gast
-    - bei mir sind Freunde zu Gast 
-    - er ist der Gastgeber
-
-
 ### wechseln 
 - wechseln:
     - ich wollte das Thema wechseln
@@ -10703,80 +10923,6 @@ regieren:
 
 - umwandeln:
     - es wandelt A in B 
-
-### kleckern 
-- Leck:
-    - das Leck 
-    - der Tank hat ein Leck
-
-- lecken:
-    - er leckt am Finger 
-
-- ablecken:
-    - den Honfig vom Löffel ablecken 
-
-- kleckern:
-    - ich habe mich auf das Hemd gekleckert 
-    - ich habe essen auf meine Kleidung gekleckert 
-
-- bekleckern:(beschmutzen)
-    - ich habe mich bekleckert
-    - ich habe mein Hemd mit Essen bekleckert
-
-### Fleck 
-- Fleck:
-    - der Fleck. die Flecken 
-    - ich wollte die Flecken reinigen
-
-- beflecken:
-    - ich habe das Hemd befleckt 
-
-- Flicken:
-    - der Flicken 
-    - das ist ein Flickenteppich 
-
-### schmutz && dreck
-- Schmutz:
-    - der Schmutz
-    - ich muss den Schmutz kehren 
-
-- schmutzen:
-    - Weiss beschmutzt leicht 
-
-- beschmutzen: 
-- verschmutzen:
-    - ich will das nicht verdrecken/ verschmutzen  
-
-- verschmutzig:
-- schmutzig:
-- dreckig:
-    - es ist verschmutzig
-    - das ist sehr dreckig 
-
-### sau 
-- sau:
-    - mein Chef hat mich zur Sau gemacht 
-    - unter aller Sau [sehr schlecht]
-    - die Sau rauslassen 
-
-- sauerei:
-    - die Sauerei 
-    - das ist hier eine sauerei 
-
-- sauer:
-    - das ist sehr sauer 
-    - ich bin sauer auf mich selbst 
-
-- einsauen:
-    - du hast dich mit Essen eingesaut [verschmutzen]
-
-- versauen:
-    - du hast das T-shirt versaut 
-    - du hast die Prüfung versaut 
-
-- Sauklaue:
-    - die Sauklaue 
-    - sie hat eine echte Sauklaue ich kann es nicht lesen 
 
 ### kleid
 - Kleid:
@@ -11767,47 +11913,7 @@ regieren:
     - die Mitte 
     - Mut ist die Mitte zwischen Zögerlichkeit und Selbstüberschätzung.
 
-### helfen
-- helfen:
-    - er hat mir bei deser Aufgabe geholfen
-    
-- abhelfen:_
-    - das sollte dem Missverständis abhelfen 
 
-- behelfen:
-    - ich muss mich mit diesem Mittel behelfen 
-
-- aushelfen:
-    - Er hat seiner Schwester im Laden ausgeholfen, als eine Mitarbeiterin krank war
-    
-- beihelfen:
-    - er hat mir beigeholfen 
-
-- nachhelfen:
-    - du kannst dem Auto beim Start nachhelfen indem du Gas geben 
-
-- verhelfen:
-    - die Vorbereitung hat mir zu Erfolg verholfen 
-
-- weiterhelfen:
-    - ich höffe ich konnte dir weiterhelfen 
-
-- hinweghelfen:
-    - er hat mir über mein Problem hinweggeholfen 
-
-- unbeholfen:
-    - wir sind alles unbeholfen
-
-- Hilfe:
-    - die Hilfe 
-    - brauchst du Hilfe 
-
-- hilfreich:
-- hilfsbereit:
-    - das war sehr hilfreich 
-
-- behilflich:
-    - er war mir beim Uzug sehr behilflich
 
 ### zweifeln
 - zweifel:
@@ -14110,87 +14216,6 @@ regieren:
 - begrüßen:
     - sie hat mich kalt begrüßen [empfängen]
     - ich kann soetwas nicht begrüßen 
-
-### bauen
-- bauen:
-    - wir werden nächstes Jahr bauen 
-    - ich baue auf dich 
-    - ich habe einen Fehler / großen Mist gebaut 
-
-- abbauen:
-    - ich baue Zeit/ zelt ab 
-
-- anbauen:
-    - wir bauen kartoffel an 
-    - ich baue eine Garage an das Haus an
-    - wir müssen anbauen der Platz hier ist sehr eng  
-
-- aufbauen:
-    - ich baue das Zelt auf 
-
-- ausbauen:
-    - ich baue den Motor aus dem Auto aus 
-    - ich werde den Speicher ausbauen 
-    - ich werde die Straße ausbauen 
-
-- einbauen:
-    - ich werde das in das bestehende System einbauen 
-
-- verbauen:
-    - ich will mir diese Chance nicht verbauen [sich]
-    - wir haben teuere Material verbaut 
-
-- Gebäude:
-	- das Gebäude
-	- das ist seht schönes Gebäude
-
-### Pflanzen
-- pflanzen:
-- anpflanzen:
-    - wir haben Bäume gepflantz 
-
-- bepflanzen:
-    - ich bepflanze den Garten mit Bäumen 
-
-- einpflanzen:
-    - meine Familie hat mir das Gefühl eingepflanzt 
-
-### wöhnen 
-- gewöhnen:
-    - ich muss mich erste an die Umgebung gewöhnen 
-
-- abgewöhnen:
-- angewöhnen:
-    - ich muss mir das abgewöhnen 
-
-- eingewöhnen:
-    - ich habe mich in der Stadt eingewöhnt [einleben] [hineinfinden]
-
-- verwöhnen:
-    - ich wollte mich verwöhnen
-
-- Gewohnheit:
-    - die Gewohnheit 
-    - es ist zur Gewohnheit geworden 
-
-- wohnen:
-    - ich wohne auf dem Land 
-
-- bewohnen:
-    - ich bewohne das Haus 
-
-- Wohnung:
-    - die Wohnung
-
-### bohren*
-- bohren:
-    - sie bohren nach Öl 
-
-- nachbohren:
-    - ich muss immer nachbohren bis ich Informationen bekomme 
-
-- verbohrt:
-    - mein Kind ist sehr verbohrt er Ändert nie seine Meinung [starrsinning] [starrsinnig]
 
 ### klappen 
 - klappen:
@@ -16952,26 +16977,6 @@ regieren:
     - die Ebene
     - das ist eine andere Ebene 
     - auf der untersten Ebene 
-
-### meinen 
-- meinen:
-    - ich meine dich wenn ich das sage 
-
-- vermeintlich:
-    - der vermeintliche Urlaub war viel arbeit 
-
-- Meinung:
-    - die Meinung 
-    - ich habe eine andere Meinung 
-
-- gemein:
-    - du bist aber gemein 
-
-- allgemeines:
-    - das ist viel zu allgemeinver
-
-- verallgemeinern:
-    - ich will nicht verallgemeinern
 
 ### Frist 
 - Frist:
