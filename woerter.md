@@ -3677,6 +3677,7 @@ regieren:
 ### sprechen
 - sprechen:
     - ich muss Sie sprechen
+    - er kann noch nicht gut sprechen
 
 - absprechen:
     - das ist so mit dem Chef abgesprochen 
@@ -3685,7 +3686,9 @@ regieren:
 
 - Absprache:
     - die Absprache 
-    - nach Absprache ist das mäglich
+    - nach Absprache ist das mäglich 
+    - ohne Absprache 
+    - in Absprache mit dem Chef
 
 - ansprechen:
     - ich habe das Thema angesprochen 
@@ -3698,6 +3701,7 @@ regieren:
     - er hat seinen Wunsch ausgesprochen
     - lass mich bitte aussprechen 
     - ich wollte mich über mein Problem aussprechen 
+    - Die Mehrheit sprach sich gegen das Projekt aus.
 
 - besprechen:
     - wir können das Thema morgen besprechen 
@@ -3859,9 +3863,6 @@ regieren:
     - ich habe aus seiner Ton herausgehört dass er wütend ist 
     - ich habe deine Stimme herausgehört 
 
-
-
- überreden, zureden, einreden
 ### heraus 
 - herauskristallisieren:
     - mit der Zeit hat sich meine Idee herauskristallisiert 
