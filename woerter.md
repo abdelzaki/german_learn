@@ -3662,6 +3662,7 @@ regieren:
 
 - nachreden:
     - er redet alles nach was der Chef ihm sagt 
+    - sie werden dir immer nachreden
 
 - überreden:
     - ich habe ihn überredet mit uns zu kommen [zu]
@@ -3750,11 +3751,17 @@ regieren:
 - aussagen:
     - das sagt viel über ihn aus 
 
+- Aussage:
+    - die Aussage 
+    - ich kann morgen eine Aussage machen
+
 - besagen:
     - das besagt nicht viel 
+    - das Gesetzt besagt klar dass es verboten ist 
 
 - dahinsagen:
     - das habe ich nur dahingesagt 
+    - er hat das mit der Reise nur dahingesagt 
 
 - untersagen:  
     - er hat mir untersagt zu rauchen
@@ -3791,6 +3798,9 @@ regieren:
 - Voraussage: [Prognose]
     - die Voraussage 
     - es lässt sich keine Voraussage machen 
+
+- voraussagen:
+    - wir haben ihm gute Zukunft vorausgesagt
 
 ### hören
 - hören:
@@ -3863,9 +3873,510 @@ regieren:
     - ich habe aus seiner Ton herausgehört dass er wütend ist 
     - ich habe deine Stimme herausgehört 
 
-### heraus 
-- herauskristallisieren:
-    - mit der Zeit hat sich meine Idee herauskristallisiert 
+### sehen
+- sehen:
+    - ich kann dich nicht sehen [see you]
+    - ich kenne ihn vom Sehen
+    - ich sehe gern nicht auf das Handy
+    - ich habe die gute Eigenschaft in dir gesehen 
+    - ich sehe es als eine Chance 
+    - ich kann nicht gut sehen
+    - ich sehe nach dem Kind 
+
+- absehen:
+    - abgesehen von dem Längen Weg ist alles in Orderung 
+    - davon abgesehen ist alles sehr gut
+    - das sölltest man früher absehen 
+    - es hat es auf mein Geld abgesehn [auf] 
+    - Bitte sehen Sie von Anrufen ab [von] 
+    - ich habe das von ihm abgesehen
+
+- ansehen:
+    - sie sieht mich böse an 
+    - ich sehe das Buch an [schnell]
+    - ich sehe mir das Buch an [intensiv]
+    - ich kann ihn nicht ansehen [loot at me]
+    - wenn ich mir so ansehe, was wir erreichen haben  
+    - man sieht ihm sein Alter nicht an
+
+- Ansehen:
+    - das Ansehen 
+    - er hat sehr gutes Ansehen 
+
+- angesehen:
+    - das ist bei uns angesehen
+
+- Aufsehen:
+    - das Aufsehen
+    - wir sollen kein Aufsehen erregen
+    - das sorgt für mehr Aufsehen 
+
+- aufsehen:
+    - ich will ein Vater sein, zu dem mein Kind aufsehen wird
+
+- aussehen:
+    - er sieht sehr gut aus 
+    - das sieht mir nach einem Problem aus 
+    - es sieht sehr gut aus mit unserem Plan 
+
+- Aussehen:
+    - das Aussehen 
+    - das Aussehen ist auch wichtig 
+
+- einsehen:
+    - ich habe meinen Fehler eingesehen 
+    - ich kann nicht einsehen warum du das gemacht hast 
+
+- Einsehen:
+    - das Einsehen 
+    - ich habe für soetwas kein Einsehen 
+
+- fernsehen:
+    - ich sehe heute fern
+
+- Fernsehen:
+    - das Fernsehen 
+    - das Fernsehen hat einen Einfluss auf die Leute 
+
+- Fernseher:
+    - der Fernseher 
+    - ich kaufe einen Fernseher 
+
+- gleichsehen:
+- ähnlichsehen:
+    - du siehst ihm gleich
+
+- hinwegsehen:
+    - er hat über die Regel hinweggesehen
+    - wenn ich auf dem Tisch stehe kann ich über ihn hinwegsehen
+
+- nachsehen:
+    - sehe bitte im Kühlschrank nach ob wir Butter haben 
+    - ich habe ihm viel nachgesehen 
+    - ich habe ihm seinen Fehler nachgesehen 
+    - ich sehe dem Zug nach
+
+- Nachsehen:
+    - das Nachsehen 
+    - ich habe das Nachsehen 
+    - alle fähren in Urlaub und ich habe das Nachsehen 
+
+- schwarzsehen:
+    - ich sehe für ihn schwarz 
+
+- umsehen:
+    - ich sehe mich nur um
+
+- sich übersehen:
+    - ich habe mir viel Youtube übergesehen 
+
+- übersehen:
+    - ich habe den Fehler übersehen
+    - es lässt sich nicht mehr übersehen was gerade passiert 
+
+- vorhersehen:
+	- ich konnte das nicht vorhersehen 
+
+- Versehen:
+    - das Versehen 
+    - ich habe das aus Versehen gemacht 
+
+- versehen:
+    - ich bin mit allem versehen 
+    - ich habe ihn mit Essen versehen [ausstatten] [versorgen]
+    - ich habe mich versehen
+
+- versehentlich
+	- ich habe versehentlich dich angerufen 
+
+- vorsehen:
+    - das ist leider nicht vorgesehen 
+
+- wegsehen:
+    - ich kann nicht mehr wegsehen wenn soetwas passiert 
+
+- zusehen:
+	- sieh zu, dass die Arbeit fertig sein wird 
+
+- wiedersehen:
+    - ich hoffe das wir uns wiedersehen werden 
+
+### Sicht 
+- zuversichtlich:
+	- ich bin zuversichtlich dass ich mein Ziel erreichen werde
+
+- Sicht:
+    - die Sicht
+    - aus meiner Sicht war das falsch 
+    - auf lange/kürze Sicht 
+
+- Sichtweite:
+    - die Sichtweite
+
+- Absicht:
+    - die Absicht 
+    - das war nicht mit Absicht 
+    - das war keine böse Absicht 
+
+- Ansicht:
+    - die Ansicht 
+    - ich schicke es zur Ansicht 
+
+- Umsicht:
+    - die Umsicht
+    - das erfordert viel Umsicht 
+
+- Aufsicht:
+    - die Aufsicht
+    - das Kind soll immer unter Aufsicht sein 
+
+- Aussicht:
+    - die Aussicht 
+    - er hat mir eine Stelle in Aussicht gestellt 
+    - hast du eine Stelle in Aussicht 
+    - es steht keine Aussicht auf Erfolg 
+    - mit aussicht auf aufstieg
+
+- Einsicht:
+    - die Einsicht 
+    - ich will eine Einsicht in die Dokumente nehmen 
+    - ich bin zur Einsicht gekommen 
+
+- Hinsicht:
+    - die Hinsicht 
+    - unsere Situation in Hinsicht auf etwas ist gut 
+
+- Vorsicht:
+- vorsichtig:
+    - die Vorsicht
+    - das muss man mit Vorsicht genießen 
+    - ich muss bei soetwas vorsichtig sein 
+
+- Nachsicht:
+- nachsichtig:
+    - die Nachtsicht 
+    - du solltest Nachsicht mit ihm haben 
+
+- durchsichtig:
+    - das ist aber durchsichtig
+
+- einsichtig:
+- vernünftig:
+    - das Kind war sehr einsichtig 
+
+- Rücksicht:
+    - die Rücksicht 
+    - nimm bitte Rücksicht darauf, dass er ein alter Mann ist   
+
+- Rücksichtslos:
+    - ich könnte mich Rücksichtslos nach Vorne drängen 
+
+- übersichtlich:
+    - die Doku ist übersichtlich und lässt sich gut lesen
+
+- sichtbar:
+    - das ist leider nicht sichtbar 
+    - ich wollte das sichtbar machen  
+
+- besichtigen:
+    - ich wollte die Städt besichtigen 
+
+- beabsichtigen:
+    - ich habe den Kauf eines Autos beabsichtigt 
+
+- beaufsichtigen:
+    - wir müssen immer die Kinder beaufsichtigen  
+
+### schauen
+- abschauen:
+    - ich habe von meinem Vater abgeschaut wie macht man das 
+
+- aufschauen:
+    - zum Vater aufschauen 
+
+- durchschauen: haben durchschaut
+    - ich habe seine Absichten durchschaut 
+
+- rüberschauen:
+    - schau nicht rüber, Sie merken sonst dass wir über sie reden
+    - von her aus kannst du bis nach Italin rübersehen
+
+### blicken 
+- blicken:
+    - ich kann das nicht mehr blicken 
+
+- anblicken:
+    - sie blickt mich an (anschauen)
+
+- durchblicken:
+    - ich blicke es nicht durch (verstehen)
+
+- Überblick:
+    - der Überblick 
+    - mir fehlt den Überblick 
+    - ich habe den Überblick über die Situation veloren 
+    - ich wollte mir einen Überblick verschaffen 
+
+- Blick:
+    - der Blick 
+    - das habe ich auf den zweiten Blick erkannt 
+
+- überblicken:
+    - mann kann das nicht überblicken 
+
+- zurückblicken:
+    - und wenn ich darauf zurückblicke, kann ich eine Fortschritte feststellen 
+    - aus meiner Sicht zurüclblicken war das sehr doof 
+
+### denken
+- denken:
+    - denk an deinen Termin morgen [erinneren]
+    - ich habe drüber nicht gedacht 
+    - das habe ich mir schon gedacht [vorstellen]
+    - ich hätte das nicht von dir gedacht 
+    - ich habe an dich gedacht 
+    - ja das hätte ich mir auch denken können 
+    - was hast du dir dabei gedacht 
+
+- Andenken:
+    - das Andenken 
+    - ich habe es als Andenken an meine Kinderheit aufgehoben 
+
+- andenken:
+    - das Projekt ist schon angedacht aber noch nicht gestartet 
+    - wir müssen neue Stragtie andenken
+ 
+- ausdenken:
+	- ich muss mir etwas neues ausdenken [ausbrüten]
+
+- bedenken:
+	- ich muss die Folgen noch einmal bedenken
+	- ich denke an die Folgen 
+
+- bedacht:
+    - er ist immer auf seine Vorteile bedacht 
+
+- Bedenken:
+    - das Bedenken 
+    - ich habe Bedenken das zu machen
+
+- Gedanke:
+    - der Gedanke 
+    - ich mache mir Gedanken zu uns 
+    - bei dem Gedanken an die Prüfung 
+    - der Gedanke ist sehr gut 
+    - in Gedanken
+
+- hineindenken:
+    - ich versuche mich in seine Situation hineindenken 
+
+- nachdenken:
+    - ich denke darüber nach 
+    - lass mich nachdenken
+
+- überdenken:
+    - ich habe die Entscheidung überdacht 
+
+- vorbedenken:
+    - das soll ich vorbedacht haben 
+
+- durchdenken:
+    - ich habe den Plan durchdacht 
+
+- zudenken:
+    - dieses Geschenk habe ich dir zugedacht 
+
+- zurückdenken:
+    - ich denke viel an unsere Zeit zurück 
+
+- verdenken:    
+    - ich kann ihm das nicht verdenken dass er ungeduldig ist [übelnehemn]
+
+- Verdacht:
+    - der Verdacht 
+    - wir haben ihn im Verdacht 
+
+- leichtfertig:
+- bedenkenlos:
+    - das kann ich nicht so leichtfertig machen 
+
+- umdenken:
+    - ich habe umgedacht 
+    - ich muss umdenken 
+
+- wegdenken:
+    - chatgpt lässt sich kaum wegdenken 
+    - ich kann mir den Bart wegdenken  
+
+### danken
+- danken:
+    - ich danke dir für deine Einladung 
+
+- bedanken:
+    - ich bedanke mich bei dir 
+
+- verdanken:
+    - ich habe dir zu verdanken dass wir jetzt einen Job habe 
+    - ich verdanke ihm alles 
+
+- Dank:
+    - der Dank 
+    - ich mache das als Dank für deine Hilfe 
+    - vielen Dank
+    - dank miner erfahrung hat er es geschafft 
+
+- dankerbar:
+    - ich bin dir dankbar
+
+### erinneren 
+- Erinnerung:
+    - die Erinnerung 
+    - ich habe das nicht in Erinnerung 
+    - ich habe es als Erinnerung an dich aufgehoben 
+
+- erinnern:
+    - ich kann mich daran nicht erinnern 
+    - ich wollte ihn an seine Wörter erinnern 
+
+- Gedächtnis:
+    - das Gedächtnis 
+    - ich habe kein gutes Gedächtnis mehr
+
+### fressen
+- fressen:
+  - die Aufgabe frisst viel Zeit
+  - das hat mein Geld gefressen
+
+- anfressen:
+- zerfressen:
+  - die Mäuse haben es angefressen 
+
+- einfressen:
+    - die Säure hat sich in das Metall eingefressen
+
+- auffressen:
+    - die Arbeit frisst mich auf [zermürben,aufreiben]
+    - er hat das Essen aufgefressen 
+
+- festfressen:
+    - der Motor hat sich festgefressen und kommt zum Stillstand 
+    - er hat sich an dieser Idee festgefressen
+
+- hineinfressen: [hineinsteigern]
+    - anstatt über sein Problem zu reden, frisst er alles in sich hinein 
+    - ich darf das in mich hineinfressen
+
+### schnappen 
+- schnappen:
+    - ich schnappe mir schnell ein T-shirt ich komme mit dir 
+    - ich schnappe ihn zu einem Gespräch
+
+- aufschnappen:
+    - wo hast du diese Informationen aufgeschnappt 
+    
+- überschnappen:
+    - bist du übergeschnappt 
+
+- einschnappen:
+    - sie ist schnell eingeschnappt 
+
+- wegschnappen:
+    - er hat mir den Job weggeschnappt [abjagen]
+
+- zuschnappen:
+    - pass auf der Hund schnappt zu
+
+### beißen
+- beißen:
+    - er hat mich gebissen 
+    - er hat fast ins Gras gebissen
+    - wenn du versuchst ihn zu überreden beisst du einfach auf Granit 
+
+- abbeißen:
+    - ich beiße ein Stück von dem Kuchen ab 
+
+- anbeißen:
+    - ich habe den Apfel angebissen 
+    - sie ist zum Anbeißen 
+    - ich werde nicht auf das Angebot anbeißen 
+
+- aufbeißen:
+    - ich beiße den Bonbon auf 
+    - die Lippe aufgebissen
+
+- ausbeißen:
+    - ich habe mir an dieser Aufgabe einen Zahn ausgebissen 
+
+- durchbeissen:
+    - ich weiss es ist sehr schwerig aber ich muss mich durch das Projekt durchbeißen bis ich es schaffe 
+
+- festbeißen:   
+    - er hat sich an dieser Idee festgebissen [festfahren]
+
+- verbissen:(sturkopf oder entschlossen)
+    - ich trainere verbissen 
+    - Er reagierte verbissen auf jede Kritik und wollte nichts davon hören 
+
+- zubeißen:
+    - bitte einmal zubeißen 
+
+- zerbeißen:
+    - Der Hund hat seine Leine zerbissen
+
+- Biss:
+    - der Biss 
+    - er hat Biss 
+
+- bisschen:
+    - ein bisschen Glück gehört dazu
+
+- zusammenbeißen:
+    - ich beisse die Zähne zusammen und mach weiter
+### essen 
+- abessen:
+    - er hat nur die Schokolade abgegessen 
+
+- aufessen:
+    - er isst nie sein Essen auf 
+
+- überessen:
+    - ich habe es übergegessen 
+
+- wegessen:
+    - er hat mir den Schkolade weggegessen
+
+- mitessen:
+    - ich esse auch die Schale mit 
+
+- Essen:
+    - das Essen 
+    - es ist sehr teuer wenn man Essen gegen 
+
+- Abendessen:
+- Abendbrot:
+    - das Abeendessen 
+    - ich hatte Fleisch zum Abendessen 
+    
+- Kulissen:
+    - die Kulisse 
+    - nach außen hin ist alles gut aber hinter den Kulissen ist es anders
+
+### zehren
+- zehren:
+    - das zehrt an mir 
+    - ich zehre bis heute von diesem Geld
+
+- abzehren:
+    - Liebe zehrt mich ab 
+
+- aufzehren:
+    - wir haben das Essen aufgezehrt 
+
+- auszehren:
+    - die Krankheit hat ihn ausgezehrt  
+
+- verzehren:
+    - Die Krankheit hat ihn total entkräftet.
 
 ### vorbei 
 - vorbeikommen:
@@ -3902,6 +4413,15 @@ regieren:
     - ich hatte Schlaflosigkeit
 
 ### ent 
+- entarten:
+    - die Diskussion entartet zu einem Streit
+
+- entbehrlich:
+    - für das Thema war er nicht entbehrlich 
+
+- entbergen:
+    - wir konnten ihn entbergen
+
 - entzweien: [spalten]
     - Ungerechtigkeit kann die Gesellschaft entzweit
 
@@ -3937,9 +4457,6 @@ regieren:
 - entrümpeln:_
     - ich werde das Haus entrümpeln 
 
-- entbehrlich:
-    - für das Thema war er nicht entbehrlich 
-
 - entschleunigen:
     - ich wollte mich entschleunigen
 
@@ -3958,6 +4475,15 @@ regieren:
 - Rückfällig:
     - er ist Rückfällig geworden
 
+- Rückstand: [vorsprung]
+    - der Rückstand
+    - den Rückstand aufholen 
+    - Zwei wochen im Rückstand 
+
+- Rückschlag:
+    - der Rückschlag 
+    - ich muss viele Rückschläge hinnehmen
+
 - rückwärts:
     - ich will rückwärts parken  [vorwärts]
 
@@ -3968,10 +4494,6 @@ regieren:
     - der Rückgrat 
     - er hat null Rückgrat 
     - ich habe ihm Rückgrat gezeigt
-
-- Rückschlag:
-    - der Rückschlag 
-    - ich muss viele Rückschläge hinnehmen
 
 - Rückhalt:
     - der Rückhalt 
@@ -3984,10 +4506,11 @@ regieren:
 - Rücksichtslos:
     - ich könnte mich Rücksichtslos nach Vorne drängen 
 
-- Rückstand: [vorsprung]
-    - der Rückstand
-    - den Rückstand aufholen 
-    - Zwei wochen im Rückstand 
+- Rucksack:
+    - der Rucksack 
+
+- Rucksitz:
+    - der Rucksitz
 
 ### weg 
 - Hinweg:
@@ -4083,7 +4606,8 @@ regieren:
     - der Chef hat mir diese Aufgabe untergejubelt 
 
 - unterlaufen: [entgehen]
-    - das ist mir leider unterlaufen
+    - das ist mir leider unterlaufen 
+    - er hat das Gesetz unterlaufen 
 
 - unterbrechen:
     - ich wollte dich nicht bei der Arbeit unterbrechen 
@@ -4142,6 +4666,10 @@ regieren:
     - der Unterhalt 
     - ich komme für den Unterhalt der Kinder 
 
+- Unterhaltung:
+    - die Unterhaltung 
+    - das ist eine gute Unterhaltung für die Familie 
+
 - untermauern:
     - ich wollte meine Aussage mit Fakten untermauern 
 
@@ -4163,6 +4691,7 @@ regieren:
     - ich bin schon unterwegs 
     - ich bin mit der Bus unterwegs zu dir, und sollte in etwas 30 Minuten ankommen
     - ich kaufe mir was unterwegs 
+    - wir sind mit dem Projekt gut unterwegs
 
 - Unterlage:
     - die Unterlage
@@ -4334,69 +4863,6 @@ regieren:
     - zunächst müssen wir das planen 
     - wann warst du zuletzt beim Artz
 
-### spucken
-- Spucke:
-    - die Spucke
-
-- spucken:
-    - er spuckt auf den Boden 
-
-- ausspucken:
-    - im Auto spuckt er aus 
-
-- bespucken:
-    - er hat mich bespuckt 
-
-### sabbern
-- sabbern:
-    - das Kind sabbert 
-
-- Speichel:
-    - der Speichel 
-    - übermäßiger Speichel 
-
-- Schleim:
-    - der Schleim 
-
-- schnäuzen: [nase suauberaber machen]
-    - ich will mir die Nase schnäuzen
-
-- Schnupfen:
-    - der Schnupfen 
-    - ich habe einen Schnupfen bekommen 
-
-- schnaufen:
-    - ich muss schnaufen 
-    - ich komme ins Schnaufen 
-
-- durchschnaufen:
-    - ich muss durchschnaufen 
-
-- verschanufen:
-    - ich muss mich verschnaufen 
-
-### Rente 
-- Rente:
-    - die Rente 
-    - ich gehe in die Rente 
-
-- Rentner:
-    - der Rentner 
-    - er ist ein Rentner 
-
-- Rentenbeitrag:
-    - der Rentenbeitrag
-
-### knabbern 
-- knabbern:
-    - haben wir was zum knabbern 
-    - ich habe an dieser Aufgabe zu knabbern 
-
-- abknabbern:
-    - er knabbert den Keks vom Kuchen ab
-
-- naschen:
-    - ich nasche gerne 
 
 ### argument 
 - Argument:
@@ -4594,7 +5060,7 @@ regieren:
 
 ### Register 
 - Register:
-    - das Refister 
+    - das Register 
     - wir müssen alle Register ziegen um das zu schaffen 
 
 - registrieren:
@@ -4942,9 +5408,11 @@ regieren:
 
 ### schieben 
 - schieben:
+    - ich schiebe den Wagen bergauf 
     - er schiebt es auf mich (zuschieben)
     - er schiebt es von sich (wiesen)
     - ich werde ihm das in die Schuhe schieben[verantworten] 
+    - auf die lange Bank schieben
 
 - abschieben:
     - er wird abgeschoben 
@@ -5026,7 +5494,7 @@ regieren:
 
 - ziehen:
     - Wagen ziehen [schieben]
-    - es zieht sich in die Lange  [in]
+    - es zieht sich in die Länge  [in]
     - die Verletztung zieht Lange Behandlung nach sich [nach]
     - der Fluss zieht sich über 10 Länder [über]
     - er zieht mich am Arm  [an+dativ]
@@ -5036,6 +5504,7 @@ regieren:
     - Bettbezüge abziehen 
     - zwei von Fünf abziehen
     - wir müssen Steuern abziehen 
+    - den Ring abziehen
 
 - anziehen:
     - ich ziehe mich/das Kind warm an 
@@ -5048,16 +5517,17 @@ regieren:
     - die Anziehungskraft [shwerpunkt] [gravitation]
 
 - aufziehen:
-    - ich ziehe mein Kind auf wie ich will [großziehen]
     - ziehe die Vorhänge auf[öffnen]
+    - Schublade aufziehen [einschieben]
     - ich wollte dich nur aufziehen[nerven]
+    - ich ziehe mein Kind auf wie ich will [großziehen]
     - ziehe die Fahne auf [hochziehen] 
     - Spritze aufziehen 
-    - Schublade aufziehen [einschieben]
 
 - ausziehen:
     - ich ziehe mir meine Jacke aus 
     - ich ziehe mich aus 
+    - ich ziehe ihn aus
     - ich bin mit 17 ausgezogen
 
 - beziehen:_
@@ -5065,6 +5535,8 @@ regieren:
     - man kann wohngeld beziehen 
     - bettwäsche beziehen 
     - das Bett neu beziehen 
+    - wir beziehen neu wohnung
+    - eine STellung beziehen
 
 - Beziehung:
     - die Beziehung 
@@ -5078,6 +5550,9 @@ regieren:
 
 - einziehen:
     - Nächste Woche ziehen wir in die neue Wohnung ein
+    - den Kopf / bauch einziehen 
+    - der Bank zieht das Geld automatisch ein
+    - der Creme zieht schnell ein
 
 - einbeziehen:
     - ich habe die ganz Familie in die Entscheidung (mit) einbezogen 
@@ -5085,6 +5560,7 @@ regieren:
 - entziehen:
     - die Kinder wurden ihm entzogen 
     - ich will mich meiner Verantworung nicht entziehen [sich] 
+    - sie haben mir meinen Fürhschein entzogen
 
 - festziehen:
     - ich ziehe den Gürtel fest
@@ -5093,16 +5569,23 @@ regieren:
     - ich versuche mit ihm gleichzuziehen
 
 - hineinziehen:
+- reinziehen:
+    - muss nicht immer gleich die Polizei/Justiz mit reingezogen werden.
     - ich will nicht in dieses Problem hineingezogen werden 
 
 - hinterziehen:_
     - er hat Steuer hinterzogen 
 
 - hinterherziehen:
+- herziehen:
+    - ich ziehe den Stuhl her 
+    - er ist seit kurzem aus Hamburg hergezogen 
+    - seit vier Monaten bin ich hier hergezogen
+    - ich ziehe den Wagen hinter mir her 
     - der Test zieht sich hinterher
 
 - hinziehen:
-    - er hat mich zu ihm hingezogen 
+    - sie ist zu mir hingezogen
     - der Process zieht sich über Wochen hin 
 
 - hinzuziehen:
@@ -5110,13 +5593,6 @@ regieren:
 
 - heranziehen:
     - die Kinder zu Arbeiten im Haushalt heranziehen
-
-- reinziehen:
-    - muss nicht immer gleich die Polizei/Justiz mit reingezogen werden.
-
-- herziehen:
-    - ich ziehe den Stuhl her 
-    - er ist seit kurzem aus Hamburg hergezogen 
 
 - hochziehen:
     - ich ziehe mich an der Stange hoch 
@@ -5127,7 +5603,9 @@ regieren:
     - sie sagen wenn du am einem Tisch sitzt, ist es eifacher für die Person dich runterzuziehen als du ihn hochzuziehen
 
 - überziehen:
+    - ich ziehe einen Pullover über
     - ich habe das Meeting schon 10 Minuten überzogen 
+    - das Meeting hat überzogen
 
 - umziehen:
     - ich ziehe mich um 
@@ -5206,12 +5684,20 @@ regieren:
     - das Zeichen 
     - das ist ein gutes Zeichen 
 
+- Zeichung:
+    - die Zeichung 
+    - bild
+
 - Vorzeichen:
     - das Vorzeichen
     - das ist passiert ohne Vorzeichen
 
 - Trennzeichen:
     - das Trennzeichen 
+
+- Kennzeichen:
+    - das Kennzeichen 
+    - der Wagen mit dem Kennzeichen asdf
 
 - Verzeichnis:
     - das Verzeichnis 
@@ -5240,6 +5726,7 @@ regieren:
     - ich zeichne dir den Weg auf 
 
 - auszeichnen:  
+    - er zeichnet sich durch seine Arbeit aus 
     - seine harte Arbeit zeichnet sich aus 
     - es ist ausgezeichnet wie gut er ist 
 
@@ -5259,17 +5746,11 @@ regieren:
 - kennzeichnen:
     - das Leben wird durch Gewalt gekennzeichnet 
 
-- Kennzeichen:
-    - das Kennzeichen 
-    - der Wagen mit dem Kennzeichen asdf
-
 - ausmalen:
     - ich kann mir das ausmalen 
 
 - schwarzmalen:
     - ich will die Sache nicht schwarzmalen 
-
-
 
 ### züglich 
 - abzüglich:
@@ -5291,6 +5772,7 @@ regieren:
 
 ### treiben
 - treiben:
+    - Tier treiben
     - er hat mich zur Eile getrieben
     - das treibt mich zur Verzweifelung 
     - sie hat versucht einen Keil zwischen uns zu treiben _
@@ -5353,16 +5835,17 @@ regieren:
 
 - herumtreiben:
     - er treibt sich einfach herum  
-
+****
 ### bringen
 - bringen:
     - er hat es im Leben zu etwas bringen
     - soll ich dir etwas bringen 
     - das will ich hinter mich bringen [hinter]
     - ich kann das nicht über mich bringen  [über]
-    - das bringt mich zum Umdenken [zu]
+    - das bringt mich zum / weinen / lachen Umdenken [zu]
     - er hat die alte Frau um ihr Geld gebracht [um] 
-    - er hat das Geld an sich gebracht [an sich]
+    - er hat das Geld an sich gebracht [an sich]*
+    - ich werde das in Erfahrung bringen
 
 - abbringen:
 	- ich will dich nicht von deinem Plan abbringen
@@ -5439,13 +5922,24 @@ regieren:
 
 ### nehmen
 - nehmen:
+    - in Anspruch nehmen 
+    - in Angriff nehmen
+    - in schutz nehmen 
+    - im Kauf nehmen
+    - zur Kenntnis nehmen 
+    - in die Hand nehmen 
+    - auf den Arm nehmen 
+    - jemanden an die Hand nehmen
+    - beim Wort nehmen 
     - das nimmt mir die Lust an der Arbeit [vergehen] 
-    - ich nehme diese Aufgabe in die Hand
     - ich habe auf mich genommen das zu machen [vornehmen] [auf]
     - ich nehme mir die Zeit um mir das anzusehen  
     - ich nehme am morgen nichts zu mir [essen] [zu]
     - dann haben wir die letzte Hürde auf dem Weg genommen 
-    - ich nehmen die Kritik zu Herzen [ernstnehmen]
+    - ich nehmen die Kritik zu Herzen [ernstnehmen] 
+
+- auseinandernehmen:
+    - er nimmt das Spielzeug auseinander
 
 - abnehmen:
 - zunehmen:
@@ -6577,6 +7071,7 @@ regieren:
     - sollte dieser nicht mehr vorliegen fordern Sie bitte einen neuen bei uns an. 
     - ich habe den Brief bei mir vorliegen
 
+***
 ### gewinn && verlieren 
 - gewinnen: 
 - verlieren:
@@ -6590,6 +7085,7 @@ regieren:
 - abgewinnen:
     - ich habe ihm 200 Euro abgewonnen 
     - ich kann der Sache nichts postives abgewinnen
+    - ein Lachen abgewinnen
 
 - Verlust:
     - der Verlust 
@@ -6597,6 +7093,8 @@ regieren:
 
 ### schnieden
 - schneiden:
+    - sich ins eigene Fleisch schneiden
+    - gut geschnitten
     - aus dem Gesicht geschnitten
     - ich schneide das Fleisch
     - Haar / Nägel Bschneiden 
@@ -6826,8 +7324,8 @@ regieren:
 - gebrechlich:
     - er ist alt und gebrechlich 
 
-- hinunterbrechen:
-    - ich habe die Sache auf diese Frage hinunterbrechen, können wir das schaffen
+- herunterbrechen:
+    - ich habe die Sache auf diese Frage herunterbrechen, können wir das schaffen
 
 ### stecken
 - stecken bleiben:
@@ -6936,18 +7434,21 @@ regieren:
 - schlag:
     - der Schlag 
     - das passiert auf einen Schlag 
-    - der Schlag hat mich verfehlt 
+    - der Schlag hat mich verfehltu
     - einen Schlag bekommen
 
 - schlagen:
     - er hat mich geschlagen 
-    - ich will sie / diese Idee aus dem Kopf schlagen
+    - ich will ihr diese Idee aus dem Kopf schlagen
+    - er hat mich in die Flucht geschlagen
 
 - Anschlag:
     - sie haben einen Anschlag geplannt  
+    - ich öffne die Tür bis zum anschlag
 
 - anschlagen:
     - das Medikamment hat angeschlagen
+    - ich werde den Zettel anschlagen
 
 - angeschlagen:
     - ich bin angeschlagen
@@ -6956,6 +7457,7 @@ regieren:
 	- ich kann ihm keinen Wunsch abschlagen 
 
 - aufschlagen:
+    - das Ei aufschlagen
     - ich habe mir den Kopf am Tisch aufgeschlagen 
     - er wird die Kosten auf die Miete aufschlagen
     - 5% auf den Preis aufschlagen 
@@ -6971,6 +7473,9 @@ regieren:
 - Ausschlag:
     - der Ausschlag 
     - das war der Ausschlag für das Thema [knackpunkt]
+    - Ausschlag [haut]
+    - das gibt den Ausschlag für den Sieg 
+    - der Zeiger hat einen Ausschlag
 
 - beschlagen:
     - die Brille ist beschlagen 
@@ -6992,8 +7497,10 @@ regieren:
     - ich habe mich von ihm breitschlagen lassen
 
 - einschlagen:
+    - sie haben die Tür einschlagen
     - ich will einen neuen Weg einschlagen
     - viele Probleme schlagen auf uns ein
+    - Nagel einschlagen
     
 - durchschlagen:
     - ich schlage den Nagel durch den Holz durch
@@ -7016,6 +7523,7 @@ regieren:
 - niederschlagen:
     - die Nachtricht hat mich niedergeschlagen
     - die Regierung hat den Aufstand niedergeschlagen 
+    - er hat mich niederschlagen
 
 - nachschlagen:
     - ich schlage das Wort im Buch nach
@@ -8668,253 +9176,6 @@ regieren:
 - vorrechnen:
     - soll ich dir vorrechnen wie öft du spät gekommen bist 
 
-### sehen
-- sehen:
-    - ich kann dich nicht sehen [see you]
-    - ich kenne ihn vom Sehen
-    - ich sehe gern nicht auf das Handy
-    - ich habe die gute Eigenschaft in dir gesehen 
-    - ich sehe es als eine Chance 
-
-- absehen:
-    - abgesehen von dem Längen Weg ist alles in Orderung 
-    - davon abgesehen ist alles sehr gut
-    - das sölltest man früher absehen 
-    - es hat es auf mein Geld abgesehn [auf] 
-    - Bitte sehen Sie von Anrufen ab [von]
-
-- ansehen:
-    - sie sieht mich böse an 
-    - ich sehe das Buch an [schnell]
-    - ich sehe mir das Buch an [intensiv]
-    - ich kann ihn nicht ansehen [loot at me]
-    - wenn ich mir so ansehe, was wir erreichen haben  
-    - man sieht ihm sein Alter nicht an
-
-- Ansehen:
-    - das Ansehen 
-    - er hat sehr gutes Ansehen 
-
-- angesehen:
-    - das ist bei uns angesehen
-
-- Aufsehen:
-    - das Aufsehen
-    - wir sollen kein Aufsehen erregen
-    - das sorgt für mehr Aufsehen 
-
-- aufsehen:
-    - ich will ein Vater sein, zu dem mein Kind aufsehen wird
-
-- aussehen:
-    - er sieht sehr gut aus 
-    - das sieht mir nach einem Problem aus 
-    - es sieht sehr gut aus mit unserem Plan 
-
-- Aussehen:
-    - das Aussehen 
-    - das Aussehen ist auch wichtig 
-
-- einsehen:
-    - ich habe meinen Fehler eingesehen 
-    - ich kann nicht einsehen warum du das gemacht hast 
-
-- Einsehen:
-    - das Einsehen 
-    - ich habe für soetwas kein Einsehen 
-
-- fernsehen:
-    - ich sehe heute fern
-
-- Fernsehen:
-    - das Fernsehen 
-    - das Fernsehen hat einen Einfluss auf die Leute 
-
-- Fernseher:
-    - der Fernseher 
-    - ich kaufe einen Fernseher 
-
-- gleichsehen:
-- ähnlichsehen:
-    - du siehst ihm gleich
-
-- hinwegsehen:
-    - er hat über die Regel hinweggesehen
-    - wenn ich auf dem Tisch stehe kann ich über ihn hinwegsehen
-
-- nachsehen:
-    - sehe bitte im Kühlschrank nach ob wir Butter haben 
-    - ich habe ihm viel nachgesehen 
-    - ich habe ihm seinen Fehler nachgesehen 
-    - ich sehe dem Zug nach
-
-- Nachsehen:
-    - das Nachsehen 
-    - ich habe das Nachsehen 
-    - alle fähren in Urlaub und ich habe das Nachsehen 
-
-- schwarzsehen:
-    - ich sehe für ihn schwarz 
-
-- umsehen:
-    - ich sehe mich nur um
-
-- sich übersehen:
-    - ich habe mir viel Youtube übergesehen 
-
-- übersehen:
-    - ich habe den Fehler übersehen
-    - es lässt sich nicht mehr übersehen was gerade passiert 
-
-- vorhersehen:
-	- ich konnte das nicht vorhersehen 
-
-- Versehen:
-    - das Versehen 
-    - ich habe das aus Versehen gemacht 
-
-- versehen:
-    - ich bin mit allem versehen 
-    - ich habe ihn mit Essen versehen [ausstatten] [versorgen]
-    - ich habe mich versehen
-
-- versehentlich
-	- ich habe versehentlich dich angerufen 
-
-- vorsehen:
-    - das ist leider nicht vorgesehen 
-
-- wegsehen:
-    - ich kann nicht mehr wegsehen wenn soetwas passiert 
-
-- zusehen:
-	- sieh zu, dass die Arbeit fertig sein wird 
-
-- wiedersehen:
-    - ich hoffe das wir uns wiedersehen werden 
-
-### Sicht 
-- zuversichtlich:
-	- ich bin zuversichtlich dass ich mein Ziel erreichen werde
-
-- Sicht:
-    - die Sicht
-    - aus meiner Sicht war das falsch 
-    - auf lange/kürze Sicht 
-
-- Absicht:
-    - die Absicht 
-    - das war nicht mit Absicht 
-    - das war keine böse Absicht 
-
-- Ansicht:
-    - die Ansicht 
-    - ich schicke es zur Ansicht 
-
-- Umsicht:
-    - die Umsicht
-    - das erfordert viel Umsicht 
-
-- Aufsicht:
-    - die Aufsicht
-    - das Kind soll immer unter Aufsicht sein 
-
-- Aussicht:
-    - die Aussicht 
-    - er hat mir eine Stelle in Aussicht gestellt 
-    - hast du eine Stelle in Aussicht 
-    - es steht keine Aussicht auf Erfolg 
-
-- Einsicht:
-    - die Einsicht 
-    - ich will eine Einsicht in die Dokumente nehmen 
-    - ich bin zur Einsicht gekommen 
-
-- Hinsicht:
-    - die Hinsicht 
-    - unsere Situation in Hinsicht auf etwas ist gut 
-
-- Vorsicht:
-- vorsichtig:
-    - die Vorsicht
-    - das muss man mit Vorsicht genießen 
-    - ich muss bei soetwas vorsichtig sein 
-
-- Nachsicht:
-- nachsichtig:
-    - die Nachtsicht 
-    - du solltest Nachsicht mit ihm haben 
-
-- durchsichtig:
-    - das ist aber durchsichtig
-
-- einsichtig:
-- vernünftig:
-    - das Kind war sehr einsichtig 
-
-- Rücksicht:
-    - die Rücksicht 
-    - nimm bitte Rücksicht darauf, dass er ein alter Mann ist   
-
-- Rücksichtslos:
-    - ich könnte mich Rücksichtslos nach Vorne drängen 
-
-- übersichtlich:
-    - die Doku ist übersichtlich und lässt sich gut lesen
-
-- sichtbar:
-    - das ist leider nicht sichtbar 
-    - ich wollte das sichtbar machen  
-
-- besichtigen:
-    - ich wollte die Städt besichtigen 
-
-- beabsichtigen:
-    - ich habe den Kauf eines Autos beabsichtigt 
-
-- beaufsichtigen:
-    - wir müssen immer die Kinder beaufsichtigen  
-
-### schauen
-- abschauen:
-    - ich habe von meinem Vater abgeschaut wie macht man das 
-
-- aufschauen:
-    - zum Vater aufschauen 
-
-- durchschauen: haben durchschaut
-    - ich habe seine Absichten durchschaut 
-
-- rüberschauen:
-    - schau nicht rüber, Sie merken sonst dass wir über sie reden
-    - von her aus kannst du bis nach Italin rübersehen
-
-### blicken 
-- blicken:
-    - ich kann das nicht mehr blicken 
-
-- anblicken:
-    - sie blickt mich an (anschauen)
-
-- durchblicken:
-    - ich blicke es nicht durch (verstehen)
-
-- Überblick:
-    - der Überblick 
-    - mir fehlt den Überblick 
-    - ich habe den Überblick über die Situation veloren 
-    - ich wollte mir einen Überblick verschaffen 
-
-- Blick:
-    - der Blick 
-    - das habe ich auf den zweiten Blick erkannt 
-
-- überblicken:
-    - mann kann das nicht überblicken 
-
-- zurückblicken:
-    - und wenn ich darauf zurückblicke, kann ich eine Fortschritte feststellen 
-    - aus meiner Sicht zurüclblicken war das sehr doof 
 
 ### geben
 - geben:
@@ -9446,64 +9707,6 @@ regieren:
 - Stellvertretend:
     - das war ein stellvertretender Krieg 
 
-### schnappen 
-- schnappen:
-    - ich schnappe mir schnell ein T-shirt ich komme mit dir 
-    - ich schnappe ihn zu einem Gespräch
-
-- aufschnappen:
-    - wo hast du diese Informationen aufgeschnappt 
-    
-- überschnappen:
-    - bist du übergeschnappt 
-
-- einschnappen:
-    - sie ist schnell eingeschnappt 
-
-- wegschnappen:
-    - er hat mir den Job weggeschnappt [abjagen]
-
-### beißen
-- beißen:
-    - er hat mich gebissen 
-
-- abbeißen:
-    - ich beiße ein Stück von dem Kuchen ab 
-
-- anbeißen:
-    - ich habe den Apfel angebissen 
-    - sie ist zum Anbeißen 
-    - ich werde nicht auf das Angebot anbeißen 
-
-- aufbeißen:
-    - ich beiße den Bonbon auf 
-    - die Lippe aufgebissen
-
-- ausbeißen:
-    - ich habe mir an dieser Aufgabe einen Zahn ausgebissen 
-
-- durchbeissen:
-    - ich weiss es ist sehr schwerig aber ich muss mich durch das Projekt durchbeißen bis ich es schaffe 
-
-- festbeißen:   
-    - er hat sich an dieser Idee festgebissen [festfahren]
-
-- verbissen:(sturkopf oder entschlossen)
-    - ich trainere verbissen 
-    - Er reagierte verbissen auf jede Kritik und wollte nichts davon hören 
-
-- zubeißen:
-    - bitte einmal zubeißen 
-
-- zerbeißen:
-    - Der Hund hat seine Leine zerbissen
-
-- Biss:
-    - der Biss 
-    - er hat Biss 
-
-- bisschen:
-    - ein bisschen Glück gehört dazu
 
 ### stoßen
 - stoßen:
@@ -12498,179 +12701,7 @@ regieren:
 - überheblich:
     - das soll nicht überheblich klingen das sollte nur demon
 
-### denken
-- denken:
-    - ich hätte das nicht von dir gedacht 
-    - ich habe an dich gedacht 
-    - ja das hätte ich mir auch denken können 
-    - was hast du dir dabei gedacht 
 
-- Andenken:
-    - das Andenken 
-    - ich habe es als Andenken an meine Kinderheit aufgehoben 
-
-- andenken:
-    - das Projekt ist schon angedacht aber noch nicht gestartet 
-    - wir müssen neue Stragtie andenken
- 
-- ausdenken:
-	- ich muss mir etwas neues ausdenken [ausbrüten]
-
-- bedenken:
-	- ich muss die Folgen noch einmal bedenken
-	- ich denke an die Folgen 
-
-- bedacht:
-    - er ist immer auf seine Vorteile bedacht 
-
-- Bedenken:
-    - das Bedenken 
-    - ich habe Bedenken das zu machen
-
-- Gedanke:
-    - der Gedanke 
-    - der Gedanke ist sehr gut 
-    - ich mache mir Gedanken zu uns 
-    - in Gedanken
-
-- hineindenken:
-    - ich versuche mich in seine Situation hineindenken 
-
-- nachdenken:
-    - ich denke darüber nach 
-    - lass mich nachdenken
-
-- überdenken:
-    - ich habe die Entscheidung überdacht 
-
-- vorbedenken:
-    - das soll ich vorbedacht haben 
-
-- durchdenken:
-    - ich habe den Plan durchdacht 
-
-- zudenken:
-    - dieses Geschenk habe ich dir zugedacht 
-
-- zurückdenken:
-    - ich denke viel an unsere Zeit zurück 
-
-- verdenken:    
-    - ich kann ihm das nicht verdenken dass er ungeduldig ist [übelnehemn]
-
-- Verdacht:
-    - der Verdacht 
-    - wir haben ihn im Verdacht 
-
-- leichtfertig:
-- bedenkenlos:
-    - das kann ich nicht so leichtfertig machen 
-
-- umdenken:
-    - ich habe umgedacht 
-    - ich muss umdenken 
-
-- wegdenken:
-    - chatgpt lässt sich kaum wegdenken 
-    - ich kann mir den Bart wegdenken  
-
-### danken
-- danken:
-    - ich danke dir für deine Einladung 
-
-- bedanken:
-    - ich bedanke mich bei dir 
-
-- verdanken:
-    - ich habe dir zu verdanken dass wir jetzt einen Job habe 
-    - ich verdanke ihm alles 
-
-- Dank:
-    - der Dank 
-    - ich mache das als Dank für deine Hilfe
-
-### erinneren 
-- Erinnerung:
-    - die Erinnerung 
-    - ich habe das nicht in Erinnerung 
-    - ich habe es als Erinnerung an dich aufgehoben 
-
-- erinnern:
-    - ich kann mich daran nicht erinnern 
-    - ich wollte ihn an seine Wörter erinnern 
-
-- Gedächtnis:
-    - das Gedächtnis 
-    - ich habe kein gutes Gedächtnis mehr
-
-### fressen
-- fressen:
-  - die Aufgabe frisst viel Zeit
-  - das hat mein Geld gefressen
-
-- anfressen:
-- zerfressen:
-  - die Mäuse haben es angefressen 
-
-- einfressen:
-    - die Säure hat sich in das Metall eingefressen
-
-- auffressen:
-    - die Arbeit frisst mich auf [zermürben,aufreiben]
-    - er hat das Essen aufgefressen 
-
-- festfressen:
-    - der Motor hat sich festgefressen und kommt zum Stillstand 
-
-- hineinfressen: [hineinsteigern]
-    - anstatt über sein Problem zu reden, frisst er alles in sich hinein 
-    - ich darf das in mich hineinfressen
-
-### essen 
-- abessen:
-    - er hat nur die Schokolade abgegessen 
-
-- aufessen:
-    - er isst nie sein Essen aus 
-
-- überessen:
-    - ich habe es übergegessen 
-
-- wegessen:
-    - er hat mir den Schkolade weggegessen
-
-- mitessen:
-    - ich esse auch die Schale mit 
-
-- Essen:
-    - das Essen 
-    - es ist sehr teuer wenn man Essen gegen 
-
-- Abendessen:
-- Abendbrot:
-    - das Abeendessen 
-    - ich hatte Fleisch zum Abendessen 
-    
-- Kulissen:
-    - die Kulisse 
-    - nach außen hin ist alles gut aber hinter den Kulissen ist es anders
-
-### zehren
-- zehren:
-    - das zehrt an mir 
-    - ich zehre bis heute von diesem Geld
-
-- abzehren:
-    - Liebe zehrt mich ab 
-
-- aufzehren:
-    - wir haben das Essen aufgezehrt 
-
-- auszehren:
-    - die Krankheit hat ihn ausgezehrt  
-
-- verzehren:
-    - Die Krankheit hat ihn total entkräftet.
 
 ### dringen
 - dringen:
@@ -19087,6 +19118,69 @@ regieren:
 - Geräusch:
     - das Geräusch
     - ich höre nur geräusche 
+
+### spucken
+- Spucke:
+    - die Spucke
+
+- spucken:
+    - er spuckt auf den Boden 
+
+- ausspucken:
+    - im Auto spuckt er aus 
+
+- bespucken:
+    - er hat mich bespuckt 
+
+### sabbern
+- sabbern:
+    - das Kind sabbert 
+
+- Speichel:
+    - der Speichel 
+    - übermäßiger Speichel 
+
+- Schleim:
+    - der Schleim 
+
+- schnäuzen: [nase suauberaber machen]
+    - ich will mir die Nase schnäuzen
+
+- Schnupfen:
+    - der Schnupfen 
+    - ich habe einen Schnupfen bekommen 
+
+- schnaufen:
+    - ich muss schnaufen 
+    - ich komme ins Schnaufen 
+
+- durchschnaufen:
+    - ich muss durchschnaufen 
+
+- verschanufen:
+    - ich muss mich verschnaufen 
+
+### Rente 
+- Rente:
+    - die Rente 
+    - ich gehe in die Rente 
+
+- Rentner:
+    - der Rentner 
+    - er ist ein Rentner 
+
+- Rentenbeitrag:
+    - der Rentenbeitrag
+
+### knabbern 
+- knabbern:
+    - haben wir was zum knabbern 
+    - ich habe an dieser Aufgabe zu knabbern 
+
+- abknabbern:
+    - er knabbert den Keks vom Kuchen ab
+
+- naschen:
 
 ### zugrunde
 - zugrunde liegend:
