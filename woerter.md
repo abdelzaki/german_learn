@@ -7610,6 +7610,7 @@ regieren:
     - viel nicht am Anfang aber eventlich kommen sie immer zum tragen
 
 - abtragen:
+    - meine jack ist abgetragen
     - ich will meine Schuhe nicht abtragen
 
 - auftragen:
@@ -7656,6 +7657,7 @@ regieren:
 
 - nachtragen:
     - ich trage ihm es nach dass er mir nicht geholfen hat 
+    - ich werde es später nachtragen
 
 - zutragen:
     - mir wurde zugetragen 
@@ -7692,12 +7694,14 @@ regieren:
 
 ### stehen
 - stehen:
+    - das steht unter Strom
+    - ich stehe totall neben mir 
     - der Entwicklung steht nichts im Wege
     - ich stehe zu meiner Tat 
     - ich stehe zu dir 
     - ich stehe auf Frauen 
     - das Essen steht auf dem Tisch
-    - das Kleid dir gut
+    - das Kleid steht dir gut
 
 - abstehen:
     - meine Haare stehen ab 
@@ -7757,12 +7761,12 @@ regieren:
     - bleibe bitte stehen ich komm zu dir 
     - wo sind wir stehengeblieben 
 
-
 - stehenlassen:
     - lasse es stehen 
 
 - einstehen:
     - ich habe das gemacht und ich stehe für meine Entscheidung ein
+
 - entstehen:
     - ich wollte nicht dass der Eindruck entsteht 
     - Mehraufwand könnte entstehen 
@@ -7988,10 +7992,9 @@ regieren:
 ### halten
 - halten: haben gehalten
     - ich werde dich auf dem Laufenden halten wenn sich was neues ergibt 
-    - wir halten den Ball flach 
+    - was hält dich in dieser Stadt
     - ich halte es für wichtig
     - was hältst du von ihm
-    - ich will mich fit halten
     - ich halte zu dir
     - ich wollte mein Wort halten 
     - ich halte mich an den Termin / die Anweisung
@@ -8067,15 +8070,18 @@ regieren:
 
 - erhalten bleiben:
     - wir wollten das erhalten blieben 
+    - komisch weise ist es erhalten geblieben
     - so bleibt das Haus in einem guten zuständig erhalten
 
 - flachhalten:
     - wir halten den Ball flach 
 
 - festhalten:
-    - ich halte mich an meiner Meinung fest 
-    - könntest du das bitte festhalten 
+    - halt das bitte fest
     - er hat mich am Arm festgehalten 
+    - ich halte an meiner Meinung fest 
+    - ich halte mich an das Geländer fest
+    - sollen wir das festhalten
 
 - fernhalten:
     - ich halte mich von ihm fern 
@@ -8090,12 +8096,14 @@ regieren:
 
 - herhalten:
     - er hält mich als Sündenbock her 
+    - wir halten das als Bett her
 
 - Haushalt:
     - der Haushalt 
     - ich muss den Haushalt machen 
 
 - knapphalteln:
+- kurzhalten:
     - die Eltern hat die Kinder mit Taschengeld knapp 
 
 - mithalten:
@@ -8124,6 +8132,7 @@ regieren:
 
 - zurückhalten:
     - ich halte mich bei dieser Diskussion zurück
+    - ich konnte ihn nicht zurückhalten
 
 - vorhalten:
     - soll ich dir den Spiegel vorhalten 
@@ -8139,7 +8148,7 @@ regieren:
     - Frauen enthalten dem Kind den Vate vor 
 
 - warmhalten:
-    - ich halte dieses Angebot warm bis ich eine besseres Angebot bekomme
+    - ich halte mir dieses Angebot warm bis ich eine besseres Angebot bekomme
 
 - aufenthalt:
     - der Aufenthalt 
@@ -8183,12 +8192,32 @@ regieren:
     - ich habe ihm das Ultimatum gestellt 
     - er stellt sich dumm [sich]
     - ich werde die Heizung höher stellen 
-    - ich stelle dir kein Bein [Bein]
+    - ich stelle dir kein Bein [Bein] 
+    - auf die Probe stellen
+
+- stelle:
+    - die Stelle 
+    - an dieser Stelle muss du das machen 
+    - auf der Stelle [treten,schlagen]
+
+- stellung:
+    - die Stellung 
+    - er hat eine Stellung gefunden 
+    - was ist die richtige Stellung für den Arm 
+    - der Schalter hat drei Stellungen
 
 - abbestellen:
+- bestellen:
+    - er hat mich in sein Büro bestellt 
     - ich bestelle die Zeitung ab 
 
+- Bestellung:
+    - die Bestellung 
+    - meine Bestellung war bereit zur Abholung
+
 - abstellen:
+    - das wasser wird abgestellt 
+    - er hat mich für diese Aufgabe abgestellt
     - ich muss diese Gewöhnheit abstellen 
 	- darf ich hier abstellen 
 
@@ -8209,9 +8238,6 @@ regieren:
 - angestellt:
     - ich bin bei der Post angestellt 
 
-- bestellen:
-    - er hat mich in sein Büro bestellt 
-
 - bereitstellen:
     - das werde ich dir bereitstellen 
     - ich habe den Koffer zum abholen bereitgestellt 
@@ -8231,6 +8257,10 @@ regieren:
     - du kannst dein Handy so einstellen dass du nur Update Nacht bekommst (irgendwie)
     - sie musste erste auf die Medikemnt eingestellt 
     - stellt sich wieder Zweifel bei mir ein
+
+- einstellung:
+    - die Einstellung 
+    - die Einstellung ist falsch
 
 - eingestellt:
     - er ist postive eingestellt
@@ -8320,7 +8350,7 @@ regieren:
 - Baustelle:
     - die Baustelle 
     - ich habe gerade eine andere Baustelle
-
+***
 ### setzen
 - setzen:
     - ich will dich nicht unter Druck setzen 
@@ -8540,7 +8570,7 @@ regieren:
 
 - zurückbleiben:
     - ich will nicht zurückbleiben
-
+***
 ### schütten
 - schütten:
     - wasser in den Eimer schütten 
@@ -8602,6 +8632,15 @@ regieren:
 - wachrütteln:
     - das Ergebnis hat mich wachgerüttelt 
 
+### wackeln
+- wackeln:
+    - der Tisch wackelt
+
+- wackelig:
+    - es ist wackelig 
+
+- verwackeln:
+    - das Foto ist verwackelt 
 
 ### punkt 
 - Punkt:
@@ -14675,15 +14714,6 @@ regieren:
 - vertagen:
     - ich werde den Termin auf morgen vertagen 
 
-### wackeln
-- wackeln:
-    - der Tisch wackelt
-
-- wackelig:
-    - es ist wackelig 
-
-- verwackeln:
-    - das Foto ist verwackelt 
 
 ### hemmen
 - hemmen:
