@@ -3364,11 +3364,20 @@
 - lassen:
     - wir lassen das außen vor
     - ich habe mein Handy hier gelassen
-    - er lasst mich nicht zu Wort
+    - er lasst mich nicht zu Worte
+
+- wartenlassen:
+    - ich habe leider 
+
+- ergehen lassen:
+    - ich lasse dich nicht über mich ergehen [wehren]
     
 - ablassen:
     - wir lassen den Gas ab 
     - er hat sich davon abgelassen das zu machen
+
+- nehmen lassen:
+    - ich lasse es mir nicht nehmen, den Kaffe zu trinken
 
 - alleinlassen:
     - ich lass dich allein
@@ -3377,7 +3386,6 @@
     - ich lasse den Motor an
     - sie können die Schuhe anlassen
     - die Sache lasst sich gut an [sich]
-    - ich lasse es mir nicht nehmen, ihn persönlich zu treffen
 
 - auslassen:
     - das lassen wir aus
@@ -3509,15 +3517,17 @@
     - der Streit 
     - ich werde nicht einen Streit mit ihm anfangen 
     - es gab einen Streit darüber 
+
 ### warten
 - warten:
     - ich warte schon 2 stunden auf dich [auf]
     - ich warte mit dem Beginn bis du kommst [mit]
-    - das Problem lässt nicht lange auf sich warten 
+    - das Problem lässt nicht lange auf sich warten [wait]
+    - er hat wieder auf sich warten lassen [verspätet]
     - das Gerät muss gewartet werden 
 
 - abwarten:
-    - ich warte den richtigen Moment ab 
+    - ich warte den richtigen Moment ab [abpassen]
 
 - erwarten:
     - ich habe dich erwartet 
@@ -3571,6 +3581,7 @@
 - bestimmen:
     - ich kann bestimmen wer ich einlade 
     - das Geld war für die Renvioerung bestimmt 
+    - er kann darüber bestimmen
 
 - mitbestimmen:
 - fremdbstimmen:
@@ -3978,7 +3989,7 @@
     - er kann noch nicht gut sprechen
 
 - absprechen:
-    - das ist so mit dem Chef abgesprochen 
+    - das ist so mit dem Chef abgesprochen [mit]
     - ich kann ihm das nicht absprechen 
     - wir sprechen uns ab, wer das machen kann [abstimmen] 
 
@@ -3992,13 +4003,14 @@
     - ich habe das Thema angesprochen 
     - ich habe ihn auf das Thema angesprochen 
     - er spricht auf das Medikment gut an [reagieren]
-    - das Medikment spricht bei Ihm an
+    - das Medikment spricht bei Ihm an 
+    - ich fühle mich angesprochen
 
 - aussprechen:
     - ich kann das Wort nicht richig aussprechen 
     - er hat seinen Wunsch ausgesprochen
     - lass mich bitte aussprechen 
-    - ich wollte mich über mein Problem aussprechen 
+    - ich wollte mich über mein Problem mit ihm aussprechen 
     - Die Mehrheit sprach sich gegen das Projekt aus.
 
 - besprechen:
@@ -4538,7 +4550,7 @@
 - Gedächtnis:
     - das Gedächtnis 
     - ich habe kein gutes Gedächtnis mehr
-
+--
 ### fressen
 - fressen:
   - die Aufgabe frisst viel Zeit
@@ -4557,7 +4569,7 @@
 
 - festfressen:
     - der Motor hat sich festgefressen und kommt zum Stillstand 
-    - er hat sich an dieser Idee festgefressen
+    - er hat sich an dieser Idee festgefressen [verharren] [verrennen] [versteifen] [fastfahren]
 
 - hineinfressen: [hineinsteigern]
     - anstatt über sein Problem zu reden, frisst er alles in sich hinein 
@@ -4608,7 +4620,7 @@
     - ich weiss es ist sehr schwerig aber ich muss mich durch das Projekt durchbeißen bis ich es schaffe 
 
 - festbeißen:   
-    - er hat sich an dieser Idee festgebissen [festfahren]
+    - er hat sich an dieser Idee festgebissen [festfahren] [festfressen] [verharren] [versteifen] [verrennen]
 
 - verbissen:(sturkopf oder entschlossen)
     - ich trainere verbissen 
@@ -4629,6 +4641,7 @@
 
 - zusammenbeißen:
     - ich beisse die Zähne zusammen und mach weiter
+
 ### essen 
 - abessen:
     - er hat nur die Schokolade abgegessen 
@@ -5074,7 +5087,7 @@
 - herumdrucksen:
     - er hat nicht den wahre Grund gesagt er hat einfach herumgedruckst 
 
-### folgen*
+### folgen
 - folgen:
     - ich folge dem weg / dir nicht 
 
@@ -5142,11 +5155,12 @@
 ### reihe 
 - Reihe:
     - die Reihe 
-    - eine lange Reihe  von Menschen 
+    - an der Reihe sein / an die Reihe kommen 
+    - ich mache es heute außer der Reihe 
+    - eine lange Reihe von Menschen 
     - in erster Reihen 
     - ich mache es der Reihe nach
     - ich habe endlich das auf die Reihe gekriegt 
-    - ich mache es außer der Reihe 
 
 - Reihenfolge:
     - die Reihenfolge 
@@ -5205,7 +5219,7 @@
 
 - Zaun:
     - der Zaun
-
+--
 ### schmettern
 - schmettern:
     - er hat den Ball geschmettert 
