@@ -99,6 +99,186 @@
 - bezwingen:
     - bewältigen
 
+### hetzen
+- hetzen:
+    - ein Tier hetzt ein Tier
+    - ich will dich nicht hetzen 
+    - wir müssen zum Bahnhof hetzen  
+    - ich wollte nicht durch den Tag hetzen 
+    - eine person hetzen eine person gegen eine Person
+    - eine Person hetzen ein Tier auf etwas/person 
+
+- Hetze:
+    - Das war vielleicht eine Hetze, bis wir endlich im Bus saßen!
+    - ich will das nicht in Hetze machen sondern in Ruhe 
+    - die Hetze 
+    - in der Hetze habe ich das vergessen
+
+- abhetzen:
+    - ich habe mich zum Bahnhoft abhetzen 
+
+- abgehetzt:
+    - ich bin abgehetzt
+
+- aufhetzen:
+- verhetzen:
+    - die Mutter hetzt das Kinder gegen den Vater auf 
+
+- hasten:
+    - ich muss zum Bahnhof hasten
+
+- hektisch:
+	- heute war es sehr hektisch und ich hatte nicht genugend Zeit um alles zu schaffen was ich schaffen wollte
+
+- hastig:
+    - wir wollen nicht hastig arbeiten
+### dringen
+- dringen:
+    - die Sonne dringt durch den Dach
+    - das dringt auf etwas (insist)
+
+- dringend:
+    - die Sache ist sehr dringend 
+    - das ist eine dringende Reparatur 
+
+- durchdringen:
+    - das Wasser dringt durch das Dach durch 
+    - die Trauer durchdringt mich 
+
+- eindringen:
+    - das Wasser dringt durch die Tür in das Haus ein
+    - ich dringt auf person ein bis du nachgibst [belästigen]
+
+- vordringen:
+    - sie dringen in fremdes Land vor 
+
+- eindringlich
+    - ich habe ihn eindringlich gebeten das zu machen 
+
+- aufdringlich:
+    - er ist sehr aufdringliche Person 
+
+- unaufdringlich:
+    - das Kleid war unaufdringlich
+
+### drängen
+- drängen:
+    - Zeirtdrängt
+    - ich werde das zur Seite drängen
+    - er hat mich zur Eile gedrängt
+    - Sie drängen auf baldige Lösung
+    - ich will dich nicht in die Ecke drängen
+    - ich dränge mich nach vorne
+
+- abdrängen:
+  - er drängt mich vom Weg ab
+
+- aufdrängen:
+  - ich will dir meine Hilfe nicht aufdrängen
+
+- bedrängen:
+  - ich will dich nicht bedrängen
+  - sie bedrängen die Touristen Produkte zu kaufen
+
+- verdrängen:
+    - Laptop hat pc verdrängt
+
+- vordrängen:
+  - ich werde mich vordrängen
+
+- zusammendrängen:
+    - Die Tiere wurden auf kleinstem Raum zusammengedrängt
+
+- Drang:
+    - der Drang 
+    - der Drang nach Freiheit 
+
+- Andrang:
+- Gedränge:
+    - der Andrang 
+    - das Gedränge
+    - am weichnachen herrscht größer Andrang
+
+### drücken 
+- drücken:
+    - das drückt mich 
+    - ich werde ihm das in die Hand drücken 
+    - den Knopf drücken 
+    - ich dürcke mich vor dieser Aufgage [sich]
+
+- abdrücken:
+    - ich will das Blut abdrücken(abschnüren)
+    - der Füß drückt im Sand ab 
+    - die Mutter drückt ihr Kind ab 
+    - du dürckst mir die Luft ab
+
+- andrücken:
+    - ich drücke den Aufkleben an [befestigen]
+
+- aufdrücken:
+- zudrücken:
+    - ich drücke die Tür auf 
+
+- ausdrücken:
+    - wie soll ich das richtig ausdrücken 
+
+- bedrücken:
+    - das bedrückt mich 
+    - du siehst bedrück aus 
+
+- erdrücken:
+    - ich wollte es zu dieser Zeit nicht und kam mir erdrückt vor 
+
+- unterdrücken:
+    - Frauen werden unterdrückt 
+
+- zerdrücken:
+    - Essen zerdrücken 
+
+- wegdrücken:
+    - sie hat mich weggedrückt 
+
+- Druck:
+	- der Druck
+	- ich will dich nicht unter Druck setzen
+	- ich stehe unter Druck
+	- wir können Druck ausüben
+	- wir mussen Druck aufbauen
+
+- nachdrücklich
+    - er hat das nachdrücklich gesagt
+
+### pressen 
+- abpressen:
+    - das presst mir ab 
+    - so kann man Öl aus den Oliven abpressen 
+
+- auspressen:
+    - den Rest der Zahnpasta auspressen 
+
+- durchpressen:
+    - obst durch ein Sieb durchpressen
+
+- erpressen:
+    - ich will dich nicht erpressen 
+
+### nötigen
+- nötigen:
+    - das Wetter nötigt mich zu Hause zu bleiben
+    - er nötigt mich ihn zu rufen
+
+- benötigen:
+  - ich benötige deine Hilfe
+
+- aufnötigen:
+  - ich will dir meine Hife nicht aufnötigen 
+
+- abnötigen:
+  - Der Vernehmer versuchte, dem Verdächtigen ein Geständnis abzunötigen 
+
+- nötig:
+    - das ist nicht mehr nötig 
+
 ### schwatzen
 - schwatzen: [labern]
     - er schwatzt die ganze Zeit 
@@ -2755,7 +2935,7 @@ regieren:
 
 - bereiterklären:
     - er hat sich bereiterklärt das zu machen 
-
+--
 ### klar 
 - Klar:
     - ich bin mir darüber im klaren
@@ -3184,34 +3364,6 @@ regieren:
 - Gelassenheit:
     - die Gelassenheit 
     - man soll nicht die Gelassenheit verlieren 
-
-### streiten
-- umstritten:   
-    - das Thema ist umstritten 
-
-- unbestritten:
-    - das ist unbestritten
-
-- streiten:
-    - wir streiten uns immer 
-
-- abstreiten:
-    - ich streite den Vorwurf ab 
-    - ich kann ihm seine Kompetenz auf dem Feld nicht abstreiten 
-
-- bestreiten:
-    - ich bestreite nicht dass Berlin gute Stadt ist 
-
-- herumstreiten:
-    - ich habe keine Lust mit ihm herumzustreiten
-
-- zerstreiten:
-    - wir haben uns zerstritten
-
-- Streit:
-    - der Streit 
-    - ich werde nicht einen Streit mit ihm anfangen 
-    - es gab einen Streit darüber 
 ### warten
 - warten:
     - ich warte schon 2 stunden auf dich [auf]
@@ -4576,6 +4728,9 @@ regieren:
     - in meiner vorigen Stelle 
 
 ### unter 
+- unterbuttern:
+    - ich bin neu hier aber ich lass mich nicht unterbuttern
+
 - unterlassen:
     - ich werde Screenshots unterlassen
     - ich werde den Anrufen unterlassen 
@@ -5595,6 +5750,7 @@ regieren:
     - die Kinder zu Arbeiten im Haushalt heranziehen
 
 - hochziehen:
+    - das Bein hochziehen
     - ich ziehe mich an der Stange hoch 
     - ich ziehe mich an dieser Hoffnung hoch
 
@@ -5835,7 +5991,742 @@ regieren:
 
 - herumtreiben:
     - er treibt sich einfach herum  
-****
+**
+### führen 
+- führen:
+    - ich will das vor Augen führen 
+    - das führt zu nichts 
+
+- Abführ:
+    - die Abführ 
+    - Müllabführ 
+    - er hat mir eine Abfühe erteilt
+
+- anführen:
+    - ich kann ein Beispiel anführen 
+    - wer hat die Studenten abgeführt 
+    - willst du mich anführen lassen [verarschen]
+
+- aufführen:
+    - ich habe alles hier aufgeführt 
+    - mehr Angaben sind hier nicht nötig, da die überigen bei Bedarf von den aufgeführten Beispielen abgeleitet
+    werden
+    - weiter hier nicht aufgeführte Punkte kann man bei Bedarf in die Datei finden 
+    - führ dich nicht wie ein Kind auf (sich) 
+
+- ausführen:
+    - welche Programme werden gerade ausgeführt 
+    - ich wollte gerade meine Idee ausführen 
+
+- durchführen:
+    - ich habe viele Projekte durchgeführt 
+
+- einführen:
+    - ich werde dich in meine Familie einführen 
+    - ich will die neue Regel einführen 
+    - der Artzt hat den Lauch in die Nase eingeführt
+
+- entführen:
+    - er hat ein Auto entführt
+
+- hinführen:
+    - ich weiss nicht wo führt das hin 
+    - ich habe mich von ihm hinführen lassen 
+
+- herbeiführen: 
+    - ich wollte eine Veränderung herbeiführen 
+    - man kann sein Glück herbeiführen
+
+- herumführen:
+    - der Weg führt um die Stadt herum 
+
+- vorführen:    
+    - er hat mich vorgeführt 
+
+- verführen:
+    - er hat die Frau verführt 
+
+- vorbeiführen:
+    - es führt kein Weg daran vorbei 
+    - es führt kein Weg an harter Arbeit vorbei 
+
+- fortführen:
+    - er will das Unternehmen fortführen 
+    - ich will unsere Diskussion fortführen 
+
+- Weiterführung:
+    - die Weiterführung 
+    - ich weiss nicht ob Weiterführung der Aufgabe Sinn macht
+
+- irreführen:
+    - ich will dich nicht irreführen 
+
+- zurückführen:
+    - der Fehler ist auf schlechte Verbindung zurückzuführen 
+
+- zuführen:
+    - dem Gerät wird kein Strom zugeführt
+
+- wegführen:
+    - ich führe dich weg
+
+- Zielführend:
+- irreführend:
+    - das ist nicht Zielführend 
+
+- zusammenführen:
+    - das Schicksal führt die Familie zusammen 
+
+### fahren
+- Farher:
+- Beifarher:
+    - der Fahrer 
+    - ich bin nur der Beifahrer
+
+- Einfahrt:
+- Ausfahrt:
+- zufahrt:
+- Hinfahrt:
+- Rückfahrt:
+- Fahrt:
+    - die Einfahrt zu dem Haus 
+    - die Fahrt 
+    - auf der Fahrt 
+    - was kostet die Fahrt nach Köln 
+    - ich wünnsche dir gute Fahrt 
+
+- Bahnfahrt:
+- Autofahrt:
+    - es ist eine Stunde bahnfahrt [ein stunde zu Fuß]
+
+- fahren:
+    - ich fahre dich zum Bahnhof 
+    - wir sind mit dieser Stragtie immer gut gefahren 
+
+- abfahren:
+    - ich wollte von der Autobahn abfahren 
+    - wann fährt der Zug ab 
+    - ich bin voll auf Fußball abgefahren
+
+- anfahren:  
+- streifen:
+	- ich habe beim Einparken ein anderes Auto gestreift / angefahren 
+    - der Bus fahrt viel Bushaltestelle an 
+    - ich fahre an
+
+- auffahren:
+    - er ist auf mein Auto aufgefahren (aufprallen)
+    - er fährt sehr dich auf anderes Auto auf (dicht fahren) 
+
+- ausfahren:
+    - ich habe das Auto nicht ausgefahren  
+
+- befahren:
+    - diese Straße ist stark befahren 
+
+- durchfahren:
+    - wir fahren durch einen Tunnel durch 
+    - wir fahren durch 
+    - ich haben Berlin durchfahren 
+
+- einfahren:
+    - wir habe gutes Ergebnis eingefahren
+
+- erfahren:
+    - hier erfahrt ihr Ahmed, und mohamed von meiner Aussage
+    - ich habe erst Heute erfahren 
+
+- festfahren:(sich)
+    - das Auto hat sich im Sand festgefahren [verrennen] [verharren] [festbeißen]
+    - ich fühle mich festgefahren
+
+- hinfahren:
+    - ich fahre dich dort hin 
+
+- fortsetzen:
+- fortfahren:
+    - nach der Pause setzen wir das Gespräch fort 
+    - die Entwicklung setzt sich fort 
+
+- herumfahren:
+    - ich fahre um den Stau herum 
+    - ich fahre einfach herum 
+
+- hinausfahren:
+    - ich habe über die Ausfahrt hinausgefahren 
+
+- reinfahren:
+    - gestern ist mir jemand reingefahren
+
+- überfahren:
+    - er hat mich mit diesem Angebot überfahren
+    - ich habe ein Tier überfahren 
+    - der Hund ist überfahren 
+    - er hat die Ampel überfahren 
+
+- zusammenfahren:
+    - die beiden Autos sind zusammengefahren
+
+- vorbeifahren:
+    - er fährt sehr dicht an mir vorbei 
+
+- kaputtfahren:
+    - ich habe mein Auto kaputtgefahren 
+
+- widerfahren:
+    - dann fragt man sich, wie könnte soetwas einem widerfahren 
+
+- nachfahren:
+- vorfahren:
+    - ich fahre dir nach 
+    - kannst du vorfahren 
+
+- Vorfahr:
+- Nachfahr:
+    - woher kommen deine Vorfahren
+
+- losfahren:
+    - ich fahre morgen los 
+
+- Verfahren: [prozedur]
+	- das Verfahren
+	- das ist ein neues Verfahren 
+
+- verfahren:
+    - ich habe mich verfahren (sich)
+    - wie sollen wir hier verfahren 
+    - ich verfahre nach einem bestimmen Schema 
+    - das ist eine verfahrene Situation 
+
+- zerfahren:
+    - LKW zerfahren die Straßen 
+
+- wegfahren:
+    - ich fahr weg 
+    - ich fahre das Auto weg
+
+- hochfahren:
+- herunterfahren:
+- neuen Start machen
+- hochladen:
+    - das System fährt hoch 
+    - ich habe das Bild hochgeladen 
+
+- zufahren:
+    -  Das Auto fuhr direkt auf die Menschenmenge zu. 
+
+- umfahren:
+    - ich umfahre den Stau 
+    - ich fahr das Schild um
+
+- Fahrkarte:
+    - die Fahrkarte 
+    - wo kann ich die Fahrkarte kaufen 
+
+- Erfahrung:
+    - die Erfahrung 
+    - ich könnte das in in Erfahrung bringen 
+    - er hat viele Erfahrung 
+
+- Fahrstuhl:
+- Aufzug:
+	- der Fahrstuhl 
+    - der Aufzug
+	- ich muss ein paar minuten auf den Fahrstuhl warten
+
+### finden
+- finden:
+    - ich weiss nicht was du an ihm gut findest 
+    - wie findest du diesen Vorschlag 
+    - Alles Weitere wird sich finden.
+
+- befinden:
+    - wir befunden uns in einem Schlechten Zustand
+    - das Büro befindet sich im zweiten Etage 
+
+- herausfinden:
+    - ich muss erst herausfinden wie es funktioniert 
+    - meine Frau hat es herausgefunden dass ich fremdgegängen bin
+
+- erfinden:
+    - Alfred Nobel hat das Dynamit erfunden
+
+- abfinden:
+    - ich muss mich damit abfinden 
+
+- hineinfinden:
+    - ich brauche Zeit bis ich mich in die neue Rolle hineinfinden [einleben] [eingewöhnen]
+
+- empfinden:
+    - sie empfindet etwas für ihn 
+
+- nachempfinden:
+    - ich kann dir nachempfinden was in dir vorgeht 
+
+- durchfinden:
+    - ich finde mich durch die Stadt durch 
+
+- einfinden:
+    - ich muss mich zeitich am Bahnhof einfinden
+
+- zurechtfinden:
+    - das ist sehr komplexes System, man findet sich nicht schnell zurecht 
+
+- vorfinden:
+    - ich habe ihn in gutem Zustand vorgefunden 
+
+- wiederfinden:
+    - ich habe es wiedergefunden 
+
+- ausfindig:
+	- ich muss meinen Schlüssel ausfindig machen 
+
+- herfinden:
+    - ich habe schnell hergefunden 
+
+- stattfinden:
+    - wann findet es statt 
+
+- zusammenfinden:
+    - ich habe immer gehoft dass wir uns wieder zusammenfinden
+
+- Befund:
+    - der Befund 
+    - der Befund war negativ 
+    
+
+### treten
+- treten:
+    - das Gesetzt wird später in Kräft treten 
+    - ich wollte dir nicht zu nahe treten aber das war nicht richtig 
+    - ich will dir nicht auf die Füße treten aber das ist falsch 
+    - ich habe am Anfang abgenommen aber seit einer Monat trete ich auf der Stelle 
+    - das kann man in die Tonne treten 
+    - wir habe die Regel mit Füßen getreten 
+
+- abtreten:
+    - der Chef muss abtreten 
+
+- antreten:
+    - ich trete morgen die neue Stelle an 
+
+- auftreten:
+    - dieser Effekt tritt bei höheren Temperature auf 
+    - die Polizei tritt sehr aggressiv auf 
+
+- Auftreten:
+    - das Auftreten 
+    - er hat sie gutes Auftreten 
+
+- austreten:
+    - ich trete aus der Partei aus 
+
+- eintreten:
+    - ich trete in die Partei ein 
+    - ob dieser Fall eintreten wird, weiss ich nicht 
+
+- beitreten:
+    - ich trete diesem Verein bei 
+
+- betreten:
+    - das darf man nicht betreten 
+
+- durchtreten:
+    - trete die Bremse nicht durch 
+
+- festtreten:
+    - ich trete den Teppich fest 
+
+- kürzertreten:
+    - ich bin nicht mehr Jung, ich muss kürzertreten 
+    - ich trete bei dem Job kürzer 
+
+- übertreten:
+    - ich trete zum Islam über [übergehen]
+    - er hat das Gesetzt übertreten [verstoßen] 
+
+- vortreten:
+- zurücktreten:
+    - tritt bitt vor / zurück
+
+- zurücktreten:
+    - Daniel und Christain werden nach und nach zurücktreten 
+    - ich habe als Ziel reich zu werden. alles anders muss zurücktreten 
+
+- vertreten:
+    - ich vertrete diese Meineung nicht 
+    - ich habe ihn vertreten
+
+- zusammentreten:
+    - ich trete den Karton zusammen damit es in den Müllton passt 
+    - wir treten morgen zusammen 
+
+- Vertretung:
+    - die Vertretung 
+    - ich bin seine Vertretung 
+
+- Stellvertretend:
+    - das war ein stellvertretender Krieg 
+
+
+### stoßen
+- stoßen:
+    - haben + akku 
+        - er hat mich gestoßen [schieben/schlagen]
+        - ich habe mir den Kopf an der Decke gestoßen
+        - er hat seine Frau gestoßen 
+        - ich habe mich den Kopf gestoßen 
+        - er hat mich von sich gestoßen
+
+    - sein -> bewegung 
+        - ich bin mit dem Kopf an die Decke gestoße
+        - ich bin an meine Grenzen gestoßen 
+        - ich bin auf das Problem gestoßen
+
+- abstoßen: 
+    - ich stoße mich von Rand ab 
+    - die schmutzigen Toilette stoßen mich ab 
+    - der Mantel stoßt Wasser ab 
+    - ich will mein altes Auto abstoßen
+
+- anstoßen:
+    - wir können auf neue Jahr anstoßen 
+    - ich habe mir den Fuß am Tisch angestoßen 
+    - ich habe ein Treffen angestoßen 
+
+- aufstoßen:
+    - ich muss immer aufstoßen wenn ich das trinke 
+    - ich habe mir mein Knie aufgestoßen
+    - das ist mir aufgestoßen
+
+- dazustoßen:
+    - ich werde nach der Arbeit dazustoßen  [dazukommen]
+    - du kannst gerne dazu stoßen wenn du Zeit hast
+
+- ausstoßen:
+    - er wird aus der Partei ausgestoßen 
+
+- verstoßen:
+    - du hat gegen die Regel verstoßen
+
+- zusammenstoßen:
+- aneinanderstoßen:
+	- gestern ist ein LKV mit dem auto zusammengestossen
+
+- zustoßen:
+    - ein mann wird zugestoßen 
+
+- umstoßen:
+    - jemand hat mein Fahrrad umgestoßen [umwerfen]
+    - er hat seine Pläne umgestoßen
+
+- Anstoß:
+    - der Anstoss 
+    - ich hoffe nimmt niemand Anstoss an meiner Anwesenheit 
+    - ich wollte keinen Anstoss erregen 
+    - der Chef hat den Anstoß für das Projekt gegeben 
+
+- Verstoß:
+    - der Verstoß 
+    - das ist ein Verstoß gegen die Regel 
+
+### rutschen
+- schlittern:
+    - Für viele Unternehmen könnte es schnell in die Insolvenz schlittern.
+
+- rutschen:
+    - ich bin ins Rutschen gekommen [ins rutschen]
+    - meine Hose rutscht
+    - die Vase ist mir aus der Hand
+    - könntest du ein bisschen rutschen
+
+- abrutschen:
+  - ich bin von der Leiter abgerutscht 
+
+- ausrutschen:
+    - ihm rutscht die Hand aus 
+  
+- durchrutschen:
+    - die Fehler sind mir durchgerutscht [unterlaufen,entgehen]
+    
+- herausrutschen:_
+    - das wollte ich nicht sagen dass es mir einfach herausgerutscht
+
+- verrutschen:
+  - die Brille verrutscht immer 
+
+- rutschig:
+    - der Boden ist sehr rutschig 
+
+### rücken
+- rücken:
+    - ich rücke das zur Seite
+    - könntest du ein bisschen rücken damit ich sehen kann
+    - der Termin rückt immer näher
+
+- abrücken:
+    - ich rücke den Stuhl vom Tisch ab
+
+- aufrücken:
+  - rücken Sie bitte auf [aufschließen] 
+
+- vorrücken:
+    - ich rücke den Stühl vor
+
+- herausrücken:_
+    - er hat mit der Wahrheit herausgerückt wenn er wusste dass er aufgeflogen war
+
+- zurechtrücken:
+    - ich versuchte den Konflikt zurechtzurücken 
+    - ich rücke die Kissen zurecht 
+    - wir brauchen jemmanden, der mir den Kopf zurechtrückt
+
+- ruckeln:
+    - es ruckelt
+    - der Motor beginnt zu ruckeln 
+    - beim Anfahren ruckelt das Auto 
+
+
+### greifen
+- greifen:
+    - das kann sehr schnell um sich greifen [umgehen]
+    - das Feuer greift sehr schnell um sich 
+    - das Kind greift nach der Hand der Mutter [strecken]
+    - ich greife mir eine Aufgabe  [nehmen]
+    - das ist sehr hoch / niedrig gegriffen [einschätzen]
+    - diese Maßnahme greift zu kurz [beschränkt]
+    - die Maßnahmen brauchen Zeit um zu greifen [funktioniert] 
+    - ich will zu dieser Maßnahme greifen
+
+- Griff:
+    - der Griff 
+    - ich habe alles im Griff [alles kontrollieren]
+    - ich versuche das in den Griff zu bekommen
+    - du musst an dem Griff drehen 
+
+- griffig:
+    - das ist sehr griffig 
+
+- griffbereit:
+    - ich habe momentan die Unterlage nicht griffbereit 
+
+- abgreifen:
+    - ich werde das Signal abgreifen 
+
+- abgegriffen:
+- abgedroschen:
+    - es ist abgegriffen, aber ich finde das Team sehr gut ist 
+
+- angegriffen:
+- mitgenommen:
+- abgespannt:
+- angespannt:
+    - ich bin gesundheitlich angegriffen 
+
+- angreifen:
+    - ich habe mich angegriffen
+
+- Angriff:
+    - der Angriff 
+    - der Angriff ist rechtfertigt 
+    - ich will das Thema in Angriff nehmen [beginnen]
+
+- aufgreifen:
+    - ich will das Thema noch einmal aufgreifen 
+    - ich wollte den richigen Moment aufgreifen 
+
+- begreifen:
+    - ich kann das nicht begreifen 
+
+- Begriff:
+    - der Begriff 
+    - ich habe keinen Begriff davon wie schwerig die Aufgabe ist 
+    - ich war im Begriff das zu machen [drauf und dran]
+    - dieser Name ist mir kein Begriff 
+
+- durchgreifen:
+- eingreifen:
+    - die Polizei greift gegen die Demo durch [einschreiten]
+    - ich will nicht in die Diskussion eingreifen 
+
+- Eingriff:
+    - der Eingriff 
+    - das ist Eingriff in die Privatsphäre 
+
+- ergreifen:
+    - ich ergreife ihn am Arm 
+
+- übergreifen:
+    - das Feuer greift auf anderes Gebiet über 
+
+- übergriff:
+    - der Übergriff 
+    - dieser Übergriff darf man nicht akzeptieren 
+
+- übergriffg:
+    - ich fande diese Frage übergriffig 
+
+- vergreifen:
+    - ich habe mich im Ton vergriffen
+    - er versucht sich an seinem kleinen Brüder zu vergreifen
+
+- vorgreifen:
+    - ich wollte dem Thema vorgreifen [vorwegnehmen]
+
+- zurückgreifen:
+    - wir können immer auf Plan B zurückgreifen 
+
+- zugreifen:
+    - ich kann auf den Server nicht zugreifen 
+
+- Zugriff:
+    - der Zugriff auf diese Datei ist nur mit Passwort möglich 
+    - ich kann keinen Zugriff auf diese Datei 
+
+- inbegriffen:
+    -  all Kosten sind inbegriffen 
+
+### weisen
+- weisen:
+    - ich weise ihm den Weg [zeigen]
+    - er hat mich aus dem Saal gewiesen [wegjagen]
+    - es weis in eine Richtung / auf die Frau
+    - er hat den Vorwurf von sich gewiesen 
+
+- gewiesen:
+    - der Weg ist gewiesen
+
+- abweisen:
+    - er weist meinen Antrag ab [ablehnen]
+    - er hat mich an der Tür abgewiesen [wegschicken]
+    - die Karte wurde abgewiesen 
+
+- abweisend:
+    - er ist sehr abweisende Person [schroff,brusk]
+
+- anweisen:_
+    - du kannst ihn anweisen, die Sache zu machen [beauftragen] 
+
+- Anwesend:
+- Abwesend:
+    - die Anwesend
+
+- angewiesen:
+    - ich bin auf jeden Euro angewiesen 
+
+- Anweisung:
+    - die Anweisung 
+    - seine Anweisungen waren klar
+
+- aufweisen:
+    - Die Ware weist zahlreiche Mängel auf 
+    - das neue Produkt weis hohe Qualität auf 
+
+- ausweisen:
+    - ich muss mich bei der Bank ausweisen 
+    - das war nicht als parkplatz ausgewiesen 
+    - Ausländer werden ausgewiesen
+
+- beweisen:
+    - ich kann das beweisen 
+
+- einweisen:
+    - er weist mich in meine Aufgabe ein
+
+- erweisen:
+    - er hat sich als guter Entwickler erwiesen 
+
+- hinweisen:	
+	- ich will dich/Sie darauf hinweisen 
+	- Der Lehrer hat uns auf die Wichtigkeit von Hausaufgaben hingewiesen. 
+
+- zuweisen:
+    - das kannst mir direkt zuweisen 
+
+- überweisen:
+	- ich überweise das Geld auf dein Konto 
+    - ich habe das Geld schon überwiesen
+
+- verweisen:
+    - ich werde auf das alte Ticket verweisen
+    - ich werde ihn an meinen Chef verweisen
+
+- vorweisen:
+    - muss soll das Ticket vorweisen
+    - ich konnte gute Kenntnisse vorweisen
+
+- zurechtweisen:
+    - er hat mich zurechtgewiesen[tadeln] [ermahnen] 
+
+- zurückweisen:
+    - er hat meine Anschuldigung zurückgewiesen
+    - sie hat mich zurückgewiesen
+
+- unterweisen:
+    - der Leher unterweis mich in Englisch
+
+- nachweisen:
+    - er hat mir meinen Fehler nachgewiesen 
+    - es ist nicht nachgewiesen
+
+- Hinweis:
+    - der Hinweis 
+    - das ist sehr guter Hinweis darauf dass etwas nicht simmt 
+
+- Beweis:   
+    - der Beweis 
+    - das habe ich unter Beweis gestellt 
+
+- Ausweis:
+    - der Ausweis
+    - ich muss den Ausweis vorweisen
+
+- Ansatzweise:
+    - ich habe das Konzepz Ansatzweise ausgearbeitet 
+    - das erfüllt Ansatzweise die Anforderung 
+
+- weise:
+    - die Weise
+    - ich kann das auf verschiedene Weise machen 
+
+- Weise:
+    - es ist ein weiser Mensch 
+
+- Arbeitsweise:
+    - die Arbeitsweise 
+    - er hat sehr gute Arbeitsweise 
+    
+- Schrittweise:
+    - wir können das schrittweise machen 
+
+- netterweise:
+- möglicherweise:
+- gemeinerweise:
+- idealerweise
+
+- naseweis:
+- altklug:
+- vorlaut:
+    - Kinder sind vorlaut 
+
+- Sichtweise:
+    - die Sichtweise 
+    - aus seiner Sichtweise heraus macht die Entscheidung Sinn 
+    - er hat ein andere Sichtweise auf das Problem 
+    - drei Personen heißen drei Sichtweise 
+
+- Zeitweise:   
+    - er ist ok wenn du das Zeitweise macht
+
+- wesentlich:
+    - das war im Wesentlichen alles was ich sagen wollte 
+
+- Wesen:
+    - das Wesen
+    - das leigt im Wesen der Demokratie 
+    - das ist alles im Wesen
+    - Kinder sehr gute Wesen 
+
 ### bringen
 - bringen:
     - er hat es im Leben zu etwas bringen
@@ -7591,6 +8482,50 @@ regieren:
 - verprügeln:
     - wir haben ihn verprügelt
 
+### hauen  
+- hauen
+    - er hat mich gehauen 
+    - er haut einfach seine Sache 
+    - Sie hauen sich 
+
+- abhauen:
+    - ich haue ab 
+    - ich habe den Ast abhauen
+
+- anhauen:_
+    - er hat mich um Geld angehauen [anpumpen]
+    - ich habe mich an dem Tisch angehauen 
+
+- durchhauen:
+    - ich haue den Ast durch 
+
+- hinhauen:
+    - das hat leider nicht hingehauen 
+    
+- raushauen:
+    - er hat 100 Euro für die Schuhe rausgehauen
+    - was dann hau raus 
+
+- reinhauen:
+    - er hat mir eine reingehauen [ins geischt schlagen]
+    - hau rein (essen)
+    - wir müssen reinhauen um das zu schaffen [zupacken]
+    - das hat reingehauen [starke Wirkung hat]
+
+- zuhauen:
+    - wenn er wütend ist, haut er einfach zu 
+    - ich werde den Stein zu Qudarn zuhauen 
+
+- umhauen: (umwerfen)
+    - er hat mich umgehauen 
+    - die Rechnung hat mich umgehauen [überrascht]
+
+- verhauen:
+    - ich habe mich bei dieser Prüfung verhauen 
+    - sie hat ihn verhauen
+
+- prügeln
+
 ### tragen
 - Beitrag:
 - Eintrag:
@@ -8102,7 +9037,7 @@ regieren:
     - der Haushalt 
     - ich muss den Haushalt machen 
 
-- knapphalteln:
+- knapphalten:
 - kurzhalten:
     - die Eltern hat die Kinder mit Taschengeld knapp 
 
@@ -8352,6 +9287,27 @@ regieren:
     - ich habe gerade eine andere Baustelle
 ***
 ### setzen
+- Ansatz:
+    - der Ansatz 
+    - das war nicht der richtige Ansatz 
+    - das hat im Ansatz gescheitert 
+    - wir müssen mit dem Problem im Ansatz umgehen 
+    - er zeigt gute Ansätze  
+
+- ansatzweise:
+    - ich verstehe es ansatzweise 
+
+- Umsatz:
+    - der Umsatz 
+
+- Ersatz:
+    - der Ersatz 
+    - wir brauchen einen Ersatz 
+
+- Einsatz:
+    - der Einsatz 
+    - ich arbeite mit großem Einsatz
+
 - setzen:
     - ich will dich nicht unter Druck setzen 
     - ich werde das Kinder in den Kinderwagen setzen 
@@ -8513,64 +9469,40 @@ regieren:
 - festsitzen:
     - ich will nicht für immer hier festsitzen
 
-### bleiben
-- bleiben:
-    - ich bleibe heute zu Haus 
-    - wo ist der Schlüssel geblieben 
-    - das hat bleibende Schaden
+### strapazieren:
+- Strapaze:
+    - die Strapaze 
+    - das war eine grosse Strapaze
 
-- ausbleiben: 
-- eintreffen:
-    - meine Angst ist ausgeblieben / eingetroffen 
+- strapazieren:
+- überstrapzieren
+    - ich will meinen Körper nicht strapazieren 
 
-- dranbleiben:_
-    - wenn man etwas erreichen will, muss man dranbleiben 
-    - bliebt bitte dran 
-    - ich bleibt an dem Ziel dran
+### schöpfen
+- schöpfen:
+    - ich konnte Energie aus meinem Glauben schöpfen 
+    - Wasser aus dem Behälter schöpfen
 
-- stehenbleiben:
-    - die Uhr ist einfach stehengeblieben und funktioniert nicht mehr 
-    - bleibe bitte stehen ich komm zu dir 
-    - wo sind wir stehengeblieben 
+- auschöpfen:
+    - ich wollte alle Möglichkeiten ausschöpfen
 
-- bestehenbleiben:
-    - das System kann nicht so bestehenbleiben 
+- abschöpfen:
+    - ich werde den Gewinn ab 
 
-- erhalten bleiben:
-    - wir wollten das erhalten blieben 
-    - so bleibt das Haus in einem guten zuständig erhalten
+- erschöpfen:
+    - das hat mich erschöpft 
+    - meine Geld war erschöpft 
 
-- gleichbleiben:    
-    - die Löhne sind gleichgeblieben 
-    - sie bleiben gleich
+- Erschöpfung:
+    - die Erschöpfung 
+    - ich habe vor Erschöpfung geschlafen 
 
-- haftenbleiben:
-    - das bleibt haften 
+- unerschöpflich:
+    - meine Energie ist unerschöpflich 
 
-- hängenbleiben:
-    - ich habe viel gelesen aber bleibt am Ende davon wenig hängen 
+- schuften:
+    - ich bin bereit dafür zu schuften 
 
-- steckenbleiben:
-    - wenn man nicht viel arbeitet bliebt man stecken 
-    - ich bin leider steckengeblieben 
-
-- offenbleiben:
-    - es bleibt offen ob er kommen wird oder nicht 
-
-- überigblieben:
-    - ist jemand übringgeblieben 
-
-- verbleiben:
-    - nach Abzug verbleibt nur 700 Euro 
-
-- unterbleiben:
-    - solche Dinge müssen unterbleiben 
-    - die Kontrolle ist leider unterblieben 
-    - Derartige Störungen werden in Zukunft unterbleiben 
-
-- zurückbleiben:
-    - ich will nicht zurückbleiben
-***
 ### schütten
 - schütten:
     - wasser in den Eimer schütten 
@@ -8704,9 +9636,6 @@ regieren:
 - knicken:
     - der Wind hat die Bäume knickt 
 
-- abknicken:
-    - ich knicke den Ast ab 
-
 - einknicken:
     - ich werde nicht wegen des Drucks einknicken 
     - mein Knie ist eingeknickt 
@@ -8714,6 +9643,7 @@ regieren:
 - umknicken:
     - der Baum knickt Baum 
     - der Wind knickt den Baum um 
+    - ich bin mit den Fuss umgeknickt 
 
 ### kippen 
 - kippen:
@@ -8829,19 +9759,27 @@ regieren:
 ### hängen
 - hängenlassen:
     - ich habe ihn hangengelassen 
+    - lass den Kopf nicht hängen
 
 - hängenbleiben:
     - ich habe viel gelesen aber es bleibt von dem am ende wenig hängen 
-    - ich bin dort hängengeblieben
-
-- hängen:
-    - ich hänge sehr an meiner Mutter
-    - das Bild hängt schief 
+    - ich bin dort hängengeblieben 
+    - meine kleidung ist am Tür hängen geblieben
     - das bleibt an dir hängen
 
+- hängen:
+    - Wir haben das Bild an die Wand gehängt
+    - Sie hängte sich an die Gruppe.
+    - Das Bild hing an der Wand 
+    - der Rauch hängt in der kleidung
+    - woran hängt das 
+    - ich hänge sehr an meiner Mutter
+    - das Bild hängt schief 
+
 - abhängen: 
+    - im Urlaub will ich einfach abhängen
+    - ich habe das Bild abgehängt weil es mir nicht mehr gefällt 
     - es hängt vom Wetter ab 
-    - ich hänge das Bild ab 
     - man hat angst abgehängt zu werden 
     - du hast mich total abgehängt 
     - er hängt im Park einfach ab
@@ -8902,7 +9840,10 @@ regieren:
     - das könnte mir zum Verhängnis
 
 - verhängnisvoll:
-    - die Entscheidung war verhängnisvoll
+    - die Entscheidung war verhängnisvoll 
+
+- vorhang:
+    - der vorhang
 
 - durchhangeln:
     - ich muss mich durch viele Seite durchhangeln um das zu finden
@@ -8932,33 +9873,8 @@ regieren:
 
 - widerspiegeln:
     - das spiegelt deine Absichten wider 
-    - das spieglt die heutige Realität nicht wieder 
+    - das spieglt die heutige Realität nicht wider 
     - die Unzufriedenheit spiegelt sich in der zunehmenden Gewalt wider
-
-### schöpfen
-- schöpfen:
-    - ich konnte Energie aus meinem Glauben schöpfen 
-    - Wasser aus dem Behälter schöpfen
-
-- auschöpfen:
-    - ich wollte alle Möglichkeiten ausschöpfen
-
-- abschöpfen:
-    - ich werde den Gewinn ab 
-
-- erschöpfen:
-    - das hat mich erschöpft 
-    - meine Geld war erschöpft 
-
-- Erschöpfung:
-    - die Erschöpfung 
-    - ich habe vor Erschöpfung geschlafen 
-
-- unerschöpflich:
-    - meine Energie ist unerschöpflich 
-
-- schuften:
-    - ich bin bereit dafür zu schuften  
 
 ### merken 
 - merken:
@@ -8969,8 +9885,9 @@ regieren:
     - ich will das anmerken [ergänzen]
     - das wollte ich angemerkt haben [ergänzen]
     - ich will etwas dazu anmerken  [ergänzen]
-    - ich muss mir das anmerken [vermerken] [sich vormerken]
     - ich habe ihm seine Angst angemerkt 
+    - ich lass mir meine Angst nicht anmerken
+    - ich muss mir das anmerken [vermerken] [sich vormerken]
 
 - Anmerkung:
     - die Anmerkung 
@@ -9006,7 +9923,7 @@ regieren:
     - der Briefkasten 
     - ich wollte nur den Breifkasten leeren 
     - er hat den Breifkasten verstopft 
-
+    
 ### gänzen 
 - ergänzen:
     - ich will hier etwas ergänzen 
@@ -9068,7 +9985,7 @@ regieren:
     - ich habe einen Anschlusstermin 
     - im Anschluss daran können wir das besprechen 
     - ich habe den Anschluss verpasst [zurückbleiben]
-    - den Anschluss verlieren 
+    - den Anschluss verlieren , wir haben nur 10 Minuten Anschluss in Berlin
     - Anschluss finden [kontakt aufbauen]
 
 - anschließen:
@@ -9100,6 +10017,7 @@ regieren:
 
 - einschliessen:
     - das schliesst mich auch ein 
+    - ich habe aus versehen mich eingeschlossen
     - das kostet 10 Euro alles eingeschlossen
 
 - beschließen:
@@ -9107,7 +10025,10 @@ regieren:
 
 - entschließen:
     - wir haben uns entschlossen das Haus zu kaufen 
-    - wozu hast du dich entschlossen
+    - wozu hast du dich entschlossen 
+
+- Entschluss:
+    - der Entschluss 
 
 - erschließen:
     - ich kann diese logik nicht erschließen 
@@ -9160,6 +10081,8 @@ regieren:
     - wir müssen mit Verzögerung rechnen 
     - wir sind 10 Persone, Kinder sind nicht gerechnet 
     - ich habe pro Person 2 Liter Wasser gerechnet 
+    - wenn man die Kinder dazu rechnen 
+    - wenn man pro Person mit 1 Kg fleish rechnet
 
 - Rechnung:
     - die Rechnung 
@@ -9175,16 +10098,17 @@ regieren:
 
 - abrechnen:
     - ich werde das mit ihm abrechnen 
+    - die Fahrkosten werden am Monatsende abgerechnet 
+    - ich werde das von dam abrechnen
 
 - Abrechnung:
     - die Abrechnung 
     - ich mache die Abrechnung 
-    - Gehaltsabrechnung
+    - Gehaltsabrechnung / Reisekosten-Abrechnung / in Abrechnung nehmen
 
 - anrechnen:
     - ich rechne dir das alte auto auf das neue an 
     - ich rechne dir das alte Auto mit 500 euro an
-    - ich rechne dir die kosten an [in rechnung stellen]
     - ich habe ihm seine Hilfe hochgerechnet 
 
 - ausrechnen:
@@ -9192,8 +10116,11 @@ regieren:
     - ich rechne aus wie lange es dauert
 
 - berechnen:
-    - sie habe mir 10 Euro berechnet 
+    - sie habe mir 10 Euro für die Reparature berechnet 
     - das wird automatisch berechnet 
+
+- berechnend:
+    - er ist sehr berechend 
 
 - einrechnen:
     - kinder sind nicht eingerechnet 
@@ -9215,10 +10142,303 @@ regieren:
 - vorrechnen:
     - soll ich dir vorrechnen wie öft du spät gekommen bist 
 
+### zahlen 
+- Zahl:
+    - die Zahl , Zahlen 
+    - er hat keine Zahlen genannt 
+    - die Zahlen sind nicht gut 
+    - die Zahl der Leute ist gestiegen [nicht-plur]
+    - das ist gerade Zahl 
 
+- Zahlung:
+    - die Zahlung kann nicht abgeschlossen werden
+
+- zahlen:
+    - ich habe ihm 4 Euro für etwas gezahlt
+    - ich will zahlen 
+    - sie zahlen gut 
+    - ich bin gut gezahlt 
+
+- bezahlen:
+    - ich würde in Raten bezahlen 
+    - ich bezahle das Essen
+    - ich habe ihn für seine Arbeit bezahlt 
+    - ich habe ihm das Studium bezahlt
+
+- Bezahlung:
+    - die Bezahlung 
+    - die Bezahlung ist gut
+
+- abbezahlen:
+- abzahlen:
+    - ich will das Auto abbezahlen 
+
+- anzahlen:
+    - ich muss auf das Auto 300 Euro anzahlen 
+
+- Anzahl:
+    - die Anzahl 
+    - er zeigt die Anzahl der Schritte 
+
+- Anzahlung:
+    - die Anzahlung 
+    - die Anzahlung ist sehr hoch 
+
+- aufzahlen:
+- zuzahlen:
+    - man must dafür aufzahlen 
+
+- Aufzahlung:
+    - die Aufzahlung 
+    - es gibt Aufzahlung 
+
+- auszahlen:
+    - Arbeit zahlt sich aus 
+    - ich will mir auszahlen lassen 
+
+- draufzahlen:
+    - ich muss draufzahlen 
+
+- einzahlen:
+    - ich zahle Geld auf mein Konto ein 
+
+- nachzahlen:
+    - ich müss leider nachzahlen 
+
+- überbezahlen:
+- unterbezahlen:
+    - ich bin überzahlt 
+
+- vorausbezahlen:
+    - ich bezahle voraus 
+
+- heimzahlen:
+    - ich werde ihm seine Taten heimzahlen
+
+### zählen 
+- zählen:
+    - ich zähle auf dich
+    - sie zähle zu den guten Leuten
+    - das zählt nicht 
+    - ich habe die vorbeifahrenden Autos gezählt und ich bin auf 100 gekommen 
+
+- Zähler:
+    - der Zähler 
+    - das ist ein Zähler, der jedes Mal um eins erhöht wird
+
+- abzählen:
+    - ich zähle ab wie viel Männer da sind 
+
+- aufzählen:
+    - ich habe dir die Möglichkeiten aufgezählt [aufführen] 
+
+- erzählen:
+    - er hat mir erzählt dass er keine Zeit hat 
+
+- nachzählen:
+    - Zähl lieber das Geld noch einmal nach!
+
+- verzählen:
+    - ich habe mich verzählt 
+
+- zusammenzählen:
+    - ich zähle alles zusammen 
+
+- mitzählen:
+    - ich habe die Kinder nicht mitgezählt 
+
+### werben
+- werben:
+    - wir werben für dieses Produkt 
+    - er wirbt um ihre Liebe 
+
+- abwerben: 
+- anwerben:
+    - viele Firmen veruschen ihn von der Firma abzuwerben 
+    - die Firma hat ihn angeworben 
+
+- bewerben:
+    - ich habe mich um diese Stelle beworben
+
+- umwerben: 
+    - sie haben versucht mich zu umwerben 
+
+- erwerben:
+    -  Sie haben das Haus (käuflich) erworben.
+
+- angeboren:  
+- erworben:
+    - es ist eine angeborene Sache 
+    - klugheit ist angeboren 
+
+- Wirbel:
+    - der Wirbel 
+    - mach nicht wirbel 
+
+- aufwirbeln:
+    - der Luft wirbelt die Blätter auf
+
+- WirbelSäule:
+    - die Wirbelsäule
+    - es ist gut für die Wirbelsäule  
+
+### reisen
+- Reise:
+    - die Reise 
+    - ich war auf Reisen 
+    - ich gehe auf Reisen
+    - auf der Reise habe ich viel erlebt 
+
+- reisen:
+    - ich reise mit dem Zug 
+
+- anreisen:
+- abreisen:
+    - wann reist du an 
+
+- einreisen:
+- ausreisen:
+    - ich dürfe nicht aus Deutschland ausreisen 
+
+- verreisen:
+    - ich habe verreist 
+
+- durchreisen:
+    - ich habe das land nur durchgereist 
+
+- hinreisen:
+    - wo möchtest du hinreisen 
+
+### lasten 
+- lasten:
+    - ich wollte auf dir nicht lasten 
+
+- belasten:
+    - ich wollte dich nicht belasten 
+
+- belastbar:
+    - er ist belastbar 
+    - die Zahl ist nicht belastbar
+
+- überlasten:
+    - ich wollte meinen Körper nicht überlasten 
+
+- entlasten:
+    - ich wollte meine Frau bei Hausarbeit entlasten 
+
+- auslasten:
+    - ich bin mit der Arbeit ausgelastet 
+    - ich bin zu 20 % ausgelastet
+
+- zulasten:
+    - die Reparature geht zulasten des Mieters
+
+- belästigen:
+    - ich wollte dich nicht belästigen [nerven] [mobben]
+
+- lästig:
+    - das ist eine lästige Frage 
+
+- Altlast:
+    - die Altlast 
+    - wir müssen die Altlasten abarbeiten
+
+- Ballast:
+- last:
+    - der Ballast 
+    - die Bürde 
+    - die Last 
+
+### brauchen 
+- brauchen:
+    - ich brauche meine Kraft um das zu machen 
+
+- aufbrauchen:
+    - ich habe mein ganzes Geld aufgebraucht 
+
+- verbrauchen:
+    - es verbraucht viel Benzin 
+
+- gebrauchen:
+    - ich könnte dich gut gebrauchen 
+
+- Gebrauch:
+    - der Gebrauch
+    - wenn Sie von das keinen Gebrauch macht, ist das nicht mein Problem 
+    - vor Gebrauch muss man die Flasche schütteln 
+
+- missbrauchen:
+    - er hat seine Macht missbraucht [zweckentfremden]
+### bleiben
+- bleiben:
+    - ich bleibe heute zu Haus 
+    - wo ist der Schlüssel geblieben 
+    - das hat bleibende Schaden
+
+- ausbleiben: 
+- eintreffen:
+    - meine Angst ist ausgeblieben / eingetroffen 
+
+- dranbleiben:_
+    - wenn man etwas erreichen will, muss man dranbleiben 
+    - bliebt bitte dran 
+    - ich bleibt an dem Ziel dran
+
+- stehenbleiben:
+    - die Uhr ist einfach stehengeblieben und funktioniert nicht mehr 
+    - bleibe bitte stehen ich komm zu dir 
+    - wo sind wir stehengeblieben 
+
+- bestehenbleiben:
+    - das System kann nicht so bestehenbleiben 
+
+- erhalten bleiben:
+    - wir wollten das erhalten blieben 
+    - so bleibt das Haus in einem guten zuständig erhalten
+
+- gleichbleiben:    
+    - die Löhne sind gleichgeblieben 
+    - sie bleiben gleich
+
+- haftenbleiben:
+    - das bleibt haften 
+
+- hängenbleiben:
+    - ich habe viel gelesen aber bleibt am Ende davon wenig hängen 
+
+- steckenbleiben:
+    - wenn man nicht viel arbeitet bliebt man stecken 
+    - ich bin leider steckengeblieben 
+
+- offenbleiben:
+    - es bleibt offen ob er kommen wird oder nicht 
+
+- überigblieben:
+    - ist jemand übringgeblieben 
+
+- verbleiben:
+    - nach Abzug verbleibt nur 700 Euro 
+
+- unterbleiben:
+    - solche Dinge müssen unterbleiben 
+    - die Kontrolle ist leider unterblieben 
+    - Derartige Störungen werden in Zukunft unterbleiben 
+
+- zurückbleiben:
+    - ich will nicht zurückbleiben
 ### geben
 - geben:
+    - den Korb geben(= jmdn. abweisen)
+    - den Laufpass geben (= jmdn. fortjagen) 
+    - nicht aus der Hand geben
+    - jmdm. einen Freibrief geben
     - ich gebe ihm das Buch an die Hand und er soll wissen was er machen wird 
+    - etw. ist in jmds. Hand gegeben
+    - jmdm. gute Lehren mit auf den Weg geben
+    - ich habe ihm ordentlich gegeben
+    - das hat ihm den Rest gegeben
+    - sich irgendwie geben
+    - jmdm. eine Chance, Perspektive, einen Rückhalt, eine Handhabe geben
 
 - abgeben:
     - ich will mich mit soetwas nicht abgeben [sich]
@@ -9232,10 +10452,10 @@ regieren:
 
 - angeben:
     - du muss immer den Verwendungszweck angeben wenn du Geld Überweisung
+    - er gibt mit seinem auto immer an 
     - das gibt die Temperaure in C an 
     - es wird das angegebene Parameter verwendet 
     - es muss in einer folgenden Formen angegeben werden
-    - er gibt immer an 
     - der Chef gibt den Ton an
 
 - Angabe:
@@ -9272,7 +10492,7 @@ regieren:
 	- es hat sich nicht ergeben
 
 - begeben:
-    - ich begebe mich an die Arbeit 
+    - ich begebe mich an die Arbeit / an die Fehlersuche / Umsetzung
     - ich will dich nicht in Gefahr begeben 
 
 - begabt:
@@ -9370,745 +10590,11 @@ regieren:
 - Umgebung:
     - die Umgebung 
 
-### führen 
-- führen:
-    - ich will das vor Augen führen 
-    - das führt zu nichts 
-
-- Abführ:
-    - die Abführ 
-    - Müllabführ 
-    - er hat mir eine Abfühe erteilt
-
-- anführen:
-    - ich kann ein Beispiel anführen 
-    - wer hat die Studenten abgeführt 
-    - willst du mich anführen lassen [verarschen]
-
-- aufführen:
-    - ich habe alles hier aufgeführt 
-    - mehr Angaben sind hier nicht nötig, da die überigen bei Bedarf von den aufgeführten Beispielen abgeleitet
-    werden
-    - weiter hier nicht aufgeführte Punkte kann man bei Bedarf in die Datei finden 
-    - führ dich nicht wie ein Kind auf (sich) 
-
-- ausführen:
-    - welche Programme werden gerade ausgeführt 
-    - ich wollte gerade meine Idee ausführen 
-
-- durchführen:
-    - ich habe viele Projekte durchgeführt 
-
-- einführen:
-    - ich werde dich in meine Familie einführen 
-    - ich will die neue Regel einführen 
-    - der Artzt hat den Lauch in die Nase eingeführt
-
-- entführen:
-    - er hat ein Auto entführt
-
-- hinführen:
-    - ich weiss nicht wo führt das hin 
-    - ich habe mich von ihm hinführen lassen 
-
-- herbeiführen: 
-    - ich wollte eine Veränderung herbeiführen 
-    - man kann sein Glück herbeiführen
-
-- herumführen:
-    - der Weg führt um die Stadt herum 
-
-- vorführen:    
-    - er hat mich vorgeführt 
-
-- verführen:
-    - er hat die Frau verführt 
-
-- vorbeiführen:
-    - es führt kein Weg daran vorbei 
-    - es führt kein Weg an harter Arbeit vorbei 
-
-- fortführen:
-    - er will das Unternehmen fortführen 
-    - ich will unsere Diskussion fortführen 
-
-- Weiterführung:
-    - die Weiterführung 
-    - ich weiss nicht ob Weiterführung der Aufgabe Sinn macht
-
-- irreführen:
-    - ich will dich nicht irreführen 
-
-- zurückführen:
-    - der Fehler ist auf schlechte Verbindung zurückzuführen 
-
-- zuführen:
-    - dem Gerät wird kein Strom zugeführt
-
-- wegführen:
-    - ich führe dich weg
-
-- Zielführend:
-- irreführend:
-    - das ist nicht Zielführend 
-
-- zusammenführen:
-    - das Schicksal führt die Familie zusammen 
-
-### fahren
-- Farher:
-- Beifarher:
-    - der Fahrer 
-    - ich bin nur der Beifahrer
-
-- Einfahrt:
-- Ausfahrt:
-- zufahrt:
-- Hinfahrt:
-- Rückfahrt:
-- Fahrt:
-    - die Einfahrt zu dem Haus 
-    - die Fahrt 
-    - auf der Fahrt 
-    - was kostet die Fahrt nach Köln 
-    - ich wünnsche dir gute Fahrt 
-
-- Bahnfahrt:
-- Autofahrt:
-    - es ist eine Stunde bahnfahrt [ein stunde zu Fuß]
-
-- fahren:
-    - ich fahre dich zum Bahnhof 
-    - wir sind mit dieser Stragtie immer gut gefahren 
-
-- abfahren:
-    - ich wollte von der Autobahn abfahren 
-    - wann fährt der Zug ab 
-    - ich bin voll auf Fußball abgefahren
-
-- anfahren:  
-- streifen:
-	- ich habe beim Einparken ein anderes Auto gestreift / angefahren 
-    - der Bus fahrt viel Bushaltestelle an 
-    - ich fahre an
-
-- auffahren:
-    - er ist auf mein Auto aufgefahren (aufprallen)
-    - er fährt sehr dich auf anderes Auto auf (dicht fahren) 
-
-- ausfahren:
-    - ich habe das Auto nicht ausgefahren  
-
-- befahren:
-    - diese Straße ist stark befahren 
-
-- durchfahren:
-    - wir fahren durch einen Tunnel durch 
-    - wir fahren durch 
-    - ich haben Berlin durchfahren 
-
-- einfahren:
-    - wir habe gutes Ergebnis eingefahren
-
-- erfahren:
-    - hier erfahrt ihr Ahmed, und mohamed von meiner Aussage
-    - ich habe erst Heute erfahren 
-
-- festfahren:(sich)
-    - das Auto hat sich im Sand festgefahren [verrennen] [verharren] [festbeißen]
-    - ich fühle mich festgefahren
-
-- hinfahren:
-    - ich fahre dich dort hin 
-
-- fortsetzen:
-- fortfahren:
-    - nach der Pause setzen wir das Gespräch fort 
-    - die Entwicklung setzt sich fort 
-
-- herumfahren:
-    - ich fahre um den Stau herum 
-    - ich fahre einfach herum 
-
-- hinausfahren:
-    - ich habe über die Ausfahrt hinausgefahren 
-
-- reinfahren:
-    - gestern ist mir jemand reingefahren
-
-- überfahren:
-    - er hat mich mit diesem Angebot überfahren
-    - ich habe ein Tier überfahren 
-    - der Hund ist überfahren 
-    - er hat die Ampel überfahren 
-
-- zusammenfahren:
-    - die beiden Autos sind zusammengefahren
-
-- vorbeifahren:
-    - er fährt sehr dicht an mir vorbei 
-
-- kaputtfahren:
-    - ich habe mein Auto kaputtgefahren 
-
-- widerfahren:
-    - dann fragt man sich, wie könnte soetwas einem widerfahren 
-
-- nachfahren:
-- vorfahren:
-    - ich fahre dir nach 
-    - kannst du vorfahren 
-
-- Vorfahr:
-- Nachfahr:
-    - woher kommen deine Vorfahren
-
-- losfahren:
-    - ich fahre morgen los 
-
-- Verfahren: [prozedur]
-	- das Verfahren
-	- das ist ein neues Verfahren 
-
-- verfahren:
-    - ich habe mich verfahren (sich)
-    - wie sollen wir hier verfahren 
-    - ich verfahre nach einem bestimmen Schema 
-    - das ist eine verfahrene Situation 
-
-- zerfahren:
-    - LKW zerfahren die Straßen 
-
-- wegfahren:
-    - ich fahr weg 
-    - ich fahre das Auto weg
-
-- hochfahren:
-- herunterfahren:
-- neuen Start machen
-- hochladen:
-    - das System fährt hoch 
-    - ich habe das Bild hochgeladen 
-
-- zufahren:
-    -  Das Auto fuhr direkt auf die Menschenmenge zu. 
-
-- umfahren:
-    - ich umfahre den Stau 
-    - ich fahr das Schild um
-
-- Fahrkarte:
-    - die Fahrkarte 
-    - wo kann ich die Fahrkarte kaufen 
-
-- Erfahrung:
-    - die Erfahrung 
-    - ich könnte das in in Erfahrung bringen 
-    - er hat viele Erfahrung 
-
-- Fahrstuhl:
-- Aufzug:
-	- der Fahrstuhl 
-    - der Aufzug
-	- ich muss ein paar minuten auf den Fahrstuhl warten
-
-### finden
-- finden:
-    - ich weiss nicht was du an ihm gut findest 
-    - wie findest du diesen Vorschlag 
-    - Alles Weitere wird sich finden.
-
-- befinden:
-    - wir befunden uns in einem Schlechten Zustand
-    - das Büro befindet sich im zweiten Etage 
-
-- herausfinden:
-    - ich muss erst herausfinden wie es funktioniert 
-    - meine Frau hat es herausgefunden dass ich fremdgegängen bin
-
-- erfinden:
-    - Alfred Nobel hat das Dynamit erfunden
-
-- abfinden:
-    - ich muss mich damit abfinden 
-
-- hineinfinden:
-    - ich brauche Zeit bis ich mich in die neue Rolle hineinfinden [einleben] [eingewöhnen]
-
-- empfinden:
-    - sie empfindet etwas für ihn 
-
-- nachempfinden:
-    - ich kann dir nachempfinden was in dir vorgeht 
-
-- durchfinden:
-    - ich finde mich durch die Stadt durch 
-
-- einfinden:
-    - ich muss mich zeitich am Bahnhof einfinden
-
-- zurechtfinden:
-    - das ist sehr komplexes System, man findet sich nicht schnell zurecht 
-
-- vorfinden:
-    - ich habe ihn in gutem Zustand vorgefunden 
-
-- wiederfinden:
-    - ich habe es wiedergefunden 
-
-- ausfindig:
-	- ich muss meinen Schlüssel ausfindig machen 
-
-- herfinden:
-    - ich habe schnell hergefunden 
-
-- stattfinden:
-    - wann findet es statt 
-
-- zusammenfinden:
-    - ich habe immer gehoft dass wir uns wieder zusammenfinden
-
-- Befund:
-    - der Befund 
-    - der Befund war negativ 
-    
-
-### treten
-- treten:
-    - das Gesetzt wird später in Kräft treten 
-    - ich wollte dir nicht zu nahe treten aber das war nicht richtig 
-    - ich will dir nicht auf die Füße treten aber das ist falsch 
-    - ich habe am Anfang abgenommen aber seit einer Monat trete ich auf der Stelle 
-    - das kann man in die Tonne treten 
-    - wir habe die Regel mit Füßen getreten 
-
-- abtreten:
-    - der Chef muss abtreten 
-
-- antreten:
-    - ich trete morgen die neue Stelle an 
-
-- auftreten:
-    - dieser Effekt tritt bei höheren Temperature auf 
-    - die Polizei tritt sehr aggressiv auf 
-
-- Auftreten:
-    - das Auftreten 
-    - er hat sie gutes Auftreten 
-
-- austreten:
-    - ich trete aus der Partei aus 
-
-- eintreten:
-    - ich trete in die Partei ein 
-    - ob dieser Fall eintreten wird, weiss ich nicht 
-
-- beitreten:
-    - ich trete diesem Verein bei 
-
-- betreten:
-    - das darf man nicht betreten 
-
-- durchtreten:
-    - trete die Bremse nicht durch 
-
-- festtreten:
-    - ich trete den Teppich fest 
-
-- kürzertreten:
-    - ich bin nicht mehr Jung, ich muss kürzertreten 
-    - ich trete bei dem Job kürzer 
-
-- übertreten:
-    - ich trete zum Islam über [übergehen]
-    - er hat das Gesetzt übertreten [verstoßen] 
-
-- vortreten:
-- zurücktreten:
-    - tritt bitt vor / zurück
-
-- zurücktreten:
-    - Daniel und Christain werden nach und nach zurücktreten 
-    - ich habe als Ziel reich zu werden. alles anders muss zurücktreten 
-
-- vertreten:
-    - ich vertrete diese Meineung nicht 
-    - ich habe ihn vertreten
-
-- zusammentreten:
-    - ich trete den Karton zusammen damit es in den Müllton passt 
-    - wir treten morgen zusammen 
-
-- Vertretung:
-    - die Vertretung 
-    - ich bin seine Vertretung 
-
-- Stellvertretend:
-    - das war ein stellvertretender Krieg 
-
-
-### stoßen
-- stoßen:
-    - haben + akku 
-        - er hat mich gestoßen [schieben/schlagen]
-        - ich habe mir den Kopf an der Decke gestoßen
-        - er hat seine Frau gestoßen 
-        - ich habe mich den Kopf gestoßen 
-        - er hat mich von sich gestoßen
-
-    - sein -> bewegung 
-        - ich bin mit dem Kopf an die Decke gestoße
-        - ich bin an meine Grenzen gestoßen 
-        - ich bin auf das Problem gestoßen
-
-- abstoßen: 
-    - ich stoße mich von Rand ab 
-    - die schmutzigen Toilette stoßen mich ab 
-    - der Mantel stoßt Wasser ab 
-    - ich will mein altes Auto abstoßen
-
-- anstoßen:
-    - wir können auf neue Jahr anstoßen 
-    - ich habe mir den Fuß am Tisch angestoßen 
-    - ich habe ein Treffen angestoßen 
-
-- aufstoßen:
-    - ich muss immer aufstoßen wenn ich das trinke 
-    - ich habe mir mein Knie aufgestoßen
-    - das ist mir aufgestoßen
-
-- dazustoßen:
-    - ich werde nach der Arbeit dazustoßen  [dazukommen]
-    - du kannst gerne dazu stoßen wenn du Zeit hast
-
-- ausstoßen:
-    - er wird aus der Partei ausgestoßen 
-
-- verstoßen:
-    - du hat gegen die Regel verstoßen
-
-- zusammenstoßen:
-- aneinanderstoßen:
-	- gestern ist ein LKV mit dem auto zusammengestossen
-
-- zustoßen:
-    - ein mann wird zugestoßen 
-
-- umstoßen:
-    - jemand hat mein Fahrrad umgestoßen [umwerfen]
-    - er hat seine Pläne umgestoßen
-
-- Anstoß:
-    - der Anstoss 
-    - ich hoffe nimmt niemand Anstoss an meiner Anwesenheit 
-    - ich wollte keinen Anstoss erregen 
-    - der Chef hat den Anstoß für das Projekt gegeben 
-
-- Verstoß:
-    - der Verstoß 
-    - das ist ein Verstoß gegen die Regel 
-
-### rutschen
-- schlittern:
-    - Für viele Unternehmen könnte es schnell in die Insolvenz schlittern.
-
-- rutschen:
-    - ich bin ins Rutschen gekommen [ins rutschen]
-    - meine Hose rutscht
-    - die Vase ist mir aus der Hand
-    - könntest du ein bisschen rutschen
-
-- abrutschen:
-  - ich bin von der Leiter abgerutscht 
-
-- ausrutschen:
-    - ihm rutscht die Hand aus 
-  
-- durchrutschen:
-    - die Fehler sind mir durchgerutscht [unterlaufen,entgehen]
-    
-- herausrutschen:_
-    - das wollte ich nicht sagen dass es mir einfach herausgerutscht
-
-- verrutschen:
-  - die Brille verrutscht immer 
-
-- rutschig:
-    - der Boden ist sehr rutschig 
-
-### rücken
-- rücken:
-    - ich rücke das zur Seite
-    - könntest du ein bisschen rücken damit ich sehen kann
-    - der Termin rückt immer näher
-
-- abrücken:
-    - ich rücke den Stuhl vom Tisch ab
-
-- aufrücken:
-  - rücken Sie bitte auf [aufschließen] 
-
-- vorrücken:
-    - ich rücke den Stühl vor
-
-- herausrücken:_
-    - er hat mit der Wahrheit herausgerückt wenn er wusste dass er aufgeflogen war
-
-- zurechtrücken:
-    - ich versuchte den Konflikt zurechtzurücken 
-    - ich rücke die Kissen zurecht 
-    - wir brauchen jemmanden, der mir den Kopf zurechtrückt
-
-- ruckeln:
-    - es ruckelt
-    - der Motor beginnt zu ruckeln 
-    - beim Anfahren ruckelt das Auto 
-
-
-### greifen
-- greifen:
-    - das kann sehr schnell um sich greifen [umgehen]
-    - das Feuer greift sehr schnell um sich 
-    - das Kind greift nach der Hand der Mutter [strecken]
-    - ich greife mir eine Aufgabe  [nehmen]
-    - das ist sehr hoch / niedrig gegriffen [einschätzen]
-    - diese Maßnahme greift zu kurz [beschränkt]
-    - die Maßnahmen brauchen Zeit um zu greifen [funktioniert] 
-    - ich will zu dieser Maßnahme greifen
-
-- Griff:
-    - der Griff 
-    - ich habe alles im Griff [alles kontrollieren]
-    - ich versuche das in den Griff zu bekommen
-    - du musst an dem Griff drehen 
-
-- griffig:
-    - das ist sehr griffig 
-
-- griffbereit:
-    - ich habe momentan die Unterlage nicht griffbereit 
-
-- abgreifen:
-    - ich werde das Signal abgreifen 
-
-- abgegriffen:
-- abgedroschen:
-    - es ist abgegriffen, aber ich finde das Team sehr gut ist 
-
-- angegriffen:
-- mitgenommen:
-- abgespannt:
-- angespannt:
-    - ich bin gesundheitlich angegriffen 
-
-- angreifen:
-    - ich habe mich angegriffen
-
-- Angriff:
-    - der Angriff 
-    - der Angriff ist rechtfertigt 
-    - ich will das Thema in Angriff nehmen [beginnen]
-
-- aufgreifen:
-    - ich will das Thema noch einmal aufgreifen 
-    - ich wollte den richigen Moment aufgreifen 
-
-- begreifen:
-    - ich kann das nicht begreifen 
-
-- Begriff:
-    - der Begriff 
-    - ich habe keinen Begriff davon wie schwerig die Aufgabe ist 
-    - ich war im Begriff das zu machen [drauf und dran]
-    - dieser Name ist mir kein Begriff 
-
-- durchgreifen:
-- eingreifen:
-    - die Polizei greift gegen die Demo durch [einschreiten]
-    - ich will nicht in die Diskussion eingreifen 
-
-- Eingriff:
-    - der Eingriff 
-    - das ist Eingriff in die Privatsphäre 
-
-- ergreifen:
-    - ich ergreife ihn am Arm 
-
-- übergreifen:
-    - das Feuer greift auf anderes Gebiet über 
-
-- übergriff:
-    - der Übergriff 
-    - dieser Übergriff darf man nicht akzeptieren 
-
-- übergriffg:
-    - ich fande diese Frage übergriffig 
-
-- vergreifen:
-    - ich habe mich im Ton vergriffen
-    - er versucht sich an seinem kleinen Brüder zu vergreifen
-
-- vorgreifen:
-    - ich wollte dem Thema vorgreifen [vorwegnehmen]
-
-- zurückgreifen:
-    - wir können immer auf Plan B zurückgreifen 
-
-- zugreifen:
-    - ich kann auf den Server nicht zugreifen 
-
-- Zugriff:
-    - der Zugriff auf diese Datei ist nur mit Passwort möglich 
-    - ich kann keinen Zugriff auf diese Datei 
-
-- inbegriffen:
-    -  all Kosten sind inbegriffen 
-
-### weisen
-- weisen:
-    - ich weise ihm den Weg [zeigen]
-    - er hat mich aus dem Saal gewiesen [wegjagen]
-    - es weis in eine Richtung / auf die Frau
-    - er hat den Vorwurf von sich gewiesen 
-
-- gewiesen:
-    - der Weg ist gewiesen
-
-- abweisen:
-    - er weist meinen Antrag ab [ablehnen]
-    - er hat mich an der Tür abgewiesen [wegschicken]
-    - die Karte wurde abgewiesen 
-
-- abweisend:
-    - er ist sehr abweisende Person [schroff,brusk]
-
-- anweisen:_
-    - du kannst ihn anweisen, die Sache zu machen [beauftragen] 
-
-- Anwesend:
-- Abwesend:
-    - die Anwesend
-
-- angewiesen:
-    - ich bin auf jeden Euro angewiesen 
-
-- Anweisung:
-    - die Anweisung 
-    - seine Anweisungen waren klar
-
-- aufweisen:
-    - Die Ware weist zahlreiche Mängel auf 
-    - das neue Produkt weis hohe Qualität auf 
-
-- ausweisen:
-    - ich muss mich bei der Bank ausweisen 
-    - das war nicht als parkplatz ausgewiesen 
-    - Ausländer werden ausgewiesen
-
-- beweisen:
-    - ich kann das beweisen 
-
-- einweisen:
-    - er weist mich in meine Aufgabe ein
-
-- erweisen:
-    - er hat sich als guter Entwickler erwiesen 
-
-- hinweisen:	
-	- ich will dich/Sie darauf hinweisen 
-	- Der Lehrer hat uns auf die Wichtigkeit von Hausaufgaben hingewiesen. 
-
-- zuweisen:
-    - das kannst mir direkt zuweisen 
-
-- überweisen:
-	- ich überweise das Geld auf dein Konto 
-    - ich habe das Geld schon überwiesen
-
-- verweisen:
-    - ich werde auf das alte Ticket verweisen
-    - ich werde ihn an meinen Chef verweisen
-
-- vorweisen:
-    - muss soll das Ticket vorweisen
-    - ich konnte gute Kenntnisse vorweisen
-
-- zurechtweisen:
-    - er hat mich zurechtgewiesen[tadeln] [ermahnen] 
-
-- zurückweisen:
-    - er hat meine Anschuldigung zurückgewiesen
-    - sie hat mich zurückgewiesen
-
-- unterweisen:
-    - der Leher unterweis mich in Englisch
-
-- nachweisen:
-    - er hat mir meinen Fehler nachgewiesen 
-    - es ist nicht nachgewiesen
-
-- Hinweis:
-    - der Hinweis 
-    - das ist sehr guter Hinweis darauf dass etwas nicht simmt 
-
-- Beweis:   
-    - der Beweis 
-    - das habe ich unter Beweis gestellt 
-
-- Ausweis:
-    - der Ausweis
-    - ich muss den Ausweis vorweisen
-
-- Ansatzweise:
-    - ich habe das Konzepz Ansatzweise ausgearbeitet 
-    - das erfüllt Ansatzweise die Anforderung 
-
-- weise:
-    - die Weise
-    - ich kann das auf verschiedene Weise machen 
-
-- Weise:
-    - es ist ein weiser Mensch 
-
-- Arbeitsweise:
-    - die Arbeitsweise 
-    - er hat sehr gute Arbeitsweise 
-    
-- Schrittweise:
-    - wir können das schrittweise machen 
-
-- netterweise:
-- möglicherweise:
-- gemeinerweise:
-- idealerweise
-
-- naseweis:
-- altklug:
-- vorlaut:
-    - Kinder sind vorlaut 
-
-- Sichtweise:
-    - die Sichtweise 
-    - aus seiner Sichtweise heraus macht die Entscheidung Sinn 
-    - er hat ein andere Sichtweise auf das Problem 
-    - drei Personen heißen drei Sichtweise 
-
-- Zeitweise:   
-    - er ist ok wenn du das Zeitweise macht
-
-- wesentlich:
-    - das war im Wesentlichen alles was ich sagen wollte 
-
-- Wesen:
-    - das Wesen
-    - das leigt im Wesen der Demokratie 
-    - das ist alles im Wesen
-    - Kinder sehr gute Wesen 
-
 ### lösen 
 - lösen:
     - ich kann das Problem nicht einfach lösen 
-
+    - er hat sich von seiner eltern
+    
 - ablösen:
     - ich werde dich ablösen [einspringen]
 
@@ -10135,8 +10621,6 @@ regieren:
 - Dauerlösung:
     - die Verlegenheitslösung 
     - das ist nur eine Notlösung
-
-
 
 ### ander
 - auseinandergehen:
@@ -10191,7 +10675,10 @@ regieren:
 
 ### wechseln 
 - wechseln:
-    - ich wollte das Thema wechseln
+    - ich wollte das Thema wechseln 
+
+- wechselhaft:
+    - sie hat wechselhaften charakter
 
 - abwechseln:
     - wir konnen uns bei dem Training abwechseln
@@ -10216,6 +10703,7 @@ regieren:
 	- ich brauche Abwechslung 
 
 - Wechsel:
+    - im wechsel = abwechsel
     - der Wechsel 
     - Jobwechsel 
     - Ortswechsel 
@@ -10237,10 +10725,6 @@ regieren:
 - verschaffen:
     - ich wollte mir klarheit über die Sache verschaffen 
     - ich muss mir einen Überblick über die Situation verschaffen 
-
-
-
-    - er hat einen kleinen Hund auf de Straße aufgelesen  
 
 ### sache 
 - sachlich:
@@ -10274,8 +10758,6 @@ regieren:
 - verursachen:
     - das hat den Fehler verursacht
     
-
-
 ### acht
 - Acht:
     - ich nehme mich in Acht vor Dieb 
@@ -10330,6 +10812,10 @@ regieren:
 - körperlich:
     - körperlich ist es sehr anstrengend 
 
+- seelisch:
+- psychisch:
+    - er ist psychisch krank
+
 - geistig:
     - geistig bin ich nicht da
 
@@ -10347,9 +10833,11 @@ regieren:
 - Stirn:
     - die Stirn 
     - ich wische den Schweiß von der Stirn 
+    - er hat die Stirn 
 
 - Nase:
     - die Nase 
+    - jemandem vor der Nase herumtanzen
     - ich muss ihm diese Information unter die Nase reiben 
     - ich habe die Nase voll 
     - ich wollte das machen aber er hat mir das vor der Nase weggeschnappt 
@@ -10457,6 +10945,9 @@ regieren:
     - wir wirkst du auf sein Gegenüber 
     - das Medikamment wirkt gut gegen Schmerzen 
 
+- Wirkung:
+    - das Medikament hat eine schnelle wirkung 
+
 - auswirken:
     - er wirkt sich sehr gut auf die Kinder aus 
 
@@ -10498,10 +10989,25 @@ regieren:
     - fass es mit beiden händen
     - fass es am Griff
     - fass nicht an den heißen ofen
-    - ich werde es in verständlichere Form fassen [formulieren]
-    - der Tank fasst 50 Liter [enthalten]
     - ich kann das nicht fassen [verstehen]
-    - ich wollte in der Familie Fuß fassen
+    - Mut fassen
+    - der Tank fasst 50 Liter [enthalten_kann] 
+    - fass an etwas [beruhren]
+    - ich werde es in verständlichere Form fassen [formulieren]
+    - wir müssen das in den Blick fassen [betrachten]
+    - ins auge fassen [planen]
+    - an die eigene Nase fassen
+    - ich wollte in der Familie Fuß fassen [stabilität]
+    - ich brauche Zeit um in der neuen Ungebung fuss zu fassen 
+    - Der Bergsteiger suchte vorsichtig nach einem festen Stein, um Tritt zu fassen
+
+- Fassung:
+    - die Fassung [lampe_fassung] 
+
+- fassbar:
+- unfassbar:
+    - das ist unfassbar schwer 
+    - ich brauche etws fassbar 
 
 - abfassen:
 - verfassen:
@@ -10509,8 +11015,11 @@ regieren:
 
 - anfassen:
     - fass mich nicht an 
+    - dumuss mut anfassen [helfen]
 
+- erfassen:
 - auffassen:
+    - ich habe die Lage erfasst
     - wie soll ich das auffassen [verstehen]
 
 - Auffassung:
@@ -10520,13 +11029,11 @@ regieren:
 - befassen:
     - mit diesem Thema müss ich mich befassen 
 
-- erfassen:
-    - ich habe die Lage erfasst
-
 - zusammenfassen:
     - ich fasse alles zusammen 
 
 - kurzfassen:
+- neufassen:
     - ich fasse mich kurz 
 
 - nachfassen:_
@@ -10537,14 +11044,139 @@ regieren:
     - ich kann die Tasse nicht umfassen 
 
 - zufassen:_
-    - wenn alle zufassen, werden wir schnell fertig sein
+    - wenn alle zufassen, werden wir schnell fertig sein [stark_helfen]
 
 - gefasst:
     - ich bin auf das Problem gefasst 
     - ich mache mich auf das Problem gefasst 
 
-- unfassbar:
-    - das ist unfassbar was dort passiert ist 
+### packen 
+- packen:
+    - wir können diese Aufgabe packen  
+    - es hat mich gepackt 
+
+- abpacken:
+    - ich packe das Essen ab 
+
+- verpacken:
+    - Das Geschenk ist auch schon da, ich muss es nur noch verpacken
+
+- beipacken:
+    - ich packe der Sendung ein Foto bei 
+
+- bepacken:
+    - das Auto voll bepackt 
+    - ich war mit koffern schwer bepackt 
+
+- auspacken:
+- einpacken:
+- umpacken:
+    - ich muss die Koffer auspacken 
+    - ich mache weiter ich werde nicht auspacken 
+    - ich habe alles eingepackt ch muss warm einpacken 
+
+- wegpacken:
+    - ich packe alles weg
+
+- zusammenpacken:
+    - ich packe alles zusammen und gehe nach Haus 
+
+- anpacken:
+    - es gibt viele Themen die wir gleichzeitig anpacken sollen 
+
+- zupacken:
+    - ich brauche jemanden, der zupacken kann 
+
+### wickeln
+- wickeln:
+    - ich wickle den Faden auf eine Rolle 
+    - ich wickle mir einen Schal um den Hals 
+    - ich wickle die Gläser in Papier 
+    - ich wickle ein Tück auf die Hand
+    - sie lässt sich von ihm um den Finger zu wickeln
+
+- abwickeln:
+    - ich wickle das Kabel ab 
+    - ich werde das schnell abwickeln 
+
+- einwickeln:
+- auswicklen:
+    - ich wickle das Geschenk aus
+    - ich wickle das in Papier ein
+    - lass dich von ihm nicht einwickeln
+
+- entwicklen:
+    - wir wollen das entwickeln
+    - die Situation hat sich zu einem Problem entwickelt 
+
+- weiterentwickeln:
+    - ich habe mich hier weiterentwickelt 
+
+- umwickeln:
+    - ich umwickle den Arm mit einer Binde 
+
+- verwickeln:
+    - die Fäden haben sich verwickelt 
+    - sie verwickelt ihn in dieses Problem 
+
+### hülle 
+- Hülle:
+    - die Hülle 
+    - eine schützende Hülle 
+
+- hüllen:
+- einhüllen:
+    - ich hülle das Kind in ein Tuch 
+
+- enthüllen:
+    - ich enthülle mein Geheimnis 
+
+- umhüllen:
+    - das ümhüllt den Körper 
+
+- verhüllen:
+    - ich habe das verhüllen 
+
+### falten
+- falten:
+- auffalten:
+    - ich falte den Brief 
+
+- auseinanderfalten:
+- zusammenfalten:
+    - ich falte es auseinander
+
+- entfalten:
+    - ich konnte mich dort entfalten 
+
+- vielfältig:
+    - es gibt vielfältige Angebote [vielschichtig]
+
+### rollen 
+- rollen:
+    - ich rolle den Reifen 
+
+- aufrollen:
+- einrollen:
+- zusammenrollen:
+    - ich rolle die Karte zusammen (zusammenfalten)
+
+- ausrollen:  
+    - ich rolle die Karte aus [ausbreiten] [auseinanderfalten]
+
+- anrollen:
+    - das Flugzeug rollt an 
+
+- überrollen:
+    - das Auto hat ihn überrollt 
+
+- abrollen:
+    - ich rolle das Kabel ab [abwickeln] 
+
+- Rolle:
+    - die Rolle 
+    - das spielt wichtige Rolle für vermittlung der inhalten
+
 
 ### rühren
 - rühren:
@@ -10588,40 +11220,290 @@ regieren:
     - diese Ungewissenheit beunruhigt mich
     - er hat mich beruhigt  
 
-### hetzen
-- hetzen:
-    - wir müssen zum Bahnhof hetzen 
-    - ich lasse mich nicht hetzen 
-    - ich wollte nicht durch den Tag hetzen 
-    - ich will dich nicht hetzen 
-    - er hat einen Hund auf mich gehetzt 
-    - sie hetzen gegen Ausländer 
+### scheiden
+- scheiden:
+    - Sie lassen sich scheiden
 
-- abhetzen:
-    - ich habe mich zum Bahnhoft angehetzt 
+- geschieden:
+    - er ist geschieden
 
-- abgehetzt:
-    - ich bin abgehetzt
+- ausscheiden:
+    - die Lösung scheidet für mich aus weil es sehr lange Zeit dauert
+    - der Bewerber scheidet aus weil weil er kein Deutsch kennt
 
-- aufhetzen:
-- verhetzen:
-    - die Mutter hetzt das Kinder gegen den Vater auf 
+- bescheiden:
+  - er ist sehr bescheidener Mensch
+  - das ist aber ein beschiedener Wunsch 
+  - mit geht es bescheiden 
 
-- hasten:
-    - ich muss zum Bahnhof hasten
+- Bescheid:
+    - ich warte auf den Bescheid
+    - ich weiss Bescheid
 
-- Hetze:
-    - Das war vielleicht eine Hetze, bis wir endlich im Bus saßen!
-    - ich will das nicht in Hetze machen sondern in Ruhe 
+- entscheiden:
+  - über die Sache will ich allein nicht entscheiden
 
-- hektisch:
-	- heute war es sehr hektisch und ich hatte nicht genugend Zeit um alles zu schaffen was ich schaffen wollte
+- unterscheiden:
+    - wir kann die beiden nicht unterscheiden 
 
-- hastig:_
-    - wir wollen nicht hastig arbeiten
+### schieden
+- verschieden:
+    - wir sind verschiedener Meinung 
+
+- unterschiedlich:
+    - unterschiedliche Ansichten über etwas haben 
+
+- Unterschied:
+    - der Unterschied
+    - es ist ein Unterschied ob du es machen wirst oder nicht
+
+- verabschieden:
+    - ich wollte mich von dir verabschieden 
+    - ich wollte ihn verabschieden
+
+### schätzen
+- abschätzen:
+    - ich kann die Zahl nicht abschätzen
+
+- einschätzen:
+    - ich kann ihn / die Situation nicht einschätzen
+
+- schätzen:
+    - ich schätze ihn sehr
+
+- verschätzen:
+    - ich habe mich verschätzt
+
+- überschätzen:
+- unterschätzen:
+    - ich habe mich überschätzt
+    - ich habe die Kosten überschötzt
+
+- Wertschätzend:
+    - er ist sehr Wertschätzend
+
+### raten
+- Rat:
+    - der Rat 
+    - es ist ein guter Rat 
+
+- zurate:
+    - du kannst immer das Buch zurate ziehen 
+    - ich werde ihn zurate ziehen
+
+- raten:
+    - er hat mir geraten das zu machen 
+    - ich kann sein ALter raten
+
+- beraten:
+    - ich habe mich beraten lassen 
+    - er hat dich gut beraten
+
+- abraten:
+    - er hat mir abgeraten das zu machen 
+    - ich habe ihm von dieser Reise abraten
+
+- zuraten:
+    - er hat mir zu dieser Entscheidung zugeraten 
+
+- erraten:
+    - ich habe das erraten 
+
+- verraten:
+    - soll ich dir etwas verraten 
+    - meine Sprache würde mich verraten 
+    - ich will nicht mein Land verraten
+
+- geraten:
+    - ich will nicht dass es in Vergessenheit geraten wird
+    - wir sind in Stau geraten  
+
+- aneinandergeraten:
+    - sie geraten viel mit ihm aneinander 
+
+- durcheinandergeraten:
+    - alle meine Unterlagen sind durcheinandergeraten 
+
+- Rückgrat:_
+    - der Rückgrat 
+    - er hat null Rückgrat 
+    - ich habe ihm Rückgrat gezeigt 
+
+- akkurat:
+    - das ist aber nicht mehr akkurat 
+
+- rational:
+- emotional:
+    - ich will nicht emotional reagieren
+
+### Wert
+- Wert:
+    - der Wert 
+    - es ist einen Versuch / die Mühe Wert 
+    - ich lege viel Wert darauf, dass ich früh aufstehe 
+    - es ist Goldes Wert 
+    - gewinnt / verliert an Wert  
+
+- Stellenwert:
+    - der Stellemwert 
+    - welchen Stellenwert hat die Familie für Sie 
+
+- abwerten:
+- aufwerten:
+
+- auswerten:
+    - ich müss das Ergebnis auswerten 
+
+- bewerten:
+    - ich habe ihn bewertet 
+
+- überbewerten:
+    - ich will die Lage nicht überbewerten
+
+### stufe 
+- Stufe:
+    - die Stufe 
+    - das ist nur die erste Stufe 
+    - das hat viele Stufen 
+
+- abstufen:
+- aufstufen:
+    - das Firma wird abgestuft 
+
+- einstufen:
+    - das wird als Gefärhlich eingestuft 
+
+### platzen 
+- Platz:
+	- der Platz
+	- auf dem Platz vor dem Rathaus
+	- ist dieser Platz frei
+    - das war fehlt am Platz
+    - wir haben keinen Platz mehr 
+
+- Stellplatz:
+    - der Stellplatz 
+    - ich habe den Stellplatz gemietet
+
+- platzhalter:
+    - das Platzhalter
+    - das ist ein Platzhalter für den Name
+    - der Platzhalter wird durch den Wert ersetzt
+
+- platzieren:
+    - das sollte ganz oben platiert werden
+    - wir sind ganz schlecht platziert 
+    - ins Zimmer platzieren
+
+- platzen:
+    - der Termin ist geplatzt 
+    - ich platze vor Wutend 
+
+- aufplatzen:
+    - das wird aufplatzen 
+
+- herausplatzen:_
+    - ich kann nicht einfach mit der Wahrheit herausplatzen 
+
+- herplatzen:
+- hineinplatzen:
+    - du kannst nicht einfach hier hereinplatzen wenn es dir passt 
+
+- zerplatzen:
+    - ich werde die Ballon zerplatzen
+
+### wälzen
+- wälzen:
+    - ich werde die Aufgabe auf dich wälzen 
+    - das Fleisch wälzen 
+
+- abwälzen:
+    - er wälzt die Schuld auf mich ab
+### trösten
+- trösten:
+    - ich tröste mich mit dem Gedanken 
+    - ich wollte ihn trösten 
+
+- vertrösten:
+    - er hat mich auf morgen vertrösten 
+
+- hinwegtrösten:
+    - ich wollte ihn über seinen Verlust hinwegtrösten 
+
+### Tag 
+- Tagesablauf:
+    - das Ziel ist Bewegungs in den Tagesablauf einzubauen 
+
+- vertagen:
+    - ich werde den Termin auf morgen vertagen 
+
+### bessern
+- bessern:
+- verbessern:
+    - das Wetter hat sich gebessert 
+
+- ausbessern:
+    - ich muss das Dach ausbessern 
+
+- aufbessern:
+    - ich wollte mein Gehalt aufbessern  
+
+- nachbessern:
+    - ich werde es nachbessern 
+
+- verschlimmbessern:
+    - ic habe die Situation verschlimmbessert 
+
+- Besserwisser:
+    - er ist besserwisser
+
+- besserstellen:
+    - ich wollte meine Situation besserstellen 
+
+- besserstehen:
+    - wenn wir das machen steht unsere Chance besser 
+
+- Besserung:
+    - die Besserung 
+    - gute Besserung  
+
+### liefern
+- liefern:
+    - wir können dir die waren in sechs Wochen liefern 
+
+- lieferzeit:
+    - die Lieferzeit 
+
+- beliefern:
+    - ich werde dich mit Essen beliefern
+    
+- abliefern:
+- anliefern:
+- ausliefern:
+    - ich habe den Brief bei deinem Nachbahr abgeliefert
+
+- nachliefern:
+    - die fehlende Teile werden nachgeliefert
+
+### mühen
+- abmühen:
+    - ich habe mich abgemüht dir das zu erklären
+
+- bemühen:
+- mühen:
+    - du musst dich nicht bemühen 
+    - wir müssen den Hausmeister bemühen um es reparieren zu lassen
+
+- Mühe:
+    - die Mühe 
+    - spar dir die Mühe 
+    - es ist nicht der Mühe wert 
+    - ich gebe mir Mühe um es zu schaffen
 
 ### tun
 - tun:
+    - er wollte etwas Gutes tun
+    - er ist nicht krank er tut nur so
     - es tut es nur so
     - wenn du keinen Schlafsack hast, tue es auch eine Decke
     - ich weiss nicht wohin ich das tun soll 
@@ -10664,7 +11546,7 @@ regieren:
 
 - großtun:
 - prahlen:
-    - er tut immer mit seinem Erfolg groß 
+    - er tut sich immer mit seinem Erfolg groß 
 
 - schwertun:
 - leichttun:
@@ -10727,61 +11609,7 @@ regieren:
 - zusatzleistung:
 - gegenleistung
     - man kann durch eigenleistung viel sparen 
-
-### raten
-- Rat:
-    - der Rat 
-    - es ist ein guter Rat 
-
-- zurate:
-    - du kannst immer das Buch zurate ziehen 
-    - ich werde ihn zurate ziehen
-
-- raten:
-    - er hat mir geraten das zu machen 
-    - ich kann sein ALter raten
-
-- beraten:
-    - ich habe mich beraten lassen 
-    - er hat dich gut beraten
-
-- abraten:
-    - er hat mir abgeraten das zu machen 
-    - ich habe ihm von dieser Reise abraten
-
-- zuraten:
-    - er hat mir zu dieser Entscheidung zugeraten 
-
-- erraten:
-    - ich habe das erraten 
-
-- verraten:
-    - soll ich dir etwas verraten 
-    - meine Sprache würde mich verraten 
-    - ich will nicht mein Land verraten
-
-- geraten:
-    - ich will nicht dass es in Vergessenheit geraten wird
-    - wir sind in Stau geraten  
-
-- aneinandergeraten:
-    - sie geraten viel mit ihm aneinander 
-
-- durcheinandergeraten:
-    - alle meine Unterlagen sind durcheinandergeraten 
-
-- Rückgrat:_
-    - der Rückgrat 
-    - er hat null Rückgrat 
-    - ich habe ihm Rückgrat gezeigt 
-
-- akkurat:
-    - das ist aber nicht mehr akkurat 
-
-- rational:
-- emotional:
-    - ich will nicht emotional reagieren
-
+**
 ### reichen
 - reichen:
     - reiche mir das Essen 
@@ -10797,7 +11625,7 @@ regieren:
     - wir haben ausreichende Arbeit
 
 - einreichen:
-    - ich habe die Doku schon eingereichtet 
+    - ich habe die Doku schon eingereicht 
 
 - erreichen:
     - ich will mein Ziel erreichen 
@@ -10823,21 +11651,22 @@ regieren:
 
 ### richten
 - richten:
-	- ich richte mich nach dir
-	- ich riche mich an dich
-	- ich richte mich auf die Arbeit
-	- ich darfe nicht über ihn richten
-    - das war nicht gegen dich gerichtet
+    - ich muss das Bild an der Wand richten
+	- ich richte mich nach dir [nach]
+	- ich riche mich an dich [an]
+	- ich richte mich auf die Arbeit [auf]
+	- ich darfe nicht über ihn richten [über]
+    - das war nicht gegen dich gerichtet [gegen]
 
 - abrichten:
     - man kann diesen Hund abrichten 
 
-- anrichten:_
+- anrichten:
     - der Sturm hat viel Schaden angerichtet
     - Das Essen ist angerichtet 
 
 - aufrichten:
-    - ich richte ihm im bett auf 
+    - ich richte ihn im bett auf 
 
 - ausrichten:
     - richt ihm bitte aus, dass ich hi sage
@@ -10849,10 +11678,10 @@ regieren:
 
 - einrichten:
     - ich will die Wohnung neu einrichten 
+    - ich muss die das Konto / den laptop neu einrichten
     - kannst du so einrichten dass du um 10:00 uhr das sein 
     - richt dir so ein dass du morgen früh anfangen sollst
     - ich habe mein Leben so eingerichtet dass ich mehr Freizeit haben kann [organisiert]
-    - ich muss die das Konto neu einrichten
     - ich habe mich auf lange Wartung eingerichtet (sich) [einstellen]
 
 - errichten:
@@ -10879,6 +11708,13 @@ regieren:
     - wer hat dich so zugerichtet (verletzt)
     - ich habe das Holz zugrichtet [vorbereitet]
 
+### fälschen 
+- fälschen:
+    - das Doku fäschen 
+
+- abfälschen:
+    - ich hat den Ball abgefälscht
+
 ### reiben
 - reiben:
     - ich reibe mir die Augen 
@@ -10889,8 +11725,9 @@ regieren:
     - ich reibe mich ab (abtrocknen)
 
 - einreiben:
+    - ich reibe ihn mit einer Creme ein 
 - verreiben:
-    - ich reibe die Creme ein 
+    - ich verreiben eine Salbe auf der Haut 
 
 - aufreiben:
     - die Hitze reibt mich auf 
@@ -10933,6 +11770,34 @@ regieren:
 
 - mitkriegen:
     - das habe ich nicht mitgekriegt 
+
+### kleinern
+- klein:
+    - er ist immer noch klein 
+
+- Kleingeld:
+    - das Kleingeld 
+    - hast du Kleingeld für mich 
+
+- kleinteilig:  
+    - ich werde das nicht kleinteilig machen 
+
+- kleinigkeit:
+    - die Kleinigkeit 
+    - ich muss ein paar kleinig keit erledigen 
+
+- verkleinern:
+    - ich werde das Bild verkleinern 
+
+- zerkleinern:
+    - ich werde den Apel zerkleinern 
+
+- kleinbeigeben: 
+    - ich werde nicht nachgeben 
+    - nach dem Streit hat er klein beigegeben [nachgeben]
+
+- kleinkriegen: [kleinbekommen]
+    - ich lass mich nicht kleinkriegen
 
 ### leben
 - Leben:
@@ -11034,13 +11899,79 @@ regieren:
     - der Mischmasch 
     - wir wollten den Mischmasch vermeiden 
 
+### Matte 
+- matschig:
+    - der Boden war matschig
+
+- Matsch:
+    - der Matsch 
+    - im Matsch ausrutschen
+
+- Matte:
+    - die Matte 
+    - ich wollte die Fussmatte saubermachen 
+
+- Matraze:
+    - die Matraze 
+    - das ist eine harte Matratze 
+
+- matt:
+    - nach dem Training bin ich matt [schlapp]
+    - die Farben waren matt ich muss es polieren 
+
+### nutzen
+- Nutzen:
+    - der Nutzen 
+    - wir ziehen viel Nutzen von dieser Sache 
+
+- nutzen:
+    - ich werde jede Minute nutzen um das zu erreichen 
+    - deine Reue nutzt dir nicht viel [dativ]
+
+- abnutzen:
+    - ich habe meine Schuhe abgenutzt
+    - die Schuhe nutzen sich ab 
+
+- ausnutzen:
+    - er hat mich ausgenutzt 
+
+- benutzen: 
+    - ich benutze den Laptop kaum 
+
+- nützlich:
+    - das ist sehr nützlich
+
+### schädigen
+- schädigen:
+    - das schädigt meinen Ruf [Abstrakt]
+
+- beschädigen: 
+    - du hast mein Auto beschädigt 
+
+- schädlich: 
+    - das ist deiner Gesund schädlich
+
+- entschädigen:
+    - wir haben ihn für seine Unkosten entschädigt 
+
+- schaden:
+    - das wird dir nicht schaden 
+    - es schadet dir nichts wenn du es nachprüfst 
+
+- Schaden:
+    - der Schaden - Schäden 
+    - ich habe den Schaden am Auto reparieren lassen 
+    - es hat schäden angerichtet 
+
 ### schulden
 - Schuld:
     - die Schuld 
+    - schuld liegt bei mir, mir wird die schuld zugeschrieben, mich trifft kine schuld 
     - ich bin daran Schuld 
     - es ist nicht meine Schuld dass du es nicht geschafft hast 
     - ich kann ihm die Schuld daran nicht geben 
     - ich habe die Schuld auf mich genommen 
+    - mir ist keine Schuld bewusst
 
 - Schulden:
     - die Schulden 
@@ -11080,6 +12011,21 @@ regieren:
     - die Anschuldigung
     - das ist eine heftige Anschuldigung 
 
+### leihen 
+- leihen:
+    - ich werde dir mein Auto leihen 
+    - ich habe mir ein auto geliehen
+    - kann ich mir das Auto von dir leihen 
+
+- beleihen:
+    - ich muss mein Haus beleihen um Kredit zu bekommen 
+
+- verleihen:
+    - ich verleihe gerne nicht mein Auto 
+
+- entliehen:
+    - das Auto ist entliehen 
+
 ### anspruchen
 - Anspruch:
     - der Anspruch 
@@ -11117,25 +12063,6 @@ regieren:
 
 - beschönigen:
     - er hat die Situation beschönigen
-
-### nutzen
-- Nutzen:
-    - der Nutzen 
-    - wir ziehen viel Nutzen von dieser Sache 
-
-- nutzen:
-    - ich werde jede Minute nutzen um das zu erreichen 
-    - deine Reue nutzt dir nicht viel 
-
-- abnutzen:
-    - ich habe meine Schuhe abgenutzt
-    - die Schuhe nutzen sich ab 
-
-- ausnutzen:
-    - er hat mich ausgenutzt 
-
-- benutzen: 
-    - ich benutze den Laptop kaum 
 
 ### ändern
 - Änderung:
@@ -11187,14 +12114,14 @@ regieren:
 
 ### kneifen
 - kneifen:
-    - ich werde nicht kniefen wenn es schwerig ist [schlappmachen]
+    - ich werde nicht kneifen wenn es schwerig ist [schlappmachen]
     - du kannst ihn kneifen wenn er schläft [zwicken] 
 
 - abkniefen:
     - ich kneife das Rad ab 
 
 - einkneifen:
-    - ich werde vor der Aufgabe nicht einkneifen
+    - den Schwanz einkneifen
 
 - verkneifen:
     - ich kann mir das verkneifen 
@@ -11206,6 +12133,9 @@ regieren:
 
 - knifflig:
     - das ist sehr knifflige Aufgabe 
+
+zusammenkneifen:
+    - die Augen zusammenkneifen
 
 ### kreichen && zappeln && krabbeln 
 - kriechen:
@@ -11230,6 +12160,7 @@ regieren:
     - du bist bei ihm gut angeschrieben 
 
 - zuschreiben:
+    - sie schreibt mir die schuld zu [ينسب]
     - das habe ich mir zuzuschreiben [einhandeln] [zuziehen]
 
 - beschreiben:
@@ -11303,11 +12234,50 @@ regieren:
 - knapp:
     - die Zeit ist sehr knapp
 
-- knapphaltel:
+- knapphalten:
     - die Eltern hat die Kinder mit Taschengeld knapp 
 
 - verknappen:
     - das wird die Chancen verknappen 
+
+### butter 
+- Butter:
+    - die Butter 
+    - alles in Butter 
+    - ich lass mir nicht die Butter vom Brot nehmen  
+    - er kocht nur mit Wasser ohne Butter
+
+- unterbuttern:
+    - ich lass mich nicht unterbuttern 
+
+### streiten
+- umstritten:   
+    - das Thema ist umstritten 
+
+- unbestritten:
+    - das ist unbestritten
+
+- streiten:
+    - wir streiten uns immer 
+
+- abstreiten:
+    - ich streite den Vorwurf ab 
+    - ich kann ihm seine Kompetenz auf dem Feld nicht abstreiten 
+
+- bestreiten:
+    - ich bestreite nicht dass Berlin gute Stadt ist 
+    - ich bestreite die Kosten für meine Familie [bezahlen]
+
+- herumstreiten:
+    - ich habe keine Lust mit ihm herumzustreiten
+
+- zerstreiten:
+    - wir haben uns zerstritten
+
+- Streit:
+    - der Streit 
+    - ich werde nicht einen Streit mit ihm anfangen 
+    - es gab einen Streit darüber 
 
 ### streichen
 - streichen:
@@ -11355,6 +12325,8 @@ regieren:
 - Strich:
     - der Strich 
     - ich will dir keinen Strich durch die Rechnung machen
+    - unter dem Strich war das Projekt erfolgreich
+    - mit einem Strich war alles ok 
 
 - Anführungsstrich:
     - einfache Anführungstriche 
@@ -11383,22 +12355,14 @@ regieren:
 
 - ausschweifend:
     - ich wollte nicht ausschweifend leben 
-
-### butter 
-- Butter:
-    - die Butter 
-    - alles in Butter 
-    - ich lass mir nicht die Butter vom Brot nehmen  
-
-- unterbuttern:
-    - ich lass mich nicht unterbuttern 
-
+--
 ### kreuzen
 - kreuzen:
     - ich kreuze die Straße [überqueren]
+    - die Strasse kreuzen sich hier
 
 - ankreuzen:
-    - die antwort ankreuzen 
+    - die antwort ankreuzen [anstreichen]
 
 - durchkreuzen:
     - er hat meine Pläne durchkreuzt 
@@ -11413,6 +12377,7 @@ regieren:
 - hacken:
     - ich werde Zwiebeln hacken 
     - ich werde ein Loch in den Schrank hacken 
+    - ich versuche das System zu hacken
 
 - abhacken:
     - ich höre dich abgehackt 
@@ -11425,6 +12390,9 @@ regieren:
 
 - zerhacken:
     - ich habe es zerhackt 
+
+- herumhacken:
+    - auf jemandem herumhacken
 
 ### Haken
 - Haken:
@@ -11710,7 +12678,6 @@ regieren:
     - ich will nicht wahrhaben dass ich einen Fehler gemacht habe 
     - ich wollte die Trennung nicht wahrhaben 
 
-
 ### still
 - Stil: 
     - der Stil 
@@ -11755,9 +12722,8 @@ regieren:
     - wir gehen schwimmen außer es regnet 
     - außer mir waren alle da
 
-
-
-### buchstabe 
+### Buchstabe:
+ 
 - Buchstabe:
     - der Buchstabe 
     - das ist ein kleinbuchstabe 
@@ -11771,27 +12737,6 @@ regieren:
 
 - Satz:
     - der Satz 
-
-- Ansatz:
-    - der Ansatz 
-    - das war nicht der richtige Ansatz 
-    - das hat im Ansatz gescheitert 
-    - wir müssen mit dem Problem im Ansatz umgehen 
-    - er zeigt gute Ansätze  
-
-- ansatzweise:
-    - ich verstehe es ansatzweise 
-
-- Umsatz:
-    - der Umsatz 
-
-- Ersatz:
-    - der Ersatz 
-    - wir brauchen einen Ersatz 
-
-- Einsatz:
-    - der Einsatz 
-    - ich arbeite mit großem Einsatz
 
 ### job
 - firma: 
@@ -11861,7 +12806,6 @@ regieren:
     - das Weihnachten 
     - der Weinachtensurlaub 
     - am Weihnachten 
-
 
 ### knöpfen
 - knöpfen:
@@ -12742,399 +13686,7 @@ regieren:
 
 
 
-### dringen
-- dringen:
-    - die Sonne dringt durch den Dach
-    - das dringt auf eine Lösung (insist)
 
-- dringend:
-    - die Sache ist sehr dringend 
-    - das ist eine dringende Reparatur 
-
-- durchdringen:
-    - das Wasser dringt durch das Dach durch 
-    - die Trauer durchdringt mich 
-
-- eindringen:
-    - das Wasser dringt durch die Tür in das Haus ein
-    - ich dringt auf dich ein bis du nachgibst [belästigen]
-
-- vordringen:
-    - sie dringen in fremdes Land vor 
-
-- eindringlich
-    - ich habe ihn eindringlich gebeten das zu machen 
-
-- aufdringlich:
-    - er ist sehr aufdringliche Person 
-
-- unaufdringlich:
-    - das Kleid war unaufdringlich
-
-### drängen
-- drängen:
-  - ich werde das zur Seite drängen
-  - er hat mich zur Eile gedrängt
-  - Sie drängen auf baldige Lösung
-  - ich will dich nicht in die Ecke drängen
-  - ich dränge mich nach vorne
-
-- abdrängen:
-  - er drängt mich vom Weg ab
-
-- aufdrängen:
-  - ich will dir meine Hilfe nicht aufdrängen
-
-- bedrängen:
-  - ich will dich nicht bedrängen
-  - sie bedrängen die Touristen Produkte zu kaufen
-
-- verdrängen:
-    - Laptop hat pc verdrängt
-
-- vordrängen:
-  - ich werde mich vordrängen
-
-- zusammendrängen:
-    - Die Tiere wurden auf kleinstem Raum zusammengedrängt
-
-- Drang:
-    - der Drang 
-    - der Drang nach Freiheit 
-
-- Andrang:
-- Gedränge:
-    - der Andrang 
-    - das Gedränge
-    - am weichnachen herrscht größer Andrang
-
-### drücken 
-- drücken:
-    - das drückt mich 
-    - ich werde ihm das in die Hand drücken 
-    - den Knopf drücken 
-    - ich dürcke mich vor dieser Aufgage [sich]
-
-- abdrücken:
-    - ich will das Blut abdrücken(abschnüren)
-    - der Füß drückt im Sand ab 
-    - die Mutter drückt ihr Kind ab 
-    - du dürckst mir die Luft ab
-
-- andrücken:
-    - ich drücke den Aufkleben an [befestigen]
-
-- aufdrücken:
-- zudrücken:
-    - ich drücke die Tür auf 
-
-- ausdrücken:
-    - wie soll ich das richtig ausdrücken 
-
-- bedrücken:
-    - das bedrückt mich 
-    - du siehst bedrück aus 
-
-- erdrücken:
-    - ich wollte es zu dieser Zeit nicht und kam mir erdrückt vor 
-
-- unterdrücken:
-    - Frauen werden unterdrückt 
-
-- zerdrücken:
-    - Essen zerdrücken 
-
-- wegdrücken:
-    - sie hat mich weggedrückt 
-
-- Druck:
-	- der Druck
-	- ich will dich nicht unter Druck setzen
-	- ich stehe unter Druck
-	- wir können Druck ausüben
-	- wir mussen Druck aufbauen
-
-### pressen 
-- abpressen:
-    - das presst mir ab 
-    - so kann man Öl aus den Oliven abpressen 
-
-- auspressen:
-    - den Rest der Zahnpasta auspressen 
-
-- durchpressen:
-    - obst durch ein Sieb durchpressen
-
-- erpressen:
-    - ich will dich nicht erpressen 
-
-### nötigen
-- nötigen:
-    - das Wetter nötigt mich zu Hause zu bleiben
-    - er nötigt mich ihn zu rufen
-
-- benötigen:
-  - ich benötige deine Hilfe
-
-- aufnötigen:
-  - ich will dir meine Hife nicht aufnötigen 
-
-- abnötigen:
-  - Der Vernehmer versuchte, dem Verdächtigen ein Geständnis abzunötigen 
-
-- nötig:
-    - das ist nicht mehr nötig 
-
-### scheiden
-- scheiden:
-    - Sie lassen sich scheiden
-
-- ausscheiden:
-    - die Lösung scheidet für mich aus weil es sehr lange Zeit dauert
-    - der Bewerber scheidet aus weil weil er kein Deutsch kennt
-
-- bescheiden:
-  - er ist sehr bescheidener Mensch
-  - das ist aber ein beschiedener Wunsch 
-  - mit geht es bescheiden 
-
-- Bescheid:
-    - ich warte auf den Bescheid
-    - ich weiss Bescheid
-
-- entscheiden:
-  - über die Sache will ich allein nicht entscheiden
-
-- unterscheiden:
-    - wir kann die beiden nicht unterscheiden 
-
-### schieden
-- verschieden:
-    - wir sind verschiedener Meinung 
-
-- unterschiedlich:
-    - unterschiedliche Ansichten über etwas haben 
-
-- Unterschied:
-    - der Unterschied
-    - es ist ein Unterschied ob du es machen wirst oder nicht
-
-- verabschieden:
-    - ich wollte mich von dir verabschieden 
-    - ich wollte ihn verabschieden
-
-### schätzen
-- abschätzen:
-    - ich kann die Zahl nicht abschätzen
-
-- einschätzen:
-    - ich kann ihn / die Situation nicht einschätzen
-
-- schätzen:
-    - ich schätze ihn sehr
-
-- verschätzen:
-    - ich habe mich verschätzt
-
-- überschätzen:
-- unterschätzen:
-    - ich habe mich überschätzt
-    - ich habe die Kosten überschötzt
-
-- Wertschätzend:
-    - er ist sehr Wertschätzend
-
-### Wert
-- Wert:
-    - der Wert 
-    - es ist einen Versuch / die Mühe Wert 
-    - ich lege viel Wert darauf, dass ich früh aufstehe 
-    - es ist Goldes Wert 
-    - gewinnt / verliert an Wert  
-
-- Stellenwert:
-    - der Stellemwert 
-    - welchen Stellenwert hat die Familie für Sie 
-
-- abwerten:
-- aufwerten:
-
-- auswerten:
-    - ich müss das Ergebnis auswerten 
-
-- bewerten:
-    - ich habe ihn bewertet 
-
-- überbewerten:
-    - ich will die Lage nicht überbewerten
-
-### stufe 
-- Stufe:
-    - die Stufe 
-    - das ist nur die erste Stufe 
-    - das hat viele Stufen 
-
-- abstufen:
-- aufstufen:
-    - das Firma wird abgestuft 
-
-- einstufen:
-    - das wird als Gefärhlich eingestuft 
-
-### platzen 
-- Platz:
-	- der Platz
-	- auf dem Platz vor dem Rathaus
-	- ist dieser Platz frei
-    - das war fehlt am Platz
-
-- platzhalter:
-    - das Platzhalter
-    - das ist ein Platzhalter für den Name
-    - der Platzhalter wird durch den Wert ersetzt
-
-- platzieren:
-    - das sollte ganz oben platiert werden
-    - wir sind ganz schlecht platziert 
-    - ins Zimmer platzieren
-
-- platzen:
-    - der Termin ist geplatzt 
-    - ich platze vor Wutend 
-
-- aufplatzen:
-    - das wird aufplatzen 
-
-- herausplatzen:_
-    - ich kann nicht einfach mit der Wahrheit herausplatzen 
-
-- herplatzen:
-- hineinplatzen:
-    - du kannst nicht einfach hier hereinplatzen wenn es dir passt 
-
-- zerplatzen:
-    - ich werde die Ballon zerplatzen
-
-### wälzen
-- wälzen:
-    - ich werde die Aufgabe auf dich wälzen 
-    - das Fleisch wälzen 
-
-- abwälzen:
-    - er wälzt die Schuld auf mich ab
-
-### trösten
-- trösten:
-    - ich tröste mich mit dem Gedanken 
-    - ich wollte ihn trösten 
-
-- vertrösten:
-    - er hat mich auf morgen vertrösten 
-
-- hinwegtrösten:
-    - ich wollte ihn über seinen Verlust hinwegtrösten 
-
-### bessern
-- bessern:
-- verbessern:
-    - das Wetter hat sich gebessert 
-
-- ausbessern:
-    - ich muss das Dach ausbessern 
-
-- aufbessern:
-    - ich wollte mein Gehalt aufbessern  
-
-- nachbessern:
-    - ich werde es nachbessern 
-
-- verschlimmbessern:
-    - ic habe die Situation verschlimmbessert 
-
-- Besserwisser:
-    - er ist besserwisser
-
-- besserstellen:
-    - ich wollte meine Situation besserstellen 
-
-- besserstehen:
-    - wenn wir das machen steht unsere Chance besser 
-
-- Besserung:
-    - die Besserung 
-    - gute Besserung  
-
-### liefern
-- liefern:
-    - wir können dir die waren in sechs Wochen liefern 
-
-- lieferzeit:
-    - die Lieferzeit 
-
-- beliefern:
-    - ich werde dich mit Essen beliefern
-    
-- abliefern:
-- anliefern:
-- ausliefern:
-    - ich habe den Brief bei deinem Nachbahr abgeliefert
-
-- nachliefern:
-    - die fehlende Teile werden nachgeliefert
-
-### mühen
-- abmühen:
-    - ich habe mich abgemüht dir das zu erklären
-
-- bemühen:
-- mühen:
-    - du musst dich nicht bemühen 
-    - wir müssen den Hausmeister bemühen um es reparieren zu lassen
-
-- Mühe:
-    - die Mühe 
-    - spar dir die Mühe 
-    - es ist nicht der Mühe wert 
-    - ich gebe mir Mühe um es zu schaffen
-
-### hauen  
-- hauen
-    - er hat mich gehauen 
-
-- abhauen:
-    - ich haue ab 
-    - ich habe den Ast abhauen
-
-- anhauen:_
-    - er hat mich um Geld angehauen [anpumpen]
-    - ich habe mich an dem Tisch angehauen 
-
-- durchhauen:
-    - ich haue den Ast durch 
-
-- hinhauen:
-    - das hat leider nicht hingehauen 
-    
-- raushauen:
-    -  er hat 100 Euro für die Schuhe rausgehauen
-
-- reinhauen:
-    - er hat mich reingehauen [ins geischt schlagen]
-    - hau rein (essen)
-    - wir müssen reinhauen um das zu schaffen [zupacken]
-    - das hat reingehauen [starke Wiekung hat]
-
-- zuhauen:
-    - wenn er wütend ist, haut er einfach zu 
-    - ich werde den Stein zu Qudarn zuhauen 
-
-- umhauen: (umwerfen)
-    - er hat mich umgehauen 
-    - die Rechnung hat mich umgehauen [überrascht]
-
-- verhauen:
-    - ich habe mich bei dieser Prüfung verhauen 
-    - sie hat ihn verhauen
 
 ### ordnen
 - ordnen:
@@ -13248,231 +13800,6 @@ regieren:
 - unbefugt:
     - ich bin nicht befugt das zu machen 
 
-
-### zahlen 
-- Zahl:
-    - die Zahl , Zahlen 
-    - er hat keine Zahlen genannt 
-    - die Zahlen sind nicht gut 
-    - die Zahl der Leute ist gestiegen [nicht-plur]
-    - das ist gerade Zahl 
-
-- Zahlung:
-    - die Zahlung kann nicht abgeschlossen werden
-
-- zahlen:
-    - ich habe ihm 4 Euro für etwas gezahlt
-    - ich will zahlen 
-    - sie zahlen gut 
-    - ich bin gut gezahlt 
-
-- bezahlen:
-    - ich würde in Raten bezahlen 
-    - ich bezahle das Essen
-    - ich habe ihn für seine Arbeit bezahlt 
-    - ich habe ihm das Studium bezahlt
-
-- Bezahlung:
-    - die Bezahlung 
-    - die Bezahlung ist gut
-
-- abbezahlen:
-- abzahlen:
-    - ich will das Auto abbezahlen 
-
-- anzahlen:
-    - ich muss auf das Auto 300 Euro anzahlen 
-
-- Anzahl:
-    - die Anzahl 
-    - er zeigt die Anzahl der Schritte 
-
-- Anzahlung:
-    - die Anzahlung 
-    - die Anzahlung ist sehr hoch 
-
-- aufzahlen:
-- zuzahlen:
-    - man must dafür aufzahlen 
-
-- Aufzahlung:
-    - die Aufzahlung 
-    - es gibt Aufzahlung 
-
-- auszahlen:
-    - Arbeit zahlt sich aus 
-    - ich will mir auszahlen lassen 
-
-- draufzahlen:
-    - ich muss draufzahlen 
-
-- einzahlen:
-    - ich zahle Geld auf mein Konto ein 
-
-- nachzahlen:
-    - ich müss leider nachzahlen 
-
-- überbezahlen:
-- unterbezahlen:
-    - ich bin überzahlt 
-
-- vorausbezahlen:
-    - ich bezahle voraus 
-
-- heimzahlen:
-    - ich werde ihm seine Taten heimzahlen
-
-### zählen 
-- zählen:
-    - ich zähle auf dich
-    - sie zähle zu den guten Leuten
-    - das zählt nicht 
-    - ich habe die vorbeifahrenden Autos gezählt und ich bin auf 100 gekommen 
-
-- Zähler:
-    - der Zähler 
-    - das ist ein Zähler, der jedes Mal um eins erhöht wird
-
-- abzählen:
-    - ich zähle ab wie viel Männer da sind 
-
-- aufzählen:
-    - ich habe dir die Möglichkeiten aufgezählt [aufführen] 
-
-- erzählen:
-    - er hat mir erzählt dass er keine Zeit hat 
-
-- nachzählen:
-    - Zähl lieber das Geld noch einmal nach!
-
-- verzählen:
-    - ich habe mich verzählt 
-
-- zusammenzählen:
-    - ich zähle alles zusammen 
-
-- mitzählen:
-    - ich habe die Kinder nicht mitgezählt 
-
-
-### werben
-- werben:
-    - wir werben für dieses Produkt 
-    - er wirbt um ihre Liebe 
-
-- abwerben: 
-- anwerben:
-    - viele Firmen veruschen ihn von der Firma abzuwerben 
-    - die Firma hat ihn angeworben 
-
-- bewerben:
-    - ich habe mich um diese Stelle beworben
-
-- umwerben: 
-    - sie haben versucht mich zu umwerben 
-
-- erwerben:
-    -  Sie haben das Haus (käuflich) erworben.
-
-- angeboren:  
-- erworben:
-    - es ist eine angeborene Sache 
-    - klugheit ist angeboren 
-
-- Wirbel:
-    - der Wirbel 
-    - mach nicht wirbel 
-
-- aufwirbeln:
-    - der Luft wirbelt die Blätter auf
-
-- WirbelSäule:
-    - die Wirbelsäule
-    - es ist gut für die Wirbelsäule  
-
-### reisen
-- Reise:
-    - die Reise 
-    - ich war auf Reisen 
-    - ich gehe auf Reisen
-    - auf der Reise habe ich viel erlebt 
-
-- reisen:
-    - ich reise mit dem Zug 
-
-- anreisen:
-- abreisen:
-    - wann reist du an 
-
-- einreisen:
-- ausreisen:
-    - ich dürfe nicht aus Deutschland ausreisen 
-
-- verreisen:
-    - ich habe verreist 
-
-- durchreisen:
-    - ich habe das land nur durchgereist 
-
-- hinreisen:
-    - wo möchtest du hinreisen 
-
-### lasten 
-- lasten:
-    - ich wollte auf dir nicht lasten 
-
-- belasten:
-    - ich wollte dich nicht belasten 
-
-- überlasten:
-    - ich wollte meinen Körper nicht überlasten 
-
-- entlasten:
-    - ich wollte meine Frau bei Hausarbeit entlasten 
-
-- auslasten:
-    - ich bin mit der Arbeit ausgelastet 
-    - ich bin zu 20 % ausgelastet
-
-- zulasten:
-    - die Reparature geht zulasten des Mieters
-
-- belästigen:
-    - ich wollte dich nicht belästigen [nerven] [mobben]
-
-- lästig:
-    - das ist eine lästige Frage 
-
-- Altlast:
-    - die Altlast 
-    - wir müssen die Altlasten abarbeiten
-
-- Ballast:
-- last:
-    - der Ballast 
-    - die Bürde 
-    - die Last 
-
-### brauchen 
-- brauchen:
-    - ich brauche meine Kraft um das zu machen 
-
-- aufbrauchen:
-    - ich habe mein ganzes Geld aufgebraucht 
-
-- verbrauchen:
-    - es verbraucht viel Benzin 
-
-- gebrauchen:
-    - ich könnte dich gut gebrauchen 
-
-- Gebrauch:
-    - der Gebrauch
-    - wenn Sie von das keinen Gebrauch macht, ist das nicht mein Problem 
-    - vor Gebrauch muss man die Flasche schütteln 
-
-- missbrauchen:
-    - er hat seine Macht missbraucht [zweckentfremden]
 
 
 ### interesse 
@@ -13861,33 +14188,7 @@ regieren:
 - überdehnen:
     - ich will meine Muskeln nicht überdehnen 
 
-### kleinern
-- klein:
-    - er ist immer noch klein 
 
-- Kleingeld:
-    - das Kleingeld 
-    - hast du Kleingeld für mich 
-
-- kleinteilig:  
-    - ich werde das nicht kleinteilig machen 
-
-- kleinigkeit:
-    - die Kleinigkeit 
-    - ich muss ein paar kleinig keit erledigen 
-
-- verkleinern:
-    - ich werde das Bild verkleinern 
-
-- zerkleinern:
-    - ich werde den Apel zerkleinern 
-
-- kleinbeigeben: 
-    - ich werde nicht nachgeben 
-    - nach dem Streit hat er klein beigegeben [nachgeben]
-
-- kleinkriegen: [kleinbekommen]
-    - ich lass mich nicht kleinkriegen
 
 ### kauen && dauen 
 - kauen:
@@ -14707,12 +15008,6 @@ regieren:
 - Rettung:
     - die Rettung 
     
-### Tag 
-- Tagesablauf:
-    - das Ziel ist Bewegungs in den Tagesablauf einzubauen 
-
-- vertagen:
-    - ich werde den Termin auf morgen vertagen 
 
 
 ### hemmen
@@ -14784,8 +15079,6 @@ regieren:
 - verträumen:
     - ich will meine Zeit nicht verträumen 
 
-
-
 ### drohen
 - drohen:
 - bedrohen:
@@ -14817,27 +15110,6 @@ regieren:
 - weglächeln:
     - ich habe das Problem weggelächelt
 
-### schädigen
-- schädigen:
-    - das schädigt meinen Ruf [Abstrakt]
-
-- beschädigen: 
-    - du hast mein Auto beschädigt 
-
-- schädlich: 
-    - das ist deiner Gesund schädlich
-
-- entschädigen:
-    - wir haben ihn für seine Unkosten entschädigt 
-
-- schaden:
-    - das wird dir nicht schaden 
-    - es schadet dir nichts wenn du es nachprüfst 
-
-- Schaden:
-    - der Schaden - Schäden 
-    - ich habe den Schaden am Auto reparieren lassen 
-    - es hat schäden angerichtet 
 
 
 ### reich
@@ -14915,133 +15187,6 @@ regieren:
 - entwirren:
     - ich will das Kabel entwirren 
 
-### wickeln
-- wickeln:
-    - ich wickle den Faden auf eine Rolle 
-    - ich wickle mir einen Schal um den Hals 
-    - ich wickle die Gläser in Papier 
-    - ich wickle ein Tück auf die Hand
-    - sie lässt sich von ihm um den Finger zu wickeln
-
-- abwickeln:
-    - ich wickle das Kabel ab 
-    - ich werde das schnell abwickeln 
-
-- einwickeln:
-- auswicklen:
-    - ich wickle das Geschenk aus
-    - ich wickle das in Papier ein
-    - lass dich von ihm nicht einwickeln
-
-- entwicklen:
-    - wir wollen das entwickeln
-    - die Situation hat sich zu einem Problem entwickelt 
-
-- weiterentwickeln:
-    - ich habe mich hier weiterentwickelt 
-
-- umwickeln:
-    - ich umwickle den Arm mit einer Binde 
-
-- verwickeln:
-    - die Fäden haben sich verwickelt 
-    - sie verwickelt ihn in dieses Problem 
-
-### hülle 
-- Hülle:
-    - die Hülle 
-    - eine schützende Hülle 
-
-- hüllen:
-- einhüllen:
-    - ich hülle das Kind in ein Tuch 
-
-- enthüllen:
-    - ich enthülle mein Geheimnis 
-
-- umhüllen:
-    - das ümhüllt den Körper 
-
-- verhüllen:
-    - ich habe das verhüllen 
-
-### packen 
-- packen:
-    - wir können diese Aufgabe packen  
-    - es hat mich gepackt 
-
-- abpacken:
-    - ich packe das Essen ab 
-
-- verpacken:
-    - Das Geschenk ist auch schon da, ich muss es nur noch verpacken
-
-- beipacken:
-    - ich packe der Sendung ein Foto bei 
-
-- bepacken:
-    - das Auto voll bepackt 
-    - ich war mit koffern schwer bepackt 
-
-- auspacken:
-- einpacken:
-- umpacken:
-    - ich muss die Koffer auspacken 
-    - ich mache weiter ich werde nicht auspacken 
-    - ich habe alles eingepackt ch muss warm einpacken 
-
-- wegpacken:
-    - ich packe alles weg
-
-- zusammenpacken:
-    - ich packe alles zusammen und gehe nach Haus 
-
-- anpacken:
-    - es gibt viele Themen die wir gleichzeitig anpacken sollen 
-
-- zupacken:
-    - ich brauche jemanden, der zupacken kann 
-
-### falten
-- falten:
-- auffalten:
-    - ich falte den Brief 
-
-- auseinanderfalten:
-- zusammenfalten:
-    - ich falte es auseinander
-
-- entfalten:
-    - ich konnte mich dort entfalten 
-
-- vielfältig:
-    - es gibt vielfältige Angebote [vielschichtig]
-
-### rollen 
-- rollen:
-    - ich rolle den Reifen 
-
-- aufrollen:
-- einrollen:
-- zusammenrollen:
-    - ich rolle die Karte zusammen (zusammenfalten)
-
-- ausrollen:  
-    - ich rolle die Karte aus [ausbreiten] [auseinanderfalten]
-
-- anrollen:
-    - das Flugzeug rollt an 
-
-- überrollen:
-    - das Auto hat ihn überrollt 
-
-- abrollen:
-    - ich rolle das Kabel ab [abwickeln] 
-
-- Rolle:
-    - die Rolle 
-    - das spielt wichtige Rolle für vermittlung der inhalten
-
 ### tropf
 - tropfen:
     - der Wasserhahn hat getropft 
@@ -15108,8 +15253,6 @@ regieren:
 
 - aufrichtig:
     - er ist ein aufrichtiger Mensch
-
-
 
 ### schicht
 - Schicht:
@@ -15213,8 +15356,6 @@ regieren:
 
 - übernachten:
     - wir können im Hotel übernachten 
-
-
 
 ### ende
 - Ende:
@@ -15455,9 +15596,6 @@ regieren:
 - ernüchtern:
     - das wird dich ernüchtern
 
-
-
-
 ### locken
 - Locker:
     - er ist ein lockerer Type 
@@ -15632,8 +15770,6 @@ regieren:
 - grausam:
     - das ist ein grausames Treffen 
 
-
-
 ### härten 
 - abgehärtet:
 - robust:
@@ -15686,8 +15822,6 @@ regieren:
 - verkapseln:
     - diese Maschine verkapselt das Produkt 
     - er hat sich verkapelt 
-
-
 
 ### kaufen 
 - abkaufen:
@@ -15831,8 +15965,6 @@ regieren:
 
 - wahrhaftig:
     - sie haben das gesagtr aber sie haben das nicht wahrhaftig gemeint 
-
-
 
 ### dulden 
 - dulden:
@@ -16995,21 +17127,6 @@ regieren:
 
 - nebensächlich:
     - das ist aber nebensächlich 
-
-### leihen 
-- leihen:
-- ausleihen:
-    - ich werde dir mein Auto leihen 
-    - kann ich mir das Auto von dir leihen 
-
-- beleihen:
-    - ich muss mein Haus beleihen um Kredit zu bekommen 
-
-- verleihen:
-    - ich verleihe gerne nicht mein Auto 
-
-- entleihen:
-    - das Auto ist entliehen 
 
 ### Miete 
 - Miete:    
@@ -20298,26 +20415,6 @@ regieren:
 - Brücke:
     - die Brücke 
 
-### Matte 
-- matschig:
-    - der Boden war matschig
-
-- Matsch:
-    - der Matsch 
-    - im Matsch ausrutschen
-
-- Matte:
-    - die Matte 
-    - ich wollte die Fussmatte saubermachen 
-
-- Matraze:
-    - die Matraze 
-    - das ist eine harte Matratze 
-
-- matt:
-    - nach dem Training bin ich matt [schlapp]
-    - die Farben waren matt ich muss es polieren 
-
 ### glänzen &&& glatt
 - glänzen:
     - das Auto gläntz 
@@ -21775,9 +21872,6 @@ ______________________________________
 
 
 
-- strapazieren:
-    - ich will meinen Körper nicht strapazieren 
-
 - Lärm:
     - der Lärm 
     - der Lärm in der Stadt ist unangehem 
@@ -23067,47 +23161,16 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - alle:
     - die Milch ist alle 
 
-######
-- Mann isst einen Kuchen -> das Essen eines Kuchens durch den Mann 
-- Die Grammtik wird von dem Lehrer erklärt -> die Erklärung der Grammtik durch den den Lehrer 
-
-- du stellst eine Frage -> dein Stellen der Frage 
-
-- du fragst nach einer Erklärung -> deine Frage nach einer klärung 
-
-- du sprichst schnell -> dein schnelles Sprechen
-
-- ich treibe sport um gesund zu werden -> ich treibe Sport zum Geseundwerden
-
-- ich treibe sport um gesund zu werden -> ich treibe Sport für Gesundbleiben 
-
-- die Frau hat eine Frage nach dem Weg -> die Frage der Frau nach dem Weg
-
-- bevor wir essen, müssen wir kochen -> vor dem Essen müssen wir kochen 
-
-- seitdem ich in Deutschland lebe, lerne ich jeden Tag Deutsch -> seit meinem Leben In Deutschland, lerne ich jeden Tag Deutsch 
-
-- weil der Mann zu schnell fahren, muss er eine Strafe bezhalen -> wegen des zu schnellen Fahrens, muss 
-
-- Peter hat einen Job bekommen indem er viel Bewerbung schreibt -> Peter hat einen Job bekommen durch das Schreiben vieler Bewerbungen 
-
-- wenn ich müde bin, dann schlafe ich eine Stunde -> bei Müdigekit
-
-- falls es regnet, bleibe ich zuhause -> beim Regen bleibe ich Zuhause 
-
-- ich lerne um die Prüfung zu bestehen -> ich lerne zum Bestehen der Prüfung 
-
-- alle gehen in die Stadt -> das Gehen aller in die Stadt 
-
-- der Müde Mann -> die Müdigkeit des Mannes 
-
-- etwas Schreckliches 
-
-- das Auf und Ab 
-
-- das Schöne an der Stadt - ein Schönes 
-
-
-
----------
- vertrauensvoll
+### sport
+- du stehst rechts hinten 
+- knie hochziehen 
+- Deckung hoch
+- ich hatte einen Muskelkater
+- das kommt aus dem nichts
+- lass deine Hand nicht runterfallen
+####
+Klassifizierung
+persönliche
+Die Arbeit mißlang ihm.
+sich ereignen, gelingen, geschehen, geziemen, glücken, mißglücken,
+widerfahren
