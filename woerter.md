@@ -95,7 +95,7 @@
     - Sie zwang sich mühsam ein Lächeln ab
 
 - aufzwingen:
-    - ich will dir meinen Willen nicht aufzwingen[aufnötigen,aufdrängen] 
+    - ich will dir meinen Willen nicht aufzwingen[aufnötigen,aufdrängen] [andrehen]
 
 - bezwingen:
     - bewältigen
@@ -1850,7 +1850,6 @@
 
 - entlüften:
     - ich entlüfte den Reifen 
---
 ### riechen
 - riechen:
     - es reicht nach Frühling [nach]
@@ -2294,6 +2293,7 @@
 ### rennen 
 - rennen:
     - ich renne jeden Tag 
+    - Gegner über den Haufen rennen (= den Gegner im Sturm besiegen)
 
 - Rennen:
     - das Rennen 
@@ -2790,7 +2790,7 @@
 
 - labil:
     - die Lage ist Labil
---
+
 ### zeigen
 - zeigen:
     - ich zeigen dir zeigen wie es funktioniert 
@@ -2871,7 +2871,7 @@
 
 - bereiterklären:
     - er hat sich bereiterklärt das zu machen 
---
+
 ### klar 
 - Klar:
     - ich bin mir darüber im klaren
@@ -4368,7 +4368,7 @@
 - Gedächtnis:
     - das Gedächtnis 
     - ich habe kein gutes Gedächtnis mehr
---
+
 ### fressen
 - fressen:
   - die Aufgabe frisst viel Zeit
@@ -5040,7 +5040,7 @@
 
 - Zaun:
     - der Zaun
---
+
 ### schmettern
 - schmettern:
     - er hat den Ball geschmettert 
@@ -7254,6 +7254,7 @@
     - lassen wir uns zum nächsen Punkt übergehen
     - er ist zum nächsten Thema übergegangen 
     - ich gehe zum nächsten Punkt über
+    - die Liebe geht in Hass über
 
 - zugehen:
     - ich werde auf ihn mit dieser Idee zugehen 
@@ -9907,7 +9908,7 @@
     - sie ergänzen sich 
 
 - Ergänzung:
-    - wir machen das als Ergänzung zu -- 
+    - wir machen das als Ergänzung zu 
 
 ### prägen
 - prägen:
@@ -12391,6 +12392,13 @@ zusammenkneifen:
 - festung:
     - die Festung
 
+### fix 
+- fix:
+    - ich mache das fix
+
+- fixieren:
+    - ich werde es fixieren 
+
 ### kehren
 - kehren: 
     - ich muss den Boden kehren 
@@ -12459,6 +12467,7 @@ zusammenkneifen:
     - der Haufen 
     - er wirft die Kleidung auf einen Haufen 
     - ich will meine Pläne über den Haufen werfen 
+    - Gegner über den Haufen rennen (= den Gegner im Sturm besiegen)
 
 - haufenweise:
     - es gibt haufenweise Arbeit 
@@ -12470,6 +12479,148 @@ zusammenkneifen:
 
 - überhäufen:
     - er hat mich mit Arbeit überhäuft 
+
+### sammeln
+- sammeln:
+    - Kraft sammeln 
+    - wir sammeln uns
+    - ich habe meine Kraft gesammelt 
+
+- ansammeln:
+    - viel Staub hat sich viel angesammelt 
+    - bei mir hat sich eine menge Arbeit angesmmelt 
+
+- aufsammeln:
+    - ich sammle die Äpfel vom Boden auf 
+
+- einsammeln:
+    - wir sammeln Geld ein 
+    - ich sammeln die Spielsachen ein
+
+- versammeln:
+    - wir versammeln uns 
+    - der Vater hat die Familie versammelt
+
+- Versammlung:
+    - die Versammlung 
+    - wann fängt die Versammlung an
+--
+### wachsen
+- wachsen:
+    - ich bin der Aufgabe nicht gewachsen [nicht_schaffen]
+    - er wächst jeden tag 
+    - die Aufgabe ist mir über den Kopf gewachsen 
+    - er ist mir ans Herz gewachsen
+
+- anwachsen:
+    - die Schulden wachsen an 
+    - die Firma ist zum großer Firma angewachsen
+
+- aufwachsen:
+    - ich bin dort aufgewachsen 
+
+- auswachsen:
+- heranwachsen:
+    - er hat sich zum einem Mann ausgewachsen 
+    - es hat sich zum einem Problem ausgewachsen
+    - das Tier ist ausgewachsen [wird nicht mehr wachsen]
+
+- erwachsen:
+    - du bist aber erwachsen 
+
+- hineinwachsen:
+    - du wirst in diese Roll hineinwachsen 
+
+- hinauswachsen:
+    - die Pflanzen sind über den Zaun hinausgewachsen
+
+- herauswachsen:
+    - er ist aus dieser Rolle herausgewachsen und will jetzt mehr
+
+- nachwachsen:
+    - ich habe es geschnitten aber sie wachsen so oder so nach
+
+- verwachsen:
+    - er ist mit seiner Firma verwachsen 
+
+### reif 
+- reif:
+- ausgereift:
+    - die Idee ist immer noch nicht reif 
+
+- reife:
+    - die Reife
+    - das deutet nicht auf gewisse Reife hin
+
+- reifen:
+    - die Idee muss erste reifen 
+    - die Entscheidung reift in mir 
+
+- Reifen:
+    - der Reifen 
+    - ich wollte den Reifen wechseln 
+
+- ausreifen:
+    - ich lass die Idee ausreifen 
+
+- bereifen:
+    - ich will das Auto bereifen 
+
+- heranreifen:
+    - mit dem Alter wird er heranreifen 
+    - stück für Stück reift die Idee heran
+    - du willst in der Rolle heranreifen
+
+### rufen 
+- Ruf:
+    - der Ruf 
+    - die Firma hat guten Ruf 
+
+- abrufen:
+    - ich rufe die Informationen aus dem Internet ab 
+
+- Abruf:
+    - der Abruf 
+    - ich bin immer auf Abruf 
+    - ich habe es auf Abruf bereitgestellt 
+
+- anrufen:
+- durchrufen:
+    - ich rufe dich an
+    
+- Anruf:
+    - der Anruf 
+    - ich muss den Anruf nehmen 
+
+- aufrufen:
+    - ich muss warten bis ich aufgerufen werde  
+    - sie haben zur Sammelung aufgerufen
+
+- nachrufen:
+    - ich rufe ihm nach dass er warten muss 
+
+- wachrufen:
+    - das ruft viele Erinnerung in mir wach 
+
+- zwischenrufen:
+    - wenn du Frage hast, ruf einfach zwischen  
+
+- zurückrufen:
+    - ich rufe dich zurück 
+
+- widerrufen:
+    - ich widerrufe meine Ansage 
+
+- einberufen:
+    - er wird zum Dienst einberufen 
+
+- Beruf:
+    - der Beruf 
+    - das ist serh guter Beruf 
+    - Brotberuf 
+
+- hervorrufen:
+    - diese Aussage hat viele Probleme hervorgerufen [herbeiführen]
 
 ### grübeln 
 - graben:
@@ -12519,7 +12670,7 @@ zusammenkneifen:
 - grübeln:
 - nachgrübeln:
     - ich habe viel über das Problem gegrüblt
-
+--
 ### haben
 - abhaben:
     - kann ich etwas von Kuchen abhaben 
@@ -12527,17 +12678,15 @@ zusammenkneifen:
 - anhaben:
     - er hat ein schönes Hemd an 
     - niemand kann dir hier etwas anhaben 
-    - ich habe mein Handy an 
+    - ich habe / hatte mein Handy an 
 
 - aushaben:
     - ich hatte mein Handy aus
+    - die Supermarkte haben am Sonntag hier aus [zu haben]
 
 - aufhaben:
     - der Supermarkt hat bis 22:00 uhr auf 
-    - weißt du ob die Reve aufhat 
-
-- aushaben:
-    - die Supermarkte haben am Sonntag hier aus
+    - weißt du ob die Rewe aufhat 
 
 - bereithaben:
     - ich habe das Doku bereit 
@@ -12594,7 +12743,9 @@ zusammenkneifen:
     - meine Frau stillt das Baby 
 
 - stillhalten:
-    - ich halte still
+    - ich halte still 
+
+Stille
 
 ### Richtungsangabe
 - Innen:
@@ -12626,7 +12777,6 @@ zusammenkneifen:
     - außer mir waren alle da
 
 ### Buchstabe:
- 
 - Buchstabe:
     - der Buchstabe 
     - das ist ein kleinbuchstabe 
@@ -12730,7 +12880,7 @@ zusammenkneifen:
     - das Weihnachten 
     - der Weinachtensurlaub 
     - am Weihnachten 
-
+--
 ### knöpfen
 - knöpfen:
     - Diese Bluse wird hinten geknöpft 
@@ -12760,14 +12910,16 @@ zusammenkneifen:
     
 - verknüpfen:
     - ich verknüpfe mit dieser Stadt schlechte Erfahrung 
-
+--
 ### klopfen
 - klopfen:
     - ich habe an die Tür geklopft 
     - es hat geklopft 
+    - ich habe ihm auf die Schulter geklopft
 
 - anklopfen:
     - ich werde bei ihm anklopfen ob es das machen will 
+    - an die Tür klopfen
 
 - abklopfen:
     - ich muss den Vertrag abklopfen 
@@ -12802,17 +12954,25 @@ zusammenkneifen:
 
 - auslöschen:
     - er hat ganze Familien ausgelöscht 
+    - das Feuer löscht aus
 
 - erlöschen:
     - die Liebe erlischt mit der Zeit 
 
 ### bergen 
 - bergen:
-    - ich könnte ihn nicht bergen 
-    - das birgt viel Risiko in sich
+    - ich könnte ihn nicht bergen [person_person]
+    - das birgt viel Risiko in sich [etwas_etwas]
+
+- geborgen:
+    - ich fühle mich bei ihm geborgen 
+
+- Geborgenehit:
+    - ich brauche diese Geborgenheit 
 
 - verbergen:
     - ich habe vor ihm verborgen dass ich in Ägypten war
+    - er verbirgt sich hinter
 
 - beherbergen:
     Wir beherbergen die Besucher in unserem Gästezimmer.
@@ -12829,6 +12989,11 @@ zusammenkneifen:
     - sie benötigen Bürgschaft
 
 ### bereiten
+- bereit:
+    - ich bin bereit das zu machen
+    - ich mache die Unterlagen für die Arbeit bereit 
+    - ich mache mich bereit für den Kampf
+
 - bereiten
 	- ich will dir keine Schwerigkeiten bereiten 
 
@@ -12840,9 +13005,6 @@ zusammenkneifen:
 
 - zubereiten:
 	- ich bereite das Essen zu [anrichten]
-
-- bereit:
-    - ich bin bereit das zu machen
 
 ### breiten 
 - breiten:
@@ -12862,15 +13024,19 @@ zusammenkneifen:
 - Decke:
     - die Decke
     - ich lege eine Decke um die Schulter 
-    - ich sehe die Decke an 
-    - an die Decke hängen
-
-- Abdeckung:
-    - die Abdeckung wurde entfernt
+    - mir fällt die Decke auf den Kopfr
+    - an die Decke gehen
 
 - Deckung:
     - die Deckung 
     - in die Deckung gehen
+    - denk an die Deckung [boxen]
+    - das Konto hat keine Deckung [finanze]
+
+- Abdeckung:
+    - die Abdeckung wurde entfernt
+    - Testcase Abdeckung
+    - Kamera ghat Abdeckung
 
 - Deckel:
     - der Deckel 
@@ -12885,13 +13051,13 @@ zusammenkneifen:
     - den Tisch abdecken 
     - das Dack abdecken 
     - ich werde alles mit Zeitung abdecken
-    - das deckt alle Scenario ab 
+    - das deckt alle Scenario[ Kosten, Schäden, Verlust] ab 
 
 - aufdecken:
     - das Kind hat sich im Schlaf aufgedeckt 
 
 - bedecken:
-    - die Kleidung sollen den Körper decken 
+    - die Kleidung sollen den Körper bedecken 
 
 - eindecken:
     - ich bin mit Arbeit eingedeckt 
@@ -12909,6 +13075,84 @@ zusammenkneifen:
 
 - verdecken:
     - das verdeckt mir die Sicht 
+
+### wecken
+- wecken:
+    - bitte wecke mich um 8 uhr
+    - das weckt Gefühle in mir 
+
+- aufwecken:
+    - der Larm hat mich aufgewickt
+
+### wach 
+- wach:
+    - bist du immer noch wach 
+
+- aufwachen:    
+    - ich bin um 12:00 aufgewacht 
+
+- überwachen:
+    - das wird ständig überwacht 
+
+### schlafen
+- schlafen:
+    - ich will schlafen 
+    - ich habe geschlaffen 
+    - ich gehe schlafen
+    - auf der Matraze schläft es sich gut/schlecht
+    - ich muss drüber schlafen
+
+- ausschlafen:
+    - am Wochenende schlafe ich aus 
+
+- durchschlafen:
+    - das Kind schläft nachts durch 
+
+- einschlafen:
+    - er ist erst gerade eingeschlafen 
+
+- überschlafen:
+    - ich überschlafe die Sache und morgen reden wir darüber 
+
+- verschlafen:
+    - ich habe den Termin verschlafen 
+    - wir haben die E auto verschlafen
+    - ich habe verschlafen [ohne_obj] [zu lange schlafen]
+    - verschlafenes Dorf
+
+- schläfrig:
+    - das macht schläfrig 
+    - ich bin schläfrig geworden 
+
+- Schlaf:
+    - der Schlaf 
+    - ich könnte keinen Schlaf zu finden 
+    - im Schlaf reden 
+    - leichten Schlaf haben
+
+- Schlaflösigkeit:
+    - die Schlaflösigkeit 
+
+### pennen
+- pennen:
+    - ich will pennen 
+
+- verpennen:
+    - ich habe die Chance verpennt 
+
+- penner:
+    - er ist ein Penner [obdachloser]
+
+### schrott 
+- Schrott:  
+    - der Schrott 
+    - das ist ein Schrott
+
+- schrottreif:
+    - ich habe das Auto Schrottreif gefahren 
+
+- verschrotten:
+    - ich habe mein Auto verschrotten lassen 
 
 ### drehen 
 - drehen:
@@ -12942,6 +13186,7 @@ zusammenkneifen:
 - verdrehen:
     - du hast die Wahrheit verdreht 
     - er hat die Augen verdreht
+    - den Kopf verdrehen [lieben]
 
 - umdrehen:
     - du musst es zwei mal umdrehen 
@@ -12954,6 +13199,10 @@ zusammenkneifen:
     - Das Leben geht weiter, man kann die Zeit nicht zurückdrehen.
 
 ### schrauben 
+- schraube:
+    - die Schraube
+    - er hat eine Schraube locker
+
 - schrauben:
 - anschrauben:
 - festschrauben:
@@ -13023,8 +13272,6 @@ zusammenkneifen:
 - Mitte: 
     - die Mitte 
     - Mut ist die Mitte zwischen Zögerlichkeit und Selbstüberschätzung.
-
-
 
 ### zweifeln
 - zweifel:
@@ -13345,7 +13592,6 @@ zusammenkneifen:
 - gewollt:
     - das ist aber nicht gewollt
 
-
 ### teil
 - Teil:
 	- der Teil
@@ -13420,6 +13666,7 @@ zusammenkneifen:
 - verteilen:
     - ich werde die Sußigkeiten an die Kinder verteilen 
     - ich muss die Creme auf dem Gesicht verteilen 
+    - das Vermögen ist ungleich verteilt
 
 - austeilen:
     - er teilt Karte aus 
@@ -13607,10 +13854,6 @@ zusammenkneifen:
 
 - überheblich:
     - das soll nicht überheblich klingen das sollte nur demon
-
-
-
-
 
 ### ordnen
 - ordnen:
@@ -14319,123 +14562,6 @@ zusammenkneifen:
 
 - verpflegen:
     - ich muss mich selbst verpflegen [essen]
-
-### wachsen
-- wachsen:
-    - ich bin der Aufgabe nicht gewachsen 
-    - er wächst jeden tag 
-    - die Aufgabe ist mir über den Kopf gewachsen 
-
-- anwachsen:
-    - die Schulden wachsen an 
-
-- aufwachsen:
-    - ich bin dort aufgewachsen 
-
-- auswachsen:
-- heranwachsen:
-    - er hat sich zum einem Mann ausgewachsen 
-    - es hat sich zum einem Problem ausgewachsen
-    - das Tier ist ausgewachsen [wird nicht mehr wachsen]
-
-- erwachsen:
-    - du bist aber erwachsen 
-
-- hinauswachsen:
-    - er ist über seinen Vater hinausgewachsen 
-
-- hineinwachsen:
-    - du wirst in diese Roll hineinwachsen 
-
-- herauswachsen:
-    - er ist aus dieser Rolle herausgewachsen und will jetzt mehr
-
-- nachwachsen:
-    - ich habe es geschnitten aber sie wachsen so oder so nach
-
-- verwachsen:
-    - er ist mit seiner Firma verwachsen 
-
-### reif 
-- reif:
-- ausgereift:
-    - die Idee ist immer noch nicht reif 
-
-- reife:
-    - die Reife
-    - das deutet nicht auf gewisse Reife hin
-
-- reifen:
-    - die Idee muss erste reifen 
-    - die Entscheidung reift in mir 
-
-- Reifen:
-    - der Reifen 
-    - ich wollte den Reifen wechseln 
-
-- ausreifen:
-    - ich lass die Idee ausreifen 
-
-- bereifen:
-    - ich will das Auto bereifen 
-
-- heranreifen:
-    - mit dem Alter wird er heranreifen 
-    - stück für Stück reift die Idee heran
-    - du willst in der Rolle heranreifen
-
-### rufen 
-- Ruf:
-    - der Ruf 
-    - die Firma hat guten Ruf 
-
-- abrufen:
-    - ich rufe die Informationen aus dem Internet ab 
-
-- Abruf:
-    - der Abruf 
-    - ich bin immer auf Abruf 
-    - ich habe es auf Abruf bereitgestellt 
-
-- anrufen:
-- durchrufen:
-    - ich rufe dich an
-    
-- Anruf:
-    - der Anruf 
-    - ich muss den Anruf nehmen 
-
-- aufrufen:
-    - ich muss warten bis ich aufgerufen werde  
-    - sie haben zur Sammelung aufgerufen
-
-- nachrufen:
-    - ich rufe ihm nach dass er warten muss 
-
-- wachrufen:
-    - das ruft viele Erinnerung in mir wach 
-
-- zwischenrufen:
-    - wenn du Frage hast, ruf einfach zwischen  
-
-- zurückrufen:
-    - ich rufe dich zurück 
-
-- widerrufen:
-    - ich widerrufe meine Ansage 
-
-- einberufen:
-    - er wird zum Dienst einberufen 
-
-- Beruf:
-    - der Beruf 
-    - das ist serh guter Beruf 
-    - Brotberuf 
-
-- hervorrufen:
-    - diese Aussage hat viele Probleme hervorgerufen [herbeiführen]
-
-
 
 ### wett    
 - wetten:   
@@ -15573,23 +15699,6 @@ zusammenkneifen:
     - ich wollte die Unterlage ins Ausland schleusen 
     - ich will das Geld an Finanzamt vorbeischleusen 
 
-### sammeln
-- sammeln:
-    - Kraft sammeln 
-
-- ansammeln:
-    - viel Staub hat sich viel angesammelt 
-    - bei mir hat sich eine menge Arbeit angesmmelt 
-
-- aufsammeln:
-    - ich sammle die Äpfel vom Boden auf 
-
-- einsammeln:
-    - wir sammeln Geld ein 
-
-- versammeln:
-    - wir versammeln uns 
-
 ### rüsten 
 - rüsten:
     - ich bin gut für diese Aufgabe gerüstet 
@@ -15627,49 +15736,6 @@ zusammenkneifen:
 - Initiative:
     - die Initiative 
     - ich habe die Initiative ergriffen 
-
-### schlafen
-- schlafen:
-    - ich will schlafen 
-
-- ausschlafen:
-    - am Wochenende schlafe ich aus 
-
-- durchschlafen:
-    - das Kind schläft nachts durch 
-
-- einschlafen:
-    - er ist erst gerade eingeschlafen 
-
-- überschlafen:
-    - ich überschlafe die Sache und morgen reden wir darüber 
-
-- verschlafen:
-    - ich habe den Termin verschlafen 
-    - wir haben die E auto verschlafen
-
-- schläfrig:
-    - das macht schläfrig 
-    - ich bin schläfrig geworden 
-
-- Schlaf:
-    - der Schlaf 
-    - ich könnte keinen Schlaf zu finden 
-    - im Schlaf reden
-
-- Schlaflösigkeit:
-    - die Schlaflösigkeit 
-
-### schrott 
-- Schrott:  
-    - der Schrott 
-    - das ist ein Schrott
-
-- schrottreif:
-    - ich habe das Auto Schrottreif gefahren 
-
-- verschrotten:
-    - ich habe mein Auto verschrotten lassen 
 
 ### grauen 
 - grauen:
@@ -16310,30 +16376,6 @@ zusammenkneifen:
 - Mitglied:
     - das Mitglied
 
-### übel && böse 
-- übel:
-    - mir ist übel 
-
-- übelnehmen:
-    - nimm es mir nicht übel 
-
-- übelmeinen:  
-    - ich habe es nicht übel gemeint 
-
-- verübeln:
-    - das kann ich dir nicht verübeln
-
-- Übelkeit:
-    - die Übelkeit 
-    - ich habe immer noch übelkeit 
-
-- böse:
-    - er ist mir böse weil ich das Meeting vergessen 
-
-- übel:
-    - mir ist übel 
-    - Nimm es mir nicht übel wenn ich sage 
-
 ### prüfen
 - prüfen:
 - überprüfen:
@@ -16514,15 +16556,6 @@ zusammenkneifen:
 - launisch:
     - er ist sehr launisch    
 
-### pennen
-- pennen:
-    - ich will pennen 
-
-- verpennen:
-    - ich habe die Chance verpennt 
-
-- penner:
-    - er ist ein Penner [obdachloser]
 
 ### bügeln
 - bügeln:
@@ -16678,16 +16711,6 @@ zusammenkneifen:
 
 - entkeimen:
     - wir müssen es entkeimen 
-
-### wach 
-- wach:
-    - bist du immer noch wach 
-
-- aufwachen:    
-    - ich bin um 12:00 aufgewacht 
-
-- überwachen:
-    - das wird ständig überwacht 
 
 ### neigen 
 - neigen:
@@ -19668,6 +19691,9 @@ zusammenkneifen:
 - rechtzeitig:
     - ich mache den Antrag rechtzeitig 
 
+- Zeitversetzt:
+    - das Bedeutet, die Kontrolle ob die Person satt ist, erfolgt Zeitversetzt
+
 ### gegen 
 - Gegenüber:
     - das Gegenüber 
@@ -20775,12 +20801,6 @@ zusammenkneifen:
     - die Ruine
     - die Ruine des Hauses 
 
-### fix 
-- fix:
-    - ich mache das fix
-
-- fixieren:
-    - ich werde es fixieren 
 
 ### tahieren 
 - abstrahieren:
@@ -20810,7 +20830,27 @@ zusammenkneifen:
 - halbieren:
     - mit dem Computer können wir unsere Kosten halbieren 
 
-### fies 
+### übel && böse 
+- übel:
+    - mir ist übel 
+
+- übelnehmen:
+    - nimm es mir nicht übel 
+
+- übelmeinen:  
+    - ich habe es nicht übel gemeint 
+
+- verübeln:
+    - das kann ich dir nicht verübeln
+
+- Übelkeit:
+    - die Übelkeit 
+    - ich habe immer noch übelkeit 
+
+- böse:
+    - er ist mir böse weil ich das Meeting vergessen 
+    - er gückt mich böse an
+
 - fies:
     - er war immer zu fies zu mir 
     - das ist aber fies 
@@ -20830,7 +20870,7 @@ zusammenkneifen:
 
 ### Risko
 - Risiko:
-    - das Risiko 
+    - das Risiko [Risiken]
     - das Risiko eingehen 
 
 - riskant:
@@ -20847,21 +20887,7 @@ zusammenkneifen:
 - kombinieren:
     - das ist einfach zu kombinieren 
 
-**
-- mit auf den weg
-- 
-
-- zeitversetzt 
-- reinstecken
-- auf sich gestellt 
-- hineindenken
-- es floppt halt
-- konsumieren
-- animieren
-- tuscheln 
-- ich bin in Schuhe unterwegs
-
-______________________________________
+*-*______________________________________
 ###
 - Kabel:
     - das Kabel 
@@ -21633,36 +21659,8 @@ ______________________________________
     - er bricht in Tränen
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - schaben:
     - das Hemd kratzt mich am Hals 
-
-
-
-
 
 - Ampel:
     - die Ampel 
@@ -21682,21 +21680,11 @@ ______________________________________
     - ich trinke keinen Alkohol 
     - das enhählt Alkohol 
 
-
-
-
-
-
 - vernächlissigen:
     - das könnten wir vernachlässigen
 
 - frucht:
     - die Frucht 
-
-
-
-
-
 
 - überrumpeln:
     - du hast mich mit dieser Frage überrumpelt 
@@ -23114,3 +23102,29 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 
 ---------
  vertrauensvoll
+- diese Moment war kein Knall 
+- das ich am Steuer bin
+- Würdige Form 
+- lautlos 
+- ich lasse los 
+- ich werde mich nicht in Kreislauf halten 
+- ich blicke in den Spiegel
+- in mir war  
+- endelose Shleife 
+- ich glaube das ist der Grundkonflikt bei uns 
+- was ich mir wüschen dass meine Frau mich auf eine andere Art in mich verlieben kann 
+- wir waren im Streit 
+- manchmal ist man so verfahren in seinen Mustern dass es helf kann wenn man von Aussen draufguckt 
+- ich komme zu dir 
+- ich habe das genossen in vollen zügen
+- es war so wehnig dass ich an den Punkt kam wo ich angefangen habe das nicht nur zu bemerken sondern darunter zu leiden 
+- ich muss mich damit arrangieren 
+- menge abhanden gekommen 
+- ich bin immer mal wieder Ratlos 
+- das muss man Zielgerichtet 
+- einbetten 
+- in den Kalender gucken 
+- 3 wochen am Stück Urlaub
+- das war eine beknackte Idee 
+- er ist zugewandt
+- haushalt
