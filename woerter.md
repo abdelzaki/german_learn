@@ -13501,14 +13501,19 @@ Stille
 
 ### mitteln
 - ermitteln:
-    - wir müssen ermitteln wie hat es gemacht
+    - wir müssen ermitteln wie hat es gemacht  
+    - wir haben den Tater ermittelt [objkt]
 
 - übermitteln:
     - hast du ihm meine Nachtricht übermittelt 
+    - Musik übermittelt Gefühle
+    - das wird eleltronisch übermittelt
+    - nachricht an den Server übermitteln
 
 - vermitteln:
     - mein Freund hat mir das Haus vermittelt 
     - er kann sein Wissen gut vermitteln 
+    - Qater vermittelt zwischen israel und hamas [zwischen]
 
 - mittelbar:
     - das betrifft micht nur mittelbar 
@@ -13528,7 +13533,7 @@ Stille
 - Mitte: 
     - die Mitte 
     - Mut ist die Mitte zwischen Zögerlichkeit und Selbstüberschätzung.
-
+--
 ### zweifeln
 - zweifel:
     - der Zweifel 
