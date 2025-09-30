@@ -2294,6 +2294,7 @@
 - rennen:
     - ich renne jeden Tag 
     - Gegner über den Haufen rennen (= den Gegner im Sturm besiegen)
+    - Gegner über den Haufen rennen (= den Gegner im Sturm besiegen)
 
 - Rennen:
     - das Rennen 
@@ -2790,6 +2791,7 @@
 
 - labil:
     - die Lage ist Labil
+
 
 ### zeigen
 - zeigen:
@@ -4369,6 +4371,7 @@
     - das Gedächtnis 
     - ich habe kein gutes Gedächtnis mehr
 
+
 ### fressen
 - fressen:
   - die Aufgabe frisst viel Zeit
@@ -4707,6 +4710,9 @@
 - unterbuttern:
     - ich bin neu hier aber ich lass mich nicht unterbuttern
 
+- unterbuttern:
+    - ich bin neu hier aber ich lass mich nicht unterbuttern
+
 - unterlassen:
     - ich werde Screenshots unterlassen
     - ich werde den Anrufen unterlassen 
@@ -5040,6 +5046,7 @@
 
 - Zaun:
     - der Zaun
+
 
 ### schmettern
 - schmettern:
@@ -9016,6 +9023,7 @@
     - ich muss den Haushalt machen 
 
 - knapphalten:
+- knapphalten:
 - kurzhalten:
     - die Eltern hat die Kinder mit Taschengeld knapp 
 
@@ -9908,6 +9916,7 @@
     - sie ergänzen sich 
 
 - Ergänzung:
+    - wir machen das als Ergänzung zu 
     - wir machen das als Ergänzung zu 
 
 ### prägen
@@ -11884,6 +11893,13 @@
     - es ist nicht meine Schuld dass du es nicht geschafft hast 
     - ich kann ihm die Schuld daran nicht geben 
     - ich habe die Schuld auf mich genommen 
+### schulden
+- Schuld:
+    - die Schuld 
+    - ich bin daran Schuld 
+    - es ist nicht meine Schuld dass du es nicht geschafft hast 
+    - ich kann ihm die Schuld daran nicht geben 
+    - ich habe die Schuld auf mich genommen 
 
 - Matraze:
     - die Matraze 
@@ -11914,6 +11930,21 @@
 
 - nützlich:
     - das ist sehr nützlich
+
+### leihen 
+- leihen:
+    - ich werde dir mein Auto leihen 
+    - ich habe mir ein auto geliehen
+    - kann ich mir das Auto von dir leihen 
+
+- beleihen:
+    - ich muss mein Haus beleihen um Kredit zu bekommen 
+
+- verleihen:
+    - ich verleihe gerne nicht mein Auto 
+
+- entliehen:
+    - das Auto ist entliehen 
 
 ### leihen 
 - leihen:
@@ -12019,12 +12050,14 @@
 ### kneifen
 - kneifen:
     - ich werde nicht kneifen wenn es schwerig ist [schlappmachen]
+    - ich werde nicht kneifen wenn es schwerig ist [schlappmachen]
     - du kannst ihn kneifen wenn er schläft [zwicken] 
 
 - abkniefen:
     - ich kneife das Rad ab 
 
 - einkneifen:
+    - den Schwanz einkneifen
     - den Schwanz einkneifen
 
 - verkneifen:
@@ -12037,6 +12070,9 @@
 
 - knifflig:
     - das ist sehr knifflige Aufgabe 
+
+zusammenkneifen:
+    - die Augen zusammenkneifen
 
 zusammenkneifen:
     - die Augen zusammenkneifen
@@ -12064,6 +12100,7 @@ zusammenkneifen:
     - du bist bei ihm gut angeschrieben 
 
 - zuschreiben:
+    - sie schreibt mir die schuld zu [ينسب]
     - sie schreibt mir die schuld zu [ينسب]
     - das habe ich mir zuzuschreiben [einhandeln] [zuziehen]
 
@@ -12139,10 +12176,50 @@ zusammenkneifen:
     - die Zeit ist sehr knapp
 
 - knapphalten:
+- knapphalten:
     - die Eltern hat die Kinder mit Taschengeld knapp 
 
 - verknappen:
     - das wird die Chancen verknappen 
+
+### butter 
+- Butter:
+    - die Butter 
+    - alles in Butter 
+    - ich lass mir nicht die Butter vom Brot nehmen  
+    - er kocht nur mit Wasser ohne Butter
+
+- unterbuttern:
+    - ich lass mich nicht unterbuttern 
+
+### streiten
+- umstritten:   
+    - das Thema ist umstritten 
+
+- unbestritten:
+    - das ist unbestritten
+
+- streiten:
+    - wir streiten uns immer 
+
+- abstreiten:
+    - ich streite den Vorwurf ab 
+    - ich kann ihm seine Kompetenz auf dem Feld nicht abstreiten 
+
+- bestreiten:
+    - ich bestreite nicht dass Berlin gute Stadt ist 
+    - ich bestreite die Kosten für meine Familie [bezahlen]
+
+- herumstreiten:
+    - ich habe keine Lust mit ihm herumzustreiten
+
+- zerstreiten:
+    - wir haben uns zerstritten
+
+- Streit:
+    - der Streit 
+    - ich werde nicht einen Streit mit ihm anfangen 
+    - es gab einen Streit darüber 
 
 ### butter 
 - Butter:
@@ -12231,6 +12308,8 @@ zusammenkneifen:
     - ich will dir keinen Strich durch die Rechnung machen
     - unter dem Strich war das Projekt erfolgreich
     - mit einem Strich war alles ok 
+    - unter dem Strich war das Projekt erfolgreich
+    - mit einem Strich war alles ok 
 
 - Anführungsstrich:
     - einfache Anführungstriche 
@@ -12260,12 +12339,15 @@ zusammenkneifen:
 - ausschweifend:
     - ich wollte nicht ausschweifend leben 
 --
+--
 ### kreuzen
 - kreuzen:
     - ich kreuze die Straße [überqueren]
     - die Strasse kreuzen sich hier
+    - die Strasse kreuzen sich hier
 
 - ankreuzen:
+    - die antwort ankreuzen [anstreichen]
     - die antwort ankreuzen [anstreichen]
 
 - durchkreuzen:
@@ -12282,6 +12364,7 @@ zusammenkneifen:
     - ich werde Zwiebeln hacken 
     - ich werde ein Loch in den Schrank hacken 
     - ich versuche das System zu hacken
+    - ich versuche das System zu hacken
 
 - abhacken:
     - ich höre dich abgehackt 
@@ -12294,6 +12377,9 @@ zusammenkneifen:
 
 - zerhacken:
     - ich habe es zerhackt 
+
+- herumhacken:
+    - auf jemandem herumhacken
 
 - herumhacken:
     - auf jemandem herumhacken
@@ -12399,6 +12485,13 @@ zusammenkneifen:
 - fixieren:
     - ich werde es fixieren 
 
+### fix 
+- fix:
+    - ich mache das fix
+
+- fixieren:
+    - ich werde es fixieren 
+
 ### kehren
 - kehren: 
     - ich muss den Boden kehren 
@@ -12468,6 +12561,7 @@ zusammenkneifen:
     - er wirft die Kleidung auf einen Haufen 
     - ich will meine Pläne über den Haufen werfen 
     - Gegner über den Haufen rennen (= den Gegner im Sturm besiegen)
+    - Gegner über den Haufen rennen (= den Gegner im Sturm besiegen)
 
 - haufenweise:
     - es gibt haufenweise Arbeit 
@@ -12479,6 +12573,148 @@ zusammenkneifen:
 
 - überhäufen:
     - er hat mich mit Arbeit überhäuft 
+
+### sammeln
+- sammeln:
+    - Kraft sammeln 
+    - wir sammeln uns
+    - ich habe meine Kraft gesammelt 
+
+- ansammeln:
+    - viel Staub hat sich viel angesammelt 
+    - bei mir hat sich eine menge Arbeit angesmmelt 
+
+- aufsammeln:
+    - ich sammle die Äpfel vom Boden auf 
+
+- einsammeln:
+    - wir sammeln Geld ein 
+    - ich sammeln die Spielsachen ein
+
+- versammeln:
+    - wir versammeln uns 
+    - der Vater hat die Familie versammelt
+
+- Versammlung:
+    - die Versammlung 
+    - wann fängt die Versammlung an
+--
+### wachsen
+- wachsen:
+    - ich bin der Aufgabe nicht gewachsen [nicht_schaffen]
+    - er wächst jeden tag 
+    - die Aufgabe ist mir über den Kopf gewachsen 
+    - er ist mir ans Herz gewachsen
+
+- anwachsen:
+    - die Schulden wachsen an 
+    - die Firma ist zum großer Firma angewachsen
+
+- aufwachsen:
+    - ich bin dort aufgewachsen 
+
+- auswachsen:
+- heranwachsen:
+    - er hat sich zum einem Mann ausgewachsen 
+    - es hat sich zum einem Problem ausgewachsen
+    - das Tier ist ausgewachsen [wird nicht mehr wachsen]
+
+- erwachsen:
+    - du bist aber erwachsen 
+
+- hineinwachsen:
+    - du wirst in diese Roll hineinwachsen 
+
+- hinauswachsen:
+    - die Pflanzen sind über den Zaun hinausgewachsen
+
+- herauswachsen:
+    - er ist aus dieser Rolle herausgewachsen und will jetzt mehr
+
+- nachwachsen:
+    - ich habe es geschnitten aber sie wachsen so oder so nach
+
+- verwachsen:
+    - er ist mit seiner Firma verwachsen 
+
+### reif 
+- reif:
+- ausgereift:
+    - die Idee ist immer noch nicht reif 
+
+- reife:
+    - die Reife
+    - das deutet nicht auf gewisse Reife hin
+
+- reifen:
+    - die Idee muss erste reifen 
+    - die Entscheidung reift in mir 
+
+- Reifen:
+    - der Reifen 
+    - ich wollte den Reifen wechseln 
+
+- ausreifen:
+    - ich lass die Idee ausreifen 
+
+- bereifen:
+    - ich will das Auto bereifen 
+
+- heranreifen:
+    - mit dem Alter wird er heranreifen 
+    - stück für Stück reift die Idee heran
+    - du willst in der Rolle heranreifen
+
+### rufen 
+- Ruf:
+    - der Ruf 
+    - die Firma hat guten Ruf 
+
+- abrufen:
+    - ich rufe die Informationen aus dem Internet ab 
+
+- Abruf:
+    - der Abruf 
+    - ich bin immer auf Abruf 
+    - ich habe es auf Abruf bereitgestellt 
+
+- anrufen:
+- durchrufen:
+    - ich rufe dich an
+    
+- Anruf:
+    - der Anruf 
+    - ich muss den Anruf nehmen 
+
+- aufrufen:
+    - ich muss warten bis ich aufgerufen werde  
+    - sie haben zur Sammelung aufgerufen
+
+- nachrufen:
+    - ich rufe ihm nach dass er warten muss 
+
+- wachrufen:
+    - das ruft viele Erinnerung in mir wach 
+
+- zwischenrufen:
+    - wenn du Frage hast, ruf einfach zwischen  
+
+- zurückrufen:
+    - ich rufe dich zurück 
+
+- widerrufen:
+    - ich widerrufe meine Ansage 
+
+- einberufen:
+    - er wird zum Dienst einberufen 
+
+- Beruf:
+    - der Beruf 
+    - das ist serh guter Beruf 
+    - Brotberuf 
+
+- hervorrufen:
+    - diese Aussage hat viele Probleme hervorgerufen [herbeiführen]
 
 ### sammeln
 - sammeln:
@@ -12791,6 +13027,26 @@ Stille
 - Satz:
     - der Satz 
 
+- Ansatz:
+    - der Ansatz 
+    - das war nicht der richtige Ansatz 
+    - das hat im Ansatz gescheitert 
+    - wir müssen mit dem Problem im Ansatz umgehen 
+    - er zeigt gute Ansätze  
+
+- ansatzweise:
+    - ich verstehe es ansatzweise 
+
+- Umsatz:
+    - der Umsatz 
+
+- Ersatz:
+    - der Ersatz 
+    - wir brauchen einen Ersatz 
+
+- Einsatz:
+    - der Einsatz 
+    - ich arbeite mit großem Einsatz
 - Ansatz:
     - der Ansatz 
     - das war nicht der richtige Ansatz 
