@@ -7912,6 +7912,9 @@
     - die Auflage 
     - er macht mir zur Auflage, dass ich das jeden Tag machen muss 
 
+- Beilage:
+    - die Beilage = nebenspeise
+
 ### liegen 
 - liegen:
     - das liegt gerade bei dir [deine Entscheidung]
@@ -12101,7 +12104,9 @@ zusammenkneifen:
 
 - zuschreiben:
     - sie schreibt mir die schuld zu [ينسب]
-    - sie schreibt mir die schuld zu [ينسب]
+    - man schreibt ihm viel Geduld 
+    - den Erfolg wird seiner Geduld zuschreiben
+    - Dieses Zitat wird Goethe zugeschrieben, aber er hat es nie gesagt.
     - das habe ich mir zuzuschreiben [einhandeln] [zuziehen]
 
 - beschreiben:
@@ -12338,7 +12343,6 @@ zusammenkneifen:
 
 - ausschweifend:
     - ich wollte nicht ausschweifend leben 
---
 --
 ### kreuzen
 - kreuzen:
@@ -12598,7 +12602,7 @@ zusammenkneifen:
 - Versammlung:
     - die Versammlung 
     - wann fängt die Versammlung an
---
+
 ### wachsen
 - wachsen:
     - ich bin der Aufgabe nicht gewachsen [nicht_schaffen]
@@ -12740,7 +12744,7 @@ zusammenkneifen:
 - Versammlung:
     - die Versammlung 
     - wann fängt die Versammlung an
---
+
 ### wachsen
 - wachsen:
     - ich bin der Aufgabe nicht gewachsen [nicht_schaffen]
@@ -12906,7 +12910,7 @@ zusammenkneifen:
 - grübeln:
 - nachgrübeln:
     - ich habe viel über das Problem gegrüblt
---
+
 ### haben
 - abhaben:
     - kann ich etwas von Kuchen abhaben 
@@ -13166,7 +13170,7 @@ Stille
     
 - verknüpfen:
     - ich verknüpfe mit dieser Stadt schlechte Erfahrung 
---
+
 ### klopfen
 - klopfen:
     - ich habe an die Tür geklopft 
@@ -13533,7 +13537,7 @@ Stille
 - Mitte: 
     - die Mitte 
     - Mut ist die Mitte zwischen Zögerlichkeit und Selbstüberschätzung.
---
+
 ### zweifeln
 - zweifel:
     - der Zweifel 
@@ -13544,13 +13548,13 @@ Stille
 - zweifeln:
 	- ich zweifel an ihm
 
+- bezweifeln:
+	- ich bezwifel dass 
+
 - verzweifeln: ohne Hoffnung
 	- ich verzweifel an der Aufgabe 
     - ich war am verzweifeln
     - ich war verzweifelt 
-
-- bezweifeln:
-	- ich bezwifel dass 
 
 ### trainieren
 - trainieren:
@@ -13594,7 +13598,7 @@ Stille
 - Übung:
     - die Übung 
     - das erfordert eine Menge Übungen 
-
+--
 ### bieten
 - Bote:
     - der Bote
@@ -13606,6 +13610,7 @@ Stille
     - geboten 
     - das Auto bietet Komfort 
     - er hat mir eine Stelle geboten 
+    - das lasse ich mir nicht beiten
 
 - anbieten:
     - ich habe ihm die Wohnung mehrfach angeboten 
@@ -13681,13 +13686,17 @@ Stille
 ### eilen
 - eilig:
     - das ist eilig 
-    - ich habe es mit dieser Aufgabe eilig 
+    - ich habe es eilig [haben]
+    - ich habe es mit dieser Aufgabe eilig  [haben+mit]
 
 - Eile:
     - die Eile 
     - das hat keine Eile 
     - ich habe in der Eile das vergessen
     - ich bin in Eile 
+
+- voreilig:
+    - das war eine voreilige Entscheidung 
 
 - beeilen:
     - ich beeile mich mit der Arbeit 
@@ -13696,10 +13705,9 @@ Stille
     - Wir sollten nichts übereilen
 
 - nacheilen:
-    - ich eile ihm nach 
-
 - vorauseilen:
-    - du eilst voraus, ich folge dir nach 
+    - ich eile ihm nach 
+    - du eilst mir voraus, ich folge dir nach 
 
 ### dienen
 - dienen:
@@ -13713,7 +13721,8 @@ Stille
 
 - bedienen:
     - ich weiss nicht wie ich es bedienen muss
-    - sie beidenen sich gerne
+    - der Kellner bedient uns sehr unfreundlich
+    - sie beidenen sich gerne [sich]
 
 - ausgedient:
     - das Gerät hat ausgedient
@@ -13722,7 +13731,77 @@ Stille
     - ich habe das verdient
     - ich verdiene viel Geld
 
+### Speise 
+- Speise:
+- Speisekarte:
+- Hauptspesie:
+- Nebenspeise:
+- Nachspeise:
+- Vorspeise:
+    - die Speise 
+    - die Speisekarte 
+    - die Speise sind inbegriffen 
+
+- speisen:
+    - ich speise Fleisch [jmd->etwas]
+    - er speist arme leute [jmd->jmd]
+
+- abspeisen:
+    - ich lasse mich nicht mit leeren Versprechungen abspeisen [abfertigen] [abwimmeln]
+
+- einspeisen:
+    - die Anlage speist Strom ins Netz ein 
+
+- spießig:
+    - es klingt spießig 
+
+- Spießer:
+    - der Spießer 
+    - ich bin halt ein bisschen Spießer
+
+## wimmeln
+- wimmeln:
+    - die Fiesche wimmeln im Netz 
+    - der Text wimmelt von Fehlern [von]
+    - es wimmelt hier von Ameisen [von]
+
+- abwimmeln:
+    - sie hat mich an der Haustür abgewimmelt 
+    - lass dich nicht abwimmeln 
+
+## servieren 
+- servieren
+    - servieren
+    - soll ich den Nachtisch servieren 
+
+- abservieren:  
+    - sie hat mich abserviert 
+
+- reservieren:
+    - wir haben einen tisch reserviert 
+    - kann man telefonisch reservieren
+
+### fert
+- fertig:
+    - ich bin fertig 
+
+- Fertiggericht:
+	- das Fertiggericht
+	- ich esse viel Fertiggerichte wenn ich auf Reisen bin
+
+- abfertigen:
+    - sie hat mich in 5 Minuten abgefertigt 
+
+- rechtfertigen:
+    - er versucht sein Verhalten zu rechtfertigen
+    - ich muss mich nicht rechtfertigen 
+    - das rechtfertigt den hohen Preis
+
 ### heilen
+- heilen:
+    - das heilt gut
+    - der Artzt / Zeit / Medikament hat ihn geheilt
+
 - abheilen:
 - ausheilen:
     - die Wunde braucht Zeit um abzuheilen
@@ -13733,14 +13812,13 @@ Stille
 - verheilen:
     - das muss vollstündig verheilen
 
-- heilen:
-    - das heilt gut
-    - der Artzt hat ihn geheilt
-
 ### freund
 - anfreunden:
 - befreunden:
-    - ich kann mich mit dieser Idee anfreunden
+    - ich kann mich mit dieser Idee anfreunden 
+
+- befreundet:
+    - ich bin mit ihm befreundet
     
 - Freundeskreis:
     - der Freundeskreis
@@ -13748,6 +13826,30 @@ Stille
 
 - freundlich:
     - wir haben uns auf freundlicher Basis
+
+### fein
+- fein:
+    - es gibt einn feinen Unterschied 
+    - das hast du fein gemacht 
+
+- verfeinern:
+    - wir habe unsere Arbeitsweise verfeinert 
+
+- feind:
+    - der Feind 
+    - er ist der Feind 
+
+- feindselig:
+    - das ist feindselige Umgebung 
+
+- anfeinden:
+    - ich fühle mich angefeindet 
+
+- verfeinden:
+    - Sie sind verfeindet 
+
+- feindlich:
+    - er hat feindlich reagiert
 
 ### frei
 - Freie:
@@ -13813,6 +13915,7 @@ Stille
 - langweilen:   
     - das hat mich langweilt 
     - ich will dich nicht mit meiner Frage langweilen 
+    - kinder langweilen sich sehr schnell 
 
 - langwierig:
     - der Prozess ist langwierig
@@ -13823,6 +13926,7 @@ Stille
     - wo ein Wille ist, ist auch ein Weg
     - er hat seinen Willen durchgesetzt 
     - ich habe gegen meinen Willen gelacht
+    - beim besten Willen kann ich das nicht schaffen 
 
 - Willen:
     - um Gottes Willen 
@@ -13927,11 +14031,15 @@ Stille
 - verteilen:
     - ich werde die Sußigkeiten an die Kinder verteilen 
     - ich muss die Creme auf dem Gesicht verteilen 
-    - das Vermögen ist ungleich verteilt
+    - das Vermögen ist ungleich verteilt 
+
+- verteilung:
+    - die Verteilung 
+    - der Verteilung war nicht gerecht
 
 - austeilen:
     - er teilt Karte aus 
-    - er teilt ordentlich azs 
+    - er teilt ordentlich aus 
 
 - mitteilen:
     - ich wollte dir mitteilen dass ich heute nicht kommen kann 
@@ -13959,23 +14067,13 @@ Stille
 ### Maß
 - Maß:
     - das Maß 
-    - ich will Maß nehmen 
+    - er trinkt in Maßen [in_maßen] [im_übermaß]
+    - mit zweilei Maß messen 
     - ein gewisses Maß an Geduld ist hier nötig 
     - das kann man zu einem gewissen Maß machen
     - das geht über das normale Maß hinaus 
-    - er misst mit verschiedenem messen 
     - das Maß ist voll 
     - um das Maß voll zu machen
-
-- Masse:
-    - die Masse 
-    - die breite Masse sind dagegen 
-
-- maßhalten:
-    - ich halte beim Essen maß 
-
-- anmaßen:
-    - ich würde mir nicht anmaßen dass ich weiss was in dir vorgeht [herausnehmen]
 
 - Ausmaß:
     - das Ausmaß 
@@ -13985,10 +14083,35 @@ Stille
 - Übermaß:
     - das Übermäß 
     - das Übermäß an Essen ist nicht gut 
-    - wir konsumieren das im Übermäß 
+    - wir konsumieren das im Übermaß 
+
+- mäßig:
+- übermäßig:
+    - meine Leistung ist mäßig 
+    - ein übermäßiger Konsum an Tee ist nicht gut 
+
+- Maßnahme
+    - die Maßnahme 
+    - welche Maßnahme hat die Regierung genommen 
+
+- maßnehmen:
+    - ich will Maß nehmen
+
+- Masse:
+    - die Masse 
+    - die breite Masse sind dagegen 
+
+- Massenweise:
+    - es gibt Massenweise Frauen die das machen willst 
+
+- maßhalten:
+    - ich halte beim Essen maß 
+
+- anmaßen:
+    - ich würde mir nicht anmaßen dass ich weiss was in dir vorgeht [herausnehmen]
 
 - dermaßen:
-    - es geht dermaßen dass ich alles in Frage stelle 
+    - es geht dermaßen dass ich alles in Frage stelle [dermaßen+dass]
 
 - maßstab:
     - der Maßstab 
@@ -14000,44 +14123,40 @@ Stille
 - mutmaßen: 
     - er hat gemutmaßt dass er es nicht weiß [vermuten] 
 
-- mäßig:
-- übermäßig:
-    - meine Leistung ist mäßig 
-    - ein übermäßiger Konsum an Tee ist nicht gut 
-
 - zeitgemäß:
     - er ist zeitgemäß 
-
-- wettermäßig:
-- Geldmäßig:
-- planmässig:
-- Gefühlsmäßig:
-- Verhältnismäßig:
-    - Wettermäßig war heute alles super 
-    - verhältnismäßig ist es teuer 
 
 - sinngemäß:
     - ich habe das sinngemäß gesagt 
     - das bedeutet sinngemäß das gleiche 
     - die Regek gilt sinngemäß für mich auch
 
+- wettermäßig:
+- Geldmäßig:
+- planmässig:
+- Gefühlsmäßig:
+- Verhältnismäßig:
+- zweckmäßig:
+    - ich brauche kleidung die für die Arbeit zweckmäßig
+    - Wettermäßig war heute alles super 
+    - verhältnismäßig ist es teuer 
+
 - folgendermaßen:
     - ich werde die Situation foldendermaßen erklären 
-
-- Massenweise:
-    - es gibt Massenweise Frauen die das machen willst 
 
 - messen:
     - ich messe ihm die Temperature 
     - ich will ihn nicht an seinem Bruder messen 
 
 - abmessen:
+    - Entfernung, zutät
     - die Entfernung abmessen 
 
 - angemessen:
     - das Gehalt ist der Lesitung nicht angemessen 
 
 - ausmessen:
+    - Zimmer, Tisch, Grundstück
     - ich messe die Wohnung aus 
 
 - beimessen:
@@ -14068,17 +14187,17 @@ Stille
     - das können wir als Hebel benutzen 
     - im Leben hat Geld den größten Hebel 
     - ich weiß nicht wo ich den Hebel ansetzen damit ich das schaffen kann 
+    - wenn wir das schaffen wollen sollen wir bei ihm den Heben ansetzen [anfangen]
 
 - heben:
     - ich will mein Selbstbewusstsein heben 
     - ich wollte die Stimmung heben 
 
 - abheben:
-    - ich muss schnell Geld abheben
-    - ich hebe mich von den anderen ab
-    - ich muss zur Bank laufen um Geld abzuheben   
-    - das Fligzeug hebt ab 
-    - ich habe ihn angerufen aber sie hebt nicht ab
+    - ich muss schnell Geld abheben [geld]
+    - ich habe ihn angerufen aber sie hebt nicht ab [Telefon]
+    - ich hebe mich von den anderen ab [sich]
+    - das Flugzeug hebt ab 
 
 - abgehoben:   
     - seit seinem Erfolg ist er ein bisschen abgehoben
@@ -14090,6 +14209,7 @@ Stille
     - kannst du bitte den stift vom Boden aufheben
     - das solltest du nicht wegewerfen sondern aufheben 
     - die Bieden kräften heben sich auf 
+    - die Regel ist so aufgehoben
 
 - Aufhebungsvertrag:
     - der Aufhebungsvertrag
@@ -14128,6 +14248,7 @@ Stille
     - die Plizist ordnet das Test an 
 
 - einordnen:
+    - ich weiss nicht wie soll ich das Verhalten einordnen
     - ich ordne mich in das System ein 
 
 - verordnen:
@@ -14138,7 +14259,8 @@ Stille
 
 - unterordnen:
 - überordnen:
-    - ich ordne mich dem Wunsch meiner Familie 
+    - ich ordne mich dem Wunsch meiner Familie unter
+    - Der Abteilungsleiter ist dem Team übergeordnet
 
 - umordnen:
     - ich habe alles umgeordnet 
@@ -14169,71 +14291,35 @@ Stille
     - er hat mir versichert dass er heute kommen wird 
     - ich will das Haus versichern 
 
+- versichert:
+    - er ist versichert [versicherung_haben]
+
 - zusichern:
     - er hat mir zugesichert dass er die Aufgabe gemacht hat 
+    - er sichert mir eine Gehaltungserhöhung zu
+
+- Zusicherung:
+    - die Zusicherung
 
 - absichern:
     - ich wollte mich absichern falls er seine Meinung ändert hat 
     - ich will mich gegen Einbrüche absichern 
+    - wir haben das System gegen ausfall abgeischert 
+
+- Absicherung:
+    - Die Absicherung des Geländes erfolgte durch Zäune
 
 - rückversichern:
     - ich wollte mich rückversichern dass ich das richtig verstanden habe 
-    - knüpfen:
-    - ich will keine hohen Erwartungen an ihn knüpfen 
-    - ich habe an das Angebot keine Erwartungen geknüpft 
+    - ich wollte mich bei ihm rückverischern
 
 - verunsichern:
     - ich will dich nicht verunsichern 
 
-### fügen
-- fügen:
-    - ich füge einen Stein an den anderen 
-    - ich füge einen Stein zu einer Mauer 
-    - das Bild fügt sich sehr gut in den Raum (sich) 
-
-- Gefüge:
-    - das Gefüge 
-    - das wird das sozialle Gefüge der Gesellschaft ändern 
-
-- Unfug:
-    - der Unfug 
-    - was ist das für Unfug 
-
-- anfügen:
-    - ich füge an den Brief einen Beleg an 
-
-- beifügen:
-    - ich füge dem Brief einen Beleg bei 
-
-- einfügen:
-    - ich füge das in das ein 
-    - ich habe mich in das Team eingefügt
-
-- verfügen:
-    - er verfügt über gute Kenntnisse in Englisch 
-
-- zufügen:
-    - ich füge dir das Lied nicht zu 
-
-- hinzufügen:
-    - willst du etwas hinzufügen 
-
-- zusammenfügen:    
-    - es fügt sich gut zusammen 
-
-- Befugnis:
-  - die Befugnis [befugnisse] 
-
-- befugt:
-- unbefugt:
-    - ich bin nicht befugt das zu machen 
-
-
-
 ### interesse 
 - Interesse:
 	- das Interesse
-	- ich habe kein Interesse an diesem Projekt
+	- ich habe kein Interesse an diesem Projekt [an+dativ]
 	- das liegt in deinem eigenen Interesse 
     - sie hat Interesse an mir
 
@@ -14266,7 +14352,32 @@ Stille
 - zweckmäßig:
     - ich brauche zweckmäßiges Werkzeug  
 
+### fremd 
+- entfremden:
+    - mit der Zeit haben wir uns entfremdet
+
+- fremdgehen:
+    - er geht fremd  
+
+- fremdbestimmen:
+    - das wird leider fremdbestimmt 
+
+- fremdschämen:
+    - ich habe mich fremdgeschämt 
+
+- fremd:
+    - er ist fremd 
+
+- zweckentfremden:
+    - er hat den Stuhl als Leiter zweckentfremdet 
+    - wir wollen das nicht zweckentfremden 
+
 ### spitzen
+- Spitze:
+    - die Spitze 
+    - er steht an der Spitze der Firma 
+    - das Messer hat eine scharfe Spitze 
+
 - spitzen:
 - anspitzen:
     - ich werde den Stift spitzen 
@@ -14279,7 +14390,7 @@ Stille
  
 - bespitzeln:
     - ich bespitzelt in dem Auftrag 
-
+--
 ### krempeln
 - hochkrempeln:
 - aufkrempelm:
@@ -14603,8 +14714,6 @@ Stille
 - überdehnen:
     - ich will meine Muskeln nicht überdehnen 
 
-
-
 ### kauen && dauen 
 - kauen:
     - ich muss richtig kauen 
@@ -14812,8 +14921,6 @@ Stille
     - die Unterstützung 
     - ich bin auf seine Unterstützung angewiesen
 
-
-
 ### pflegen
 - pflegen:
     - ich muss meine Mutter pflegen 
@@ -14859,7 +14966,6 @@ Stille
 - ausgepowert sein
 - geschlaucht 
 - ausgelaugt
-
 
 ### eignen 
 - eignen:
@@ -14970,7 +15076,6 @@ Stille
 
 - Beglückwünschung:
     - die Beglückwünschung 
-
 
 ### wissen
 - wissen:
@@ -16441,21 +16546,7 @@ Stille
 - bedürftig:
 	- das ist Geld für Bedürftig
 
-### fert
-- fertig:
-    - ich bin fertig 
 
-- Fertiggericht:
-	- das Fertiggericht
-	- ich esse viel Fertiggerichte wenn ich auf Reisen bin
-
-- abfertrigen:
-    - sie hat mich in 5 Minuten abgefertigt 
-
-- rechtfertigen:
-    - er versucht sein Verhalten zu rechtfertigen
-    - ich muss mich nicht rechtfertigen 
-    - das rechtfertigt den hohen Preis
 
 ### rang
 - rangieren:
@@ -16718,27 +16809,6 @@ Stille
 - Krazter:
     - der Kratzer
     - der Kratzer heilen gut
-
-### Speise 
-- Speise:
-    - die Speise 
-    - die Speise sind inbegriffen 
-
-- Speisekarte:
-    - die Speisekarte 
-
-- abspeisen:_
-    - ich lasse mich nicht mit leeren Versprechungen abspeisen 
-
-- abwimmeln:
-    - sie hat mich an der Haustür abgewimmelt 
-    - lass dich nicht abwimmeln 
-
-- einspeisen:
-    - die Anlage speist Strom ins Netz ein 
-
-- spießig:
-    - es klingt spießig 
 
 ### Peitsche:
 - Peitsche:
@@ -17982,22 +18052,7 @@ Stille
 - zweigleisig:
     - du kannst nicht zweigleisig fahren
 
-### fremd 
-- fremdgehen:
-    - er geht fremd  
 
-- fremdbestimmen:
-    - das wird leider fremdbestimmt 
-
-- fremdschämen:
-    - ich habe mich fremdgeschämt 
-
-- fremd:
-    - er ist fremd 
-
-- zweckentfremden:
-    - er hat den Stuhl als Leiter zweckentfremdet 
-    - wir wollen das nicht zweckentfremden 
 
 ### blut 
 - bluten:
@@ -19410,28 +19465,6 @@ Stille
 - Stagnation:
     - die Stagnation 
     - es kamm zu Stagnation
-
-### fein
-- fein:
-    - es gibt einn feinen Unterschied 
-    - das hast du fein gemacht 
-
-- verfeinern:
-    - wir habe unsere Arbeitsweise verfeinert 
-
-- feind:
-    - der Feind 
-    - er ist der Feind 
-
-- feindselig:
-    - das ist feindselige Umgebung 
-
-- anfeinden:
-    - ich fühle mich angefeindet 
-
-- verfeinden:
-    - Sie sind verfeindet 
-
 ### ritual 
 - Ritual:
     - das Ritual 
@@ -19620,6 +19653,48 @@ Stille
 
 - Statue:
     - die Statue
+### fügen
+- fügen:
+    - ich füge einen Stein an den anderen 
+    - ich füge einen Stein zu einer Mauer 
+    - das Bild fügt sich sehr gut in den Raum (sich) 
+
+- Gefüge:
+    - das Gefüge 
+    - das wird das sozialle Gefüge der Gesellschaft ändern 
+
+- Unfug:
+    - der Unfug 
+    - was ist das für Unfug 
+
+- anfügen:
+    - ich füge an den Brief einen Beleg an 
+
+- beifügen:
+    - ich füge dem Brief einen Beleg bei 
+
+- einfügen:
+    - ich füge das in das ein 
+    - ich habe mich in das Team eingefügt
+
+- verfügen:
+    - er verfügt über gute Kenntnisse in Englisch 
+
+- zufügen:
+    - ich füge dir das Lied nicht zu 
+
+- hinzufügen:
+    - willst du etwas hinzufügen 
+
+- zusammenfügen:    
+    - es fügt sich gut zusammen 
+
+- Befugnis:
+  - die Befugnis [befugnisse] 
+
+- befugt:
+- unbefugt:
+    - ich bin nicht befugt das zu machen 
 
 ### einzel 
 - einzel:
