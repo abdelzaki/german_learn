@@ -6261,6 +6261,7 @@
 
 - wiederfinden:
     - ich habe es wiedergefunden 
+    - ich muss meine Kraft wiederfinden
 
 - ausfindig:
 	- ich muss meinen Schlüssel ausfindig machen 
@@ -14412,10 +14413,12 @@ Stille
 - wegkratzen:
     - ich kratze die Farbe ab 
 
-- ankratzen:
 - verkratzen:
     - er hat mein Auto angekratzt 
     - das Auto war verkratzt
+
+- ankratzen:
+    - das hat mein Selbstbewusst angekratzt[schwach_machen]
 
 - aufkratzen:
     - ich will die Verletzung nicht aufkratzen 
@@ -14443,6 +14446,41 @@ Stille
 - überreizen:
     - meine Nerven waren überreizt 
 
+- ausreizen:
+    - ich habe das Budget ausgereizt [ausschöpfen]
+
+### hetzen
+- hetzen:
+    - wir müssen zum Bahnhof hetzen 
+    - ich lasse mich nicht hetzen 
+    - ich wollte nicht durch den Tag hetzen 
+    - ich will dich nicht hetzen 
+    - er hat einen Hund auf mich gehetzt 
+    - sie hetzen gegen Ausländer 
+
+- abhetzen:
+    - ich habe mich zum Bahnhoft angehetzt 
+
+- abgehetzt:
+    - ich bin abgehetzt
+
+- aufhetzen:
+- verhetzen:
+    - die Mutter hetzt das Kinder gegen den Vater auf 
+
+- hasten:
+    - ich muss zum Bahnhof hasten
+
+- Hetze:
+    - Das war vielleicht eine Hetze, bis wir endlich im Bus saßen!
+    - ich will das nicht in Hetze machen sondern in Ruhe 
+
+- hektisch:
+	- heute war es sehr hektisch und ich hatte nicht genugend Zeit um alles zu schaffen was ich schaffen wollte
+
+- hastig:_
+    - wir wollen nicht hastig arbeiten
+--
 ### stärken 
 ### kräftigen:
 - stark:
@@ -14456,11 +14494,17 @@ Stille
 
 - verstärken:
     - die Schmerzen haben sich verstärkt 
+    - wir wollen das Team mit einem neuen Mitglied verstärken
 
 - Kraft:
     - die Kraft 
-    - ich gehe mit neuer Kraft an die Arbeit 
-    - ich brauche Zeit um zu Kräften zu kommen
+    - das kostet Kraft
+    - aus eigner Kraft 
+    - mit letzter Kraft 
+    - am ende meiner Kraft [am limit] [erschöpft] [fix und fertig]
+    - ich gehe mit neuer / frischer Kraft an die Arbeit 
+    - wieder zu Kräften kommen/bei Kräften sein
+    - in meiner kraft stehen 
 
 - kräftig:
     - er ist kräftig genug um das zu schaffen 
@@ -14468,9 +14512,24 @@ Stille
 - verkraften:
     - ich habe das bis jetzt nicht verkraft 
 
-- entkräften:
 - bekräftigen:
+    - er hat ihn in seinem Vorhaben bekräftigt [bestärken]
+    - ich will bekräften dass ich hinter dir stehe [unterstreichen]
+
+- entkräften:
     - Die Krankheit hat ihn total entkräftet.
+    - Der Anwalt konnte die Anschuldigungen entkräften
+
+### tätig 
+- bestätigen:
+    - das hat meine Vermutung bestätigen 
+    - ich kann dir den Erhalt der Ware bestätigen 
+
+- tätig:
+    - ich bin als Ingenieur tätig 
+
+- tätigen:
+    - den Button tätigen 
 
 ### schwächen
 - schwächen:
@@ -15271,7 +15330,8 @@ Stille
     - sie hat nicht genügend gearbeitet  
 
 - genug:
-    - das Zimmer ist groß genug 
+    - das Zimmer ist groß genug [adj+genung]
+    - er hat genug kraft [genug+nom]
 
 - begnügen:
     - ich begnüge mich mit der Rolle des zuschauers 
@@ -17835,16 +17895,6 @@ Stille
     - der Fehltritt 
     - das ist ein Fehltritt und ich bereue es 
 
-### tätig 
-- bestätigen:
-    - das hat meine Vermutung bestätigen 
-    - ich kann dir den Erhalt der Ware bestätigen 
-
-- tätig:
-    - ich bin als Ingenieur tätig 
-
-- tätigen:
-    - den Button tätigen 
 
 ### winken 
 - winken: [hinken]
