@@ -15075,15 +15075,18 @@ Stille
 - stülpen:
     - ich stülpe ein Gass über die Spinne 
 
-- umstülpern:
+- umstülpen:
     - ich stülpere den Eimer um, und darauf 
 
 ### stürzen 
 - stürzen:
+    - er hat seinen Opfer von der Brücke gestürzt [jemanden]
+    - er hat das Unternehmen in den Ruin stürzen [etwas]
+    - ich bin vom Fahrrad gestürtzt [von]
+    - ich bin über meine eigenen Fehler gestürzt [stolpern] [über]
     - ich bin kopfüber ins Wasser gestürzt 
-    - er hat seinen Opfer von der Brücke gestürzt 
     - ich stürze mich auf die Aufgabe [sich]
-    - ich bin über meine eigenen Fehler gestürzt [stolpern]
+    - die Preisen sind gestürtzt [etwas]
 
 - Sturz:
     - der Sturz 
@@ -15096,15 +15099,17 @@ Stille
 
 - Abstruz:
     - der Absturz  
-    - das hat den Kompuer zum Absturz gebracht 
+    - das hat den Computer zum Absturz gebracht 
+    - Computerabsturtz
 
 - einstürzen:
 - zusammenstürzen:
     - das Haus könnte näturlich einstürzen 
-    - wenn ich sofort mit allen Änderungen auf sie eintstürze, bwirkt es das gegenteil
+    - wenn ich sofort mit allen Änderungen auf sie eintstürze, bewirkt es das gegenteil
 
 - überstürzen:
     - ich will die Entscheidung nicht überstürzen [übereilen] 
+    - die Ereignissen haben sich überstürtzt
 
 - umstürzen:
     - die Baume sind umgestürtzt 
@@ -15117,6 +15122,7 @@ Stille
 - stützen:
     - ich stütze das Dach mit einem Stütze 
     - ich stütze mich auf einen Stock 
+    - ich stütze den Elbbogen auf den Boden stützen
 
 - abstützen:
     - ich stütze das Dach ab 
@@ -15153,21 +15159,20 @@ Stille
 - gutmachen:
     - wird es das wettmachen 
     - ich mache meine fehlende Schnelligkeit durch Ausdauer wett 
-
+--
 ### müde 
 - müde:
     - ich bin müde 
 
 - ermüden:
     - ich ermüde schneller 
-    - diese Arbeit hat mich ermüdet 
+    - diese Arbeit hat mich ermüdet [mit_objekt]
 
 - unermüdlich:
     - ich werde unermüdlich tranieren 
 
 - ermüdend:
     - das Training ist ermüdend [anstrengend] [beschwerlich]
-
 
 - fix und fertig 
 - K.o
