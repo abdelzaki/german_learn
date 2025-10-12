@@ -1250,7 +1250,45 @@
     - er beginnt in der Schublade zu kramen 
 
 - hervorkramen:
-    - ich wollte nicht die alte Erinnerungen hervorkramen 
+    - ich wollte nicht die alte Erinnerungen hervorkramen
+
+### welken && blühen 
+- welken:
+- verwelken:
+    - die Blumen welken [verkümmern]
+
+- blühen:
+    - im Sommer blüht es überall 
+
+- aufblühen:
+    - seit er allein ist, ist er aufgeblüht 
+    - gerade blüht die Wirtschaft auf 
+
+- verblühen:
+    - die Blumen verblühen sehr schnell 
+
+- gedeihen:
+    - im Schatten gedeihen die Pflanzen nicht 
+
+### blut 
+- bluten:
+    - sie hat viel geblutet 
+
+- Blut:
+    - das Blut 
+    - ich wollte Blut spenden  
+    - ich habe viel Blut verloren 
+
+- ausbluten:
+    - die Firma ist ausgeblutet
+    - Wunde blutet aus [aufhören]
+    - Tier blutet aus[sterben]
+
+- verbluten:
+    - sie hat verblutet [viel Blut verloren und sterben] 
+
+- nachbluten:
+    - sie hat wieder nachgeblutet
 
 ### kümmern 
 - kümmern:
@@ -1261,7 +1299,7 @@
     - das bekümmert mich 
 
 - verkümmern:
-    - die Pflanzen verkümmert 
+    - die Pflanzen verkümmert [welken] [verwelken]
     - ich will meine Talente nicht verkümmen lassen 
 
 - Kummer:
@@ -6425,11 +6463,15 @@
     - die Vase ist mir aus der Hand
     - könntest du ein bisschen rutschen
 
+- reinrutschen:
+    - ich muss sagen ich bin in die SAche reingerutschtn ich habe das nicht geplant 
+
 - abrutschen:
   - ich bin von der Leiter abgerutscht 
 
 - ausrutschen:
     - ihm rutscht die Hand aus 
+    - mir ist das MEsser ausgerutschen
   
 - durchrutschen:
     - die Fehler sind mir durchgerutscht [unterlaufen,entgehen]
@@ -6453,7 +6495,7 @@
     - ich rücke den Stuhl vom Tisch ab
 
 - aufrücken:
-  - rücken Sie bitte auf [aufschließen] 
+  - rücken Sie bitte auf [aufschließen] [nach-vorne]
 
 - vorrücken:
     - ich rücke den Stühl vor
@@ -7712,6 +7754,7 @@
     
 - durchkommen:
     - wir werden bei diesem Projekt durchkommen 
+    - wenn man gut durchkommt, schaffen wir es in 3 Stunden
 
 - abbekommen:
     - ich habe nichts von dem Kuchen abbekommen 
@@ -8331,7 +8374,10 @@
     - ich werde den Zettel anschlagen
 
 - angeschlagen:
-    - ich bin angeschlagen
+    - ich bin angeschlagen  [ein bisschen müde ]
+
+- abgeschlagen:
+    - ich bin abgeschalgen [total_müde]
 
 - abschlagen:
 	- ich kann ihm keinen Wunsch abschlagen 
@@ -10282,6 +10328,11 @@
 
 - reisen:
     - ich reise mit dem Zug 
+    - ich reise nach Deutschland 
+
+- verreisen:
+    - ich bin verreist 
+    - ich werde übers Wochenende verreisen
 
 - anreisen:
 - abreisen:
@@ -10291,8 +10342,7 @@
 - ausreisen:
     - ich dürfe nicht aus Deutschland ausreisen 
 
-- verreisen:
-    - ich habe verreist 
+
 
 - durchreisen:
     - ich habe das land nur durchgereist 
@@ -11167,7 +11217,6 @@
 - Rolle:
     - die Rolle 
     - das spielt wichtige Rolle für vermittlung der inhalten
-
 
 ### rühren
 - rühren:
@@ -14524,12 +14573,16 @@ Stille
 - bestätigen:
     - das hat meine Vermutung bestätigen 
     - ich kann dir den Erhalt der Ware bestätigen 
+    - das bestätigen mich in meiner Angst [bestärken] [bekraften]
 
 - tätig:
     - ich bin als Ingenieur tätig 
 
+- betätigen:
+    - den Button betätigen 
+
 - tätigen:
-    - den Button tätigen 
+    - den Anruf / Zahlung / Bestellung tätigen
 
 ### schwächen
 - schwächen:
@@ -14537,6 +14590,10 @@ Stille
 
 - abschwächen:
     - die Wirkung hat sich abgeschwächt 
+    - das soll den Einfluss abschwächeln [mildern]
+
+- schwächeln:   
+    - die Wirschaft schwächelt 
 
 - schwach:
     - ich bin nicht schwach 
@@ -14548,14 +14605,76 @@ Stille
 - lähmen:
     - das lähmt die Gesellschaft 
 
-- schwächeln:   
-    - die Wirschaft schwächelt 
+- lähmung:
+    - die Lähmung 
+    - das fuhrt zu einer Lähmung
+
+- gelähmt:
+    - gelähmes Bein [nicht_beweglich]
+
+- lahm:
+    - lahme Ausrede  [schwach]
+
+### füllen 
+- füllen:
+    - ich muss den Eimer mit Wasser füllen 
+    - ich fülle das Glas nur halb mit etwas
+
+- gefüllt:
+    - das Becken ist bis zum Rand gefüllt
+    - der Saal war bis auf den letzten Platz, nur halb gefüllt
+    - das ist mit Wasser gefüllt 
+    
+- Füllung:
+    - die Fükkung des Kuchens ist süß
+
+- anfüllen:
+    - das Regal ist mit Bücher angefüllt 
+
+- ausfüllen:
+    - ich muss dieses Dokument ausfüllen 
+
+- auffüllen:
+- nachfüllen:
+    - ich fülle den Tank auf [wieder füllen]
+    - ich will meine Energie nach dem Training auffüllen
+
+- einfüllen:
+    - Wasser in Tank einfüllen [gießen]
+
+- erfüllen:
+    - ich kann leider deine Erwartungen nicht erfüllen 
+
+- überfüllen:
+    - der Ort ist überfüllt [überlaufen] 
+
+- voll
+    - das Wasser ist voll 
+    - er ist voll / satt
+
+- vollständig:
+- vollzählig:
+	- wir sind vollständig
+
+- leer:
+    - das ist leer 
+    - der Akku ist leer 
+
+- ausleeren:
+- entleeren:
+    - die tache ausleeren 
+    - Das Schiff entleert sein Abwasser ins Meer.
+
+- leerlaufen:
+    - der Tank läuft leer 
+
+- leerkaufen:
+    - sie haben alles leergekauft 
 
 ### fühlen
 - fühlen:
-    - ich fühle mich langsam 
-    - ich fühle mich nicht Wohl 
-    - ich fühle mich besser 
+    - ich fühle mich langsam / besser / nicht wohl
+    - ich fühle den Schmerzen
 
 - abfühlen:
     - er fühlt mir den Bauch ab 
@@ -14567,7 +14686,7 @@ Stille
     - es fühlt sich gut an 
 
 - einfühlen:
-    - ich kann mich in deine Situation einfühlen [hineinversetzen]
+    - ich kann mich in deine Situation einfühlen [hineinversetzen] [in]
 
 - nachfühlen:
     - ich kann deine Angst nachfühlen 
@@ -14678,7 +14797,7 @@ Stille
 - Spur:
     - der Abdruch 
     - die Spur 
-
+--
 ### trüb
 - trüb:
     - das Wasser war trüb 
@@ -14696,11 +14815,12 @@ Stille
 ### schlucken
 - schlucken:
     - ich habe viel Wasser geschluckt 
+    - ich muss die Beleidigung schlucken 
 
 - verschlucken:
-    - ich habe eine Insekt verschluckt 
-    - ich schlücke die Wörter 
-    - ich habe mich beim dem Essen an einem Brot verschluckt und ich kann nicht mehr atmen
+    - ich habe eine Insekt verschluckt [ausversehen]
+    - ich verschlücke die Wörter 
+    - ich habe mich beim dem Essen an einem Brot verschluckt und ich kann nicht mehr atmen [sich] [nicht_atmen_kann]
 
 ### stören 
 - stören:
@@ -14721,6 +14841,14 @@ Stille
     - die Störung 
     - mein Auto hat eine Störung 
 
+## wind
+- rückenwind:
+    - ich hatte Rückenwind von meiner Familie 
+
+- Gegendwind:
+    - der Gegenwind 
+    - trotz des Gegendwinds habe ich es geschafft 
+
 ### färben
 - färben:
     - ich will meine Haare färben 
@@ -14731,16 +14859,31 @@ Stille
 
 - entfärben:
     - ich will die Hose entfärben 
+    - das wird die Kleding entfärben
 
 - schönfärben:
     - er hat alles schöngefärbt die Realität ist anders 
 
 - verfärben:
     - die Hose wird alle meine Kleidung verfärben 
+    - die Hosen hat sich verfärbt [sich]
 
 - einfarbig:
 - mehrfarbig:
 - bunt:
+
+### keim 
+- keim:
+    - der Keim 
+    - wir müssen die Keime abtöten
+    - im Keim ersticken [im ]
+
+- keimen:
+- aufkeimen:
+    - Die Tomatensamen keimen.
+
+- entkeimen:
+    - wir müssen es entkeimen 
 
 ### bröckeln    
 - bröckeln:
@@ -14759,6 +14902,9 @@ Stille
 - Brocken:
     - der Brocken 
     - das ist ein riesiger Brocken
+
+- brockenweise:
+    - wir machen das Projekt brockenweise
 
 - einbrocken:
     - das hast du dir eingebrockt
@@ -14822,7 +14968,7 @@ Stille
     - ich gieße das Wasser ein
 
 - aufgießen:
-    - ich gieße den Tee auf 
+    - ich gieße den Tee mit heissem Wasser auf 
 
 - durchgießen:
     - ich gieße Tee durch das Sieb durch 
@@ -14854,6 +15000,8 @@ Stille
 - pumpen:
     - ich muss Luft in den Reifen pumpen 
     - ich muss Wasser aus dem Keller pumpen 
+    - könntst du mir 5 Euro pumpen 
+    - man hat viel energie in die Sache gepumpt
 
 - abpumpen
 - auspumpen:
@@ -14872,17 +15020,29 @@ Stille
 ### schleppen 
 - schleppen:
     - ich muss das nach oben schleppen 
+    - ich muss mich durch den Tag schleppen
     - er hat mich in Opera geschleppt 
 
 - abschleppen:
 - wegschleppen:
     - das Auto muss zur Werkstatt abgeschleppt werden 
+    - er schleppt frauen mit sich ab 
 
 - herumschleppen:
     - ich will das nicht mit mir immer herumschleppen 
 
 - verschleppen:
     - die Geisel werden verschleppt 
+
+### schleifen
+- schleifen:
+    - ich kann das nicht tragen ich werde es schleifen 
+    - sie hat mich ins Theater geschleift
+    - die Ketter schlieft am Boden
+
+- schleifenlassen:_
+    - Urlaub heißt nicht schleifen lassen 
+    - ich habe viel schleifen lassen 
 
 ### schleichen 
 - schleichen:
@@ -14896,18 +15056,10 @@ Stille
 
 - einschleichen:
     - hier hat sich ein Fehler eingeschlichen 
+    - er hat sich in das Haus eingeschichen
 
 - nachschleichen:   
     - ich schleiche ihm nach 
-
-### schleifen
-- schleifen:
-    - ich kann das nicht tragen ich werde es schleifen 
-    - sie hat mich ins Theater geschleift 
-
-- schleifenlassen:_
-    - Urlaub heißt nicht schleifen lassen 
-    - ich habe viel schleifen lassen 
 
 ### pendeln 
 - pendeln:
@@ -17072,36 +17224,6 @@ Stille
 - durchgreifen:
     - die Stadt muss gegen soetwas durchgreifen [einschreiten]
 
-### welken && blühen 
-- welken:
-- verwelken:
-    - die Blumen welken [verkümmern]
-
-- blühen:
-    - im Sommer blüht es überall 
-
-- aufblühen:
-    - seit er allein ist, ist er aufgeblüht 
-    - gerade blüht die Wirtschaft auf 
-
-- verblühen:
-    - die Blumen verblühen sehr schnell 
-
-- gedeihen:
-    - im Schatten gedeihen die Pflanzen nicht 
-
-### keim 
-- keim:
-    - der Keim 
-    - wir müssen die Keime abtöten
-    - im Keim ersticken [im ]
-
-- keimen:
-- aufkeimen:
-    - Die Tomatensamen keimen.
-
-- entkeimen:
-    - wir müssen es entkeimen 
 
 ### neigen 
 - neigen:
@@ -17492,28 +17614,6 @@ Stille
 - Fristgerecht:
     - ich will die Aufgabe fristgerecht erledigen
 
-### füllen 
-- füllen:
-    - ich muss den Eimer mit Wasser füllen 
-
-- anfüllen:
-    - das Regal ist mit Bücher angefüllt 
-
-- ausfüllen:
-    - ich muss dieses Dokument ausfüllen 
-
-- auffüllen:
-- nachfüllen:
-    - ich fülle den Tank auf [wieder füllen]
-
-- einfüllen:
-    - Wasser in Tank einfüllen [gießen]
-
-- erfüllen:
-    - ich kann leider deine Erwartungen nicht erfüllen 
-
-- überfüllen:
-    - der Ort ist überfüllt [überlaufen] 
 
 
 ### form
@@ -17895,7 +17995,6 @@ Stille
     - der Fehltritt 
     - das ist ein Fehltritt und ich bereue es 
 
-
 ### winken 
 - winken: [hinken]
     - ich habe dem Kellner gewinkt 
@@ -18104,24 +18203,6 @@ Stille
 
 
 
-### blut 
-- bluten:
-    - sie hat viel geblutet 
-
-- Blut:
-    - das Blut 
-    - ich wollte Blut spenden  
-    - ich habe viel Blut verloren 
-
-- ausbluten:
-    - die Firma ist ausgeblutet
-
-- verbluten:
-    - sie hat verblutet [viel Blut verloren und sterben] 
-
-- nachbluten:
-    - sie hat wieder nachgeblutet
-
 ### schatten 
 - Schatten:
 	- der Schatten
@@ -18306,7 +18387,6 @@ Stille
 
 - außen rum:
     - das Event selbst war nicht gut, aber die Aktivitäten die außen rum passieren, waren sehr gut
-
 
 ### los
 - los:
