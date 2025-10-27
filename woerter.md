@@ -6516,6 +6516,7 @@
 
 ### greifen
 - greifen:
+    - ans handy greifen
     - das kann sehr schnell um sich greifen [umgehen]
     - das Feuer greift sehr schnell um sich 
     - das Kind greift nach der Hand der Mutter [strecken]
@@ -7817,6 +7818,7 @@
     - ich kann alles negativer, bösewilliger auslegen 
     - Vorschriften streng auslegen 
     - Er hat mir meine Entschuldigung als Schwäche ausgelegt.
+    - das algoirthum ist darauf ausgelegt dir das zu zeigen [auf]
 
 - beiseitelegen:
     - ich werde ein paar euro beiseitelegen
@@ -8352,6 +8354,9 @@
 
 - piksen:
     - ich werde dich jetzt picksen 
+
+- herausstechen:
+    - da ich anders aussehe, werde ich näturlich herausstechen
 
 ### schlag
 - schlag:
@@ -10550,6 +10555,7 @@
 
 - hingeben:
     - ich gebe mich dieser Aufgabe hin 
+    - er gibt sich der Illusion hin Geld macht glücklich
 
 - Hingabe:
     - die Hingabe
@@ -17229,7 +17235,6 @@ Stille
 - durchgreifen:
     - die Stadt muss gegen soetwas durchgreifen [einschreiten]
 
-
 ### neigen 
 - neigen:
     - ich neige dazu, ihm zu glauben
@@ -17245,10 +17250,23 @@ Stille
     - die Abneigung
     - ich habe Abneigung gegen ihn 
 
+### schatten 
+- Schatten:
+	- der Schatten
+	- im Schatten
+	- ich springe über meinen eigenen Schatten 
+
+- überschatten:
+    - das wird von diesem Ereignis überschattet 
+
+- beschatten:
+    - die Augen mit der Hand beschatten
+
 ### leucht && licht && strahlen
 - Licht:
     - das Licht 
-    - das ist unfair ihn wegen einer Situation in einem falschen Licht zu sehen
+    - ich will Licht in die Sache bringen 
+    - ich will ihn ins rechte / falsche Licht rücken
 
 - schlicht:
     - das ist schlicht unmöglich das zu machen 
@@ -17257,8 +17275,9 @@ Stille
     - den Konflikt schlichten
 
 - leuchten:
-    - die Lampe leuchtet 
-    - das Licht leuchtet
+    - die Lampe / Licht leuchtet 
+    - mit dem Handy leuchten
+    - jemandem ins Gesicht leuchten
 
 - beleuchten:
     - ich will den Eingang beleuchten [anstrahlen]
@@ -18208,17 +18227,6 @@ Stille
 
 
 
-### schatten 
-- Schatten:
-	- der Schatten
-	- im Schatten
-	- ich springe über meinen eigenen Schatten 
-
-- überschatten:
-    - das wird von diesem Ereignis überschattet 
-
-- beschatten:
-    - die Augen mit der Hand beschatten
 
 ### schleunigen 
 - beschleunigen:
@@ -20998,7 +21006,9 @@ Stille
     - das rangiert bei uns nur am Rande 
 
 - arrangieren:
-    - ich kann das schnell arrangieren 
+    - ich kann das schnell für dich arrangieren 
+    - wir müssen uns arrangieren [kompromisse_finden] [sich]
+    - ich muss mich mit der Situation arrangieren [sich+mit]
 
 - ausrangieren:
     - ich rangiere die alten Kleidung aus 
@@ -23530,44 +23540,7 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
     - die Milch ist alle 
 
 ######
-- Mann isst einen Kuchen -> das Essen eines Kuchens durch den Mann 
-- Die Grammtik wird von dem Lehrer erklärt -> die Erklärung der Grammtik durch den den Lehrer 
 
-- du stellst eine Frage -> dein Stellen der Frage 
-
-- du fragst nach einer Erklärung -> deine Frage nach einer klärung 
-
-- du sprichst schnell -> dein schnelles Sprechen
-
-- ich treibe sport um gesund zu werden -> ich treibe Sport zum Geseundwerden
-
-- ich treibe sport um gesund zu werden -> ich treibe Sport für Gesundbleiben 
-
-- die Frau hat eine Frage nach dem Weg -> die Frage der Frau nach dem Weg
-
-- bevor wir essen, müssen wir kochen -> vor dem Essen müssen wir kochen 
-
-- seitdem ich in Deutschland lebe, lerne ich jeden Tag Deutsch -> seit meinem Leben In Deutschland, lerne ich jeden Tag Deutsch 
-
-- weil der Mann zu schnell fahren, muss er eine Strafe bezhalen -> wegen des zu schnellen Fahrens, muss 
-
-- Peter hat einen Job bekommen indem er viel Bewerbung schreibt -> Peter hat einen Job bekommen durch das Schreiben vieler Bewerbungen 
-
-- wenn ich müde bin, dann schlafe ich eine Stunde -> bei Müdigekit
-
-- falls es regnet, bleibe ich zuhause -> beim Regen bleibe ich Zuhause 
-
-- ich lerne um die Prüfung zu bestehen -> ich lerne zum Bestehen der Prüfung 
-
-- alle gehen in die Stadt -> das Gehen aller in die Stadt 
-
-- der Müde Mann -> die Müdigkeit des Mannes 
-
-- etwas Schreckliches 
-
-- das Auf und Ab 
-
-- das Schöne an der Stadt - ein Schönes 
 
 
 
@@ -23599,3 +23572,16 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - das war eine beknackte Idee 
 - er ist zugewandt
 - haushalt
+- das ist näturlich ein Ansporn, anreiz
+- man muss am ball bleiben
+- die reichweite, tragweite
+- Muskelatur , muskelkater 
+- es ist sehr wichtig im Alter 
+- das wird immer und immer aufgeklärt
+- die ziehen gerne mit
+- ich hatte übergewicht
+- deswegen bin ich ins das Thema eingetaucht oder abgedriftet
+- resilient 
+- wenn du das von Außen betractet ohne vorwissen 
+- wir haben ein adpatives System-
+- zehenspitzen
