@@ -17,6 +17,10 @@
 ### selbst 
 - selbst:
     - das hast du selbst nicht geschafft 
+    - das versteht sich von selbst
+    - er hat das von selbst gemacht 
+    - selbst verschuldet 
+    - was man von sich selbst hält
 
 - Selbstachtung:
     - die Selbstachtung 
@@ -114,6 +118,21 @@
 - beschwatzen:
     - er hat mich beschwatzen das zu machen 
 
+- herumschwätzen:
+    - er schwätzt über Dinge / jemanden herum die ihn nichts geht 
+    - schwätze das bitte nicht herum
+
+### plaudern
+- plaudern:
+    - ich habe mit ihm über etwas geplaudert 
+
+- verplaudern:
+    - wir haben uns verplaudert 
+    - ich habe die Wartezeit mit ihm verplaudert 
+
+- ausplaudern:
+    - er hat mein Gehemnis ausgeplaudert 
+
 ### quatschen 
 - Quatsch:
     - der Quatsch 
@@ -154,7 +173,7 @@
 
 - herumalbern:
     - wir haben viel herumgealbert  
-
+--
 ### jammern
 - jammern:
     - er jammern über das verlorenes Handy
@@ -23584,4 +23603,10 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - resilient 
 - wenn du das von Außen betractet ohne vorwissen 
 - wir haben ein adpatives System-
-- zehenspitzen
+- zehenspitzens 
+- das wirst du an die Wahrheit kommen
+- auf dem Holzweg
+- das hat bei mir gut angeschlagen 
+- er hat eine Veranlagung zu korruption 
+- ich  kreige das nicht angewandet 
+- vor zehn jahre war das verpönt
