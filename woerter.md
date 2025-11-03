@@ -1,6 +1,5 @@
 
 # Wortschatz 
-
 ### am:
     - am Gehen 
     - am arbeiten 
@@ -132,7 +131,7 @@
 
 - ausplaudern:
     - er hat mein Gehemnis ausgeplaudert 
-
+ 
 ### quatschen 
 - Quatsch:
     - der Quatsch 
@@ -173,7 +172,7 @@
 
 - herumalbern:
     - wir haben viel herumgealbert  
---
+
 ### jammern
 - jammern:
     - er jammern über das verlorenes Handy
@@ -188,7 +187,7 @@
     - er jammert seiner Freundin nach
 
 - herumjammern:
-    - hör  auf herumzujammern,und tu etwas 
+    - hör auf herumzujammern,und tu etwas 
 
 ### jubeln 
 - jubeln:
@@ -202,6 +201,15 @@
 
 - unterjubeln:
     - er hat mir ein altes Gerät untergejubelt 
+
+### grüßen
+- grüßen:
+    - wir grüßen uns nicht mehr 
+    - bitte grüße ihn von mir 
+
+- begrüßen:
+    - sie hat mich kalt begrüßen [empfängen]
+    - ich kann soetwas nicht begrüßen 
 
 ### dauern
 - dauern:
@@ -229,6 +237,9 @@
 
 - überdauern:
     - das wird unser Leben überdauern 
+
+- dauerhaft:
+    - das ist aber keine dauerhafte Lösung
 
 ### schmerzen 
 - schmerzen:
@@ -274,7 +285,7 @@
 - nachweinen:
     - ich werde ihm nicht nachweinen
 
-### trauern / trauen
+### trauern
 - trauern:
     - ich habe um ihn getrauert 
     - ich habe über diese Chance getrauert 
@@ -283,7 +294,10 @@
     - ich habe diese Chance betrauert 
 
 - nachtrauern:
-    - ich habe ihm nachgetrauert [lange trauern]
+    - ich habe ihm nachgetrauert [lange trauern] 
+
+- traurig:
+    - das ist aber traurig 
 
 ### schwer
 - beschwerlich:
@@ -346,11 +360,7 @@
 - schimpfen:
     - er hat mich / mit mir / auf mich geschimpft
     - er hat über das Wetter geschimpft
-    - er hat mich geschimpft weil ich gestern nicht da war 
-    - der Vater schimpft mit seinem Kind
     - er schimpft sich Software-ingienieur [behaupten] 
-    - er schimpft über das Wetter 
-    - er hat auf Ausländer geschimpft 
 
 - beschimpfen:
     - er hat mich beschimpfen  [beleidigen] [schmähen]
@@ -370,7 +380,7 @@
     - ich habe bei dir Arbeit geschlampt [pfuschen]
 
 - verschlampen:
-    - ich lassse meine Sache verschlampen 
+    - ich lasse meine Sache verschlampen 
 
 - schlampig:
     - er arbeit schlampig 
@@ -425,7 +435,7 @@
 - Klage:
     - die Klage
     - er hat eine Klage eingereicht 
-
+--
 ### schädigen
 - schädigen:
     - das schädigt meinen Ruf [etwas]
@@ -451,12 +461,30 @@
 ### schulden
 - Schuld:
     - die Schuld 
+    - schuld an etwas [dativ] [haben,geben,tragen,sein,nehmen]
+    - schuld bei anderen suchen [suchen]
     - schuld liegt bei mir, mir wird die schuld zugeschrieben, mich trifft kine schuld 
-    - ich bin daran Schuld 
+    - selber schuld
     - es ist nicht meine Schuld dass du es nicht geschafft hast 
-    - ich kann ihm die Schuld daran nicht geben 
-    - ich habe die Schuld auf mich genommen 
     - mir ist keine Schuld bewusst
+
+- Unschuld:
+    - die Unschuld 
+    - ich glaube an deine Unschuld
+    - die Unschuld eines Kindes 
+
+- unverschuldet:
+- unschuldig:
+    - ich bin unverschuldet 
+    - ich bin an dieser Sache unschuldig 
+
+- verschuldet:
+    - er ist hoch verschuldet
+
+- schuldig:
+    - er ist mir schuldig 
+    - ich bin dir eine Erklärung schuldig
+    - ich bin an der Sache schuldig [an+dativ]
 
 - Schulden:
     - die Schulden 
@@ -465,16 +493,10 @@
 - schulden:
     - ich schulde dir nichts
     - es ist ein mieses Gefühl, jemandem etwas zu schulden 
+    - ich schulde dir 10 Euro / eine Erklärung [akku]
 
 - schuldenfrei:
     - er lebt schuldenfrei
-
-- schuldig:
-    - er ist mir schuldig 
-
-- unverschuldet:
-- unschuldig:
-    - ich bin unverschuldet 
 
 - verschulden:
     - ich habe mich für ihn verschuldet [sich]
@@ -498,12 +520,13 @@
     
 ### leihen 
 - leihen:
+- ausleihen:
     - ich werde dir mein Auto leihen 
     - ich habe mir ein auto geliehen
     - kann ich mir das Auto von dir leihen 
 
 - beleihen:
-    - ich muss mein Haus beleihen um Kredit zu bekommen 
+    - ich muss mein Haus beleihen lassen um Kredit zu bekommen 
 
 - verleihen:
     - ich verleihe gerne nicht mein Auto 
@@ -517,6 +540,7 @@
 
 - herumschubsen:
     - sie haben ihn herumgeschubst 
+    - ich lass mich von dir nicht herumschubsen
 
 - umschubsen:
     - umschmeißen 
@@ -545,7 +569,6 @@
 - ranschmeißen:
     - aber mich jetzt an sie ranzuschmeißen wäre nicht gut von mir 
 
-
 ### kitzeln &&& picken &&& prickeln 
 - kitzeln:
     - das kitzelt mich 
@@ -554,17 +577,20 @@
 - herauskitzeln:
     - ich habe viele Info aus ihm herausgekitzelt 
 
+- piksen:
+    - ich habe mich an etwas gepikset
+    - die Rose pikst 
+    - ich werde dich mit etwas piksen 
+    - das wird jetzt piksen
+
 - prickeln:
-    - es prickelt mich
+    - Das Mineralwasser prickelt auf der Zunge.
 
 - picken:
     - der Vogel pickt das Essen 
 
 - rauspicken:
-    - wir haben die beste rausgepickt 
-
-- piksen:
-    - ich habe mich an etwas gepikset
+    - wir haben mir die beste rausgepickt 
 
 ### mut
 - Mut:
@@ -639,8 +665,11 @@
     - ich will niemandem zumuten 
     - ich glaube ich habe mir zugemutet
 
-- guten Mütes:
-    - ich bin guten Mütes dass ich das schaffen werde 
+- zumutbar
+    - eine Stunde warten ist mir zumutbar
+
+- guten Mutes:
+    - ich bin guten Mutes dass ich das schaffen werde 
 
 - vermuten: 
     - ich vermute er ist bei dem Chef
@@ -689,7 +718,7 @@
     - ich habe Abscheu vor Spinnen 
 
 - scheuen:
-    - ich scheue mich nicht das zu machen 
+    - ich scheue mich nicht das zu machen [sich]
     - ich habe den weiten Weg nicht gesheut um ihn zu beschuchen
     - wir haben keine Mühen gescheut um das zu erreichen 
 
@@ -792,7 +821,11 @@
     - ich benütze List um mich zu betrügen 
 
 - Liste:
+    - die Liste
     - das ist aber eine Lange Liste 
+
+- listig:
+    - er ist listig
 
 - auflisten:
     - ich habe hier alles aufgelistet was wir brauchen 
@@ -853,9 +886,11 @@
 
 - fuchs:
     - er ist ein fuchs
+
 ### täuschen
 - täuschen:
     - ich habe mich in ihm getäuscht 
+    - der Schein täuscht
 
 - enttäuschen:
     - er hat mich enttäuscht 
@@ -890,7 +925,6 @@
     - Geld umtauschen 
     - ich werde das Gerät gegen ein neues Gerät umtauschen 
 
---
 ### scheißen 
 - scheißen:
     - scheiße darauf 
@@ -906,7 +940,7 @@
     - ich bin in einer beschissenen Situation 
 
 - verschissen:
-    - du hast bei mir verschissen 
+    - du hast es bei mir verschissen 
 
 - zusammenscheißen:
     - er hat mich vor einem Fremd zusammengeschissen 
@@ -970,7 +1004,7 @@
 - Überschuss:
 	- der Überschuss
 	- wir haben den Überschuss geschafft 
-
+--
 ### ärgern 
 - ärgern:
     - ich will dich mit meinen Problemen nicht ärgern 
@@ -980,7 +1014,7 @@
     - ich muss mich nicht mehr mit diesem Problem herumärgern 
 
 - verärgern:
-    - ich bin über diese Sache verärgert
+    - ich bin über diese Sache verärgert [über]
 
 - Ärger:
     - ich könnte meinen Ärger darüber nicht verbergen 
@@ -999,9 +1033,9 @@
     - der Spott 
     - er treibt Spott mit ihm 
 
-- verspötten:
-- hänseln:
-- necken:
+- verspotten: [negativ]
+- hänseln: [kinder]
+- necken: [postiv]
     - ich wollte dich nur necken 
 
 ### Strafe
@@ -1096,7 +1130,9 @@
     - er herscht Mangel an Lebensmitteln 
 
 - Angel:
-    - die Angel 
+    - die Angel [fisch,tür]
+    - sie hat ihn an die Angel bekommen 
+    - das hat das alte System aus der Angel gehoben
 
 - Engel:
     - der Engel 
@@ -1270,7 +1306,7 @@
 
 - hervorkramen:
     - ich wollte nicht die alte Erinnerungen hervorkramen
-
+--
 ### welken && blühen 
 - welken:
 - verwelken:
@@ -8378,6 +8414,7 @@
     - da ich anders aussehe, werde ich näturlich herausstechen
 
 ### schlag
+- herumschlagen = herumärgern
 - schlag:
     - der Schlag 
     - das passiert auf einen Schlag 
@@ -15224,15 +15261,6 @@ Stille
 - Ereignis:
     - das Ereignis 
     - das ist größes Ereignis 
-
-### grüßen
-- grüßen:
-    - wir grüßen uns nicht mehr 
-    - bitte grüße ihn von mir 
-
-- begrüßen:
-    - sie hat mich kalt begrüßen [empfängen]
-    - ich kann soetwas nicht begrüßen 
 
 ### klappen 
 - klappen:
@@ -23610,3 +23638,12 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - er hat eine Veranlagung zu korruption 
 - ich  kreige das nicht angewandet 
 - vor zehn jahre war das verpönt
+- du hast die ganze Welt schon bereist
+- das befeuert Angst
+- durchweg
+- das hat keine Resonanz bei den Leuten gefunden 
+- warum hat das Anklang bei den leuten gefunden 
+- ich habe das auch nie geschnallt 
+- ich muss mich durch etwas durchkämpfen 
+- ich habe das vorgespult
+- ich muss mein Team anfeuern
