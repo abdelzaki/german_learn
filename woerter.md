@@ -1246,7 +1246,13 @@
 
 ### spannen 
 - spannen:
-    - ich werde das Kabel nicht sehr stark spannen [straff] 
+    - ich werde das Kabel nicht sehr stark spannen [straff]
+    - die Kleidung spannt über den Bauch 
+    - du musst die Musel spannen 
+    
+ einspannen:
+    - du musst das Holz einspannen bevor du sägen 
+    - nicht fest einspannen sonst wird verformung aufterten 
 
 - Spannung: 
     - die Spannung 
@@ -1603,11 +1609,13 @@
 - vorstrecken:
     - könntest du mir das Geld vorstrecken [vorschießen]
 
-### handeln_
+### handeln
 - handeln:
+    - Essen wird hier gehandelt [kaufen,verkaufen]
+    - wir handeln mit Essen [mit+etwas] [kaufen]
+    - ich habe mit ihm um den Preis gehandelt  [verhandeln]
     - es handelt sich um ein bestimmes Thema [sich]
     - wir müssen handel [etwas unternehmen]
-    - ich habe mit ihm um den Preis gehandelt 
 
 - Händler:
     - der Händler 
@@ -1639,6 +1647,34 @@
 - misshandeln:
     - sie habe ihn misshandelt
 
+### streiten
+- umstritten:   
+    - das Thema ist umstritten 
+
+- unbestritten:
+    - das ist unbestritten
+
+- streiten:
+    - wir streiten uns immer 
+
+- abstreiten:
+    - ich streite den Vorwurf ab 
+    - ich kann ihm seine Kompetenz auf dem Feld nicht abstreiten 
+
+- bestreiten:
+    - ich bestreite nicht dass Berlin gute Stadt ist 
+    - ich bestreite den Haushalt 
+
+- herumstreiten:
+    - ich habe keine Lust mit ihm herumzustreiten
+
+- zerstreiten:
+    - wir haben uns zerstritten
+
+- Streit:
+    - der Streit 
+    - ich werde nicht einen Streit
+
 ### leugnen:
 - leugnen:
 - ableugnen: 
@@ -1653,6 +1689,7 @@
 
 - verweigern:
     - ich verweigere die Befehle 
+    - sie verweigere mir das Geld
 
 ### wehren 
 - wehren:
@@ -1667,6 +1704,8 @@
 ### lehnen
 - lehnen:
     - ich lehne das Fahrrad an die Wand
+    - ich lehne mich an die Wand [bewegung]
+    - ich lehne an der Wand [keine-bewegung]
     - das Fahhrad lehnt an der Wand 
 
 - ablehnen:
@@ -1688,6 +1727,8 @@
 - schwören:
     - ich schwöre dir dass es wahr ist 
     - ich habe mir geschworen [vornehmen]
+    - ich schwöre ich habe das nicht gemacht 
+    - ich kann darauf schwöern [bewusst]
 
 - abschwören:
     - ich habe dem Rauchen abgeschworen 
@@ -1936,6 +1977,7 @@
     - es gibt viel Luft nach oben 
 
 - belüften:
+- lüften:
     - ich will das Zimmer belüften 
 
 - durchlüften:
@@ -1943,6 +1985,7 @@
 
 - entlüften:
     - ich entlüfte den Reifen 
+
 ### riechen
 - riechen:
     - es reicht nach Frühling [nach]
@@ -2040,6 +2083,17 @@
 - entfachen:
     - ein Feuer anfachen 
 
+### zünden 
+- zünden:
+    - die Bombe zünden 
+    - das Holz zündet nicht
+
+- anzünden:
+    - ich zünde die Kerzen an 
+
+- entzünden:
+    - Die Wunde hat sich entzündet 
+
 ### flach && tief
 - flach:
     - das wasser hier ist flach 
@@ -2100,7 +2154,6 @@
     - die Einschränkung 
     - es gibt keine Einschränkungen was man machen kann 
 
-
 - verschränken:
     - die Hande verschränken 
 
@@ -2136,7 +2189,7 @@
     - wir haben viel an Quailtät gespart [an]
     - das hätte ich mir sparen können [sich]
     - ich habe viel Geld gespart 
-    - ich späre für mein Studium
+    - ich späre für / auf mein Studium
 
 - absparen:
     - ich habe mir das Handy vom Taschengeld abgespart [sich]
@@ -2189,9 +2242,11 @@
 
 ### treffen 
 - treffen:
+    - ich bin auf ihn getroffen [zufall]
+    - wir haben uns in Hannover getroffen [vereinbart]
     - das hat das Tor getroffen 
     - Entschiedung treffen 
-    - sich auf einen Kaffee treffen
+    - du hast mich ins Augen getroffen
 
 - betreffen:
     - das betrifft mich nicht  
@@ -2275,7 +2330,7 @@
     - das Beispiel 
     - ich kann das an einem Beispiel erklären 
     - ich kann ein gutes Beispiel anführen 
-
+--
 ### holen 
 - holen:
     - ich werde mir schnell Brot holen 
@@ -2360,6 +2415,7 @@
     - wir haben eine Verzögerung mit 10 Minuten
     
 ### brennen:
+- brand:
 - brennen:
     - bei mir brennen die Augen 
 
@@ -3404,32 +3460,7 @@
     - die Gelassenheit 
     - man soll nicht die Gelassenheit verlieren 
 
-### streiten
-- umstritten:   
-    - das Thema ist umstritten 
-
-- unbestritten:
-    - das ist unbestritten
-
-- streiten:
-    - wir streiten uns immer 
-
-- abstreiten:
-    - ich streite den Vorwurf ab 
-    - ich kann ihm seine Kompetenz auf dem Feld nicht abstreiten 
-
-- bestreiten:
-    - ich bestreite nicht dass Berlin gute Stadt ist 
-
-- herumstreiten:
-    - ich habe keine Lust mit ihm herumzustreiten
-
-- zerstreiten:
-    - wir haben uns zerstritten
-
-- Streit:
-    - der Streit 
-    - ich werde nicht einen Streit mit ihm anfangen 
+ mit ihm anfangen 
     - es gab einen Streit darüber 
 ### warten
 - warten:
@@ -16596,15 +16627,6 @@ Stille
 - geduldig:
     - er ist sehr geduldig
 
-### zünden 
-- zünden:
-    - die Bombe zünden 
-
-- anzünden:
-    - ich zünde die Kerzen an 
-
-- entzünden:
-    - Die Wunde hat sich entzündet 
 
 ### reduzieren 
 - reduzieren:
