@@ -772,7 +772,10 @@
     - mein Kind ist sehr scheu 
 
 - vertauensvoll:
-    - du kann dich jederzeit vertauensvoll an sie wenden
+    - du kann dich jederzeit vertauensvoll an sie wenden 
+
+- drantrauen:
+    - ich traue mich mehr dran das zu machen 
 
 ### glaube
 - glauben:
@@ -1037,6 +1040,9 @@
 - hänseln: [kinder]
 - necken: [postiv]
     - ich wollte dich nur necken 
+
+- verspönt:
+    - vor zehn jahre war das verpönt
 
 ### Strafe
 - Strafe:
@@ -2026,6 +2032,16 @@
 
 - Atmung:
     - die Atmung
+    - flache Atmung 
+
+- Atem:
+    - der Atem 
+    - ich bin / gerate außer Atem 
+    - wieder zu Atem kommen 
+    - zu Atmen kommen 
+    - mit einem Atemzug 
+    - halt den Atem an
+    - die Kinder halten uns in Atem
 
 - husten:
     - er hustet die ganze Zeit 
@@ -2330,10 +2346,11 @@
     - das Beispiel 
     - ich kann das an einem Beispiel erklären 
     - ich kann ein gutes Beispiel anführen 
---
+
 ### holen 
 - holen:
-    - ich werde mir schnell Brot holen 
+    - die Kinder holen
+     ich werde mir schnell Brot holen 
 
 - abholen:
     - ich hole dich morgen am Bahnhof ab 
@@ -2389,7 +2406,7 @@
 
 - später:
     - das können wir später machen 
-    - er hat mich angerufen und 10 Minuten später war erb bei mir 
+    - er hat mich angerufen und 10 Minuten später war er bei mir 
     - ich komme heute etwas später 
 
 - verspäten:
@@ -2399,8 +2416,6 @@
     - die Verspätung 
 
 ### zögern 
-- zögerlichkeit
-
 - zögern:   
     - ich habe mit meiner Antwort gezögerz 
 
@@ -2416,8 +2431,15 @@
     
 ### brennen:
 - brand:
+    - der Brand 
+    - in Brand stehen 
+    - in Brand geraten
+
 - brennen:
+    - Holz brennt gut 
     - bei mir brennen die Augen 
+    - er hat ein Loch in den Teppich gebrannt 
+    - ich habe mich gebrannt 
 
 - abbrennen:
     - das Haus wird abgebrant
@@ -2437,25 +2459,27 @@
     - Kalorie verbennen 
 
 - gebrannt:
-    - ich bin gebranntes Kind 
+    - ich bin ein gebranntes Kind 
 
 ### rennen 
 - rennen:
     - ich renne jeden Tag 
-    - Gegner über den Haufen rennen (= den Gegner im Sturm besiegen)
+    - ich bin mit dem Kopf gegen die Tür gerannt 
     - Gegner über den Haufen rennen (= den Gegner im Sturm besiegen)
 
 - Rennen:
     - das Rennen 
-    - ich kann das Rennen so nicht gewinnen
+    - Zwei Firmen wollten den Auftrag – Siemens hat das Rennen gemacht.
 
 - anrennen:
     - ich muss gegen viel Bürokrate anrennen 
     - Er rennt ständig gegen die Regeln des Unternehmens an und versucht, Innovationen einzuführen.
 
 - einrennen:
+    - die Tür mit dem schulter einrennen
+    - die Kunden rennen uns die Tür ein
     - ich will dass er mir die Tür einrennt und nicht ich ihm
-    -  bei jemandem offene Türen einrennen
+    - bei jemandem offene Türen einrennen
 
 - herumrennen:  
     - ich renne um das Haus herum 
@@ -2470,7 +2494,11 @@
     - er hat alle überrannt die ihm im Wege standen
 
 - umrennen:
-    - der man war sehr schnell und er hat mich umgerannt [umlaufen] [umstoßen]
+    - der man war sehr schnell und er hat mich umgerannt [umlaufen] [umstoßen] 
+
+- hineinrennen:
+    - er ist in den Garten hineingerannt 
+    - Ich bin in ihn hineingerannt
 
 ### trennen
 - trennen:
@@ -2522,6 +2550,7 @@
 
 - ankochen:
     - Bevor du das Fleisch in den Eintopf gibst, solltest du es ankochen, um die Aromen zu versiegeln 
+    - Das Gemüse ist angekocht und kommt jetzt in den Ofen
 
 - aufkochen:
     - ich koche die Milch auf 
@@ -2606,8 +2635,10 @@
     - wir haben Recht auf Bildung 
 
 - gebildet:
+    - er liest viel, er ist gebildeter Mensch 
+
 - ausgebildet:
-    - er ist gebildeter Mensch 
+    - hat eine Ausbildung
 
 - ausbilden:
     - wir müssen neue Leute ausbilden
@@ -2705,6 +2736,8 @@
 
 - einarbeiten:
     - ich muss mich erste in das Projekt einarbeiten 
+    - ich arbeite ihn ein 
+    - ich arbeit den Vorschlag in den Berich ein [hinzufügen]
 
 - kaputtarbeiten:
     - ich will mich nicht kaputtarbeiten 
@@ -2721,11 +2754,16 @@
     - ich habe die Unterschiede herausgearbeitet
 
 ### lesen
+- lesen:
+    - ich lese gerne 
+    - das Buch liest sich gut 
+    - ich habe das in deinem Gesicht gelesen
+
 - ablesen:
     - das kann man an der Endung des Worts ablesen 
     - ablesen(den Strom ablesen)
     - er liest seiner Frau jeden Wunsch von den Augen ab
-    - ich kann das dir von Gesicht ablesen
+    - ich kann dir das von Gesicht ablesen
 
 - anlesen:
     - ich habe das Buch nur angelesen
@@ -2759,12 +2797,13 @@
 
 ### sorge 
 - Sorge:
-    - die Sorge
+    - die Sorge [sorgen]
     - ich mache mir Sorgen um dich
+    - das gibt mir Anlass zur Sorge
     - die Sorge um die Zukunft motivert mich
-    - er trägt Sorge für die Kinder 
     - sie ist in Sorge um das Kind 
     - Frei von Sorgen 
+    - er trägt Sorge für die Kinder 
 
  Fürsorge:
     - die Fürsorge
@@ -2809,6 +2848,7 @@
 
 - fürchten:
     - ich fürchte mich vor Hunden
+    - ich fürchte mich im Dunkeln
 
 - befürchten:
     - ich befürchte dass du Recht hast 
@@ -2857,7 +2897,7 @@
 
 - erstaunt:
     - ich bin erstaunt dass es funktionert hat  
-
+--
 ### wunde 
 - wundern:
 - verwundern:
@@ -2940,7 +2980,6 @@
 
 - labil:
     - die Lage ist Labil
-
 
 ### zeigen
 - zeigen:
@@ -23614,8 +23653,7 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 
 
 ---------
- vertrauensvoll
-- diese Moment war kein Knall 
+ - diese Moment war kein Knall 
 - das ich am Steuer bin
 - Würdige Form 
 - lautlos 
@@ -23659,7 +23697,6 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - das hat bei mir gut angeschlagen 
 - er hat eine Veranlagung zu korruption 
 - ich  kreige das nicht angewandet 
-- vor zehn jahre war das verpönt
 - du hast die ganze Welt schon bereist
 - das befeuert Angst
 - durchweg
@@ -23669,3 +23706,13 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - ich muss mich durch etwas durchkämpfen 
 - ich habe das vorgespult
 - ich muss mein Team anfeuern
+- es geht auf etwas zurück
+- ins Spiel bringen
+- das beweisst das er durchschlagen kann 
+- er ist so geliebt das niemanden gegen sie angetreten ist
+- das ist handfest 
+- das ist das Kalkül 
+- etwas ist vergammeln 
+- knallhart 
+- nach deutschland geschwappt 
+- in eine Familie eingeheiratet
