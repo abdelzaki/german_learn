@@ -2897,7 +2897,7 @@
 
 - erstaunt:
     - ich bin erstaunt dass es funktionert hat  
---
+
 ### wunde 
 - wundern:
 - verwundern:
@@ -3116,11 +3116,15 @@
 
 - anwenden:
     - wie soll ich anwenden 
+    - das kann man nicht auf unseren Fall anwenden
+    - ich  kreige das nicht angewandet 
+
 
 - Anwendung:
     - die Anwendung 
     - Anwendung finden
-    - in / zur Anwendung kommen
+    - in / zur Anwendung kommen 
+    - in Anwendung bringen
 
 - aufwenden:
     - ich muss viel Zeit aufwenden um das zu machen
@@ -3189,7 +3193,7 @@
     - so könntest du den Kontostand abfragen 
 
 - anfragen:
-    - ich kann bei der Post anfragen 
+    - ich kann bei der Post nach dem Brief anfragen 
 
 - If-Abfrage:
     - diese If-Abfrage ist nicht mehr nötig 
@@ -3311,6 +3315,12 @@
 - überfordern:
     - ich will dich nicht überfordern 
 
+- befördern:
+    - er wird zum Teamleiter befördert
+
+- beförderung:
+    - die Beförderung
+
 ### planen
 - Plan:
     - der Plan 
@@ -3332,18 +3342,20 @@
 - verplanen:
     - ich habe meinen ganzen Tag verplant 
     - ich bin den ganzen Zag verplant 
-
+-- 
 ### passen
 - verpassen:
 - versäumen:
 - verbocken:
     - ich habe den Anschlusszug verpasst
     - ich will die Chance nicht verpassen 
+    - ich habe ihm eine verpasst 
 
 - passen:
     - das passt nicht zu meiner Hose
     - das passt nicht ins Auto 
-    - das Hemd passt zur Jacke
+    - das Hemd passt zur Jacke 
+    - bei dieser Frage ich muss passen
 
 - abpassen:
     - ich muss den richtigen Zeitpunkt abpassen 
@@ -3375,18 +3387,29 @@
     - ich habe mein Handy hier gelassen
     - er lasst mich nicht zu Worte
 
-- wartenlassen:
-    - ich habe leider 
+- kommen lassen:
+    - auf ihn lass ich nichts kommen 
+
+- freien lauf:
+    - sie haben mir freien lauf gelassen
+    - seinen Gefühlen freien Lauf lassen
+
+- auf sich warten:
+    - der Bus lässt auf sich warten 
+    - er lässt immer auf sich warten 
+    - ich habe auf mich warten lassen 
+    - tut mir leid dass ich dich auf mich warten lassen
 
 - ergehen lassen:
-    - ich lasse dich nicht über mich ergehen [wehren]
+    - ich lasse das nicht über mich ergehen [wehren]
     
 - ablassen:
     - wir lassen den Gas ab 
     - er hat sich davon abgelassen das zu machen
 
 - nehmen lassen:
-    - ich lasse es mir nicht nehmen, den Kaffe zu trinken
+    - ich lasse es mir nicht nehmen, den Kaffe zu trinken 
+    - ich lasse mir den Urlaub nicht nehemen
 
 - alleinlassen:
     - ich lass dich allein
@@ -3419,7 +3442,7 @@
     - wenn es sehr mühe kostet dann lass es einfach sein.
 
 - herablassen:
-    - ich lasse mich auf zu diesem Nievau nicht herab 
+    - ich lasse mich auf dieses Nievau nicht herab 
 
 - zulassen:
     - es lässt keine freie Entscheidung zu 
@@ -3498,9 +3521,7 @@
 - Gelassenheit:
     - die Gelassenheit 
     - man soll nicht die Gelassenheit verlieren 
-
- mit ihm anfangen 
-    - es gab einen Streit darüber 
+--
 ### warten
 - warten:
     - ich warte schon 2 stunden auf dich [auf]
@@ -3551,6 +3572,13 @@
 - stimmen:
     - das stimmt nicht 
 
+- Stimme:
+    - die Stimme 
+
+- Stimmug:
+    - die Stimmung 
+    - die Stimmung war nicht sehr gut 
+
 - abstimmen:
     - wir können über den Termin abstimmen [voten]
     - ich habe das Ergebnis mit ihm abgestimmt [vereinbaren] 
@@ -3585,12 +3613,6 @@
     - in diesem Punkt stimmen wir überein 
     - das stimmt mit der Realität nicht überein 
     - der errechnte Betrag stimmt nicht mit der Kassenstand überein 
-
-- Stimmung:
-    - die Stimmung war sehr gut  
-
-- Stimme:
-    - die Stimme 
 
 ### kleckern 
 - Leck:
@@ -3732,6 +3754,7 @@
     - ich habe dich ersucht mir zu helfen 
 
 - aufsuchen:
+- besuchen:
     - ich werde einen Artzt aufsuchen [gehen] 
 
 - süchtig:
@@ -3884,6 +3907,7 @@
 ### reden
 - Rede:
     - die Rede 
+    - mit schönen Reden falsche Höffnung machen 
     - sie hat mich zur Rede gestellt nach ich es herausgefunden habe, um zu wissen warum er das gemacht hat 
 
 - Abrede:
@@ -23677,7 +23701,7 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - in den Kalender gucken 
 - 3 wochen am Stück Urlaub
 - das war eine beknackte Idee 
-- er ist zugewandt
+
 - haushalt
 - das ist näturlich ein Ansporn, anreiz
 - man muss am ball bleiben
@@ -23696,7 +23720,6 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - auf dem Holzweg
 - das hat bei mir gut angeschlagen 
 - er hat eine Veranlagung zu korruption 
-- ich  kreige das nicht angewandet 
 - du hast die ganze Welt schon bereist
 - das befeuert Angst
 - durchweg
@@ -23715,4 +23738,9 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - etwas ist vergammeln 
 - knallhart 
 - nach deutschland geschwappt 
-- in eine Familie eingeheiratet
+- in eine Familie eingeheiratet 
+- er hat keinen Besitz mehr 
+- man hat ein Kapital 
+- ich versuche das Gefühl besser rüberzubringen 
+- das weiss ich sehr zu schätzen 
+- Finger in die Wunde legen
