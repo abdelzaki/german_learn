@@ -4191,13 +4191,14 @@
 
 ### sehen
 - sehen:
+    - ich habe sie lange nicht gesehen
     - ich kann dich nicht sehen [see you]
     - ich kenne ihn vom Sehen
     - ich sehe gern nicht auf das Handy
     - ich habe die gute Eigenschaft in dir gesehen 
     - ich sehe es als eine Chance 
     - ich kann nicht gut sehen
-    - ich sehe nach dem Kind 
+    - ich sehe nach dem Kind [kümmern]
 
 - absehen:
     - abgesehen von dem Längen Weg ist alles in Orderung 
@@ -4268,7 +4269,7 @@
 
 - nachsehen:
     - sehe bitte im Kühlschrank nach ob wir Butter haben 
-    - ich habe ihm viel nachgesehen 
+    - ich muss die Hausaufgabe der Kinder nachsehen
     - ich habe ihm seinen Fehler nachgesehen 
     - ich sehe dem Zug nach
 
@@ -4558,7 +4559,6 @@
     - das Gedächtnis 
     - ich habe kein gutes Gedächtnis mehr
 
-
 ### fressen
 - fressen:
   - die Aufgabe frisst viel Zeit
@@ -4582,7 +4582,7 @@
 - hineinfressen: [hineinsteigern]
     - anstatt über sein Problem zu reden, frisst er alles in sich hinein 
     - ich darf das in mich hineinfressen
-
+--
 ### schnappen 
 - schnappen:
     - ich schnappe mir schnell ein T-shirt ich komme mit dir 
@@ -4730,6 +4730,114 @@
     - die Schlaflosigkeit 
     - ich hatte Schlaflosigkeit
 
+### art 
+- ausarten:
+    - das soll nicht in ein langes Gespräch ausarten 
+
+- entarten:
+    - Die Diskussion entartete zu einer Beschimpfung
+
+- artikulieren:
+    - es ist nicht einfach meine Gedanken zu artikulieren 
+
+### bergen 
+- bergen:
+    - ich könnte ihn nicht bergen [person_person]
+    - das birgt viel Risiko in sich [etwas_etwas]
+
+- geborgen:
+    - ich fühle mich bei ihm geborgen 
+
+- Geborgenehit:
+    - ich brauche diese Geborgenheit 
+
+- verbergen:
+    - ich habe vor ihm verborgen dass ich in Ägypten war
+    - er verbirgt sich hinter
+
+- beherbergen:
+    Wir beherbergen die Besucher in unserem Gästezimmer.
+
+- bürgen:
+    - ich bürge für ihn 
+    - wir bürgen für Qualität 
+
+- verbürgen:
+    - wir verbürgen Qualität 
+
+- Bürgschaft:
+    - die Bürgschaft 
+    - sie benötigen Bürgschaft
+
+### Ziffer 
+- Ziffer:
+    - die Ziffer 
+    - er hat 4 Ziffern 
+
+- beziffern:
+    - wir haben die Schaden auf 100 Euro beziffert 
+
+- entziffern:
+    - ich konnte die Nachricht nicht entziffern 
+
+### ledig
+- ledig:
+    - er ist ledig 
+
+- erledigen:
+    - ich habe etwas zu erledigen 
+    - es hat sich von selbst erledigt 
+
+- entledigen:
+    - ich wollte mich dieser Arbeit entledigen 
+
+### schleunigen 
+- beschleunigen:
+    - wir können wir das Verfahren beschleunigen 
+
+- entschleunigen:
+    - ich wollte mich entschleunigen 
+
+### binden 
+- binden:
+- anbinden:
+    - mir sind die Hange gebunden 
+    - wir sind verträglich gebunden 
+    - ich will mich nicht binden
+
+- abbinden:
+    - ich binde die Hunde ab (losbinden) (_festbinden)
+    - ich binde den Arm ab [abschnüren]
+
+- einbinden:
+    - ich binde ihn in die Diskussion ein
+
+- festbinden:
+    - ich binde den Hund fest 
+
+- unterbinden:
+    - er hat das unterbunden 
+
+- verbinden:
+    - ich kann nicht an Wifi verbinden [assoziieren] 
+
+- zubinden:
+- aufbinden:
+    - ich binde den Sack zu 
+
+- zusammenbinden:
+    - ich binde die Haare zusammen 
+
+- entbinden:
+    - ich werde dich von deiner Pflichten entbinden 
+
+- Band: 
+    - das Band, die Bänder
+    - die Bänder sind ok 
+
+- Bandage:
+    - die Bandage 
+    - mit harten Bandagen kämpfen
 ### ent 
 - entarten:
     - die Diskussion entartet zu einem Streit
@@ -4894,9 +5002,6 @@
     - in meiner vorigen Stelle 
 
 ### unter 
-- unterbuttern:
-    - ich bin neu hier aber ich lass mich nicht unterbuttern
-
 - unterbuttern:
     - ich bin neu hier aber ich lass mich nicht unterbuttern
 
@@ -5188,7 +5293,6 @@
     - zunächst müssen wir das planen 
     - wann warst du zuletzt beim Artz
 
-
 ### argument 
 - Argument:
     - das Argument 
@@ -5234,16 +5338,106 @@
 - Zaun:
     - der Zaun
 
-
 ### schmettern
 - schmettern:
     - er hat den Ball geschmettert 
 
+- schmetterling:
+    - der Schmetterling 
+
+- niederschmettern: 
+    - die Nachtricht hat mich niedergeschmettert
+
 - abschmettern:
     - meine bitte wird abgeschmettert 
 
-- zerschettern:
+- zerschmettern:
     - er hat den Glas zerschmettert 
+
+### Ball 
+- Ball:
+    - der Ball 
+    - dem Ball flach halten 
+    - man muss am ball bleiben
+
+
+- ballen:
+    - er ballt seine Hand zur Faust 
+    - Dunkle Wolken ballten sich am Himmel
+
+- zusammenballen:
+    - ball deine Hand zusammen 
+
+- Ballung:
+    - die Ballung 
+    - die Ballung von Gefühlen kann zum Ausbruch führen 
+
+- Ballungszentrum:
+    - das Ballungszentrum 
+    - er wohnt im Ballungszentrum 
+
+- ballern:
+    - nicht ballern 
+    - er hat den Ball gegen die Wand geballert 
+    - er ballert mit der Faust an die Tür
+
+### donnern 
+- donnern:
+    - die Kinder haben den Ball an die Wand gedonnert 
+    - das Auto donnert mit 150 kmh
+
+- aufdonnern:
+    - wieso bist du so aufgedonnert 
+    - er hat sich für die Party aufgedonnert [sich]
+
+- losdonnern:
+    - er donnert mit seinem Auto los 
+
+- vorbeidonnern:
+    - er donnert an uns vorbei
+
+### prallen 
+- prallen:
+    - er prallt mit dem Kopf gegen die Wand 
+
+- aufprallen:
+    - er prallt auf den Boden auf [von-oben-nach-unten] 
+    - er prallt auf einen anderen auf 
+
+- prall:
+    - der Reifen ist sehr prall 
+
+- Zusammenprall:
+- aufprall:
+    - der zusammenprall zweier Autos
+
+- abprallen:_
+- zurückprallen:
+    - der Ball prallt von der Wand ab 
+
+- aufeinanderprallen:
+- gegeneinanderprallen:
+- zusammenprallen:
+    - zwei Autos sind gestern aufeinandergeprallt 
+
+- knallen:
+    - er knallt die tür
+    - er knallt mit den Kopf gegen die wand 
+    - ich knalle dir eine 
+    - die Tür knallt ins Schloss
+    - die Maus knallt auf den Boden [aufprallen] 
+    - dieser Moment war kein Knall 
+
+- Knall:
+    - der Knall 
+    - ein lauter knall 
+    - vor einer Woche kam beu uns der große Knall 
+
+- knall auf fall:   
+    - er hat knall auf fall gekündigt 
+
+- knallhart:
+    - er hat mir eine Meinung knallhart gesagt
 
 ### leiten
 - leiten:
@@ -5367,6 +5561,133 @@
     - der Redenfluss 
     - das hat den Redenfluss gestört 
 
+### schwarm_
+- Schwarm:
+    - der Schwarm 
+    - ein Schwarm Vögel 
+    - es war der Schwarm aller Mädchen 
+
+- schwärmen:
+    - ich schwärme für sie gerade nicht 
+    - sie hat von dem Urlaub geschwärmt 
+    - leute schwärmen ins Resturant
+
+- anschwärmen:
+    - leute schwärmen ihn an 
+
+- umschwärmen:
+    - man wird heute von Bienen umschwärmt 
+
+- anschwärzen:
+    - ich wollte mich bei dem Chef anschwärzen  
+
+### schwemmen
+- schwemmen:
+    - viele Autos werden ins See geschwemmt 
+
+- abschwemmen:
+- wegschwemmen:
+    - der Sand wird von der Straßen abgeschwemmt 
+
+- überschwemmen:
+    - der Fluss überschwemmt die Stadt 
+    - sie werden den Markt überschwemmen 
+
+- Überschwemmung:
+    - die Überschwemmung 
+
+- schwappen:
+    - das Wasser schwappt als ich ins Wasser gespringt habe 
+
+- überschwappen:
+    - das Fass ist übergeschwappt
+
+- schwimmen:
+    - sie schwimmt sehr gut 
+
+- verschwimmen:
+    - die Erinnerung verschimmt 
+
+- schwammig:
+    - es ist sehr schwammig 
+
+### schenken:
+- schenken:
+    - ich habe ihm das geschenkt 
+
+- beschenken:
+    - ich bin mit etwas beschenkt 
+
+- verschenken:
+    - es ist zum Verschenken 
+    - ich werde mein Geld an die Armen verschenken 
+    - ich will nicht diese Zeit verschenken 
+
+- Geschenk:
+    - das Geschenk 
+    - das war ein Geschenkt von meiner Familie 
+
+- nachschenken:
+- einschenken:
+    - soll ich dir mehr Wasser nachschießen 
+
+### gießen 
+- gießen:
+    - ich muss jeden Tag gießen 
+    - ich gieße das Wasser
+
+- abgießen:
+    - ich werde die Pasta abgießen 
+
+- eingießen:
+- ausgießen:
+- weggießen:
+    - ich gieße das Wasser ein
+
+- aufgießen:
+    - ich gieße den Tee mit heissem Wasser auf 
+
+- durchgießen:
+    - ich gieße Tee durch das Sieb durch 
+
+- vergießen:
+    - ich werde keine Träne vergießen 
+    - ich habe den Tee vergossen [verschütten]
+
+### schütten
+- schütten:
+    - wasser in den Eimer schütten 
+
+- ausschütten:
+    - ich werde die Flasche ausschütten 
+    - ich habe ihr mein Herz ausschüttet 
+
+- beschütten:
+    - ich habe das Bild mit Wasser beschüttet 
+
+- aufschütten:
+    - sand auf das Land aufschütten 
+
+- überschütten:
+    - ich habe sie mit Geschenke überschüttet
+    
+- verschütten:
+    - ich habe meinen Kaffe verschüttet 
+
+- zuschütten:
+    - soll ich mehr wasser zuschütten
+    - ich werde das Loch zuschütten
+
+- wegschütten:
+    - ich werde die vordorbene Milch wegschütten
+
+- erschüttern:  
+    - das hat micht erschüttert 
+
+- Schutt:
+    - der Schutt 
+    - wir müssen den Schutt abladen 
+
 ### stopfen
 - stopfen:
     - ich werde es mit einem Stoff stopfen 
@@ -5393,7 +5714,7 @@
     - ich habe nicht registriert dass er angekommen ist 
     - ich muss mich erste registrieren 
 
-### Fall:*
+### Fall:
 - Fall:
     - der Fall 
     - ob so ein Fall eintreten wird 
@@ -5487,7 +5808,8 @@
 - abfallen:
     - was fällt für mich ab 
     - er fällt vom Glauben ab 
-    - die Prise fallen ab
+    - die Prise fallen ab 
+    - für jemanden fällt etwas ab
 
 - anfallen:
     - ein Tier hat mich anfallen (mit objekt) [überfallen] [mit Tieren]
@@ -5496,11 +5818,11 @@
 
 - auffallen:
     - ist dir an ihm nichts besonders aufgefallen? 
+    - er fallt auf weil er sehr groß ist
 
 - ausfallen:
     - das lassen wir heute ausfallen 
     - das Meeting fällt heute aus 
-    - wir lassen das Meeting heute ausfallen
     - das könnte am Ende postiv ausfallen[turn_out]
     - das fällt am Ende kleiner aus 
 
@@ -5515,6 +5837,7 @@
 
 - einfallen:
     - der Name fällt mir gerade nicht ein 
+    - Das Haus ist eingefallen
 
 - einfallsreich:
 - einfallslos:
@@ -9694,39 +10017,7 @@
 - schuften:
     - ich bin bereit dafür zu schuften 
 
-### schütten
-- schütten:
-    - wasser in den Eimer schütten 
 
-- ausschütten:
-    - ich werde die Flasche ausschütten 
-    - ich habe ihr mein Herz ausschüttet 
-
-- beschütten:
-    - ich habe das Bild mit Wasser beschüttet 
-
-- aufschütten:
-    - sand auf das Land aufschütten 
-
-- überschütten:
-    - ich habe sie mit Geschenke überschüttet
-    
-- verschütten:
-    - ich habe meinen Kaffe verschüttet 
-
-- zuschütten:
-    - soll ich mehr wasser zuschütten
-    - ich werde das Loch zuschütten
-
-- wegschütten:
-    - ich werde die vordorbene Milch wegschütten
-
-- erschüttern:  
-    - das hat micht erschüttert 
-
-- Schutt:
-    - der Schutt 
-    - wir müssen den Schutt abladen 
 
 ### beben 
 - Beben:
@@ -9846,46 +10137,6 @@
 
 - umkippen:
     - ich werde umkippen 
-
-### binden 
-- binden:
-- anbinden:
-    - mir sind die Hange gebunden 
-    - wir sind verträglich gebunden 
-
-- abbinden:
-    - ich binde die Hunde ab (losbinden) (_festbinden)
-    - ich binde den Arm ab [abschnüren]
-
-- einbinden:
-    - ich binde ihn in die Diskussion ein
-
-- festbinden:
-    - ich binde den Hund fest 
-
-- unterbinden:
-    - er hat das unterbunden 
-
-- verbinden:
-    - ich kann nicht an Wifi verbinden [assoziieren]
-
-- zubinden:
-- aufbinden:
-    - ich binde den Sack zu 
-
-- zusammenbinden:
-    - ich binde die Haare zusammen 
-
-- entbinden:
-    - ich werde dich von deiner Pflichten entbinden 
-
-- Band: 
-    - das Band, die Bänder
-    - die Bänder sind ok 
-
-- Bandage:
-    - die Bandage 
-    - mit harten Bandagen kämpfen
 
 ### spalten
 - spalten:
@@ -13425,34 +13676,6 @@ Stille
 - erlöschen:
     - die Liebe erlischt mit der Zeit 
 
-### bergen 
-- bergen:
-    - ich könnte ihn nicht bergen [person_person]
-    - das birgt viel Risiko in sich [etwas_etwas]
-
-- geborgen:
-    - ich fühle mich bei ihm geborgen 
-
-- Geborgenehit:
-    - ich brauche diese Geborgenheit 
-
-- verbergen:
-    - ich habe vor ihm verborgen dass ich in Ägypten war
-    - er verbirgt sich hinter
-
-- beherbergen:
-    Wir beherbergen die Besucher in unserem Gästezimmer.
-
-- bürgen:
-    - ich bürge für ihn 
-    - wir bürgen für Qualität 
-
-- verbürgen:
-    - wir verbürgen Qualität 
-
-- Bürgschaft:
-    - die Bürgschaft 
-    - sie benötigen Bürgschaft
 
 ### bereiten
 - bereit:
@@ -15111,27 +15334,7 @@ Stille
 - aussieben:
     - ich siebe die Steine aus 
 
-### gießen 
-- gießen:
-    - ich muss jeden Tag gießen 
 
-- abgießen:
-    - ich werde die Pasta abgießen 
-
-- eingießen:
-- ausgießen:
-- weggießen:
-    - ich gieße das Wasser ein
-
-- aufgießen:
-    - ich gieße den Tee mit heissem Wasser auf 
-
-- durchgießen:
-    - ich gieße Tee durch das Sieb durch 
-
-- vergießen:
-    - ich werde keine Träne vergießen 
-    - ich habe den Tee vergossen [verschütten]
 
 ### zer
 - zerbeulen:
@@ -16293,24 +16496,7 @@ Stille
 - aufbürden:
     - ich will dir schwer Last aufbürden 
 
-### Ball 
-- Ball:
-    - der Ball 
-    - dem Ball flach halten
 
-- ballen:
-    - er ballt seine Hand zur Faust
-
-- zusammenballen:
-    - ball deine Hand zusammen 
-
-- Ballung:
-    - die Ballung 
-    - die Ballung von Gefühlen kann zum Ausbruch führen 
-
-- Ballungszentrum:
-    - das Ballungszentrum 
-    - er wohnt im Ballungszentrum
 
 ### landen 
 - landen:
@@ -17995,16 +18181,7 @@ Stille
 	- der Tipp
 	- darf ich dir einen Tipp geben 
 
-### Ziffer 
-- Ziffer:
-    - die Ziffer 
-    - er hat 4 Ziffern 
 
-- beziffern:
-    - wir haben die Schaden auf 100 Euro beziffert 
-
-- entziffern:
-    - ich konnte die Nachricht nicht entziffern 
 
 ### fähig 
 - befähigen:
@@ -18045,25 +18222,6 @@ Stille
 - zukleben:
     - ich klebe den Brief zu 
 
-### schenken:
-- schenken:
-    - ich habe ihm das geschenkt 
-
-- beschenken:
-    - ich bin mit etwas beschenkt 
-
-- verschenken:
-    - es ist zum Verschenken 
-    - ich werde mein Geld an die Armen verschenken 
-    - ich will nicht diese Zeit verschenken 
-
-- Geschenk:
-    - das Geschenk 
-    - das war ein Geschenkt von meiner Familie 
-
-- nachschenken:
-- einschenken:
-    - soll ich dir mehr Wasser nachschießen 
 
 ### Ziel 
 - Zielführend:
@@ -18360,22 +18518,8 @@ Stille
 
 
 
-### schleunigen 
-- beschleunigen:
-    - wir können wir das Verfahren beschleunigen 
 
-- entschleunigen:
-    - ich wollte mich entschleunigen 
 
-### art 
-- ausarten:
-    - das soll nicht in ein langes Gespräch ausarten 
-
-- entarten:
-    - Die Diskussion entartete zu einer Beschimpfung
-
-- artikulieren:
-    - es ist nicht einfach meine Gedanken zu artikulieren 
 
 ### lohn 
 - lohnen:
@@ -19610,16 +19754,7 @@ Stille
     - die Zukunftsmusik 
     - das ist alles zukunftsmusik
 
-### ledig
-- ledig:
-    - er ist ledig 
 
-- erledigen:
-    - ich habe etwas zu erledigen 
-    - es hat sich erledigt 
-
-- entledigen:
-    - ich wollte mich dieser Arbeit entledigen 
 
 ### macken 
 - meckern:
@@ -20646,53 +20781,7 @@ Stille
 - verdampfen:
     - Wasser verdampft bei 100 c
 
-### schwarm_
-- Schwarm:
-    - der Schwarm 
-    - ein Schwarm Vögel 
-    - es war der Schwarm aller Mädchen 
 
-- schwärmen:
-    - ich schwärme für sie gerade nicht 
-    - sie hat von dem Urlaub geschwärmt 
-
-- anschwärmen:
-    - leute schwärmen ihn an 
-
-- umschwärmen:
-    - man wird heute von Bienen umschwärmt 
-
-- anschwärzen:
-    - ich wollte mich bei dem Chef anschwärzen  
-
-### schwemmen
-- schwemmen:
-    - viele Autos werden ins See geschwemmt 
-
-- abschwemmen:
-    - der Sand wird von der Straßen abgeschwemmt 
-
-- überschwemmen:
-    - der Fluss überschwemmt die Stadt 
-    - sie werden den Markt überschwemmen 
-
-- Überschwemmung:
-    - die Überschwemmung 
-
-- schwappen:
-    - das Wasser schwappt als ich ins Wasser gespringt habe 
-
-- überschwappen:
-    - das Fass ist übergeschwappt
-
-- schwimmen:
-    - sie schwimmt sehr gut 
-
-- verschimmen:
-    - die Erinnerung verschimmt 
-
-- schwammig:
-    - es ist sehr schwammig 
 
 ### affe &&& waffe
 - Affe:
@@ -20982,42 +21071,6 @@ Stille
 - aufhübschen:
     - ich werde das Haus aufhübschen 
 
-### donnern 
-- donnern:
-    - die Kinder haben den Ball an die Wand gedonnert 
-
-- aufdonnern:
-    - wieso bist du so aufgedonnert 
-
-- losdonnern:
-    - er donnert mit seinem Auto los 
-
-- vorbeidonnern:
-    - er donnert an uns vorbei
-
-### prallen 
-- prallen:
-- aufprallen:
-    - er prallt mit dem Kopf gegen die Wand 
-
-- prall:
-    - der Reifen ist sehr prall 
-
-- abprallen:_
-- zurückprallen:
-    - der Ball prallt von der Wand ab 
-
-- aufeinanderprallen:
-- gegeneinanderprallen:
-- zusammenprallen:
-    - zwei Autos sind gestern aufeinandergeprallt 
-
-- knallen:
-    - die Maus knallt auf den Boden 
-
-- Knall:
-    - der Knall 
-    - vor einer Woche kam beu uns der große Knall
 
 ### putzen
 - putzen:
@@ -23677,7 +23730,6 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 
 
 ---------
- - diese Moment war kein Knall 
 - das ich am Steuer bin
 - Würdige Form 
 - lautlos 
@@ -23701,10 +23753,8 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - in den Kalender gucken 
 - 3 wochen am Stück Urlaub
 - das war eine beknackte Idee 
-
 - haushalt
 - das ist näturlich ein Ansporn, anreiz
-- man muss am ball bleiben
 - die reichweite, tragweite
 - Muskelatur , muskelkater 
 - es ist sehr wichtig im Alter 
@@ -23736,11 +23786,18 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - das ist handfest 
 - das ist das Kalkül 
 - etwas ist vergammeln 
-- knallhart 
 - nach deutschland geschwappt 
 - in eine Familie eingeheiratet 
 - er hat keinen Besitz mehr 
 - man hat ein Kapital 
 - ich versuche das Gefühl besser rüberzubringen 
 - das weiss ich sehr zu schätzen 
-- Finger in die Wunde legen
+- Finger in die Wunde legen 
+- Rückschluss haben 
+- opfer bringen 
+- im Ernst
+- wenn wir ein Kind bekommen dann will ich Aufgabenteilung, dann will ich die Augenhöhe 
+-  kannst du den Mund halten wenn sich die erwaschsenen unterhalten
+- verunfallt 
+- ja das macht es schon mein ganzes Leben lang 
+- vermasseln, versaubeuteln, verhauen
