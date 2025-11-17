@@ -5991,9 +5991,12 @@
 
 ### werfen
 - werfen:
+    - jemandem etwas an den Kopf werfen
+    - er hat mir meine Fehler ins Gesicht geworfen
     - ich kann sehr weit werfen 
     - ich werde es auf dich werfen 
-    - wir habe es über Bord geworfen
+    - wir habe es über Bord /über den Haufen geworfen
+    - Kinder werfen ihre Spielsachen auf den Haufen
 
 - abwerfen:
     - die Bäume werfen die Blätter ab 
