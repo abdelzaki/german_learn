@@ -5996,7 +5996,8 @@
     - ich kann sehr weit werfen 
     - ich werde es auf dich werfen 
     - wir habe es über Bord /über den Haufen geworfen
-    - Kinder werfen ihre Spielsachen auf den Haufen
+    - Kinder werfen ihre Spielsachen auf den Haufen 
+    - mit geld um sich werfen
 
 - abwerfen:
     - die Bäume werfen die Blätter ab 
@@ -6031,7 +6032,7 @@
 
 - umwerfen: (umstoßen)
     - ich werfe es um 
-    . die Nachricht hat mich umgeworfen
+    - die Nachricht hat mich umgeworfen
 
 - unterwerfen:_
     - er hat das Land unterworfen
@@ -6122,7 +6123,7 @@
 ### ziehen
 - Rückzieher:
     - der Rückzieher 
-    - er hat einen Rückzieher gemacht 
+    - er hat einen Rückzieher von seinen Plänen gemacht 
 
 - Anzug:
     - der Anzug  
@@ -6134,6 +6135,14 @@
 - Grundzug:
     - der Grundzug 
     - das ist die Grundzüge der Sprache 
+
+- Zug:
+    - der Zug
+    - ich habe das genossen in vollen zügen
+
+- Aufzug:
+    - der Aufzug 
+    - ich benutze den Aufzug
 
 - zügig:
     - das könnte zügig gehen 
@@ -6162,7 +6171,8 @@
     - ich ziehe mich/das Kind warm an 
     - ich ziehe mir ein Hemd an
     - das Licht zieht Mücken an 
-    - den Arm anziehen
+    - den Arm / das Bein anziehen 
+    - die Schraube / handbremse anziehen
     - der Wagen zieht gut an (ohne objekt) 
 
 - anziehungskraft:
@@ -6188,7 +6198,7 @@
     - bettwäsche beziehen 
     - das Bett neu beziehen 
     - wir beziehen neu wohnung
-    - eine STellung beziehen
+    - eine Stellung beziehen
 
 - Beziehung:
     - die Beziehung 
@@ -6238,13 +6248,17 @@
 
 - hinziehen:
     - sie ist zu mir hingezogen
-    - der Process zieht sich über Wochen hin 
+    - er wollte den Process hinziehen um zeit zu gewinnen
+    - der Process zieht sich über Wochen hin [sich]
 
 - hinzuziehen:
     - ich werde gern Gerhad zu dieser Entschiedung hinzuziehen (dazuholen)
 
 - heranziehen:
-    - die Kinder zu Arbeiten im Haushalt heranziehen
+    - ziehe den Stul an den Tisch heran
+    - ich ziehe Gerhard zu dieser Entscheidung heran 
+    - ich ziehe diesen Mittel heran um das zu beweisen
+    - die Kinder zu Arbeiten im Haushalt heranziehen [zu]
 
 - hochziehen:
     - das Bein hochziehen
@@ -6313,6 +6327,13 @@
 - bevorzugen:
     - ich bevorzuge den ersten Vorschag vor meinem Vorschag 
     - ich wird bevorzugt behandelt 
+
+- verzeihen:
+    - er hat mir meinen Fehler verziehen 
+
+- Verzeihung:   
+    - die Verzeichung 
+    - Verzeihung wo ist der Ausgang 
 
 ### zeugen
 - Zeugnis:
@@ -6488,7 +6509,7 @@
 
 - herumtreiben:
     - er treibt sich einfach herum  
-**
+--
 ### führen 
 - führen:
     - ich will das vor Augen führen 
@@ -6792,7 +6813,6 @@
     - der Befund 
     - der Befund war negativ 
     
-
 ### treten
 - treten:
     - das Gesetzt wird später in Kräft treten 
@@ -6865,7 +6885,6 @@
 
 - Stellvertretend:
     - das war ein stellvertretender Krieg 
-
 
 ### stoßen
 - stoßen:
@@ -6987,7 +7006,6 @@
     - es ruckelt
     - der Motor beginnt zu ruckeln 
     - beim Anfahren ruckelt das Auto 
-
 
 ### greifen
 - greifen:
@@ -23746,7 +23764,6 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - wir waren im Streit 
 - manchmal ist man so verfahren in seinen Mustern dass es helf kann wenn man von Aussen draufguckt 
 - ich komme zu dir 
-- ich habe das genossen in vollen zügen
 - es war so wehnig dass ich an den Punkt kam wo ich angefangen habe das nicht nur zu bemerken sondern darunter zu leiden 
 - ich muss mich damit arrangieren 
 - menge abhanden gekommen 
@@ -23804,3 +23821,10 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - verunfallt 
 - ja das macht es schon mein ganzes Leben lang 
 - vermasseln, versaubeuteln, verhauen
+- du hast einen Anspruch auf  frühe Verrentung 
+- das ist eine Sauerei 
+- spielst du mir einen Streich 
+- zur gleichen zeit 
+- ist jetzt CHrist an Bord 
+- das gehört wirkich nicht hierher
+- dir ist die Frau davon gelaufen 
