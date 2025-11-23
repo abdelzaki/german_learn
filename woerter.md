@@ -1318,7 +1318,7 @@
 
 - hervorkramen:
     - ich wollte nicht die alte Erinnerungen hervorkramen
---
+
 ### welken && blühen 
 - welken:
 - verwelken:
@@ -3342,7 +3342,7 @@
 - verplanen:
     - ich habe meinen ganzen Tag verplant 
     - ich bin den ganzen Zag verplant 
--- 
+
 ### passen
 - verpassen:
 - versäumen:
@@ -3521,7 +3521,7 @@
 - Gelassenheit:
     - die Gelassenheit 
     - man soll nicht die Gelassenheit verlieren 
---
+
 ### warten
 - warten:
     - ich warte schon 2 stunden auf dich [auf]
@@ -4582,7 +4582,7 @@
 - hineinfressen: [hineinsteigern]
     - anstatt über sein Problem zu reden, frisst er alles in sich hinein 
     - ich darf das in mich hineinfressen
---
+
 ### schnappen 
 - schnappen:
     - ich schnappe mir schnell ein T-shirt ich komme mit dir 
@@ -6509,7 +6509,7 @@
 
 - herumtreiben:
     - er treibt sich einfach herum  
---
+
 ### führen 
 - führen:
     - ich will das vor Augen führen 
@@ -6675,6 +6675,7 @@
 
 - reinfahren:
     - gestern ist mir jemand reingefahren
+    - in mich reingefahren
 
 - überfahren:
     - er hat mich mit diesem Angebot überfahren
@@ -6752,6 +6753,164 @@
     - der Aufzug
 	- ich muss ein paar minuten auf den Fahrstuhl warten
 
+### reisen
+- Reise:
+    - die Reise 
+    - ich war auf Reisen 
+    - ich gehe auf Reisen / auf die Reise
+    - auf der Reise habe ich viel erlebt 
+
+- reisen:
+    - ich reise mit dem Zug 
+    - ich reise nach Deutschland 
+
+- verreisen:
+    - ich bin verreist 
+    - ich werde übers Wochenende verreisen
+
+- anreisen:
+- abreisen:
+    - wann reist du an 
+
+- einreisen:
+- ausreisen:
+    - ich dürfe nicht aus Deutschland ausreisen 
+
+- breisen:
+    - ich habe schon die Welt bereist
+
+- durchreisen:
+    - ich habe das land nur durchgereist 
+
+- hinreisen:
+    - wo möchtest du hinreisen 
+
+### kreisen
+- kreisen:
+    - die Erde kreist um die Sonne 
+
+- umkreisen:
+    - die Erde umkreist die Sonne [umlaufen]
+
+- Umkreis:
+    - der Umkreis
+
+- einkreisen:
+    - wir haben das Problem eingekreist  
+
+- Kreislauf:
+    - der Kreislauf
+    - Duschen regt den Kreislauf an 
+
+- Kreis:
+    - der Kreis 
+    - wir treffen uns in einem kleinen Kreis
+
+- Krise:
+    - die Krise 
+    - wir befinden uns gerade in einer Krise
+
+### fliegen
+- Flug:
+    - der Glug 
+    - ich habe einen Flug gebucht 
+    - ich wünsche dir guten Flug 
+
+- Abflug:
+- Anflug:
+    - der Abflug 
+    - der Anflug
+    - der Abflug wird sich verspäten 
+    - wir befinden uns im Abflug
+
+- fliegen:
+    - ich fliege nach Ägypten 
+
+- anfliegen:
+    - Ägypten wird nicht mehr angeflogen [nach Äygpten fliegen]
+
+- abfliegen:
+    - unser Flugzeug ist pünktlich abgeflogen 
+
+- auffliegen:
+    - ich bin aufgeflogen [entdeckt werden]
+
+- ausfliegen:
+    - alle sind ausgeflogen 
+
+- einfliegen:
+    - die Bauteile müssen eingeflogen werden
+
+- verfliegen:
+    - meine Begeisterung verfliegen schnell 
+
+- überfliegen:
+    - ich habe den code nur überflogen um mir einen groben überblick zu schaffen
+
+- zufliegen:
+    - Meiner Schwester fliegen Sprachen zu, sie muss sich gar nicht anstrengen. [zufallen] 
+
+- Fliege:
+    - die Fliege 
+    - es gibt viel Fliege  
+
+### fliehen && flüchten_
+- fliehen:
+    - ich will aus dem Land fliehen 
+
+- entfliehen:
+    - ich will dem Alttag entfliehen 
+
+- flüchten:
+    - ich will aus dem Land flüchten 
+
+- verflüchtigen:
+    - Alkoho verflüchtigt sich beim Kochen 
+    - mein Ärger hat sich verflüchtigt 
+
+- Flüchtling:
+    - er ist ein Flüchtling 
+
+- Flucht:
+    - die Flucht 
+    - er ist auf Flucht 
+
+- Zuflucht:
+    - die Zuflucht 
+    - das ist eine gute Zuflucht 
+
+- Fluchtartig:
+    - er hat Fluchtartig das Zimmer verlassen 
+
+- flüchtig:
+    - ich kenne ihn nur flüchtig [oberflächlich]
+    - ich habe es flüchtig gelesen
+
+### schnallen 
+- schnallen:
+- festschnallen:
+    - ich muss das Fahrrad schnallen 
+    - ich kann das nicht schnallen
+
+- abschnallen:
+    - du kannst abschnallen wenn du willst 
+
+- anschnallen:
+    - ich schnalle mich an 
+    - bist du angeschnallt 
+    - hast du dich angeschnallt 
+
+### wandern 
+- wandern:
+    - ich gehe gerne wandern 
+
+- abwandern: 
+    - viele leute sind abgewandert 
+
+- auswandern:
+- einwandern: 
+    - er wandert nach Amerika aus 
+
 ### finden
 - finden:
     - ich weiss nicht was du an ihm gut findest 
@@ -6775,6 +6934,9 @@
 - hineinfinden:
     - ich brauche Zeit bis ich mich in die neue Rolle hineinfinden [einleben] [eingewöhnen]
 
+- einfinden:
+    - ich muss mich zeitich am Bahnhof einfinden
+
 - empfinden:
     - sie empfindet etwas für ihn 
 
@@ -6783,9 +6945,6 @@
 
 - durchfinden:
     - ich finde mich durch die Stadt durch 
-
-- einfinden:
-    - ich muss mich zeitich am Bahnhof einfinden
 
 - zurechtfinden:
     - das ist sehr komplexes System, man findet sich nicht schnell zurecht 
@@ -6812,25 +6971,30 @@
 - Befund:
     - der Befund 
     - der Befund war negativ 
-    
+
 ### treten
 - treten:
+    - er hat einen Hund / den ball / eine Person in den Bauch getreten 
+    - auf die Bremse treten / bei ausgaben auf die bremse treten
+    - ich will dir nicht auf die Füße treten aber das ist falsch 
     - das Gesetzt wird später in Kräft treten 
     - ich wollte dir nicht zu nahe treten aber das war nicht richtig 
-    - ich will dir nicht auf die Füße treten aber das ist falsch 
     - ich habe am Anfang abgenommen aber seit einer Monat trete ich auf der Stelle 
     - das kann man in die Tonne treten 
     - wir habe die Regel mit Füßen getreten 
 
 - abtreten:
     - der Chef muss abtreten 
+    - er habe meinen Platz an ihn abgetreten
 
 - antreten:
     - ich trete morgen die neue Stelle an 
 
 - auftreten:
     - dieser Effekt tritt bei höheren Temperature auf 
-    - die Polizei tritt sehr aggressiv auf 
+    - die Polizei tritt sehr aggressiv auf  [irgendwie] [verhalten] 
+    - ich trete die Tür auf 
+    - vorsichtig auftreten [die_füße]
 
 - Auftreten:
     - das Auftreten 
@@ -6840,7 +7004,8 @@
     - ich trete aus der Partei aus 
 
 - eintreten:
-    - ich trete in die Partei ein 
+    - ich trete in die Partei ein [in]
+    - ich trete für die leute ein [für] [verteidigen]
     - ob dieser Fall eintreten wird, weiss ich nicht 
 
 - beitreten:
@@ -6874,6 +7039,7 @@
 - vertreten:
     - ich vertrete diese Meineung nicht 
     - ich habe ihn vertreten
+    - ich habe mir den Fuß vertreten
 
 - zusammentreten:
     - ich trete den Karton zusammen damit es in den Müllton passt 
@@ -6886,19 +7052,24 @@
 - Stellvertretend:
     - das war ein stellvertretender Krieg 
 
+- tritt:
+    - der Tritt 
+
 ### stoßen
 - stoßen:
     - haben + akku 
-        - er hat mich gestoßen [schieben/schlagen]
+        - er hat mich mit dem Elbbogen gestoßen [schieben/schlagen] [keine_verletzung]
         - ich habe mir den Kopf an der Decke gestoßen
-        - er hat seine Frau gestoßen 
-        - ich habe mich den Kopf gestoßen 
-        - er hat mich von sich gestoßen
+        - ich habe etwas mit etwas gestoßen
+        - er hat seine Frau gestoßen [schieben]
+        - er hat mich von sich gestoßen [schieben] 
+        - ich habe mich an [dativ] gestoßen [ausnahme_ohne_akku] [sich_ärgern]
 
-    - sein -> bewegung 
+    - sein -> bewegung ohne akku
         - ich bin mit dem Kopf an die Decke gestoße
         - ich bin an meine Grenzen gestoßen 
-        - ich bin auf das Problem gestoßen
+        - ich bin auf das Problem gestoßen [zufällig] 
+        - er wird später zu uns stoßen [dazu]
 
 - abstoßen: 
     - ich stoße mich von Rand ab 
@@ -6922,6 +7093,7 @@
 
 - ausstoßen:
     - er wird aus der Partei ausgestoßen 
+    - auto stoss abgas aus
 
 - verstoßen:
     - du hat gegen die Regel verstoßen
@@ -6932,6 +7104,7 @@
 
 - zustoßen:
     - ein mann wird zugestoßen 
+    - Ein schlimmes Unglück ist ihm zugestoßen
 
 - umstoßen:
     - jemand hat mein Fahrrad umgestoßen [umwerfen]
@@ -10746,36 +10919,7 @@
     - die Wirbelsäule
     - es ist gut für die Wirbelsäule  
 
-### reisen
-- Reise:
-    - die Reise 
-    - ich war auf Reisen 
-    - ich gehe auf Reisen
-    - auf der Reise habe ich viel erlebt 
 
-- reisen:
-    - ich reise mit dem Zug 
-    - ich reise nach Deutschland 
-
-- verreisen:
-    - ich bin verreist 
-    - ich werde übers Wochenende verreisen
-
-- anreisen:
-- abreisen:
-    - wann reist du an 
-
-- einreisen:
-- ausreisen:
-    - ich dürfe nicht aus Deutschland ausreisen 
-
-
-
-- durchreisen:
-    - ich habe das land nur durchgereist 
-
-- hinreisen:
-    - wo möchtest du hinreisen 
 
 ### lasten 
 - lasten:
@@ -15720,30 +15864,7 @@ Stille
     - die Wissenschaft
     - das ist Wissenschaft für sich 
 
-### kreisen
-- kreisen:
-    - die Erde kreist um die Sonne 
 
-- umkreisen:
-    - die Erde umkreist die Sonne [umlaufen]
-
-- Umkreis:
-    - der Umkreis
-
-- einkreisen:
-    - wir haben das Problem eingekreist  
-
-- Kreislauf:
-    - der Kreislauf
-    - Duschen regt den Kreislauf an 
-
-- Kreis:
-    - der Kreis 
-    - wir treffen uns in einem kleinen Kreis
-
-- Krise:
-    - die Krise 
-    - wir befinden uns gerade in einer Krise
 
 ### jagen
 - jagen:
@@ -16406,105 +16527,7 @@ Stille
 - Meuterei:
     - die Meuterei 
 
-### fliegen
-- Flug:
-    - der Glug 
-    - ich habe einen Flug gebucht 
-    - ich wünsche dir guten Flug 
 
-- Abflug:
-- Anflug:
-    - der Abflug 
-    - der Anflug
-    - der Abflug wird sich verspäten 
-    - wir befinden uns im Abflug
-
-- fliegen:
-    - ich fliege nach Ägypten 
-
-- anfliegen:
-    - Ägypten wird nicht mehr angeflogen [nach Äygpten fliegen]
-
-- abfliegen:
-    - unser Flugzeug ist pünktlich abgeflogen 
-
-- auffliegen:
-    - ich bin aufgeflogen [entdeckt werden]
-
-- ausfliegen:
-    - alle sind ausgeflogen 
-
-- einfliegen:
-    - die Bauteile müssen eingeflogen werden
-
-- verfliegen:
-    - meine Begeisterung verfliegen schnell 
-
-- überfliegen:
-    - ich habe den code nur überflogen um mir einen groben überblick zu schaffen
-
-- zufliegen:
-    - Meiner Schwester fliegen Sprachen zu, sie muss sich gar nicht anstrengen. [zufallen] 
-
-- Fliege:
-    - die Fliege 
-    - es gibt viel Fliege  
-
-### fliehen && flüchten_
-- fliehen:
-    - ich will aus dem Land fliehen 
-
-- entfliehen:
-    - ich will dem Alttag entfliehen 
-
-- flüchten:
-    - ich will aus dem Land flüchten 
-
-- verflüchtigen:
-    - Alkoho verflüchtigt sich beim Kochen 
-    - mein Ärger hat sich verflüchtigt 
-
-- Flüchtling:
-    - er ist ein Flüchtling 
-
-- Flucht:
-    - die Flucht 
-    - er ist auf Flucht 
-
-- Zuflucht:
-    - die Zuflucht 
-    - das ist eine gute Zuflucht 
-
-- Fluchtartig:
-    - er hat Fluchtartig das Zimmer verlassen 
-
-- flüchtig:
-    - ich kenne ihn nur flüchtig [oberflächlich]
-    - ich habe es flüchtig gelesen
-
-### schnallen 
-- schnallen:
-- festschnallen:
-    - ich muss das Fahrrad schnallen 
-
-- abschnallen:
-    - du kannst abschnallen wenn du willst 
-
-- anschnallen:
-    - ich schnalle mich an 
-    - bist du angeschnallt 
-    - hast du dich angeschnallt 
-
-### wandern 
-- wandern:
-    - ich gehe gerne wandern 
-
-- abwandern: 
-    - viele leute sind abgewandert 
-
-- auswandern:
-- einwandern: 
-    - er wandert nach Amerika aus 
 
 ### bürde
 - Bürde:
@@ -23828,3 +23851,5 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - ist jetzt CHrist an Bord 
 - das gehört wirkich nicht hierher
 - dir ist die Frau davon gelaufen 
+- offenbaren meine Gefühle 
+- 
