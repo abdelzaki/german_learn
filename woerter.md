@@ -3119,7 +3119,6 @@
     - das kann man nicht auf unseren Fall anwenden
     - ich  kreige das nicht angewandet 
 
-
 - Anwendung:
     - die Anwendung 
     - Anwendung finden
@@ -7131,14 +7130,15 @@
     - könntest du ein bisschen rutschen
 
 - reinrutschen:
-    - ich muss sagen ich bin in die SAche reingerutschtn ich habe das nicht geplant 
+    - ich muss sagen ich bin in die Sache reingerutschtn ich habe das nicht geplant 
 
 - abrutschen:
   - ich bin von der Leiter abgerutscht 
 
 - ausrutschen:
     - ihm rutscht die Hand aus 
-    - mir ist das MEsser ausgerutschen
+    - mir ist das Messer ausgerutschen 
+    - ich bin auf eine Bananenschale ausgerutscht
   
 - durchrutschen:
     - die Fehler sind mir durchgerutscht [unterlaufen,entgehen]
@@ -7175,6 +7175,9 @@
     - ich rücke die Kissen zurecht 
     - wir brauchen jemmanden, der mir den Kopf zurechtrückt
 
+- zusammenrücken
+    - rücke bitte zusammen 
+
 - ruckeln:
     - es ruckelt
     - der Motor beginnt zu ruckeln 
@@ -7182,10 +7185,9 @@
 
 ### greifen
 - greifen:
+    - das Kind greift nach der Hand der Mutter [strecken]
     - ans handy greifen
     - das kann sehr schnell um sich greifen [umgehen]
-    - das Feuer greift sehr schnell um sich 
-    - das Kind greift nach der Hand der Mutter [strecken]
     - ich greife mir eine Aufgabe  [nehmen]
     - das ist sehr hoch / niedrig gegriffen [einschätzen]
     - diese Maßnahme greift zu kurz [beschränkt]
@@ -7204,6 +7206,9 @@
 - griffbereit:
     - ich habe momentan die Unterlage nicht griffbereit 
 
+- übergriffg:
+    - ich fande diese Frage übergriffig 
+
 - abgreifen:
     - ich werde das Signal abgreifen 
 
@@ -7214,7 +7219,6 @@
 - angegriffen:
 - mitgenommen:
 - abgespannt:
-- angespannt:
     - ich bin gesundheitlich angegriffen 
 
 - angreifen:
@@ -7253,16 +7257,20 @@
 - übergreifen:
     - das Feuer greift auf anderes Gebiet über 
 
+- übergreifend
+    - Es gibt ein übergreifendes Konzept für alle Abteilungen.
+
 - übergriff:
     - der Übergriff 
     - dieser Übergriff darf man nicht akzeptieren 
 
-- übergriffg:
-    - ich fande diese Frage übergriffig 
+- ineinandergreifen
+    - Das Design und die Technik greifen perfekt ineinander
 
 - vergreifen:
     - ich habe mich im Ton vergriffen
     - er versucht sich an seinem kleinen Brüder zu vergreifen
+    - Er vergriff sich an fremdem Eigentum.
 
 - vorgreifen:
     - ich wollte dem Thema vorgreifen [vorwegnehmen]
@@ -7272,6 +7280,8 @@
 
 - zugreifen:
     - ich kann auf den Server nicht zugreifen 
+    - es gibt viel Essen, greif zu 
+    - nach der Operation kann er nicht wirklch zugreifen
 
 - Zugriff:
     - der Zugriff auf diese Datei ist nur mit Passwort möglich 
@@ -7283,9 +7293,9 @@
 ### weisen
 - weisen:
     - ich weise ihm den Weg [zeigen]
-    - er hat mich aus dem Saal gewiesen [wegjagen]
+    - er hat mich aus dem Saal gewiesen [wegjagen] [aus]
     - es weis in eine Richtung / auf die Frau
-    - er hat den Vorwurf von sich gewiesen 
+    - er hat den Vorwurf von sich gewiesen [von_sich]
 
 - gewiesen:
     - der Weg ist gewiesen
@@ -7319,12 +7329,13 @@
 - ausweisen:
     - ich muss mich bei der Bank ausweisen 
     - das war nicht als parkplatz ausgewiesen 
-    - Ausländer werden ausgewiesen
+    - Ausländer werden ausgewiesen [land_verlassen]
 
 - beweisen:
     - ich kann das beweisen 
 
 - einweisen:
+    - weis jemanden in ort ein
     - er weist mich in meine Aufgabe ein
 
 - erweisen:
@@ -7421,105 +7432,25 @@
     - das ist alles im Wesen
     - Kinder sehr gute Wesen 
 
-### bringen
-- bringen:
-    - er hat es im Leben zu etwas bringen
-    - soll ich dir etwas bringen 
-    - das will ich hinter mich bringen [hinter]
-    - ich kann das nicht über mich bringen  [über]
-    - das bringt mich zum / weinen / lachen Umdenken [zu]
-    - er hat die alte Frau um ihr Geld gebracht [um] 
-    - er hat das Geld an sich gebracht [an sich]*
-    - ich werde das in Erfahrung bringen
-
-- abbringen:
-	- ich will dich nicht von deinem Plan abbringen
-
-- anbringen:
-    - ich bringe die Lampe an der Wand an 
-    - Kritik anbringen [vorbringen] 
-    - Wissen anbringen [beweisen]
-
-- aufbringen:
-    - wir können die das Geld für ein Auto nicht aufbringen [Geld_sammel]
-    - ich bin darüber sehr aufgebracht  
-    - er hat alle gegen sich aufgebracht 
-
-- beibringen:
-    - Soll ich dir die Tanzschritte beibringen?
-
-- durcheinanderbringen:
-    - er bringt alles durcheinander 
-
-- einbringen:
-    - das Geld bringt profit ein 
-    - ich kann mich in die Diskussion einbringen [sich]
-
-- herumbringen:
-    - wir müssen die Zeit irgendwie herumbringen
-
-- wegbringen:
-    - ich bringe das weg damit du arbeiten kannst 
-
-- verbringen:
-    - ich habe gute Zeit mit ihm verbracht 
-
-- zubringen:
-    - ich bringe die Tür nicht zu  [schließen]
-
-- vorbringen:
-    - ich kann ein gutes Argument vorbringen
-
-- mitbringen:
-	- man muss das nötige Fachwissen für den Job mitbringen
-    - ich bringe dir das Buch mit 
-
-- unterbringen:
-    - ich weiss nicht wo soll ich den Termin unterbringen 
-    - ich kann nicht die Mobel in der Wohnung unterbringen 
-    - ich bringe alles unter
-
-- durchbringen:
-    - die Mutter solle die Kinder allein durchbringen [Unterhalt_bezahlen]
-
-- voranbringen:
-    - wir wollten STV voranbringen 
-
-- angebracht:
-    - es ist angebracht 
-
-- umbringen:
-    - bring dich nicht um 
-
-- weiterbringen:
-    - das bringt uns aber nicht weiter 
-
-- nahebringen:
-    - ich konnte ihm das Konzept nahebringen
-
-- näherbringen:
-    - das bringt mich dem Ziel nicht näher 
-    - ich wollte dich der Idee näherbringen 
-
-- zusammenbringen:
-    - er will sie mit den Kindern zusammenbringen
-    - ich weiß nich wie ich das Geld für die Miete zusammenbringen muss
-
 ### nehmen
 - nehmen:
+    - auf sich nehmen 
+    - auf seine (eigene) Kappe nehmen
+        - ich nehmen die Verantwortung auf mich [auf_sich]
+        - Ich nehme die Mühe auf mich, damit alles rechtzeitig erledigt wird.
+    - jemanden beim Wort nehmen 
+    - ich nehme am morgen nichts zu mir [essen] [zu]
     - in Anspruch nehmen 
     - in Angriff nehmen
+    - Er ließ (es) sich nicht nehmen, die Gäste selbst zu begrüßen [nehmen_lassen]
     - in schutz nehmen 
-    - im Kauf nehmen
+    - in Kauf nehmen
     - zur Kenntnis nehmen 
     - in die Hand nehmen 
-    - auf den Arm nehmen 
     - jemanden an die Hand nehmen
-    - beim Wort nehmen 
+    - auf den Arm nehmen 
     - das nimmt mir die Lust an der Arbeit [vergehen] 
-    - ich habe auf mich genommen das zu machen [vornehmen] [auf]
     - ich nehme mir die Zeit um mir das anzusehen  
-    - ich nehme am morgen nichts zu mir [essen] [zu]
     - dann haben wir die letzte Hürde auf dem Weg genommen 
     - ich nehmen die Kritik zu Herzen [ernstnehmen] 
 
@@ -7607,7 +7538,7 @@
     - wir sind sehr kleines Unternehmen 
 
 - benehmen:
-    - ich muss mich benehmen 
+    - ich muss mich benehmen [sich]
 
 - benommen:
     - ich fühle mich benommen
@@ -7637,7 +7568,6 @@
 - angegriffen:
 - mitgenommen:
 - abgespannt:
-- angespannt:
     - ich bin gesundheitlich angegriffen 
 
 - teilnehmen:
@@ -7669,6 +7599,91 @@
     - wenn ich mehr Erfolg habe dann nehme ich den Erfolg von anderen nicht weg
     - dann nehmen Sie das Kind weg
 
+### bringen
+- bringen:
+    - er hat es im Leben zu etwas bringen
+    - soll ich dir etwas bringen 
+    - das will ich hinter mich bringen [hinter]
+    - ich kann das nicht über mich bringen  [über]
+    - das bringt mich zum / weinen / lachen Umdenken [zu]
+    - er hat die alte Frau um ihr Geld gebracht [um] 
+    - er hat das Geld an sich gebracht [an_sich]
+    - ich werde das in Erfahrung bringen
+
+- abbringen:
+	- ich will dich nicht von deinem Plan abbringen
+
+- anbringen:
+    - ich bringe die Lampe an der Wand an 
+    - Kritik anbringen [vorbringen] 
+    - Wissen anbringen [beweisen]
+
+- angebracht:
+    - es ist angebracht 
+
+- aufbringen:
+    - wir können die das Geld für ein Auto nicht aufbringen [Geld_sammel]
+    - ich bin darüber sehr aufgebracht  
+    - er hat alle gegen sich aufgebracht 
+
+- beibringen:
+    - Soll ich dir die Tanzschritte beibringen?
+
+- durcheinanderbringen:
+    - er bringt alles durcheinander 
+
+- einbringen:
+    - das Geld bringt profit ein 
+    - ich kann mich in die Diskussion einbringen [sich] 
+    - ich bringe den Vorchlag ein
+
+- herumbringen:
+    - wir müssen die Zeit irgendwie herumbringen
+
+- wegbringen:
+    - ich bringe das weg damit du arbeiten kannst 
+
+- verbringen:
+    - ich habe gute Zeit mit ihm verbracht 
+
+- zubringen:
+    - ich bringe die Tür nicht zu  [schließen]
+
+- vorbringen:
+    - ich kann ein gutes Argument vorbringen
+
+- mitbringen:
+	- man muss das nötige Fachwissen für den Job mitbringen
+    - ich bringe dir das Buch mit 
+
+- unterbringen:
+    - ich weiss nicht wo soll ich den Termin unterbringen 
+    - ich kann nicht die Mobel in der Wohnung unterbringen 
+    - ich bringe alles unter
+
+- durchbringen:
+    - die Mutter solle die Kinder allein durchbringen [Unterhalt_bezahlen]
+
+- voranbringen:
+    - wir wollten STV voranbringen 
+
+- umbringen:
+    - bring dich nicht um 
+
+- weiterbringen:
+    - das bringt uns aber nicht weiter 
+
+- nahebringen:
+    - ich konnte ihm das Konzept nahebringen
+
+- näherbringen:
+    - das bringt mich dem Ziel nicht näher 
+    - ich wollte dich der Idee näherbringen 
+
+- zusammenbringen:
+    - er will sie mit den Kindern zusammenbringen
+    - ich weiß nich wie ich das Geld für die Miete zusammenbringen muss
+
 ### machen
 - Macht:
     - die Macht 
@@ -7690,7 +7705,11 @@
     - wir haben eine Abmachung getroffen 
 
 - machen:
+    - ich mache mich an Arbeit [anfangen]
     - ich mache mich vom acker
+    - das macht mir zu schaffen 
+    - ich mache mich auf den Weg
+    - das macht mir nichts
 
 - abmachen:
     - ich habe einen Termin mit ihm abgemacht 
@@ -7808,8 +7827,105 @@
 - weismachen:   
     - er will mir weismachen dass er das nicht gewusst hat
 
+### tun
+- tun:
+    - er wollte etwas Gutes tun
+    - er ist nicht krank er tut nur so
+    - es tut es nur so
+    - wenn du keinen Schlafsack hast, tue es auch eine Decke
+    - ich weiss nicht wohin ich das tun soll 
+    - wir kann nichts dagegen tun
+    - das tut nichts
+    - ich weiss nicht ob sich was getan hat 
+
+- Tat:
+    - die Tat 
+    - ich lasse meinen Worten Taten folgen
+    - ich wollte gute Tat machen 
+
+- abtun:    
+    - er hat das Problem als unwichtig abgetan 
+    - er hat mich abgetan 
+    - damit ist die Sache abgetan 
+
+- antun:
+    - das wird ich dir nicht antun 
+    - du hast mir etwas schlimmes angetan
+
+- angetan:
+    - ich bin von seiner Leistung angetan 
+    - sie hat es mir angetan 
+
+- auftun:
+    - ich will ein anderes Resturant auftun [finden]
+    - es wird länge Zeit bis sich so eine Chance wieder auftun (sich) [entsteht]
+    - es gibt viele andere Möglichkeiten die sich nun auftun (sich) [entsteht]
+
+- dazutun:
+    - ich werde mehr Geld dazutun und ich kaufe ein besseres Autos [drauflegen]
+    - ich tun Salz zu Suppe dazu 
+
+- gleichtun:
+    - die Kinder wollen es immer dem Vater gleichtun [nachmachen] [nacheifern]
+
+- guttun:
+    - Kalte Dusche tun dir gut 
+
+- großtun:
+- prahlen:
+    - er tut sich immer mit seinem Erfolg groß 
+
+- schwertun:
+- leichttun:
+    - ich habe mich mit dieser Aufgabe schwergetan 
+
+- leidtun:
+    - das kann einem leidtun wenn du soetwas machst
+
+- zugetan:
+    - ich bin ihm zugetan 
+
+- wichtigtun:
+    - er tut sich immer wichig 
+
+- schöntun:
+    - ich muss mit meinem Chef schöntun (einschmeicheln) 
+    - er tut immer schön wenn er etwas will 
+    - er tut mit jeder schön
+
+- nottun:
+    - es tot nicht nut, dann können wir diese Maßnahme ergreifen 
+    - wenn es nottut 
+
+- vertun:
+    - in + dativ
+    - ich habe mich in der Abrechung leider vertan 
+    - ich habe mich in der Zeit vertan 
+
+- Zutun
+    - das Zutun 
+    - das passiert ohne mein Zutun 
+
+- zusammentun:
+    - die guten und die schlechten Äpfel zusammentun 
+
+- wegtun:
+    - ich tue das Weg 
+
+- wehtun:
+    - das tut mir weh 
+
+- Zutat:
+    - die Zutat 
+    - ich kann die Zutaten für die Pizza
+    - sie haben nicht die beste Zutaten
+
 ### gehen
 - gehen:
+    - das Wasser geht bis an die Schultern
+    - mir geht es ähnlich
+    - mit jemandem geht es bergab/bergauf
+    - ich gehe an die Arbeit [sich_machen_an_arbeit]
     - ich habe mich in letzter Zeit gehen lassen und kein Sport gemacht habe 
     - ich will in mich gehen bevor ich mich entscheide
     - das problem es kann schnell ins Geld gehen
@@ -7826,8 +7942,10 @@
     - ich wollte mit meinem Leben vorwärtsgehen 
 
 - abgehen:
+    - ich gehe davon nicht ab auch im Regen zu laufen
     - dafür geht mir Verständnis ab [fehlt]
     - die Frabe geht schnell ab 
+    - in der Party geht es richtig ab
 
 - angehen:
     - das geht dich gar nichts an
@@ -7856,10 +7974,9 @@
     - ich habe einen Fehler/ eine Dummheit begangen 
 
 - darangehen:
-- heranmachen:  
 - daranmachen:
     - ich mache mich an die Aufgabe daran 
-    - ich mache mich an die Aufgabe heran 
+    - ich gehen an die Aufgabe heran 
 
 - draufgehen:
     - für den Test geht ein Tag drauf 
@@ -7867,9 +7984,10 @@
 
 - durchgehen:
     - ich gehe die Schritte noch einmal durch 
-    - ich bin den Code auf einen Fehler durchgegangen 
+    - seine Frau geht ihm mit jemandem durch [davonlaufen]
+    - ich bin den Code auf einen Fehler durchgegangen [auf]
     - ich werde dir diesen Fehler durchgehen lassen [akzeptabel]
-    - meine Gefühle geht jedes Mal mit mir durch
+    - meine Gefühle geht jedes Mal mit mir durch [mit]
 
 - eingehen: 
     - ich werde später auf deine Frage eingehen 
@@ -7987,7 +8105,7 @@
     - ich werde kurz bei meiner Familie vorbeigehen um zu essen
 
 - vorangehen:
-    - die Arbeit geht voraus 
+    - die Arbeit geht voran 
 
 - hinausgehen:
     - ich will hinausgehen
@@ -8016,6 +8134,9 @@
 
 - begegnen:
     - ich weiß nicht was mir bei dieser Aufgabe begegnen wird 
+
+- nahegehen: 
+    - Ihr tragisches Schicksal ging ihm nahe
 
 ### gehend
 - abgehend:
@@ -8103,10 +8224,14 @@
 ### laufen 
 - laufen:
     - es läuft 
+    - der Vertrag läuft auf meinen Vater
     - ich habe mich Müde / warm gelaufen [sich]
+    - ich habe mir den Fuß Wunde gelaufen 
+    - ich habe in mich gelaufen
+    - dir läuft die Nase
     - ich habe die Testcases laufen lassen 
     - ich halte dich auf dem Laufenden 
-    - ich versuche es zum laufen bringen 
+    - ich versuche es zum laufen zu bringen 
     - ich bin ins offene Messer gelaufen
     - ich will nicht in den gleichen Fehler laufen 
     - mir über den weg laufen
@@ -8117,6 +8242,8 @@
 
 - Ablauf:
     - der Ablauf 
+    - ich kenne den Ablauf nicht
+    - nach Ablauf der Frist 
     - ich muss den Pass vor Ablauf verlängern lassen
 
 - anlaufen:
@@ -8127,9 +8254,9 @@
     - beim ersten Anlauf 
 
 - auflaufen:
-    - er hat mich bewusst auflaufen lassen 
     - er ist auf mich aufgelaufen 
     - viel arbeit ist aufgelaufen 
+    - er hat mich bewusst auflaufen lassen 
     - er hat viel Schulden auflaufen lassen 
 
 - auslaufen:
@@ -8141,7 +8268,8 @@
     -  Ihre Schulden belaufen sich mittlerweile auf fast 12.000 Euro. 
 
 - davonlaufen:
-    - ich will nicht vor meinem Problem davonlaufen
+    - ich will nicht vor meinem Problem davonlauf
+    - dir ist die Frau davon gelaufen 
 
 - durchlaufen:
     - ich habe einen strengen Prozess durchlaufen bevor ich die Stelle bekommen habe 
@@ -8164,6 +8292,7 @@
 
 - freilaufen:
     - in großer Wonhnung kann das Kind freilaufen
+    - Hunde dürfen nicht freilaufen
 
 - hinauslaufen:_
 	- es wird auf Verzögerung hinauslaufen 
@@ -8226,6 +8355,7 @@
 
 - zulaufen:
     - er lauft auf mich zu 
+    - zulaufener Hund
 
 - zusammenlaufen:
 - auseinanderlaufen:
@@ -8255,20 +8385,21 @@
     - er hat das beiläufih erwähnt 
 
 - fußläufig:
-    - es ist füßläufig
+    - es ist füßläufig erreichbar
 
 - rasen:
     - er rast mit seinem Auto 
 
 ### kommen
 - kommen:
+    - gelegen: du kommst mir gerade gelegen [gelegen]
     - kommen über: das Schlechte Gefühl kommt über mich [überwältigen]
     - kommen zu: ich werde später zu diese Aufgabe kommen [Zeit] [akku]
-    - man kommt sehr schwerig zu Geld , zum Ziel [erreichen]
+    - man kommt sehr schwerig ans Geld , zum Ziel [erreichen]
     - kommen auf: ich komme leider nicht auf den Namen [erinneren]
     - mir kommt die Idee
-    - ich hatte keine Zeit um dazu zu kommen 
     - ich brauche Zeit bis ich in den Tag komme 
+    - ich lass auf ihn nichts kommen [schützen]
 
 - abkommen: [konvention]
     - wir sind total vom Thema abgekommen 
@@ -8281,8 +8412,6 @@
     - komm mir nicht mit deinem Problem an [mit]
     - ich komme gegen ihn nich an [gegen]
     - oh komm doch damit nicht wieder an
-    - wenn ich drauf ankommt, kann man sich auf ihn verlassen
-    - ich lass es drauf ankommen
 
 - aufkommen:_
     - die Eltern kommen für den Schaden auf 
@@ -8306,7 +8435,6 @@
 
 - draufkommen:
     - ich komme nicht drauf, wie hat er das gefunden 
-    - das Ticket selbst ist billig, aber es kommt viel Gebühren drauf 
 
 - durcheinanderkommen:
     - das wird durcheinanderkommen 
@@ -8319,7 +8447,7 @@
     - ich wollte das machen, aber ist mir etwas dazwischengekommen 
 
 - drankommen:_
-    - du kommst als nächstes dran 
+    - du kommst als nächstes / erster dran 
     - das Thema ist heute drangekommen [dran sein]
     - ich komme an die Bücher nicht dran 
 
@@ -8332,6 +8460,8 @@
 
 - herauskommen:
     - ich will aus dem Vertrag herauskommen 
+    - Mal sehen, was aus diesem Projekt herauskommt 
+    - man Aussage kommt vielleicht hart heraus
     - am ende kommt das auf dasselbe heraus 
 
 - herankommen:_
@@ -8383,6 +8513,12 @@
 - zugutekommen:
     - das Geld kommt den flüchtlingen zugüte
 
+- zukommen:
+    - das werde ich dir zukommen lassen [abschicken]
+    - ich weiss nicht was auf uns zukommen wird 
+    - ich habe keine klare Vorstellung davon, aber ich werde die Dinge auf mich zukommen lassen [nichts_machen]
+    - komm auf mich zu, wenn du Hilfe brauchst 
+
 - zusammenkommen:
     - es kamm heute viel zusammen [summieren]
     - in meiner Abwesenheit ist einiges an Arbeit zusammengekommen
@@ -8390,12 +8526,6 @@
 - zurechtkommen:
     - ich komme mit dem neuen System zurecht 
     
-- zukommen:
-    - das werde ich dir zukommen lassen [abschicken]
-    - ich weiss nicht was auf uns zukommen wird 
-    - ich habe keine klare Vorstellung davon, aber ich werde die Dinge auf sich zukommen lassen [nichts_machen]
-    - komm auf mich zu, wenn du Hilfe brauchst 
-
 - zurückkommen:
     - ich werde später auf deine Frage zurück 
 
@@ -8417,7 +8547,7 @@
     - ich kann nicht meinem Schicksal entkommen [davonkommen]
 
 - umhin:
-    - ich kann nicht umhin das zu machen 
+    - ich konnte nicht umhin das zu machen 
     
 - durchkommen:
     - wir werden bei diesem Projekt durchkommen 
@@ -8745,6 +8875,7 @@
 ### phase 
 - phase:
     - die Phase 
+    - das war aber eine kurze Phase
 
 - hase:
     - der Hase 
@@ -11040,6 +11171,7 @@
     - ich will nicht zurückbleiben
 ### geben
 - geben:
+    - geben sich Männer zu wening Mühe
     - den Korb geben(= jmdn. abweisen)
     - den Laufpass geben (= jmdn. fortjagen) 
     - nicht aus der Hand geben
@@ -12112,98 +12244,6 @@
     - es ist nicht der Mühe wert 
     - ich gebe mir Mühe um es zu schaffen
 
-### tun
-- tun:
-    - er wollte etwas Gutes tun
-    - er ist nicht krank er tut nur so
-    - es tut es nur so
-    - wenn du keinen Schlafsack hast, tue es auch eine Decke
-    - ich weiss nicht wohin ich das tun soll 
-    - wir kann nichts dagegen tun
-    - das tut nichts
-    - ich weiss nicht ob sich was getan hat 
-
-- Tat:
-    - die Tat 
-    - ich lasse meinen Worten Taten folgen
-    - ich wollte gute Tat machen 
-
-- abtun:    
-    - er hat das Problem als unwichtig abgetan 
-    - er hat mich abgetan 
-    - damit ist die Sache abgetan 
-
-- antun:
-    - das wird ich dir nicht antun 
-    - du hast mir etwas schlimmes angetan
-
-- angetan:
-    - ich bin von seiner Leistung angetan 
-    - sie hat es mir angetan 
-
-- auftun:
-    - ich will ein anderes Resturant auftun [finden]
-    - es wird länge Zeit bis sich so eine Chance wieder auftun (sich) [entsteht]
-    - es gibt viele andere Möglichkeiten die sich nun auftun (sich) [entsteht]
-
-- dazutun:
-    - ich werde mehr Geld dazutun und ich kaufe ein besseres Autos [drauflegen]
-    - ich tun Salz zu Suppe dazu 
-
-- gleichtun:
-    - die Kinder wollen es immer dem Vater gleichtun [nachmachen] [nacheifern]
-
-- guttun:
-    - Kalte Dusche tun dir gut 
-
-- großtun:
-- prahlen:
-    - er tut sich immer mit seinem Erfolg groß 
-
-- schwertun:
-- leichttun:
-    - ich habe mich mit dieser Aufgabe schwergetan 
-
-- leidtun:
-    - das kann einem leidtun wenn du soetwas machst
-
-- zugetan:
-    - ich bin ihm zugetan 
-
-- wichtigtun:
-    - er tut sich immer wichig 
-
-- schöntun:
-    - ich muss meinem Chef schöntun (schmeicheln) 
-    - er tut immer schön wenn er etwas will 
-    - er tut mit jeder schön
-
-- nottun:
-    - es tot nicht nut, dann können wir diese Maßnahme ergreifen 
-    - wenn es nottut 
-
-- vertun:
-    - in + dativ
-    - ich habe mich in der Abrechung leider vertan 
-    - ich habe mich in der Zeit vertan 
-
-- Zutun
-    - das Zutun 
-    - das passiert ohne mein Zutun 
-
-- zusammentun:
-    - die guten und die schlechten Äpfel zusammentun 
-
-- wegtun:
-    - ich tue das Weg 
-
-- wehtun:
-    - das tut mir weh 
-
-- Zutat:
-    - die Zutat 
-    - ich kann die Zutaten für die Pizza
-    - sie haben nicht die beste Zutaten
 
 ### leisten
 - ableisten:
@@ -23825,7 +23865,6 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - es geht auf etwas zurück
 - ins Spiel bringen
 - das beweisst das er durchschlagen kann 
-- er ist so geliebt das niemanden gegen sie angetreten ist
 - das ist handfest 
 - das ist das Kalkül 
 - etwas ist vergammeln 
@@ -23850,6 +23889,8 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 - zur gleichen zeit 
 - ist jetzt CHrist an Bord 
 - das gehört wirkich nicht hierher
-- dir ist die Frau davon gelaufen 
 - offenbaren meine Gefühle 
+- über den Mund fahren 
+- er macht mich lächerlich
+- Kappe abziehen
 - 
