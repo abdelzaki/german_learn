@@ -6062,7 +6062,7 @@ Klecks
 ### fangen
 - fangen:
     - ich habe viel Fische gefangen 
-    - ich habe gestoplert aber ich konnte mich fangen [sich]
+    - ich habe gestoplert aber ich konnte mich fangen [sich] [fassen]
 
 - abfangen:
     - ich wollte ihn abfangen 
@@ -10412,16 +10412,16 @@ Klecks
 - absetzen:
     - wo soll ich das absetzen 
     - ich wollte das von der Steuer absetzen 
-    - wo soll ich dich absetzen 
 	- ich will die Medikament absetzen
     - Brille ansetzen
 
 - ansetzen:
     - für diese Aufgabe war 2 Stunden angesetzt 
-    - das Meeting ist für Mittwoch angesetzt 
+        - das Meeting ist für Mittwoch angesetzt 
     - das hat sich angesetzt [ablagern] 
     - die Kosten ist sehr niedrig angesetzt 
     - das Flugzeug hat zur Landung angesetzt
+    - Ich möchte an deiner Behauptung ansetzen, dass die Kosten zu hoch seien – das stimmt nämlich nicht
 
 - aufsetzen:
     - ich werde das System neu aufsetzen 
@@ -10559,7 +10559,7 @@ Klecks
 
 - festsitzen:
     - ich will nicht für immer hier festsitzen
-
+*-*
 ### strapazieren:
 - Strapaze:
     - die Strapaze 
@@ -10753,6 +10753,7 @@ Klecks
 - besteuern:
     - Alkohol wird besteuert 
     - der Staat besteuert den Gewinn 
+    - hoch besterut
 
 - beisteuern:
     - ford ihn einfach auf, beizusteuern 
@@ -10786,17 +10787,18 @@ Klecks
 
 - hängen:
     - Wir haben das Bild an die Wand gehängt
-    - Sie hängte sich an die Gruppe.
     - Das Bild hing an der Wand 
+    - ich hänge sehr an meiner Mutter
+    - ich hänge mich an einen Ast
+    - Sie hängte sich an die Gruppe.
     - der Rauch hängt in der kleidung
     - woran hängt das 
-    - ich hänge sehr an meiner Mutter
     - das Bild hängt schief 
 
 - abhängen: 
+    - es hängt vom Wetter ab 
     - im Urlaub will ich einfach abhängen
     - ich habe das Bild abgehängt weil es mir nicht mehr gefällt 
-    - es hängt vom Wetter ab 
     - man hat angst abgehängt zu werden 
     - du hast mich total abgehängt 
     - er hängt im Park einfach ab
@@ -10829,6 +10831,8 @@ Klecks
 
 - aufhängen:
     - ich werde die Jacke an der Wand aufhängen 
+    - Warte, nicht aufhängen! Ich muss dir noch etwas sagen
+    - Mein Computer hat sich gestern ständig aufgehängt.[sich] [Abstürzen]
 
 - aushängen:
     - das Ergebnis wird morgen ausgehängt 
@@ -10895,15 +10899,15 @@ Klecks
 
 ### merken 
 - merken:
-    - ich kann mir die Namen nicht merken 
+    - ich kann mir die Namen nicht merken [sich]
     - das habe ich nicht gemerkt 
 
 - anmerken:
     - ich will das anmerken [ergänzen]
-    - das wollte ich angemerkt haben [ergänzen]
-    - ich will etwas dazu anmerken  [ergänzen]
+        - das wollte ich angemerkt haben [ergänzen]
+        - ich will etwas dazu anmerken  [ergänzen]
     - ich habe ihm seine Angst angemerkt 
-    - ich lass mir meine Angst nicht anmerken
+        - ich lass mir meine Angst nicht anmerken
     - ich muss mir das anmerken [vermerken] [sich vormerken]
 
 - Anmerkung:
@@ -10912,12 +10916,14 @@ Klecks
 
 - bemerken:
     - das habe ich nicht bemerkt 
+    - hast du bemerkt dass die Prise gestiegen sind 
+        - ich habe erst spät bemerkt dass mein Laptop sich aufgehängt hat
 
 - vermerken:
     - das habe ich vermerkt 
 
 - vormerken:
-    - könntest du einen Tisch für ich vormerken
+    - könntest du einen Tisch für mich vormerken
     - ich habe mich für diese Aufgabe vormerken lassen 
     - ich werde mir den Termin vormerken 
 
@@ -10940,7 +10946,7 @@ Klecks
     - der Briefkasten 
     - ich wollte nur den Breifkasten leeren 
     - er hat den Breifkasten verstopft 
-    
+
 ### gänzen 
 - ergänzen:
     - ich will hier etwas ergänzen 
@@ -10968,17 +10974,20 @@ Klecks
 - präferenz:
     - die Präferenz 
     - gibt es präferenzen 
-    
+
+
 ### schließen 
 - schließen:
     - wir schließen um 8 Uhr 
     - nur weil ich pünktlich bin, kann ich nicht von mir auf dich schließen [von auf]
 
 - Schluss:
-    - der Schluss 
+    - der Schluss
+    - Am Schluss = Am end
     - ich mache aber jetzt mit der Arbeit Schluss 
     - ich habe den Schluss gezogen 
     - wir kommen zum Schluss dass er nicht möglich ist 
+    - logische Schlüsse aus etw. ziehen
 
 - schlussendlich:
     - ich bin nur für Arbeit gekommen allerdings bin ich schlussendlich für immer geblieben
@@ -10986,16 +10995,20 @@ Klecks
 - Verschluss:
     - der Verschluss
 
-- abschliessen:
-    - hast du die Tür abgeschlossen
-    - ich habe das Ticket abgeschlossen
-    - ich habe einen Vertrag abgeschlossen 
+- Reißverschluss:
+    - der Reißverschluss
+    - Der Reißverschluss meiner Winterjacke klemmt ständig.
 
 - Abchluss:
     - der Abschuss 
     - die Aufgabe steht vor dem Abschluss 
     - ich werde es zum Abschluss bringen
     - das Meeting kommt endlich zum Abschluss 
+
+- abschliessen:
+    - hast du die Tür abgeschlossen
+    - ich habe das Ticket abgeschlossen
+    - ich habe einen Vertrag abgeschlossen 
 
 - Anschluss:
     - der Anschluss 
@@ -11100,7 +11113,6 @@ Klecks
     - wir sind 10 Persone, Kinder sind nicht gerechnet 
     - ich habe pro Person 2 Liter Wasser gerechnet 
     - wenn man die Kinder dazu rechnen 
-    - wenn man pro Person mit 1 Kg fleish rechnet
 
 - Rechnung:
     - die Rechnung 
@@ -11232,6 +11244,7 @@ Klecks
 
 - heimzahlen:
     - ich werde ihm seine Taten heimzahlen
+    - ich will es ihm heimzahlen
 
 ### zählen 
 - zählen:
@@ -11291,7 +11304,7 @@ Klecks
 
 - Wirbel:
     - der Wirbel 
-    - mach nicht wirbel 
+    - mach keinen wirbel 
 
 - aufwirbeln:
     - der Luft wirbelt die Blätter auf
@@ -11360,11 +11373,15 @@ Klecks
 
 - missbrauchen:
     - er hat seine Macht missbraucht [zweckentfremden]
+
 ### bleiben
 - bleiben:
     - ich bleibe heute zu Haus 
     - wo ist der Schlüssel geblieben 
     - das hat bleibende Schaden
+    - Bei der rasanten Digitalisierung bleiben viele ältere Menschen auf der Strecke
+    - am Ball bleiben
+    - mit der Kirche im Dorf bleiben
 
 - ausbleiben: 
 - eintreffen:
@@ -11417,19 +11434,20 @@ Klecks
 
 - zurückbleiben:
     - ich will nicht zurückbleiben
+
 ### geben
 - geben:
-    - geben sich Männer zu wening Mühe
+    - geben sich Männer zu wening Mühe [Sich Mühe geben]
+    - sich irgendwie geben [sich]
     - den Korb geben(= jmdn. abweisen)
     - den Laufpass geben (= jmdn. fortjagen) 
     - nicht aus der Hand geben
     - jmdm. einen Freibrief geben
-    - ich gebe ihm das Buch an die Hand und er soll wissen was er machen wird 
+    - ich gebe ihm das Buch an die Hand und er soll wissen was er machen wird [in die hand]
     - etw. ist in jmds. Hand gegeben
     - jmdm. gute Lehren mit auf den Weg geben
     - ich habe ihm ordentlich gegeben
     - das hat ihm den Rest gegeben
-    - sich irgendwie geben
     - jmdm. eine Chance, Perspektive, einen Rückhalt, eine Handhabe geben
 
 - abgeben:
@@ -11683,6 +11701,7 @@ Klecks
 - auswechseln:
 - einwechseln:
     - Er wurde in der zweiten Halbzeit gegen Berger ausgewechselt. 
+    - sie ist wie ausgewechslt
 
 - überwechseln:
     - auf die Linke spur überwechseln 
@@ -11954,7 +11973,7 @@ Klecks
 
 - einwirken:
     - lass es 10 Minuten einwirken 
-    - auf ihn einwirken
+    - auf ihn einwirken [jemdn]
 
 - verwirken:_
     - du hast dein Recht verwirkt   [verlieren]
@@ -11979,14 +11998,15 @@ Klecks
 
 ### fassen
 - fassen:
+    - ich werde es in verständlichere Form fassen [formulieren]
+        - ich fass mich kurz
+    -  Nach dem Schock konnte er sich langsam wieder fassen. [sich]
     - fass es mit beiden händen
-    - fass es am Griff
-    - fass nicht an den heißen ofen
+        - fass es am Griff
+        - fass nicht an den heißen ofen
     - ich kann das nicht fassen [verstehen]
     - Mut fassen
     - der Tank fasst 50 Liter [enthalten_kann] 
-    - fass an etwas [beruhren]
-    - ich werde es in verständlichere Form fassen [formulieren]
     - wir müssen das in den Blick fassen [betrachten]
     - ins auge fassen [planen]
     - an die eigene Nase fassen
@@ -12008,7 +12028,8 @@ Klecks
 
 - anfassen:
     - fass mich nicht an 
-    - dumuss mut anfassen [helfen]
+    - Fass doch mal mit an [helfen]
+    - wir müssen das Thema anfassen
 
 - erfassen:
 - auffassen:
@@ -12037,7 +12058,7 @@ Klecks
     - ich kann die Tasse nicht umfassen 
 
 - zufassen:_
-    - wenn alle zufassen, werden wir schnell fertig sein [stark_helfen]
+    - wenn wir alle mit zufassen, werden wir schnell fertig sein [stark_helfen]
 
 - gefasst:
     - ich bin auf das Problem gefasst 
@@ -14795,6 +14816,9 @@ Stille
 - verurteilen:
     - ich will dich nicht verurteilen 
 
+- vorverurteilen:
+    - ich will ihn nicht vorverurteilen
+
 - übervorteilen:
     - er hat mich übervorteilt weil er Erfahrung hat 
 
@@ -15443,6 +15467,7 @@ Stille
     - das Pech 
     - ich hatte viel Glück 
     - auf gut Glück 
+    - diese Entscheidung war ein Glücksgriff
 
 - Angst:
     - die Angst 
@@ -18581,6 +18606,7 @@ Stille
 	- ich stande unter Stress
 	- es ist stressig 
 	- stress auf der Arbeit haben 
+    - mach dir kein Stress
 
 - stressig:
     - das war für mich sehr stressig 
@@ -18626,12 +18652,6 @@ Stille
 
 - zweigleisig:
     - du kannst nicht zweigleisig fahren
-
-
-
-
-
-
 
 ### lohn 
 - lohnen:
@@ -20691,7 +20711,7 @@ Stille
 
 - kooperieren:
     - ich habe mit ihm kooperiert 
-
+*-*
 ### grat 
 - gratis:
     - die Nutzung ist gratis
@@ -20722,8 +20742,6 @@ Stille
 - oberfläche:
     - die Oberfläche 
     - GEfühle kommen an die Oberfläche
-
-
 
 ### helm &&& hut &&& halm
 - Helm:
@@ -20856,7 +20874,6 @@ Stille
     - ich habe das verdient
     - ich verdiene viel Geld
 
-
 ### fert
 - fertig:
     - ich bin fertig 
@@ -20872,7 +20889,6 @@ Stille
     - er versucht sein Verhalten zu rechtfertigen
     - ich muss mich nicht rechtfertigen 
     - das rechtfertigt den hohen Preis
-*-*
 
 ### Speise 
 - Speise:
