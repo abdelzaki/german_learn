@@ -12107,7 +12107,7 @@ Klecks
     - ich wickle mir einen Schal um den Hals 
     - ich wickle die Gläser in Papier 
     - ich wickle ein Tück auf die Hand
-    - sie lässt sich von ihm um den Finger zu wickeln
+    - sie lässt sich von ihm um den Finger wickeln
 
 - abwickeln:
     - ich wickle das Kabel ab 
@@ -12480,6 +12480,7 @@ Klecks
     - die Besserung 
     - gute Besserung  
 
+*-*
 ### liefern
 - liefern:
     - wir können dir die waren in sechs Wochen liefern 
@@ -12491,9 +12492,10 @@ Klecks
     - ich werde dich mit Essen beliefern
     
 - abliefern:
-- anliefern:
+    - wir müssen abliefern
+
 - ausliefern:
-    - ich habe den Brief bei deinem Nachbahr abgeliefert
+    - Kleinbauern sind den Preisschwankungen am Weltmarkt direkt
 
 - nachliefern:
     - die fehlende Teile werden nachgeliefert
@@ -12513,7 +12515,6 @@ Klecks
     - es ist nicht der Mühe wert 
     - ich gebe mir Mühe um es zu schaffen
 
-
 ### leisten
 - ableisten:
     Lacey, musst du immer noch Sozialarbeit ableisten wegen deiner Bewährung?
@@ -12530,7 +12531,7 @@ Klecks
 - zusatzleistung:
 - gegenleistung
     - man kann durch eigenleistung viel sparen 
-**
+
 ### reichen
 - reichen:
     - reiche mir das Essen 
