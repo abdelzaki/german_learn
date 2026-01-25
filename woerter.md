@@ -4890,6 +4890,12 @@ Klecks
     - die Bürgschaft 
     - sie benötigen Bürgschaft
 
+- einbürgern:
+    - Die Voraussetzungen, um sich einbürgern zu lassen, wurden durch das neue Gesetz vereinfacht.“
+	- Ich muss regelmäßig Sport treiben, um es als Gewohnheit in meinen Alltag einzubürgern
+	- Es hat sich bei uns eingebürgert, dass wir sonntags gemeinsam frühstücken
+
+
 ### Ziffer 
 - Ziffer:
     - die Ziffer 
@@ -8860,6 +8866,12 @@ Klecks
     - die Kosten werden auf die Kunden umgelegt 
     - den Schalter umlegen
 
+- Gelegenheit:
+    - die Gelegenheit 
+    - das ist sehr gute Gelegenheit um das zu machen 
+    - ich wolle diese Gelegenheit nutzen 
+    - bei passender Gelegenheit 
+
 ### lage
 - Anlage:
     - die Anlage 
@@ -10559,6 +10571,61 @@ Klecks
 
 - festsitzen:
     - ich will nicht für immer hier festsitzen
+
+### knöpfen
+- knöpfen:
+    - Diese Bluse wird hinten geknöpft 
+
+- abknöpfen:
+    - er hat mir viel Geld für die Reparatur abknöpfen 
+
+- vorknöpfen:
+    - er hat mir wegen meines Fehler vorknöpft 
+    - das hast du dir vorgeknöpft
+
+- zuknöpfen:
+- aufknöpfen:
+    - ich werde mein Hemd zuknöpfen 
+
+### knüpfen 
+- knüpfen:
+    - ich habe nichts an das Meeting geknüpft 
+    - Kontake knüpfen 
+
+- anknüpfen:
+    - ich werde an die Wörter von Daniel anknüpfen 
+    - ich will an den Erfolg letztes Jahres anknüpfen
+
+- aufknüpfen:
+    - ich werde den Knoten aufknüpfen
+    
+- verknüpfen:
+    - ich verknüpfe mit dieser Stadt schlechte Erfahrung 
+
+### klopfen
+- klopfen:
+    - ich habe an die Tür geklopft 
+    - es hat geklopft 
+    - ich habe ihm auf die Schulter geklopft
+
+- anklopfen:
+    - ich werde bei ihm anklopfen ob es das machen will 
+    - an die Tür klopfen
+
+- abklopfen:
+    - ich muss den Vertrag abklopfen 
+    - ich werde seine Rede auf ehrlichkeit abklopfen
+    - ich werde den Staub von der Jacke  abklopfen 
+
+- aufklopfen:
+    - du muss das Ei aufklopfen 
+
+- beklopfen:
+    - der Artz hat die Brust beklopft 
+
+- einklopfen:
+- herausklopfen:
+    - ich klopfe das Kleid aus
 *-*
 ### strapazieren:
 - Strapaze:
@@ -12051,7 +12118,7 @@ Klecks
     - ich fasse mich kurz 
 
 - nachfassen:_
-    - wenn es nicht klappt, werde ich bei der Firma nachfassen [kontrollieren] [follow up]
+    - wenn es nicht klappt, werde ich bei der Firma nachfassen [kontrollieren] [nachhaken] [follow up]
 
 - umfassen:
     - diese Aufgabe umfasst testcase zu schreiben 
@@ -12480,7 +12547,6 @@ Klecks
     - die Besserung 
     - gute Besserung  
 
-*-*
 ### liefern
 - liefern:
     - wir können dir die waren in sechs Wochen liefern 
@@ -12648,6 +12714,7 @@ Klecks
 
 - einreiben:
     - ich reibe ihn mit einer Creme ein 
+
 - verreiben:
     - ich verreiben eine Salbe auf der Haut 
 
@@ -12828,6 +12895,7 @@ Klecks
     - es ist nicht meine Schuld dass du es nicht geschafft hast 
     - ich kann ihm die Schuld daran nicht geben 
     - ich habe die Schuld auf mich genommen 
+
 ### schulden
 - Schuld:
     - die Schuld 
@@ -12865,21 +12933,6 @@ Klecks
 
 - nützlich:
     - das ist sehr nützlich
-
-### leihen 
-- leihen:
-    - ich werde dir mein Auto leihen 
-    - ich habe mir ein auto geliehen
-    - kann ich mir das Auto von dir leihen 
-
-- beleihen:
-    - ich muss mein Haus beleihen um Kredit zu bekommen 
-
-- verleihen:
-    - ich verleihe gerne nicht mein Auto 
-
-- entliehen:
-    - das Auto ist entliehen 
 
 ### leihen 
 - leihen:
@@ -12985,18 +13038,18 @@ Klecks
 ### kneifen
 - kneifen:
     - ich werde nicht kneifen wenn es schwerig ist [schlappmachen]
-    - ich werde nicht kneifen wenn es schwerig ist [schlappmachen]
-    - du kannst ihn kneifen wenn er schläft [zwicken] 
+    - du kannst ihn in den Arm kneifen wenn er schläft [zwicken] 
+    - die Hose kneift am Bauch
 
 - abkniefen:
     - ich kneife das Rad ab 
 
 - einkneifen:
     - den Schwanz einkneifen
-    - den Schwanz einkneifen
+    - ich werde die Zeitung unter der Arm einkneifen
 
 - verkneifen:
-    - ich kann mir das verkneifen 
+    - ich kann mir ein lachen verkneifen 
     - ich sollte mir diesen Kommentar verkneifen 
 
 - Kniff:
@@ -13006,11 +13059,184 @@ Klecks
 - knifflig:
     - das ist sehr knifflige Aufgabe 
 
-zusammenkneifen:
+- zusammenkneifen:
     - die Augen zusammenkneifen
 
-zusammenkneifen:
-    - die Augen zusammenkneifen
+### zweck
+- Zweck:
+    - der Zweck 
+    - es erfüllt keinen Zweck mehr 
+    - das hat keinen Zweck mehr 
+
+- bezwecken:
+    - ich weiss nicht was Sie damit bezwecken wollen 
+
+- zweckentfremden:
+    - er hat den Stuhl als Leiter zweckentfremdet 
+    - wir wollen das nicht zweckentfremden 
+
+- verzwickt:
+    - alles ist total verzwickt 
+
+- zweckmäßig:
+    - ich brauche zweckmäßiges Werkzeug  
+
+### fremd 
+- entfremden:
+    - mit der Zeit haben wir uns entfremdet
+
+- fremdgehen:
+    - er geht fremd  
+
+- fremdbestimmen:
+    - das wird leider fremdbestimmt 
+
+- fremdschämen:
+    - ich habe mich fremdgeschämt 
+
+- fremd:
+    - er ist fremd 
+
+- zweckentfremden:
+    - er hat den Stuhl als Leiter zweckentfremdet 
+    - wir wollen das nicht zweckentfremden 
+
+### spitzen
+- Spitze:
+    - die Spitze 
+    - er steht an der Spitze der Firma 
+    - das Messer hat eine scharfe Spitze 
+
+- spitzen:
+- anspitzen:
+    - ich werde den Stift spitzen 
+
+- zuspitzen:
+    - die Lage spitzt sich zu [sich]
+
+- überspitzen:
+    - ich überspitze gerade die Situation
+ 
+- bespitzeln:
+    - ich bespitzelt in dem Auftrag 
+
+### krempeln
+- hochkrempeln:
+- aufkrempelm:
+- herunterkrempeln:
+    - ich kremple die Ärmel hoch 
+
+- umkrempeln:
+    - das kremplt mein Leben um 
+
+- anrempeln:
+    - ich habe ihn versehentlich angeremplt 
+
+### kratzen
+- kratzen:
+    - ich musste mich am Arm kratzen, weil mich eine Mücke gestochen hat.
+    - die katze hat mich gekratzt 
+    - das Hemd kreizt mich 
+
+- abkratzen:
+- wegkratzen:
+    - ich kratze die Farbe ab 
+
+- verkratzen:
+    - er hat mein Auto angekratzt 
+    - das Auto war verkratzt
+
+- ankratzen:
+    - das hat mein Selbstbewusst angekratzt[schwach_machen]
+
+- aufkratzen:
+    - ich will die Verletzung nicht aufkratzen 
+
+- zerkratzen:
+    - er hat mein Geischt zerkratzt
+
+- zusammenkratzen:
+    - das war alles was wir irgendwie zusammenkratzen konnten 
+
+- jucken:
+    - Mein Rücken juckt (mich/mir)
+
+### reizen 
+- reizen:   
+    - das reizt mich zu gehen [verlocken]
+    - das reizt das Augen
+
+- gereizt:
+    - er hat gereizt reagiert 
+
+- anreizen:_
+    - die Firma reizt die Mitarbeiter zu großen Leistung an 
+
+- aufreizen:
+    - die unfaire Behandlung hat die gesamte Belegschaft aufgereizt 
+
+- überreizen:
+    - meine Nerven waren überreizt 
+
+- ausreizen:
+    - ich habe das Budget ausgereizt [ausschöpfen]
+
+### hetzen
+- hetzen:
+    - wir müssen zum Bahnhof hetzen 
+    - ich lasse mich nicht hetzen 
+        - ich will dich nicht hetzen         
+        - ich wollte nicht durch den Tag hetzen 
+    - er hat einen Hund auf mich gehetzt 
+        - sie hetzen gegen Ausländer 
+    - ich will mich nicht hetzen [sich]
+
+- abhetzen:
+    - ich habe mich zum Bahnhoft angehetzt 
+
+- abgehetzt:
+    - ich bin abgehetzt
+
+- aufhetzen:
+- verhetzen:
+    - die Mutter hetzt das Kinder gegen den Vater auf 
+
+- hasten:
+    - ich muss zum Bahnhof hasten
+
+- Hetze:
+    - Das war vielleicht eine Hetze, bis wir endlich im Bus saßen!
+    - ich will das nicht in Hetze machen sondern in Ruhe 
+
+- hektisch:
+	- heute war es sehr hektisch und ich hatte nicht genugend Zeit um alles zu schaffen was ich schaffen wollte
+
+- hastig:_
+    - wir wollen nicht hastig arbeiten
+
+- gemächlich:
+    - er joggt sehr gemächlich
+
+### jagen
+- jagen:
+    - der Hund jagt mich 
+
+- abjagen:
+    - er hat mir den Kunden abgejagt [wegschnappen] 
+
+- einjagen:
+    - du hast mir schrecken eingejagt 
+
+- nachjagen:
+    - ich jage ihm nach 
+
+- wegjagen:
+- verjagen:
+    - ich habe die Katze von dem Essen weggejagt 
+
+- Jagd:
+    - die Jagd
+    - ich gehe auf die Jagd  
 
 ### kreichen && zappeln && krabbeln 
 - kriechen:
@@ -13027,6 +13253,10 @@ zusammenkneifen:
     - das Kind fängt an zu krabbeln 
 
 ### schreiben
+- schreiben:
+	- ich schreibe dir eine Email
+	- ich schreibe eine Email an dich
+
 - abschreiben:
     - ich habe alles von ihm abgeschrieben 
     - ich habe ihn als Freund abgeschrieben
@@ -13060,10 +13290,6 @@ zusammenkneifen:
 
 - einschreiben:
     - ich bin an der Uni eingeschrieben 
-
-- schreiben:
-	- ich schreibe dir eine Email
-	- ich schreibe eine Email an dich
 
 - aufschreiben:
     - das habe ich auf einen Zettel aufgeschrieben 
@@ -13129,74 +13355,6 @@ zusammenkneifen:
 - unterbuttern:
     - ich lass mich nicht unterbuttern 
 
-### streiten
-- umstritten:   
-    - das Thema ist umstritten 
-
-- unbestritten:
-    - das ist unbestritten
-
-- streiten:
-    - wir streiten uns immer 
-
-- abstreiten:
-    - ich streite den Vorwurf ab 
-    - ich kann ihm seine Kompetenz auf dem Feld nicht abstreiten 
-
-- bestreiten:
-    - ich bestreite nicht dass Berlin gute Stadt ist 
-    - ich bestreite die Kosten für meine Familie [bezahlen]
-
-- herumstreiten:
-    - ich habe keine Lust mit ihm herumzustreiten
-
-- zerstreiten:
-    - wir haben uns zerstritten
-
-- Streit:
-    - der Streit 
-    - ich werde nicht einen Streit mit ihm anfangen 
-    - es gab einen Streit darüber 
-
-### butter 
-- Butter:
-    - die Butter 
-    - alles in Butter 
-    - ich lass mir nicht die Butter vom Brot nehmen  
-    - er kocht nur mit Wasser ohne Butter
-
-- unterbuttern:
-    - ich lass mich nicht unterbuttern 
-
-### streiten
-- umstritten:   
-    - das Thema ist umstritten 
-
-- unbestritten:
-    - das ist unbestritten
-
-- streiten:
-    - wir streiten uns immer 
-
-- abstreiten:
-    - ich streite den Vorwurf ab 
-    - ich kann ihm seine Kompetenz auf dem Feld nicht abstreiten 
-
-- bestreiten:
-    - ich bestreite nicht dass Berlin gute Stadt ist 
-    - ich bestreite die Kosten für meine Familie [bezahlen]
-
-- herumstreiten:
-    - ich habe keine Lust mit ihm herumzustreiten
-
-- zerstreiten:
-    - wir haben uns zerstritten
-
-- Streit:
-    - der Streit 
-    - ich werde nicht einen Streit mit ihm anfangen 
-    - es gab einen Streit darüber 
-
 ### streichen
 - streichen:
     - du kannst meinen Name aus der Liste streichen 
@@ -13209,15 +13367,16 @@ zusammenkneifen:
     - davon kann man die hälft abstreichen
 
 - anstreichen:
-    - ich habe den Fehler angestrichen[markieren] 
+    - ich habe den Fehler angestrichen[markieren] [anzeichnen] [beschriften]
 
 - bestreichen:
     - ich habe das Brot mit Honnig bestrichen 
 
 - verstreichen:
     - die Zeit verstreicht sehr schnell 
+    - er hat die Frist verstreichen lassen
 
-- durchstreichen:
+- durceinsstreichen:
 - ausstreichen:
     - ich habe es durchgestrichen [löschen]  
 
@@ -13246,7 +13405,6 @@ zusammenkneifen:
     - unter dem Strich war das Projekt erfolgreich
     - mit einem Strich war alles ok 
     - unter dem Strich war das Projekt erfolgreich
-    - mit einem Strich war alles ok 
 
 - Anführungsstrich:
     - einfache Anführungstriche 
@@ -13254,7 +13412,7 @@ zusammenkneifen:
 
 ### streifen 
 - streifen:
-    - wir habe das Thema nur gestreift 
+    - wir habe das Thema nur gestreift [anreißen]
     - ich habe ein anderes Auto gestreift [anfahren]
 
 - abstreifen:
@@ -13276,22 +13434,6 @@ zusammenkneifen:
 - ausschweifend:
     - ich wollte nicht ausschweifend leben 
 
-### kreuzen
-- kreuzen:
-    - ich kreuze die Straße [überqueren]
-    - die Strasse kreuzen sich hier
-    - die Strasse kreuzen sich hier
-
-- ankreuzen:
-    - die antwort ankreuzen [anstreichen]
-    - die antwort ankreuzen [anstreichen]
-
-- durchkreuzen:
-    - er hat meine Pläne durchkreuzt 
-
-- aufkreuzen:
-    - er kreuzt mitten in der Nacht auf obwohl ich ihn nicht erwartet habe
-
 ### hacken 
 - Hacke:
     - die Hacke 
@@ -13300,22 +13442,15 @@ zusammenkneifen:
     - ich werde Zwiebeln hacken 
     - ich werde ein Loch in den Schrank hacken 
     - ich versuche das System zu hacken
-    - ich versuche das System zu hacken
 
 - abhacken:
     - ich höre dich abgehackt 
-
-- durchhacken:
-    - ich hacke den Holz durch 
 
 - kleinhacken:
     - ich hacke es klein 
 
 - zerhacken:
     - ich habe es zerhackt 
-
-- herumhacken:
-    - auf jemandem herumhacken
 
 - herumhacken:
     - auf jemandem herumhacken
@@ -13346,6 +13481,21 @@ zusammenkneifen:
 - nachhaken: [nachfragen]
     - ich muss bei ihm nachhaken
 
+### kreuzen
+- kreuzen:
+    - ich kreuze die Straße [überqueren]
+    - die Strasse kreuzen sich hier
+
+- ankreuzen:
+    - die antwort ankreuzen [anstreichen]
+    - die antwort ankreuzen [anstreichen]
+
+- durchkreuzen:
+    - er hat meine Pläne durchkreuzt 
+
+- aufkreuzen:
+    - er kreuzt mitten in der Nacht auf obwohl ich ihn nicht erwartet habe
+
 ### klemmen
 - klemme:
     - die Klemme
@@ -13364,7 +13514,7 @@ zusammenkneifen:
   - das Gefühl beklemmt mich
 
 - dahinterklemmen:_
-  - wenn du dich dahinterklemmst, wirst du es schaffen
+  - wenn du dich bei diesem Punkt dahinterklemmst, wirst du es schaffen
 
 - einklemmen:
   - ich habe mir den Finger in der Tür eingeklemmt
@@ -13423,16 +13573,22 @@ zusammenkneifen:
 
 ### fix 
 - fix:
-    - ich mache das fix
+    - ich mache das fix [schnell]
+    - Wir haben einen fixen Termin für die Abgabe. [fest]
+
+- fixen:
+    - Der IT-Support konnte den Fehler in der Datenbank schnell fixen
 
 - fixieren:
     - ich werde es fixieren 
+    - Er ist so auf den Sieg fixiert
 
 ### kehren
 - kehren: 
     - ich muss den Boden kehren 
+    - ich werde die Hosen nach außen kehren
+    - Sie kehrt sich nicht daran, was man von ihr denkt; 
     - er hat sich gegen die Firma gekehrt 
-    - ich werde die Hosen nach außen kehren 
 
 - abkehren:
     - er hat sich vom Glauben abgekehrt 
@@ -13497,7 +13653,6 @@ zusammenkneifen:
     - er wirft die Kleidung auf einen Haufen 
     - ich will meine Pläne über den Haufen werfen 
     - Gegner über den Haufen rennen (= den Gegner im Sturm besiegen)
-    - Gegner über den Haufen rennen (= den Gegner im Sturm besiegen)
 
 - haufenweise:
     - es gibt haufenweise Arbeit 
@@ -13510,31 +13665,6 @@ zusammenkneifen:
 - überhäufen:
     - er hat mich mit Arbeit überhäuft 
 
-### sammeln
-- sammeln:
-    - Kraft sammeln 
-    - wir sammeln uns
-    - ich habe meine Kraft gesammelt 
-
-- ansammeln:
-    - viel Staub hat sich viel angesammelt 
-    - bei mir hat sich eine menge Arbeit angesmmelt 
-
-- aufsammeln:
-    - ich sammle die Äpfel vom Boden auf 
-
-- einsammeln:
-    - wir sammeln Geld ein 
-    - ich sammeln die Spielsachen ein
-
-- versammeln:
-    - wir versammeln uns 
-    - der Vater hat die Familie versammelt
-
-- Versammlung:
-    - die Versammlung 
-    - wann fängt die Versammlung an
-
 ### wachsen
 - wachsen:
     - ich bin der Aufgabe nicht gewachsen [nicht_schaffen]
@@ -13573,85 +13703,6 @@ zusammenkneifen:
 - verwachsen:
     - er ist mit seiner Firma verwachsen 
 
-### reif 
-- reif:
-- ausgereift:
-    - die Idee ist immer noch nicht reif 
-
-- reife:
-    - die Reife
-    - das deutet nicht auf gewisse Reife hin
-
-- reifen:
-    - die Idee muss erste reifen 
-    - die Entscheidung reift in mir 
-
-- Reifen:
-    - der Reifen 
-    - ich wollte den Reifen wechseln 
-
-- ausreifen:
-    - ich lass die Idee ausreifen 
-
-- bereifen:
-    - ich will das Auto bereifen 
-
-- heranreifen:
-    - mit dem Alter wird er heranreifen 
-    - stück für Stück reift die Idee heran
-    - du willst in der Rolle heranreifen
-
-### rufen 
-- Ruf:
-    - der Ruf 
-    - die Firma hat guten Ruf 
-
-- abrufen:
-    - ich rufe die Informationen aus dem Internet ab 
-
-- Abruf:
-    - der Abruf 
-    - ich bin immer auf Abruf 
-    - ich habe es auf Abruf bereitgestellt 
-
-- anrufen:
-- durchrufen:
-    - ich rufe dich an
-    
-- Anruf:
-    - der Anruf 
-    - ich muss den Anruf nehmen 
-
-- aufrufen:
-    - ich muss warten bis ich aufgerufen werde  
-    - sie haben zur Sammelung aufgerufen
-
-- nachrufen:
-    - ich rufe ihm nach dass er warten muss 
-
-- wachrufen:
-    - das ruft viele Erinnerung in mir wach 
-
-- zwischenrufen:
-    - wenn du Frage hast, ruf einfach zwischen  
-
-- zurückrufen:
-    - ich rufe dich zurück 
-
-- widerrufen:
-    - ich widerrufe meine Ansage 
-
-- einberufen:
-    - er wird zum Dienst einberufen 
-
-- Beruf:
-    - der Beruf 
-    - das ist serh guter Beruf 
-    - Brotberuf 
-
-- hervorrufen:
-    - diese Aussage hat viele Probleme hervorgerufen [herbeiführen]
-
 ### sammeln
 - sammeln:
     - Kraft sammeln 
@@ -13676,44 +13727,6 @@ zusammenkneifen:
 - Versammlung:
     - die Versammlung 
     - wann fängt die Versammlung an
-
-### wachsen
-- wachsen:
-    - ich bin der Aufgabe nicht gewachsen [nicht_schaffen]
-    - er wächst jeden tag 
-    - die Aufgabe ist mir über den Kopf gewachsen 
-    - er ist mir ans Herz gewachsen
-
-- anwachsen:
-    - die Schulden wachsen an 
-    - die Firma ist zum großer Firma angewachsen
-
-- aufwachsen:
-    - ich bin dort aufgewachsen 
-
-- auswachsen:
-- heranwachsen:
-    - er hat sich zum einem Mann ausgewachsen 
-    - es hat sich zum einem Problem ausgewachsen
-    - das Tier ist ausgewachsen [wird nicht mehr wachsen]
-
-- erwachsen:
-    - du bist aber erwachsen 
-
-- hineinwachsen:
-    - du wirst in diese Roll hineinwachsen 
-
-- hinauswachsen:
-    - die Pflanzen sind über den Zaun hinausgewachsen
-
-- herauswachsen:
-    - er ist aus dieser Rolle herausgewachsen und will jetzt mehr
-
-- nachwachsen:
-    - ich habe es geschnitten aber sie wachsen so oder so nach
-
-- verwachsen:
-    - er ist mit seiner Firma verwachsen 
 
 ### reif 
 - reif:
@@ -13843,7 +13856,6 @@ zusammenkneifen:
 - nachgrübeln:
     - ich habe viel über das Problem gegrüblt
 
-
 ### still
 - Stil: 
     - der Stil 
@@ -13904,47 +13916,6 @@ Stille
 
 - Satz:
     - der Satz 
-
-- Ansatz:
-    - der Ansatz 
-    - das war nicht der richtige Ansatz 
-    - das hat im Ansatz gescheitert 
-    - wir müssen mit dem Problem im Ansatz umgehen 
-    - er zeigt gute Ansätze  
-
-- ansatzweise:
-    - ich verstehe es ansatzweise 
-
-- Umsatz:
-    - der Umsatz 
-
-- Ersatz:
-    - der Ersatz 
-    - wir brauchen einen Ersatz 
-
-- Einsatz:
-    - der Einsatz 
-    - ich arbeite mit großem Einsatz
-- Ansatz:
-    - der Ansatz 
-    - das war nicht der richtige Ansatz 
-    - das hat im Ansatz gescheitert 
-    - wir müssen mit dem Problem im Ansatz umgehen 
-    - er zeigt gute Ansätze  
-
-- ansatzweise:
-    - ich verstehe es ansatzweise 
-
-- Umsatz:
-    - der Umsatz 
-
-- Ersatz:
-    - der Ersatz 
-    - wir brauchen einen Ersatz 
-
-- Einsatz:
-    - der Einsatz 
-    - ich arbeite mit großem Einsatz
 
 ### job
 - firma: 
@@ -14015,61 +13986,6 @@ Stille
     - der Weinachtensurlaub 
     - am Weihnachten 
 
-### knöpfen
-- knöpfen:
-    - Diese Bluse wird hinten geknöpft 
-
-- abknöpfen:
-    - er hat mir viel Geld für die Reparatur abknöpfen 
-
-- vorknöpfen:
-    - er hat mir wegen meines Fehler vorknöpft 
-    - das hast du dir vorgeknöpft
-
-- zuknöpfen:
-- aufknöpfen:
-    - ich werde mein Hemd zuknöpfen 
-
-### knüpfen 
-- knüpfen:
-    - ich habe nichts an das Meeting geknüpft 
-    - Kontake knüpfen 
-
-- anknüpfen:
-    - ich werde an die Wörter von Daniel anknüpfen 
-    - ich will an den Erfolg letztes Jahres anknüpfen
-
-- aufknüpfen:
-    - ich werde den Knoten aufknüpfen
-    
-- verknüpfen:
-    - ich verknüpfe mit dieser Stadt schlechte Erfahrung 
-
-### klopfen
-- klopfen:
-    - ich habe an die Tür geklopft 
-    - es hat geklopft 
-    - ich habe ihm auf die Schulter geklopft
-
-- anklopfen:
-    - ich werde bei ihm anklopfen ob es das machen will 
-    - an die Tür klopfen
-
-- abklopfen:
-    - ich muss den Vertrag abklopfen 
-    - ich werde seine Rede auf ehrlichkeit abklopfen
-    - ich werde den Staub von der Jacke  abklopfen 
-
-- aufklopfen:
-    - du muss das Ei aufklopfen 
-
-- beklopfen:
-    - der Artz hat die Brust beklopft 
-
-- einklopfen:
-- herausklopfen:
-    - ich klopfe das Kleid aus
-
 ### abtöten
 - ausmerzen:
 - ausrotten:
@@ -14092,8 +14008,7 @@ Stille
 
 - erlöschen:
     - die Liebe erlischt mit der Zeit 
-
-
+*-*
 ### bereiten
 - bereit:
     - ich bin bereit das zu machen
@@ -15095,153 +15010,6 @@ Stille
 	- ich interessiere mich für das Projekt
     - das interessiet mich nicht
 
-### zweck
-- Zweck:
-    - der Zweck 
-    - es erfüllt keinen Zweck mehr 
-    - das hat keinen Zweck mehr 
-
-- bezwecken:
-    - ich weiss nicht was Sie damit bezwecken wollen 
-
-- zweckentfremden:
-    - er hat den Stuhl als Leiter zweckentfremdet 
-    - wir wollen das nicht zweckentfremden 
-
-- verzwickt:
-    - alles ist total verzwickt 
-
-- zweckmäßig:
-    - ich brauche zweckmäßiges Werkzeug  
-
-### fremd 
-- entfremden:
-    - mit der Zeit haben wir uns entfremdet
-
-- fremdgehen:
-    - er geht fremd  
-
-- fremdbestimmen:
-    - das wird leider fremdbestimmt 
-
-- fremdschämen:
-    - ich habe mich fremdgeschämt 
-
-- fremd:
-    - er ist fremd 
-
-- zweckentfremden:
-    - er hat den Stuhl als Leiter zweckentfremdet 
-    - wir wollen das nicht zweckentfremden 
-
-### spitzen
-- Spitze:
-    - die Spitze 
-    - er steht an der Spitze der Firma 
-    - das Messer hat eine scharfe Spitze 
-
-- spitzen:
-- anspitzen:
-    - ich werde den Stift spitzen 
-
-- zuspitzen:
-    - die Lage spitzt sich zu [sich]
-
-- überspitzen:
-    - ich überspitze gerade die Situation
- 
-- bespitzeln:
-    - ich bespitzelt in dem Auftrag 
-
-### krempeln
-- hochkrempeln:
-- aufkrempelm:
-- herunterkrempeln:
-    - ich kremple die Ärmel hoch 
-
-- umkrempeln:
-    - das kremplt mein Leben um 
-
-- anrempeln:
-    - ich habe ihn versehentlich angeremplt 
-
-### kratzen
-- kratzen:
-    - die katze hat mich gekratzt 
-    - das Hemd kreizt mich 
-
-- abkratzen:
-- wegkratzen:
-    - ich kratze die Farbe ab 
-
-- verkratzen:
-    - er hat mein Auto angekratzt 
-    - das Auto war verkratzt
-
-- ankratzen:
-    - das hat mein Selbstbewusst angekratzt[schwach_machen]
-
-- aufkratzen:
-    - ich will die Verletzung nicht aufkratzen 
-
-- zerkratzen:
-    - er hat mein Geischt zerkratzt
-
-- zusammenkratzen:
-    - das war alles was wir irgendwie zusammenkratzen konnten 
-
-### reizen 
-- reizen:   
-    - das reizt mich zu gehen [verlocken]
-    - das reizt das Augen
-
-- gereizt:
-    - er hat gereizt reagiert 
-
-- anreizen:_
-    - die Firma reizt die Mitarbeiter zu großen Leistung an 
-
-- aufreizen:
-    - die unfaire Behandlung hat die gesamte Belegschaft aufgereizt 
-
-- überreizen:
-    - meine Nerven waren überreizt 
-
-- ausreizen:
-    - ich habe das Budget ausgereizt [ausschöpfen]
-
-### hetzen
-- hetzen:
-    - wir müssen zum Bahnhof hetzen 
-    - ich lasse mich nicht hetzen 
-    - ich wollte nicht durch den Tag hetzen 
-    - ich will dich nicht hetzen 
-    - er hat einen Hund auf mich gehetzt 
-    - sie hetzen gegen Ausländer 
-
-- abhetzen:
-    - ich habe mich zum Bahnhoft angehetzt 
-
-- abgehetzt:
-    - ich bin abgehetzt
-
-- aufhetzen:
-- verhetzen:
-    - die Mutter hetzt das Kinder gegen den Vater auf 
-
-- hasten:
-    - ich muss zum Bahnhof hasten
-
-- Hetze:
-    - Das war vielleicht eine Hetze, bis wir endlich im Bus saßen!
-    - ich will das nicht in Hetze machen sondern in Ruhe 
-
-- hektisch:
-	- heute war es sehr hektisch und ich hatte nicht genugend Zeit um alles zu schaffen was ich schaffen wollte
-
-- hastig:_
-    - wir wollen nicht hastig arbeiten
-
 ### stärken 
 ### kräftigen:
 - stark:
@@ -16035,26 +15803,6 @@ Stille
 
 
 
-### jagen
-- jagen:
-    - der Hund jagt mich 
-
-- abjagen:
-    - er hat mir den Kunden abgejagt [wegschnappen] 
-
-- einjagen:
-    - du hast mir schrecken eingejagt 
-
-- nachjagen:
-    - ich jage ihm nach 
-
-- wegjagen:
-- verjagen:
-    - ich habe die Katze von dem Essen weggejagt 
-
-- Jagd:
-    - die Jagd
-    - ich gehe auf die Jagd  
 
 ### Ort 
 - orientieren:
@@ -18318,8 +18066,6 @@ Stille
 - Tipp:
 	- der Tipp
 	- darf ich dir einen Tipp geben 
-
-
 
 ### fähig 
 - befähigen:
@@ -21798,19 +21544,7 @@ Stille
 
 
 ###
-- Kabel:
-    - das Kabel 
-
-- einbürgern:
-	- Ich muss regelmäßig Sport treiben, um es als Gewohnheit in meinen Alltag einzubürgern
-	- es hat sich eingebürgert
-
-- Engagement:
-	- das Engagement
-	- er hat Engagment gezeigt
-
-- gemächlich:
-    - er joggt sehr gemächlich
+1--
 
 - Geschirr:
     - das Geschirr 
@@ -21862,8 +21596,6 @@ Stille
     - er hat mir den Appetit verdorben
     - das kann den Appetit anregen 
 
-
-
 - Tätigkeit:
     - die Tätigkeit.
     - das sind die normalen Tätigkeiten, die man normalerweise im Büro ausübt  
@@ -21903,7 +21635,6 @@ Stille
     - das Kind ist in der Ecke 
     - gehen um die Ecke
 
-
 - Junge:
 - Mädchen:
     - der Junge 
@@ -21923,11 +21654,6 @@ Stille
 
 - Brei:_
     - ich will nicht um den heißen Brei reden 
-
-
-
-- gleichwertig:
-    - Sie sind gleichwertig und austauschbar 
 
 - angeheitert:
 - angetrunken:
@@ -22084,13 +21810,11 @@ Stille
     - das kann man nicht isoliert betrachten 
 
 
-
 - abtransportieren:
     - ich wollte den Müll abtransportieren 
 
 - naiv:
     - ich war sehr naiv das zu glauben 
-
 
 
 - umarmen:
@@ -22479,17 +22203,9 @@ Stille
     - das Indiz
     - das war ein klares Indiz dass etwas nicht stimmt 
 
-
 - Bart:
     - der Bart 
     - ich lasse mir meinen Bart stehen / wachsen
-
-- Gelegenheit:
-    - die Gelegenheit 
-    - das ist sehr gute Gelegenheit um das zu machen 
-    - ich wolle diese Gelegenheit nutzen 
-    - bei passender Gelegenheit 
-
 
 - widersruch:
     - der widerspruch 
@@ -22517,8 +22233,6 @@ Stille
 - Reichtum:
     - das Wachstum 
     - der Reichtum  
-
-
 
 - Vorhang:_
 - Gardine:
@@ -22626,8 +22340,6 @@ Stille
     - das ist mir ein Rätsel 
     - ich bin am Rätsel
 
-
-
 - verzichten:
     - ich habe auf deine Hilfe verzichtet 
 
@@ -22636,7 +22348,6 @@ Stille
     - der Sumpf 
     - das Moor
 
-
 - Wortschatz:  
     - der Wortschatz 
     - ich will meinen Wortschat erweitern 
@@ -22644,8 +22355,6 @@ Stille
 
 - vorab:
     - ich will das vorab testen 
-
-
 
 - Lärm:
     - der Lärm 
@@ -22686,17 +22395,12 @@ Stille
     - der Absatz 
     - mach neuen Absatz 
 
-
-
-
 - affin:
     - man muss technisch affin sein
 
 - Engpass:
     - der Engpass 
     - es gibt gerade Engpass an Öl
-
-
 
 - Bescherung:
     - die Bescherung 
@@ -22718,15 +22422,9 @@ Stille
     - der Alarm 
     - es war ein blinder Alarm 
 
-
-
 - Almosen:
     - das Almosen 
     - ich brauche kein Almosen von ihm 
-
-
-
-
 
 - Typ:  
     - der Typ 
@@ -22736,14 +22434,9 @@ Stille
     - die Panne 
     - ich habe eine Panne mit dem Auto 
 
-
-
 - versöhnen:
 - aussöhnen:
     - ich habe mich mit ihm versöhnt 
-
-
-
 
 - abgemagert:
     - ich bin abgemagert 
@@ -22756,7 +22449,6 @@ Stille
 
 - schaufeln:
     - ich muss den Schnee schaufeln
-
 
 ## synome 
 
@@ -22785,27 +22477,6 @@ Stille
 - vorführen
     - ich will niemanden blamieren
     - er hat mich vorgeführt
-
-## ausdrücke 
-
-- Zeig dich wie du wirklich bist
-- zeig deine wahre Persönlichkeit 
-- sei einfach du selbst
-
-
-- darum und dara:
-    - das kostet mit allem darum und daran 200 Euro
-
-- auf die Nase binden:
-    - soll ich ihm das einfach die die Nase binden 
-
-- auf Null fahren
-
-- jeder für sich 
-
-- die einen wollen früh heiraten die anderen wollen das Leben genießen
-
-
 
 ## Grammtik
 ### genitiv
@@ -22871,7 +22542,6 @@ Stille
 
 - drüben:
     - er wohnt drüben
-
 
 ### ADJEKTIV/PARTIZIP ALS NOMEN
 - etwas:
@@ -23255,8 +22925,6 @@ Stille
     - die Tastatur
     - auf der Tastatur 
 
-
-
 ### Innerhalb und außerhalb des Dorfes
 - entlang:
     - ich laufe den Fluss entlang 
@@ -23291,19 +22959,6 @@ Stille
     - ich fahre bis zur nächsten Station, bis Berlin 
     - bis dorthin 
     - bis der Linie 
-
-
-
-
-### partizip 1
-- gekochendes Wasser 
-- schmerzende Wunde 
-- sinkende Kosten 
-- alleinerziehende Mutter
-- grundlegender Unterschied 
-- dauernd 
-
-
 
 ### es 
 - adjektiv:
@@ -23660,18 +23315,7 @@ Stille
 #### je + Komparativ
 - je mehr, desto besser 
 
-### zahlen
-#### Grundzahlen
-- eins, zwei,sechs,sieben,acht,neuen, zehen, dreizehen, sechzehen,siebzehen, zwanzig,
-einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig 
-- 309:
-    - dreihundert uns eins 
 
-- 598:
-    - fünfhundertundachtundneunzig
-
-- 9815:
-    - neuentausendachthundertundfuntzehn
 
 ### Ordinalzahl 
 - erste, zweite, dritte, vierte, fünfte, sechste, siebte, achte, neuunte, zehnte 
@@ -23937,84 +23581,3 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
 
 
 
-
----------
-- 
-- das ich am Steuer bin
-- Würdige Form 
-- lautlos 
-- ich lasse los 
-- ich werde mich nicht in Kreislauf halten 
-- ich blicke in den Spiegel
-- in mir war  
-- endelose Shleife 
-- ich glaube das ist der Grundkonflikt bei uns 
-- was ich mir wüschen dass meine Frau mich auf eine andere Art in mich verlieben kann 
-- wir waren im Streit 
-- manchmal ist man so verfahren in seinen Mustern dass es helf kann wenn man von Aussen draufguckt 
-- ich komme zu dir 
-- es war so wehnig dass ich an den Punkt kam wo ich angefangen habe das nicht nur zu bemerken sondern darunter zu leiden 
-- ich muss mich damit arrangieren 
-- menge abhanden gekommen 
-- ich bin immer mal wieder Ratlos 
-- das muss man Zielgerichtet 
-- einbetten 
-- in den Kalender gucken 
-- 3 wochen am Stück Urlaub
-- das war eine beknackte Idee 
-- haushalt
-- das ist näturlich ein Ansporn, anreiz
-- die reichweite, tragweite
-- Muskelatur , muskelkater 
-- es ist sehr wichtig im Alter 
-- das wird immer und immer aufgeklärt
-- die ziehen gerne mit
-- ich hatte übergewicht
-- deswegen bin ich ins das Thema eingetaucht oder abgedriftet
-- resilient 
-- wenn du das von Außen betractet ohne vorwissen 
-- wir haben ein adpatives System-
-- zehenspitzens 
-- das wirst du an die Wahrheit kommen
-- auf dem Holzweg
-- das hat bei mir gut angeschlagen 
-- du hast die ganze Welt schon bereist
-- das befeuert Angst
-- durchweg
-- das hat keine Resonanz bei den Leuten gefunden 
-- warum hat das Anklang bei den leuten gefunden 
-- ich habe das auch nie geschnallt 
-- ich muss mich durch etwas durchkämpfen 
-- ich habe das vorgespult
-- ich muss mein Team anfeuern
-- es geht auf etwas zurück
-- ins Spiel bringen
-- das beweisst das er durchschlagen kann 
-- das ist handfest 
-- das ist das Kalkül 
-- etwas ist vergammeln 
-- nach deutschland geschwappt 
-- in eine Familie eingeheiratet 
-- er hat keinen Besitz mehr 
-- man hat ein Kapital 
-- ich versuche das Gefühl besser rüberzubringen 
-- das weiss ich sehr zu schätzen 
-- Finger in die Wunde legen 
-- Rückschluss haben 
-- opfer bringen 
-- im Ernst
-- wenn wir ein Kind bekommen dann will ich Aufgabenteilung, dann will ich die Augenhöhe 
--  kannst du den Mund halten wenn sich die erwaschsenen unterhalten
-- verunfallt 
-- ja das macht es schon mein ganzes Leben lang 
-- vermasseln, versaubeuteln, verhauen
-- du hast einen Anspruch auf  frühe Verrentung 
-- das ist eine Sauerei 
-- spielst du mir einen Streich 
-- zur gleichen zeit 
-- ist jetzt CHrist an Bord 
-- das gehört wirkich nicht hierher
-- offenbaren meine Gefühle 
-- über den Mund fahren 
-- er macht mich lächerlich / geben sie sich zu wenig Mühe 
-- Kappe abziehen
