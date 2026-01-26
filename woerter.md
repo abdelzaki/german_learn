@@ -14008,7 +14008,7 @@ Stille
 
 - erlöschen:
     - die Liebe erlischt mit der Zeit 
-*-*
+
 ### bereiten
 - bereit:
     - ich bin bereit das zu machen
@@ -14047,6 +14047,8 @@ Stille
     - ich lege eine Decke um die Schulter 
     - mir fällt die Decke auf den Kopfr
     - an die Decke gehen
+    - bettdecke
+    - Tischdecke
 
 - Deckung:
     - die Deckung 
@@ -14230,6 +14232,9 @@ Stille
     - ich muss das schrauben 
     - er hat es in die hohe geschraubt 
 
+- verschraubt:
+     - Alle Komponenten des Gehäuses sind sicher miteinander verschraubt
+
 - abschrauben:
 - aufschrauben:  
     - ich schraube das Bild ab 
@@ -14333,7 +14338,7 @@ Stille
 - durchtrainieren:
     - durchtrainierter Körper  
 
-- Taining:
+- Training:
     - das Training 
     - das Training ist sehr hart
 
@@ -14469,7 +14474,6 @@ Stille
 - vorauseilen:
     - ich eile ihm nach 
     - du eilst mir voraus, ich folge dir nach 
-
 
 ### heilen
 - heilen:
@@ -14869,6 +14873,7 @@ Stille
 - heben:
     - ich will mein Selbstbewusstsein heben 
     - ich wollte die Stimmung heben 
+    - der Wasserspiegel hat sich gehoben
 
 - abheben:
     - ich muss schnell Geld abheben [geld]
@@ -15333,6 +15338,7 @@ Stille
 ### färben
 - färben:
     - ich will meine Haare färben 
+    - die Kleidung färben schnell
 
 - abfärben:
     - die Hose färbt auf die andere Kleidung ab 
@@ -15352,7 +15358,7 @@ Stille
 - einfarbig:
 - mehrfarbig:
 - bunt:
-
+*-*
 ### keim 
 - keim:
     - der Keim 
@@ -15435,8 +15441,6 @@ Stille
 
 - aussieben:
     - ich siebe die Steine aus 
-
-
 
 ### zer
 - zerbeulen:
@@ -15684,6 +15688,7 @@ Stille
     - die Eltern haften für die Kinder 
     - das haftet gut auf der Hand
     - es bleibt Gut auf der Wand haften 
+    - das wird an dir haften
 
 - verhaften:
     - er wird von der Polizei verhaftet
@@ -15696,7 +15701,11 @@ Stille
 
 - Haft:
     - die Haft 
-    - in Haft nehmen
+    - in Haft nehmen 
+
+- Haftung:
+    - die Haftung 
+    - wir übernehmen keine Haftung
 
 - behaftet: 
     - das ist Risikobehaftet 
@@ -15800,9 +15809,6 @@ Stille
 - Wissenschaft:
     - die Wissenschaft
     - das ist Wissenschaft für sich 
-
-
-
 
 ### Ort 
 - orientieren:
@@ -15909,6 +15915,9 @@ Stille
     - das Vergnügen 
     - ich mache es mit Vergnügen 
 
+- amüsieren:
+    - „Wir haben uns auf der Feier prächtig amüsiert.“
+*-*
 ### Sinn 
 - Sinn:
     - der Sinn 
@@ -15929,7 +15938,6 @@ Stille
 - wahnsinnig:
     - wahnsinnig 
     - das ist aber wahnsinnig 
-
 
 - besinnen:
 - entsinnen:
@@ -15990,8 +15998,6 @@ Stille
 - schwindlig:
     - es ist mir schwindlig 
 
-
-
 ### retten
 - retten:
 - erretten:
@@ -16000,8 +16006,6 @@ Stille
 - Rettung:
     - die Rettung 
     
-
-
 ### hemmen
 - hemmen:
     - das hemmt die Entwicklung 
@@ -16101,8 +16105,6 @@ Stille
 
 - weglächeln:
     - ich habe das Problem weggelächelt
-
-
 
 ### reich
 - reich:
@@ -16407,8 +16409,6 @@ Stille
 - Meuterei:
     - die Meuterei 
 
-
-
 ### bürde
 - Bürde:
 - Ballast:
@@ -16419,8 +16419,6 @@ Stille
 
 - aufbürden:
     - ich will dir schwer Last aufbürden 
-
-
 
 ### landen 
 - landen:
@@ -17715,91 +17713,6 @@ Stille
 - nähe:
     - das liegt in der Nähe 
     - sie sucht Nähe zu ihm 
-
-### erben
-- erben:
-    - ich habe das von meinem Vater geerbt 
-
-- beerben:
-    - ich habe meinen Vater beerbt 
-
-- enterben:
-    - der vater hat seinen Sohn enterben 
-
-- vererben:
-    - mein Vater hat mir das Haus vererbt 
-
-- Erbe:
-    - das Erbe
-
-### sterben 
-- sterben:
-- versterben:
-    - er ist seit 5 Jahre gestorben 
-
-- absterben:
-    - die Zelle sterben ab 
-
-- aussterben:
-    - viel Tier sind ausgestorben 
-
-- wegsterben:
-    - seine Frau ist ihm weggestorben 
-
-### streben 
-- streben:
-    - er strebt nach Geld 
-
-- anstreben:
-- erstreben:
-    - wir streben enge Zusammenarbeit an 
-    - wir haben es angestrebt 
-
-- erstrebenswert:
-	- das ist erstrebenswert 
-
-- Bestreben:
-    - das ist mein Bestreben [ziel] 
-
-- zustreben:
-    - wir streben dem Nord zu [anfliegen]
-
-- widerstreben:
-    - es widerstribt mir das zu machen 
-
-### trinken
-- trinken:
-    - mann soll ausreichend trinken 
-
-- austrinken:
-    - er hat die Milch ausgetrunken 
-
-- ertrinken:
-    - man kann dort ertrinken 
-
-### statten 
-- gestatten:
-    - es ist dir nicht gestattet 
-
-- erstatten:
-    - wir werden ihnen die Kosten erstatten
-    - die Kosten werden näturlich erstattet 
-
-- ausstatten:
-    - ich werde dich mit warmer Kleindung ausstatten [versehen]
-
-### subjekiv 
-- subjektiv:
-    - das ist meine subjektive Meinung 
-
-- objetiv:
-    - ich will objetiv bleiben 
-
-- sachlich:
-    - das ist keine sachliche Kritik 
-
-- nebensächlich:
-    - das ist aber nebensächlich 
 
 ### Miete 
 - Miete:    
@@ -20459,6 +20372,94 @@ Stille
 - kooperieren:
     - ich habe mit ihm kooperiert 
 *-*
+### erben
+- erben:
+    - ich habe das von meinem Vater geerbt 
+
+- beerben:
+    - ich habe meinen Vater beerbt 
+
+- enterben:
+    - der vater hat seinen Sohn enterben 
+
+- vererben:
+    - mein Vater hat mir das Haus vererbt 
+
+- Erbe:
+    - das Erbe
+
+### sterben 
+- sterben:
+- versterben:
+    - er ist seit 5 Jahre gestorben 
+
+- absterben:
+    - die Zelle sterben ab 
+
+- aussterben:
+    - viel Tier sind ausgestorben 
+
+- wegsterben:
+    - Die Zeitzeugen des Zweiten Weltkriegs sterben langsam weg.
+
+### streben 
+- streben:
+    - er strebt nach Geld 
+
+- anstreben:
+- erstreben:
+    - wir streben enge Zusammenarbeit an 
+    - wir haben es angestrebt 
+
+- erstrebenswert:
+	- das ist erstrebenswert 
+
+- Bestreben:
+    - das ist mein Bestreben [ziel] 
+
+- zustreben:
+    - wir streben dem Nord zu [anfliegen]
+
+- widerstreben:
+    - es widerstribt mir das zu machen 
+
+### trinken
+- trinken:
+    - mann soll ausreichend trinken 
+
+- austrinken:
+    - er hat die Milch ausgetrunken 
+
+- ertrinken:
+    - man kann dort ertrinken 
+
+### statten 
+- gestatten:
+    - es ist dir nicht gestattet den Raum zu betreten
+
+- erstatten:
+    - wir werden ihnen die Kosten erstatten
+    - die Kosten werden näturlich erstattet 
+
+- ausstatten:
+    - ich werde dich mit warmer Kleindung ausstatten [versehen] 
+
+- abstatten:
+    - ich werde ihm einen Überraschung Besuch abstatten
+
+### subjekiv 
+- subjektiv:
+    - das ist meine subjektive Meinung 
+
+- objetiv:
+    - ich will objetiv bleiben 
+
+- sachlich:
+    - das ist keine sachliche Kritik 
+
+- nebensächlich:
+    - das ist aber nebensächlich 
+
 ### grat 
 - gratis:
     - die Nutzung ist gratis
@@ -23578,6 +23579,7 @@ Stille
     - die Milch ist alle 
 
 ######
+ 
 
 
 
