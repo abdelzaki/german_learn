@@ -280,6 +280,10 @@
 - schmerzlindernd
 - schmerzstillend
 
+- schmerzensgeld:
+    - das Schmerzensgeld
+    -  einen Anspruch auf Schmerzensgeld haben
+
 ### heulen && weinen 
 - heulen:
     - sie hat angefangen zu heulen 
@@ -965,6 +969,7 @@
     - du hast es dir bei mir verschissen 
 
 - zusammenscheißen:
+- anscheißen:
     - er hat mich vor einem Fremd zusammengeschissen 
 
 - Schiss:
@@ -2491,6 +2496,9 @@
 - Verzögerung:
     - wir haben eine Verzögerung mit 10 Minuten
     
+- fackeln:
+    - ich will nicht lange fackeln
+
 ### brennen:
 - brand:
     - der Brand 
@@ -4817,6 +4825,14 @@ Klecks
 - verzehren:
     - Diese Lebensmittel sind nicht für den menschlichen Verzehr geeignet
 
+### zerren 
+- zerren:
+    - der Hund zerrt an der Leine
+    - Pass auf, dass du dir nicht den Rücken zerrst, wenn du die Kiste so falsch hebst
+
+- entzerren:
+    - Wenn wir die Abgabefristen der Projekte entzerren, sinkt die Fehlerquote bei den Mitarbeitern.
+
 ### vorbei 
 - vorbeikommen:
     - wir kommen an diesem Problem nicht vorbei 
@@ -5555,12 +5571,19 @@ Klecks
     - der Knall 
     - ein lauter knall 
     - vor einer Woche kam beu uns der große Knall 
+    - hast du einen Knall [verrückt]
 
 - knall auf fall:   
     - er hat knall auf fall gekündigt 
 
 - knallhart:
     - er hat mir eine Meinung knallhart gesagt
+
+- verknallt:
+    - sie ist in mich verknallt 
+
+- durchgeknallt:
+    - er ist durchgeknallt [einen knall haben]
 
 ### leiten
 - leiten:
@@ -5616,6 +5639,21 @@ Klecks
 - Einleitung:
     - die Einleitung 
     - kürze Einleitung 
+
+### stürmen
+- sturm:
+    - Mach dir keine Sorgen, die ganze Diskussion ist nur ein Sturm im Wasserglas
+
+- stürmen:
+    - Es hat die ganze Nacht heftig gestürmt
+    - wütend stürmte er aus dem Zimmer und knallte die Tür zu
+
+- reinstürmen:
+    - er stürmt ins zimmer rein
+    - kommt eine Frau herreingestürmt
+
+- zustürmen:
+    - Als der Ausverkauf begann, stürmte die Menge auf den Eingang zu
 
 ### Strom 
 - Strom:
@@ -5733,6 +5771,18 @@ Klecks
 
 - schwammig:
     - es ist sehr schwammig 
+
+### schwebe 
+- schwebe:
+    - die Schwebe 
+    - das bleibt in der Schwebe
+
+- schweben:
+    - Die Magnetschwebebahn schwebt dank starker Magnetfelder über den Schienen.“
+
+- vorschweben:
+    - mir schwebt eine Lösung vor 
+
 
 ### schenken:
 - schenken:
@@ -7432,6 +7482,10 @@ Klecks
 - inbegriffen:
     -  all Kosten sind inbegriffen 
 
+- angriffsfläche:
+    - die angriffsfläche 
+    - du solltest nicht weitere angriffsfläche bieten
+
 ### weisen
 - weisen:
     - ich weise ihm den Weg [zeigen]
@@ -9010,7 +9064,8 @@ Klecks
     - Haar / Nägel Bschneiden 
     - ich habe mich geschnitten(sich)[verletzt]
     - ich habe mir in den Finger geschnitten  
-    - in scheiben schneiden [in scheiben]
+    - in scheiben schneiden [in scheiben] 
+    - du hast dich gewaltig geschnitten
 
 - kleinschneiden:
     - schneide es bitte klein
@@ -9730,6 +9785,8 @@ Klecks
 
 - stehenlassen:
     - lasse es stehen 
+    - wir können das nixht so im Raum stehen lassen
+
 
 - einstehen:
     - ich habe das gemacht und ich stehe für meine Entscheidung ein
@@ -10626,6 +10683,16 @@ Klecks
 - einklopfen:
 - herausklopfen:
     - ich klopfe das Kleid aus
+
+### winken 
+- winken: [hinken]
+    - ich habe dem Kellner gewinkt 
+
+- abwinken:
+    - ich wollte mit ihm sprechen er hat aber abgewinkt 
+
+- nachwinken:
+    - ich winke ihm nach  [goodbye]
 *-*
 ### strapazieren:
 - Strapaze:
@@ -11506,6 +11573,7 @@ Klecks
 - geben:
     - geben sich Männer zu wening Mühe [Sich Mühe geben]
     - sich irgendwie geben [sich]
+    - es wird sich schon geben
     - den Korb geben(= jmdn. abweisen)
     - den Laufpass geben (= jmdn. fortjagen) 
     - nicht aus der Hand geben
@@ -13300,6 +13368,9 @@ Klecks
 - ausschreiben:
     - ich schribe den Name aus 
 
+- mitschreiben:
+    - noch einmal zum mitschreiben
+
 ### schrift
 - Vorschrift:
     - die Vorschrift 
@@ -14724,7 +14795,8 @@ Stille
     - das Bedürfnis sich mitzuteilen ist starke Motive
 
 - beteiligen:
-	- ich will an der Diskussion beteiligen
+	- ich will mich an der Diskussion beteiligen
+    - er soll sich an der Miete beteiligen
 
 - zuteilen:
     - jede bekommt ein Arbeit zugeteilt 
@@ -15358,7 +15430,7 @@ Stille
 - einfarbig:
 - mehrfarbig:
 - bunt:
-*-*
+
 ### keim 
 - keim:
     - der Keim 
@@ -15709,6 +15781,7 @@ Stille
 
 - behaftet: 
     - das ist Risikobehaftet 
+    - das ist mit Risiko behaftet
 
 ### heften 
 - Heft:
@@ -15917,7 +15990,7 @@ Stille
 
 - amüsieren:
     - „Wir haben uns auf der Feier prächtig amüsiert.“
-*-*
+
 ### Sinn 
 - Sinn:
     - der Sinn 
@@ -15997,6 +16070,7 @@ Stille
 
 - schwindlig:
     - es ist mir schwindlig 
+    - es wird mir schwindlig
 
 ### retten
 - retten:
@@ -16026,13 +16100,13 @@ Stille
     - er hat sehr spät gebremst 
 
 - Bremse:
-    - der Bremse 
+    - die Bremse 
 
 - abbremsen:
     - ich versuche die Entwicklung abzubremsen [bremsen] 
 
 - ausbremsen:
-    - das hat uns ausgebremst [verlangsamern]
+    - Eine instabile Internetverbindung kann das gesamte Team im Homeoffice ausbremse [verlangsamern]
 
 ### Hunger
 - Hunger:
@@ -16073,7 +16147,7 @@ Stille
     - ich habe mir das Haus erträumt 
 
 - verträumen:
-    - ich will meine Zeit nicht verträumen 
+    - ich will meine Zeit nicht mit sinnlosen Projekten verträumen 
 
 ### drohen
 - drohen:
@@ -16112,6 +16186,7 @@ Stille
 
 - anreichern:
     - Das Gift reichert sich im Boden an.
+    - In einigen Ländern wird Mehl gesetzlich mit Folsäure angereichert.
 
 - bereichern:
     - Er hat sich im Krieg an dem Besitz anderer schamlos bereichert
@@ -16155,6 +16230,7 @@ Stille
 
 - verirren:
     - ich habe mich verirrt [verlaufen]
+    - Die E-Mail ist wohl nicht angekommen; vielleicht hat sie sich im Spam-Ordner verirrt.“
 
 - irreführend:
     - das ist sehr irreführend 
@@ -16200,6 +16276,7 @@ Stille
 - aufschaukeln:
 - hochschaukeln:
     - der Konflikt schaukelt sich auf 
+    - das hat den Konflikt aufgeschaukelt
 
 - verschaukeln:
     - willst du mich verschaukeln [verarschen]
@@ -16371,8 +16448,8 @@ Stille
     - der Kampf 
     - wir haben den Kampf verloren 
 
-- kämpefrisch:
-    - er ist sehr kämpefrisch
+- kämpferisch:
+    - er ist sehr kämpferisch
 
 - kämpfen:
     - ich habe gegen ihn gekämpft 
@@ -16483,6 +16560,7 @@ Stille
 
 - locken:
     - wir wollten die kompetenten Leute locken
+    -  Die Ente lockt die Küken zum Nest
 
 - anlocken:
     - das lockt die Kunden an 
@@ -16492,7 +16570,7 @@ Stille
     - ich habe ihm ein Versprechen abgelockt 
 
 - verlocken:
-    - das verlockt mich zum schwimmen 
+    - das verlockt mich zum schwimmen [sub=>etwas]
 
 - verlockend:
     - das ist sehr verlockend muss man sagen 
@@ -16681,11 +16759,21 @@ Stille
 - durchklingen:
     - ich bin überfordert, ich habe das öfters durchklingen lassen 
 
+- ausklingen:
+    - ich brauche eine Stunde um den Tag ausklingen zu lassen 
+    - Wir haben den Abend bei einem gemütlichen Essen ausklingen lassen.
+    
 - ausklinken:
     - Sie klinkte sich aus dem Projekt aus, da sie keine Zeit mehr hatte.
+    - Das Fenster lässt sich nur ausklinken, wenn man den Hebel ganz nach oben drückt.“
+    - Ich muss mich für heute Nachmittag ausklinken, ich habe einen wichtige 
+
+- einklinken:
+    - Der Experte klinkte sich per Video-Call in die Konferenz ein
 
 - klingeln:
     - es klingelt bei mir 
+    - Ich habe mehrmals geklingelt, aber mir wurde nicht geöffnet.
 
 ### klicken
 - Klick:
@@ -16709,8 +16797,7 @@ Stille
     - es kommt auf den Hund gerade bei mir 
 
 - den Hund zum jagen tragen:
-    - man kann keinen Hund zum jagen tragen
-    - man kann nicht den Hund zum jagen tragen 
+    - man kann keinen  zum jagen tragen
 
 - Schweinehund:
     - der Schweinehund
@@ -16797,7 +16884,6 @@ Stille
 
 - geduldig:
     - er ist sehr geduldig
-
 
 ### reduzieren 
 - reduzieren:
@@ -17009,20 +17095,12 @@ Stille
 - bedürftig:
 	- das ist Geld für Bedürftig
 
-
-
-### rang
-- rangieren:
-    - das rangiert bei uns ganz oben 
-
-- ausrangieren:
-    - ich rangiere die alten Kleidung aus [ausmustern] [aussortieren] 
-
 ### mustern:
 - Muster:
     - das Muster 
     - ich will nicht in alte Muster fallen
-    - das ist ein wiederkehrendes Muster
+    - das ist ein wiederkehrendes Muster 
+    - ich kann das Muster erkennen
 
 - mustern:
     - der Personalchef hat den Bewerber gemustert 
@@ -17074,7 +17152,6 @@ Stille
 
 - stummschalten:
     - du bist stummgeschaltet
-
 
 ### parken 
 - parken:
@@ -17307,6 +17384,9 @@ Stille
 - ablutschen:
     - ich lutsche den Löffel ab
 
+- ausgelutscht:
+    - er hat es ausgelutscht
+
 ### lauschen
 - lauschen:
     - er lauscht kommische Musik 
@@ -17325,7 +17405,6 @@ Stille
 
 - launisch:
     - er ist sehr launisch    
-
 
 ### bügeln
 - bügeln:
@@ -17352,6 +17431,16 @@ Stille
 
 - widrig:
     - das ist gesetzeswidrig 
+
+### würgen 
+- würgen:
+    -  Die Krawatte würgt ihn.
+
+- abwürgen:
+    - Die Zentralbank will das Wachstum nicht durch zu hohe Zinsen abwürgen
+
+- reinwürgen:
+    - sie will mir eins reinwürgen 
 
 ### Münze
 - Münze:
@@ -17382,10 +17471,11 @@ Stille
     - der Preis 
     - der Preis ist sehr hoch
     - der Preis ist mit Frühstuck 
-    - Preise [ansteigen, abfallen, heraufsetzen, heruntersetzen]
+    - Preise [ansteigen, abfallen, heraufsetzen, heruntersetzen, sinken, treiben, senken]
 
 - preisgeben:
     - er gibt nicht preis wer das gemacht hat 
+    - Moderne Apps geben oft den Standort der Nutzer preis, ohne dass diese es merken.
 
 - einpreisen:
     - die Kosten werden eingepreist
@@ -17477,7 +17567,7 @@ Stille
     - den Konflikt schlichten
 
 - leuchten:
-    - die Lampe / Licht leuchtet 
+    - die Lampe / Licht leuchtet  Blau
     - mit dem Handy leuchten
     - jemandem ins Gesicht leuchten
 
@@ -17688,7 +17778,7 @@ Stille
 - Tüte:
     - die Tüte 
     - ich brauche eine Tüte 
-
+*-*
 ### nähren && nähern 
 - nähren:
     - das nährt den Verdacht 
@@ -17754,8 +17844,6 @@ Stille
 
 - Fristgerecht:
     - ich will die Aufgabe fristgerecht erledigen
-
-
 
 ### form
 - formen:
@@ -18019,7 +18107,6 @@ Stille
 - zukleben:
     - ich klebe den Brief zu 
 
-
 ### Ziel 
 - Zielführend:
 - irreführend:
@@ -18106,16 +18193,6 @@ Stille
     - der Fehltritt 
     - das ist ein Fehltritt und ich bereue es 
 
-### winken 
-- winken: [hinken]
-    - ich habe dem Kellner gewinkt 
-
-- abwinken:
-    - ich wollte mit ihm sprechen er hat aber abgewinkt 
-
-- nachwinken:
-    - ich winke ihm nach  [goodbye]
-
 ### leid 
 - Leid:
     - ich habe es leid mit ihm zu reden 
@@ -18134,6 +18211,9 @@ Stille
 
 ### zaubern
 - zaubern:
+    - er kann die Lösung nicht einfach zaubern
+
+- bezaubern:
     - er hat mich durch ihre Schönheit bezaubert 
 
 - wegzaubern:
@@ -18150,11 +18230,11 @@ Stille
 - anstiften:
     - er hat mich zu dieser Tat angestiftet 
 
-- Stift:
-    - der Stift 
-    - ich brauche einen Stift 
-
 ### spend
+- Spende:
+    - die Spende 
+    - eine Spende machen
+
 - spenden:
     - ich spende für guten Zweck 
 
@@ -18168,7 +18248,11 @@ Stille
     - das gilt weiter 
 
 - abgelten:
-    - der Urlaub wird in Geld abgegolten
+    - der Urlaub wird in Geld abgegolten 
+
+- abgeltung:
+    - die Abgeltung 
+    - man bekommt eine Abgeltung
 
 - vergelten:
     - wie soll ich dir deine Hilfe vergelten [heimzahlen] 
@@ -18204,24 +18288,6 @@ Stille
 
 - loswerden:
     - ich wollte dieses Aufgabe loswerden [entledigen] [ledig]
-
-### hinken
-- hinken:
-    - seit dem Unfall fängt er zu hinken 
-
-- schinken:
-    - der Schinken
-
-- hinterhinken:
-- nachhinken:
-    - wir hinken der Entwicklung hinterher 
-
-- hocken:
-    - er kann hocken 
-
-- hüpfen:
-- hoppeln:
-    - die Kinder hüpfen 
 
 ### Hand 
 - Hand:
@@ -18274,7 +18340,8 @@ Stille
 - stressen:
     - ich stresse mich nicht wenn es passiert 
     - das stresst mich
-    
+
+*-*
 ### quälen 
 - quälen:
     - ich quäle mich mit dieser Aufgabe 
@@ -18291,8 +18358,6 @@ Stille
 - qualifiziert:
     - er ist sehr qualifiziert  
 
-- quengelig:
-    - Kinder sind quengelig [weinerlich]
 
 ### Gleis 
 - Gleis:
@@ -18406,9 +18471,16 @@ Stille
 ### gammeln &&& derben &&& faul  &&& aktiv
 - gammeln:
     - der Brot gammeln 
+    - im Kuhlschrank gammelt das Essen
 
 - vergammeln:
     - das Brot ist vergammelt 
+    - Er hat seine ganze Zeit vergammelt.
+
+- verderben:
+    - die Milch verdirbt wenn du es nicht isst 
+    - das Essen ist verdorben 
+    - ich will mein Leben nicht verderben
 
 - faul:
     - er ist sehr faul 
@@ -18809,10 +18881,12 @@ Stille
 - Kasse:
     - die Kasse
     - ich stelle mich an der Kasse an 
+    - an der Kasse zahlen
     - gut / schlecht bei Kasse 
 
 - kassieren:
     - ich musste diesen Niederschlag kassieren 
+    - ich habe eine kassiert
 
 - einkassieren:
     - bei diesem Vertrag hat er richtig abgesahnt 
@@ -18840,181 +18914,12 @@ Stille
     - die Gabelung 
     - ab hier gibt es eine Gabelung
 
-### p
-- Panik:
-    - die Pankik 
-    - es besteht kein Grund zur Panik 
-    - keine Panik 
-    - er gerät in Panik 
-
-- parat:
-    - ich habe es parat 
-    - ich habe eine parate Antwort 
-
-- Privileg:
-- Vorrecht:
-- Sonderrecht:
-    - das Privileg 
-    - das Vorrecht 
-    - das Sonderrecht
-    - das ist ein Privileg 
-
-- Prinzip:
-	- das Prinzip 
-
-- Passagier:
-    - der Passagier 
-    - das hat die Passgiere genervt 
-    - es war 20 Passagiere im Zug 
-
-- passieren:
-    - da muss etwas passiert sein 
-    - warum sollte das mir immer passieren 
-
-- Patent:
-    - das Patent  
-    - wir haben kein Patent 
-
-- Patient:
-    - der Patient 
-    - ich bin Patient von Doktor 
-
-- Pause:
-    - die Pause 
-    - wir machen eine kürze Pause 
-    - das kann man in der Pause machen 
-
-- pfad:
-    - der Pfad 
-    - den Pfand ändern 
-
-- Pfeil:
-    - der Pfeil 
-    - grüner Pfeil 
-
-- Pfand:
-    - der Pfand 
-    - auf der Flasche ist Pfand 
-
-- Pferd:
-    - das Pferd 
-
-### c 
-- Chance:
-    - die Chance 
-    - deine Chancen sind gut
-    - ich habe schlechte Chancen das zu erreichen
-
-- Chaos:
-    - das Chaos 
-    - er war einfach Chaos überall 
-
-- chaotisch:
-    - es war sehr Chaotisch 
-
-- Charakter:
-    - der Charakter 
-    - er hat keinen Charakter 
-
-- chronisch:
-    - das ist ein chronisches Problem 
-
-### k
-- Kompetenz:
-    - die Kompetenz 
-    - ich könnte meine Kompetenz unter Bewiess stellen 
-
-- Kabine:
-    - die Kabine 
-    - die Kabinen sind besetzt 
-
-- Kapazität:
-    - die Kapazität 
-    - ich habe nocht Kapazität
-
-- Kapital:
-    - das Kapital 
-    - meine Gesundheit ist mein Kapital 
-    - er hat großes Kapital 
-
-- kompensieren:
-    - das kann man kompensieren indem man dort lange arbeitet 
-
-- Kapitulieren:
-    - ich werde nicht kapitulieren 
-
-- Kapitel:
-    - das Kapitel 
-    - das Kapitel EVAC ist erledigt für mich 
-
-- Kaution:
-    - die Kaution 
-    - ich muss 3 Monatsmeiten Kaution bezahlen 
-
-- Keller:
-    - der Keller 
-    - die Stimmung ist gerade im Keller 
-
-- Kellner:
-    - der Kellner 
-    - er arbeitet als Kellner 
-
-- Klasse:
-    - die Klasse
-    - ich fahre immer erste / Zweite Klasse
-    - mein Kind geht in die erste Klasse 
-    - Klasse zum Schreiben von Ausgabe nach Cout oder in eine Datei
-
-- Korb:
-    - der Korb 
-    - ich brauche einen Korb
-
-- Knöchel:
-    - der Knöchel 
-    - mein Knöchel hat verstaucht 
-    
-- Mikro:
-- Kamera:
-    - das Mikro 
-    - die Kamera 
-
-- Klima:
-    - das Klima
-    - es herrscht hier gutes Klima 
-
-- konsistent:
-    - es muss aber konsistent bleiben
-
-- Koffer:
-    - der Koffer
-    - ich kann den Koffer nicht tragen
-
-- Kalender:
-    - der Kalender
-    - ich muss das in meinen Kalender eintragen 
-    - das steht im Kalender 
-    - ich muss in meinem Kalender nachschauen ob ich Zeit hast 
-
-- Korrektur:
-    - die Korrektur 
-    - ich habe Korrektur gemacht 
-
-- Klausur:
-    - die Klausur war nicht einfach 
-
-- Kissen:
-    - das Kissen 
-    - das ist ein weiches Kissen 
-
-- Klingel:
-    - die Klingel 
-    - drück auf die Klingel 
-
 ### krach 
 - Krach:
     - der Krach 
     - sie machen Krach 
     - das war der Krach für mich 
+    - nach dem großen Krach mit ihm 
 
 - krachen:
     - es hat bei uns gekracht 
@@ -19062,8 +18967,6 @@ Stille
 - gründlich:
     - ich habe das Thema gründlich gemacht 
 
-
-
 ### mir ist
     - mir ist peinlich 
     - mir ist klar warum er das sagt 
@@ -19072,11 +18975,27 @@ Stille
     - mir ist es egal wer es das macht 
     - mir ist kalt, warm, 
     - mir ist langweilig
+*-*
+### tanzen
+- tanzen:
+    - ich will mit dir tanzen 
+
+- herumtanzen:
+    - das lass ich mir nicht auf der Nase herumtanzen
 
 ### Kalt && warm 
 - kalt:
     - mir ist kalt 
     - ins kalte Wasser schmeißen
+
+    Kaltwasser
+
+    kalt duschen
+     kalt schlafen
+
+es hatte ihn kalt erwisch
+
+abends essen wir kalt 
 
 - kälte:
 - Hitze:
@@ -20371,7 +20290,20 @@ Stille
 
 - kooperieren:
     - ich habe mit ihm kooperiert 
+
+
 *-*
+### Zicke
+- Zicke:
+    - die Zicke 
+    - sie ist eine dumme Zicke 
+
+- zickig:
+    - er ist heute zickig 
+
+- herumzicken:  
+    - hor auf herumzuzicken
+
 ### erben
 - erben:
     - ich habe das von meinem Vater geerbt 
@@ -20686,6 +20618,11 @@ Stille
 - reservieren:
     - wir haben einen tisch reserviert 
     - kann man telefonisch reservieren
+
+- Reserve:
+    - die Reserve 
+    - aus der Reserve zu locken
+    - wir haben unsere Reserve aufgebraucht
 
 ### spinnen
 - spinnen:
@@ -21605,8 +21542,6 @@ Stille
     - der Automat
     - das kannst du am Automaten kaufen 
 
-
-
 - Kamm:
     - der Kamm 
 
@@ -21635,6 +21570,7 @@ Stille
     - das ist an der Ecke (Außen)
     - das Kind ist in der Ecke 
     - gehen um die Ecke
+    - Wir dachten, der Vertrag sei sicher, aber dann kam der Kunde mit Nachverhandlungen um die Ecke
 
 - Junge:
 - Mädchen:
@@ -23579,7 +23515,39 @@ Stille
     - die Milch ist alle 
 
 ######
+- ich bin genervt
+- ich habe keine nerven auf
+- 
+
+####
  
 
+### vernunft
+- vernunft:
+    - könnten sie mir vielleicht helfen, meinen Sohn zur vernunft zu bringen 
 
+- vernünftig:
+    - er ist sehr vernünftige person
 
+### baggern 
+- bagger:
+    - der Bagger 
+    - wir brauchen einen Bagger 
+
+- baggern:
+    - wir wollen ein Loch baggern 
+
+- anbaggern:
+    - Glaubst du wirklich, dass du mit diesem Spruch eine Frau anbaggern kannst?
+
+### sanft
+- sanft:
+    - Sanften Druck ausüben 
+    - ich konnte sie schnell besänftigen 
+
+### Müll 
+- zumüllen:
+    - Mein Postfach wird täglich mit Spam zugemüllt
+
+- vermüllung:
+    - Viele Anwohner beschweren sich über die Vermüllung der Gehwege nach dem Wochenende
