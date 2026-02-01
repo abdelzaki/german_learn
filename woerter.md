@@ -530,6 +530,7 @@
     - selber schuld
     - es ist nicht meine Schuld dass du es nicht geschafft hast 
     - mir ist keine Schuld bewusst
+    - sich[dativ] nichts zu schulden kommen lassen
 
 - Unschuld:
     - die Unschuld 
@@ -727,7 +728,11 @@
 
 - zumuten:
     - ich will niemandem zumuten 
-    - ich glaube ich habe mir zugemutet
+    - ich glaube ich habe mir zugemutet 
+
+- Zumutung:
+    - die Zumutung 
+    - das ist Zumtung
 
 - zumutbar
     - eine Stunde warten ist mir zumutbar
@@ -1146,7 +1151,7 @@
 	- ich wollte dich nicht gefährden 
 
 - gefährlich:
-    - das ist nicht gefährlich 
+    - das ist nicht gefährlich [prekär]
 
 - harmlos:
     - das ist aber harmlos 
@@ -12359,6 +12364,7 @@ Klecks
     - lass dich nicht aus der Ruhe bringen 
     - das muss ich in Ruhe machen 
     - ich will vor ihm Ruhe haben 
+    - ich habe ihm das gegeben damit er Ruhe gibst
 
 - ausruhen:
     - ich ruhe mich aus 
@@ -12893,7 +12899,10 @@ Klecks
 
 - überleben:
     - ich werde das überleben 
-    - mode sich überlebt (veraltet)
+    - mode sich überlebt (veraltet) 
+
+- aneinander vorbeileben:
+    - ich will nicht das wir aneinander vorbeileben
 
 ### rahmen 
 - abrahmen:
@@ -12979,6 +12988,12 @@ Klecks
 - matt:
     - nach dem Training bin ich matt [schlapp]
     - die Farben waren matt ich muss es polieren 
+
+- matschig:
+    - der Boden war matschig 
+
+- Matsch:
+    - Zieh die Schuhe aus, bevor du reinkommst, du hast den ganzen Matsch an den Sohlen!
 
 ### nutzen
 - Nutzen:
@@ -15399,6 +15414,16 @@ Stille
     - die Störung 
     - mein Auto hat eine Störung 
 
+- nerven:
+    - ich will dich nicht verven 
+
+- Nerv:
+    - der Nerv 
+    - er hat die Nerven das zu machen
+
+- genervt:
+    - er ist genervt
+
 ## wind
 - rückenwind:
     - ich hatte Rückenwind von meiner Familie 
@@ -15719,6 +15744,10 @@ Stille
 - ausgepowert sein
 - geschlaucht 
 - ausgelaugt
+
+- auspowern:
+    - ich gehe ins Fitnessstudio um mich auszupowern 
+    - Ich fühle mich heute total ausgepowert
 
 ### eignen 
 - eignen:
@@ -16314,6 +16343,10 @@ Stille
 - Recht:
     - das Recht 
     - du hast Recht auf ein freies Land 
+
+- Unrecht:
+    - das Unrecht 
+    - du tust mir unrecht wenn du das sagst
 
 - gerecht:
     - es ist nicht gerecht wenn ich das immer alleine machen 
@@ -17052,6 +17085,10 @@ Stille
 - lautstark:
     - er hat sich lautstark reagiert 
 
+- lautstärke:
+    - die Laustärke 
+    - man kann die Lautstärke anpassen
+
 ### plage && harte Arbeit 
 - Plage:
     - er ist eine Plage für uns 
@@ -17778,7 +17815,7 @@ Stille
 - Tüte:
     - die Tüte 
     - ich brauche eine Tüte 
-*-*
+
 ### nähren && nähern 
 - nähren:
     - das nährt den Verdacht 
@@ -18983,19 +19020,30 @@ Stille
 - herumtanzen:
     - das lass ich mir nicht auf der Nase herumtanzen
 
-### Kalt && warm 
+### Kalt && warm && hitze 
+- Hitze:
+    - die Hitze 
+    - durch die Reibung entteht große Hitze 
+
+- Wärme:
+    - die Wärme 
+    - Moderne Gebäude nutzen die Abwärme von Industrieprozessen zum Heizen 
+
+- Kälte:
+    - die Kälte
+    - bei dieser Kälte 
+
+- erhitzen:
+    - der Motor erhitzt sich schnell 
+    - da wird auf 120 erhitzt
+
+- runterkühlen:
+- abkühlen:
+    - auf 10 kühlen
+
 - kalt:
     - mir ist kalt 
     - ins kalte Wasser schmeißen
-
-    Kaltwasser
-
-    kalt duschen
-     kalt schlafen
-
-es hatte ihn kalt erwisch
-
-abends essen wir kalt 
 
 - kälte:
 - Hitze:
@@ -19951,7 +19999,7 @@ abends essen wir kalt
 
 - bespaßen
     - ich habe keine Lust die Kinder zu bespaßen 
-
+    - mit uns ist nicht zu bespaßen 
 ### kommuni 
 - Kommunikation:
     - die Kommunikation 
@@ -23252,8 +23300,6 @@ abends essen wir kalt
 #### je + Komparativ
 - je mehr, desto besser 
 
-
-
 ### Ordinalzahl 
 - erste, zweite, dritte, vierte, fünfte, sechste, siebte, achte, neuunte, zehnte 
 - 11:
@@ -23484,7 +23530,6 @@ abends essen wir kalt
     - karrier oder familie? beides ist möglich
     - Welche Antwortmöglichkeiten sind richtig?? ? ?Beide sind möglich.
 
-
 ### all
 - alles:
     - alles is ok (everything)
@@ -23514,14 +23559,6 @@ abends essen wir kalt
 - alle:
     - die Milch ist alle 
 
-######
-- ich bin genervt
-- ich habe keine nerven auf
-- 
-
-####
- 
-
 ### vernunft
 - vernunft:
     - könnten sie mir vielleicht helfen, meinen Sohn zur vernunft zu bringen 
@@ -23540,6 +23577,9 @@ abends essen wir kalt
 - anbaggern:
     - Glaubst du wirklich, dass du mit diesem Spruch eine Frau anbaggern kannst?
 
+- knutschen:
+    - sie haben geknutscht
+
 ### sanft
 - sanft:
     - Sanften Druck ausüben 
@@ -23551,3 +23591,16 @@ abends essen wir kalt
 
 - vermüllung:
     - Viele Anwohner beschweren sich über die Vermüllung der Gehwege nach dem Wochenende
+
+
+-*-
+abgebrüht
+ungeschoren
+- ich will mich nicht anketten lassen 
+- einlauf bekommen
+- du hast nicht die Eier dazu
+- er ist total auf mich losgegangen 
+- handgreiflich 
+- ich bin dazwischengegangen 
+- darf ich in mein Zimmer
+-*-
