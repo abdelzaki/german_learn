@@ -387,7 +387,10 @@
     - er hat mich beschimpfen  [beleidigen] [schmähen]
 
 - ausschimpfen:
-    - er hat das Kind ausgeschimpft [zurechtweisen]
+    - er hat das Kind ausgeschimpft [zurechtweisen] 
+
+- du kannst mich mal:
+    - du kannst mich mal am Arsch lecken
 
 - Affront:
     - der Affront 
@@ -1709,6 +1712,8 @@
 
 - streiten:
     - wir streiten uns immer 
+    - ich kann gerade nicht telefonieren meine Eltern sind am streiten 
+    - die Nachbarn sind wieder lautstark am streiten
 
 - abstreiten:
     - ich streite den Vorwurf ab 
@@ -6346,7 +6351,8 @@ Klecks
     - zwei von Fünf abziehen
     - wir müssen Steuern abziehen 
     - den Ring abziehen
-    - die Betten abziehen
+    - die Betten abziehen 
+    - jemand hat jemanden abgezogen [abzocken]
 
 - anziehen:
     - ich ziehe mich/das Kind warm an 
@@ -7400,6 +7406,9 @@ Klecks
 - griffbereit:
     - ich habe momentan die Unterlage nicht griffbereit 
 
+- handgreiflich:
+    - er ist nie handgreiflich geworden
+
 - übergriffig:
     - ich fande diese Frage übergriffig 
 
@@ -8246,7 +8255,8 @@ Klecks
 
 - losgehen:
     - wir gehen los 
-    - das Meeting geht bald los
+    - das Meeting geht bald los 
+    - er ist total auf mich losgegangen
 
 - verlorengehen:
     - ich werde es schreiben damit es nicht verlorenzugehen
@@ -8637,7 +8647,7 @@ Klecks
     - mit sein: das Essen ist mir nicht bekommen
 
 - davonkommen:_
-    - ich bin bei diesem Unfall mit einer Geldstrafe davongekommen 
+    - ich bin bei diesem Unfall / jemandem mit einer Geldstrafe davongekommen 
 
 - draufkommen:
     - ich komme nicht drauf, wie hat er das gefunden 
@@ -9308,6 +9318,7 @@ Klecks
     - In diesem Projekt steckt viel Arbeit
     - Der Schlüssel ist im Schloss gesteckt
     - ich bin tief im Thema gesteckt 
+    - alles in den arsch gesteckt
 
 - abstecken:
     - wir habe die Grenze abgesteckt 
@@ -9399,6 +9410,9 @@ Klecks
 
 - erstechen:
     - er wurde erstochen 
+
+- ausstechen:
+    - Im Kampf um den Markteinteil hat das Startup die etablierten Firmen ausgestochen
 
 - piksen:
     - ich werde dich jetzt picksen 
@@ -9728,7 +9742,8 @@ Klecks
     - ich stehe zu dir 
     - ich stehe auf Frauen 
     - das Essen steht auf dem Tisch
-    - das Kleid steht dir gut
+    - das Kleid steht dir gut 
+    - ich kann das nicht im stehen schaffen [im stehen]
 
 - abstehen:
     - meine Haare stehen ab 
@@ -15945,6 +15960,13 @@ Stille
     - ich werde ins Wasser springen
     - er ist gesprungen 
 
+- sprungbrett:
+    - das Sprungbrett 
+    - das ist ein Sprungbrett für bessern Job 
+
+- sprunghaft:
+    - In dieser Stresssituation reagierte der Patient sehr sprunghaft und emotional
+
 - Ursprung:
     - der Urspung  
     - er ist der Urspung 
@@ -17394,7 +17416,17 @@ Stille
 
 - Mittelweg:
     - der Mittelweg 
-    - wir suchen einen Mittelweg
+    - wir suchen einen Mittelweg 
+
+- aufeinanderbewegen:
+    - beweg die teile aufeinander 
+    - die zwei teile bewegen sich aufeinander 
+
+- mitbewegen:
+    - ich bewege den Arm auch mit
+
+- bewegen:
+    - ich kann das nicht mehr bewegen
 
 ### artig 
 - einzigartig:
@@ -18399,6 +18431,7 @@ Stille
 ### Gleis 
 - Gleis:
     - das Gleis 
+    - zum Gleis
 
 - Gleisnummer:
     - die Gleisnummer  
@@ -19039,7 +19072,10 @@ Stille
 
 - runterkühlen:
 - abkühlen:
-    - auf 10 kühlen
+    - auf 10 kühlen 
+
+- unterkühlt:
+    - die atomsphere ist unterkühlt
 
 - kalt:
     - mir ist kalt 
@@ -20702,6 +20738,9 @@ Stille
 
 - ausspionieren:
     - er spioniert mich aus 
+
+- kieker:
+    - er hat mich auf dem Kieker
 
 - bespitzeln:
     - ich bespitzelt in dem Auftrag 
@@ -23590,17 +23629,41 @@ Stille
     - Mein Postfach wird täglich mit Spam zugemüllt
 
 - vermüllung:
-    - Viele Anwohner beschweren sich über die Vermüllung der Gehwege nach dem Wochenende
+    - Viele Anwohner beschweren sich über die Vermüllung der Gehwege nach dem Wochenende 
 
+### start
+- start:
+    - der Start 
+    - wir hatten guten Start 
+    
+- starten:
+    - ich starte den Motor 
+
+- durchstarten:
+    - Trotz der Krise im letzten Jahr startet das Unternehmen dieses Jahr wieder voll durch.
+
+### kette 
+- kieker:
+    - mein chef hat mich auf dem Kieker 
+
+- Kette:
+    - die Kette 
+    - die Fahrradkette ölen 
+
+- abketten:
+- anketten:
+    - ich lass mich nicht anketten
 
 -*-
 abgebrüht
 ungeschoren
-- ich will mich nicht anketten lassen 
-- einlauf bekommen
-- du hast nicht die Eier dazu
-- er ist total auf mich losgegangen 
-- handgreiflich 
-- ich bin dazwischengegangen 
-- darf ich in mein Zimmer
+
+
+
+
+
+
+
+
+- 
 -*-
