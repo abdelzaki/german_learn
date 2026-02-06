@@ -8,6 +8,7 @@
     - am kochen 
     - am denken 
     - am Rätseln 
+    - am suchen
 
 ### gleich
 - gleichbedeutend:
@@ -78,6 +79,40 @@
     - das Putzen ist zum selbstzweck geworden 
     - das soll kein Selbstzweck sein 
 
+### ringen 
+- ringen:
+    - ich habe mit ihm zum Spaß gerungen 
+
+- abringen:
+    - er hat mir das Versprechen abgerungen [abschwatzen]
+
+- durchringen:
+    - ich muss mich durchringen das zu machen 
+
+- umringen:
+    - sie haben den Star umringt 
+
+### raffen 
+- raffen:
+    - ich kann es immer noch nicht raffen wie man das machen kann 
+    - ich habe viel Geld gerafft 
+
+- raffgierig:
+    - er ist raffgierig
+
+- aufraffen:
+    - ich muss mich zu dieser Aufgabe aufraffen
+
+- zusammenraffen:
+    - ich habe viel Geld in kurzer Zeit zusammengerafft 
+
+### raufen
+- raufen:
+    - die Kinder haben sich um ein Kuchen gerauft 
+
+- zusammenraufen:
+    - wir haben uns am Ende zusammengerauft 
+
 ### zwang
 - zwingen:
     - ich bin dazu gezwungen 
@@ -107,6 +142,28 @@
 
 - bezwingen:
     - bewältigen
+
+### drängen
+- drängen:
+    - er drängen mich in die Ecke
+    - er drängt mich zur Teilnahme
+    - Mein Chef drängt auf die Einhaltung der Deadline
+    - Wir können nicht länger warten, die Probleme drängen
+    - ich dränge mich nach vorne
+
+- abdrängen:
+    -  jemanden vom Weg abdrängen 
+
+- aufdrängen:
+    - ich will dir meine Hilfe nicht aufdrängen 
+
+- zusammendrängen:
+    - Die Tiere wurden auf kleinstem Raum zusammengedrängt. 
+
+- Gedränge:
+    - das Gedränge 
+    - Am Ausgang herrschte großes Gedränge.
+    - im Gedränge seine Mutter verloren
 
 ### schwatzen
 - schwatzen: [labern]
@@ -168,6 +225,10 @@
 
 - drauflosquatschen:
     - ich will nicht drauflosquatschen ohne über das Problem zu wissen 
+
+- häppchen:
+    - das Häppchen die Häppchen 
+    - das wird in unregelmäßigen häppchen beezahlt
 
 ### lästern
 - lästern:  
@@ -1039,6 +1100,10 @@
 - Überschuss:
 	- der Überschuss
 	- wir haben den Überschuss geschafft 
+
+- rausschießen:
+    - das Blut schießt aus der Wunde raus 
+    - die Sause kommt aus der Verpackung rausgeschossen
 --
 ### ärgern 
 - ärgern:
@@ -1677,6 +1742,9 @@
     - der Händler 
     - er ist ein Händler 
 
+- Handling:
+    - das ist einfach in Handling
+
 - verhandeln:
     - ich habe mit ihm über etwas verhandeln
     - ich habe bei dem Gehalt gut verhandelt 
@@ -1714,6 +1782,7 @@
     - wir streiten uns immer 
     - ich kann gerade nicht telefonieren meine Eltern sind am streiten 
     - die Nachbarn sind wieder lautstark am streiten
+    - Darüber lässt sich streiten
 
 - abstreiten:
     - ich streite den Vorwurf ab 
@@ -1869,6 +1938,9 @@
 
 - fern:
     - der Tag ist nicht mehr fern 
+
+- fernab:
+    - das ist fernab von der Realität
 
 - Ferne:
     - ich habe es aus der Ferne gesehen 
@@ -2053,6 +2125,20 @@
 - vertrocknen:
     - ohne Wasser wird die Blumen vertrocknen 
 
+- trocken:
+    - das Wetter ist trocken 
+
+- feucht:
+    - der Boden ist feucht 
+    - mit einem feuchten Lappen abwischen 
+
+- feuchtigkeit:
+    - die Feuchtigkeit 
+    - die Feuchtigkeit ist sehr hoch 
+
+- anfeuchten:
+    - ich feuchte die Kleidung an
+
 ### Luft 
 - Luft:
     - die Luft 
@@ -2074,6 +2160,7 @@
     - es reicht nach Frühling [nach]
     - ich rieche an der Blumen [an]
     - kannst du das riechen 
+    - ich rieche müffig
 
 - duften:
     - es duftet gut
@@ -2083,7 +2170,10 @@
 
 - stickig:
 - muffig:
-    - die Luft ist hier stickig
+    - die Luft ist hier stickig 
+
+- müffeln:
+    - es müffelt
 
 - Duft:
 - Geruch:
@@ -2126,6 +2216,10 @@
 ### ticken
 - ticken:
     - ich verstehe nicht wie er tickt 
+
+- Tick: 
+    - der Tick 
+    - es ist ein Tick teuer
 
 - austicken:
     - wenn ein Problem gibt, tickt er aus [durchdrehen]  [ausflippen]
@@ -2427,7 +2521,8 @@
 ### holen 
 - holen:
     - die Kinder holen
-    - ich werde mir schnell Brot holen 
+    - ich werde mir schnell Brot holen  
+    - ich gehe schnell Essen holen
 
 - abholen:
     - ich hole dich morgen am Bahnhof ab 
@@ -2460,7 +2555,10 @@
 
 - ausholen:
     - ich hole weit aus
-    - ich muss weiter ausholen 
+    - ich muss weiter ausholen  
+
+- reinholen:
+    - ich hole die Wäsche rein
 
 - herausholen:
     - ich verusche die Beste herausholen 
@@ -4375,6 +4473,9 @@ Klecks
     - das sieht mir nach einem Problem aus 
     - es sieht sehr gut aus mit unserem Plan 
 
+- gutaussehend:
+    - er ist ein gutaussehendes kind
+
 - Aussehen:
     - das Aussehen 
     - das Aussehen ist auch wichtig 
@@ -4720,7 +4821,11 @@ Klecks
 
 - hineinfressen: [hineinsteigern]
     - anstatt über sein Problem zu reden, frisst er alles in sich hinein 
-    - ich darf das in mich hineinfressen
+    - ich darf das in mich hineinfressen 
+
+- vielfraß:
+    - der Vielfraß 
+    - er ist ein vielfraß
 
 ### schnappen 
 - schnappen:
@@ -4797,7 +4902,7 @@ Klecks
     - er isst nie sein Essen auf 
 
 - überessen:
-    - ich habe es übergegessen 
+    - ich habe an etwas mich übergegessen 
 
 - wegessen:
     - er hat mir den Schkolade weggegessen
@@ -4808,6 +4913,9 @@ Klecks
 - Essen:
     - das Essen 
     - es ist sehr teuer wenn man Essen gegen 
+
+- leerfressen:
+    - er hat den halben Kühlschrank leergegessen
 
 - Abendessen:
 - Abendbrot:
@@ -5092,7 +5200,10 @@ Klecks
 ### weg 
 - Hinweg:
 - Rückweg 
-- Heimweg
+- Heimweg 
+
+- abwegig:
+    - die Idee ist abwegig [unplausbil]
 
 - hinwegblicken:
 - hinwegsehen:
@@ -5355,6 +5466,9 @@ Klecks
 
 - herumdrucksen:
     - er hat nicht den wahre Grund gesagt er hat einfach herumgedruckst 
+
+- darum herum:
+    - darum herum gibt es eine Fassung
 
 ### folgen
 - folgen:
@@ -5835,7 +5949,12 @@ Klecks
 
 - vergießen:
     - ich werde keine Träne vergießen 
-    - ich habe den Tee vergossen [verschütten]
+    - ich habe den Tee vergossen [verschütten] 
+
+- Trichter:
+    - der Trichter 
+    - ich bin endlich auf den Trichter gekommen 
+    - ich brauche einen Tricher
 
 ### schütten
 - schütten:
@@ -6226,6 +6345,9 @@ Klecks
 - verwerfen:
     - ich habe den Plan verworfen 
 
+- verwerflich:
+    - Es ist verwerflich, die Notlage anderer Menschen auszunutzen, um Profit zu machen
+
 - vorwerfen:
     - er hat mir vorgeworfen 
 
@@ -6321,7 +6443,8 @@ Klecks
 
 - Zug:
     - der Zug
-    - ich habe das genossen in vollen zügen
+    - ich habe das genossen in vollen zügen 
+    - das kann man im Zuge der Renevoierung machens
 
 - Aufzug:
     - der Aufzug 
@@ -6937,7 +7060,12 @@ Klecks
 - Erfahrung:
     - die Erfahrung 
     - ich könnte das in in Erfahrung bringen 
+    - in erfahrung
+        - jemand bringen 
+        - etwas bleiben 
+        - jemand behalten 
     - er hat viele Erfahrung 
+    - 
 
 - Fahrstuhl:
 - Aufzug:
@@ -7004,7 +7132,7 @@ Klecks
 
 ### fliegen
 - Flug:
-    - der Glug 
+    - der flug 
     - ich habe einen Flug gebucht 
     - ich wünsche dir guten Flug 
 
@@ -7013,7 +7141,12 @@ Klecks
     - der Abflug 
     - der Anflug
     - der Abflug wird sich verspäten 
-    - wir befinden uns im Abflug
+    - wir befinden uns im Abflug 
+
+- Hinflug:
+- Rückflug:
+    - der Hinflug 
+    - auf dem Hinflug
 
 - fliegen:
     - ich fliege nach Ägypten 
@@ -7807,7 +7940,10 @@ Klecks
 
 - wegnehmen:
     - wenn ich mehr Erfolg habe dann nehme ich den Erfolg von anderen nicht weg
-    - dann nehmen Sie das Kind weg
+    - dann nehmen Sie das Kind weg 
+
+- übernehmen:
+    - das Chaos nimmt überhand
 
 ### bringen
 - bringen:
@@ -7830,6 +7966,9 @@ Klecks
 
 - angebracht:
     - es ist angebracht 
+
+- auseinanderbringen:
+    - er versucht uns auseinanderzubringen
 
 - aufbringen:
     - wir können die das Geld für ein Auto nicht aufbringen [Geld_sammel]
@@ -7907,7 +8046,7 @@ Klecks
 - ohnmächtig:
     - er ist ohnmächtig geworden
 
-- Vollmacht:
+- Vollmacht: 
     - die Vollmacht 
     - mit Vollmacht 
 
@@ -7920,7 +8059,8 @@ Klecks
     - ich mache mich vom acker
     - das macht mir zu schaffen 
     - ich mache mich auf den Weg
-    - das macht mir nichts
+    - das macht mir nichts 
+    - sie hat mir schöne Augen gemacht
 
 - abmachen:
     - ich habe einen Termin mit ihm abgemacht 
@@ -8143,6 +8283,8 @@ Klecks
     - das geht mir zu Herzen
     - der Sommer geht zur Neige 
     - es geht glatt 
+    - ich konnte nicht realisieren was vor mich geht [vor sich]  
+    - er geht nicht an sein Handy
 
 - vorwärtsgehen:
 - rückwärtsgehen:
@@ -8172,7 +8314,10 @@ Klecks
     - mir geht das Geld aus[verbraucht]
     - ich gehe davon aus dass 
     - ich gehe von Schnittstelle aus
-    - das Licht geht automatisch aus [angehen]
+    - das Licht geht automatisch aus [angehen] 
+
+- leerausgehen:
+    - dann geht man bei diesem Fall leer aus
 
 - aufgehen:
     - das könnte natürlich aufgehen [funktioneren]
@@ -8449,6 +8594,11 @@ Klecks
     - ich bin ins offene Messer gelaufen
     - ich will nicht in den gleichen Fehler laufen 
     - mir über den weg laufen
+    - er hat das am laufen 
+
+- einlauf:
+    - der Einlauf 
+    - er hat einen Einlauf bekommen
 
 - ablaufen:
     - Essen, Visum, Zeit ist abgelaufen 
@@ -8535,7 +8685,11 @@ Klecks
     - ich habe meiner Wut freien Lauf lassen  
 
 - Laufpass:
-    - sie gibt ihm dem Laufpass
+    - sie gibt ihm dem Laufpass 
+
+- Laufzeit:
+    - die Laufzeit
+    - die Laufzeit eines Vertrage
 
 - Laufbahn:
     - die Laufbahn 
@@ -8614,7 +8768,8 @@ Klecks
     - kommen auf: ich komme leider nicht auf den Namen [erinneren]
     - mir kommt die Idee
     - ich brauche Zeit bis ich in den Tag komme 
-    - ich lass auf ihn nichts kommen [schützen]
+    - ich lass auf ihn nichts kommen [schützen] 
+    - wieso kommst du gerade auf ihn [auf][erwähnen]
 
 - abkommen: [konvention]
     - wir sind total vom Thema abgekommen 
@@ -8789,7 +8944,10 @@ Klecks
     - das kommt mir komisch /bekannt  vor 
 
 - verkommen:
-    - seit seine Frau ihn verlassen hat, verkommt er mehr und mehr
+    - seit seine Frau ihn verlassen hat, verkommt er mehr und mehr 
+
+- runterkommen:
+    - komm runter
 
 ### kömmich
 - abkömmlich:
@@ -8804,7 +8962,10 @@ Klecks
 ### legen
 - legen:
     - wir legen Gewicht auf eure Meinung 
-    - die Begeisterung hat sich ein bisschen gelegt [sich]
+    - die Begeisterung hat sich ein bisschen gelegt [sich] 
+
+- freilegen:
+    - das Kabel ist freigelegt
 
 - ablegen:
     - wo soll ich das ablegen 
@@ -9211,6 +9372,10 @@ Klecks
 
 - zerreißen:
     - ich werde den Papier zerreissen 
+
+- herumreißen:
+    - sie hat ihn herumgerissen 
+    - Er packte ihn an der Schulter und riss ihn zu sich herum
 
 - Riss:
     - der Riss 
@@ -9650,6 +9815,9 @@ Klecks
     - es lässt sich am besten auf dem Rucken zu tragen 
     - viel nicht am Anfang aber eventlich kommen sie immer zum tragen
 
+- tragfähig:
+    - die Wände sind nicht trägfähig
+
 - abtragen:
     - meine jack ist abgetragen
     - ich will meine Schuhe nicht abtragen
@@ -9743,7 +9911,10 @@ Klecks
     - ich stehe auf Frauen 
     - das Essen steht auf dem Tisch
     - das Kleid steht dir gut 
-    - ich kann das nicht im stehen schaffen [im stehen]
+    - ich kann das nicht im stehen schaffen [im stehen] 
+
+- schlangestehen:
+    - vo dem laden stehen die Kunden schlange 
 
 - abstehen:
     - meine Haare stehen ab 
@@ -10143,7 +10314,8 @@ Klecks
 - hinhalten:
     - du hast mich genug hingehalten 
     - ich versuche ihn hinzuhalten bis du kommst 
-    - den Kopf für ihn hinhalten [ausbaden]
+    - den Kopf / die Hand für ihn hinhalten [ausbaden] 
+    - ich halt mir die Kleidung hin
 
 - herhalten:
     - er muss als Sündenbock für das Problem herhalten 
@@ -10858,7 +11030,8 @@ Klecks
 
 ### kippen 
 - kippen:
-    - ich werde das Wasser kippen 
+    - ich werde das Wasser kippen
+        - er hat das Wasser auf den Boden gekippt 
     - ich kippe das Fenster
 
 - auskippen:
@@ -11241,7 +11414,7 @@ Klecks
 
 - zusammenschließen:
     - ich habe die zwei Fahrrade zusammengeschlossen 
-    - wenn wir zusammenschließen werden wir die größte Firma der Welt 
+    - wenn wir uns zusammenschließen werden wir die größte Firma der Welt 
 
 ### Schlüssel
 - Schloss:
@@ -11790,7 +11963,8 @@ Klecks
 
 ### ander
 - auseinandergehen:
-    - nach 10 Jahren gehen wir auseinander
+    - nach 10 Jahren gehen wir auseinander 
+    - geh auseinander [beim prügeln]
 
 - auseinanderfallen:
 	- das Team wird leider auseinanderfällen wenn das passiert 
@@ -12219,10 +12393,15 @@ Klecks
     - ich bin auf das Problem gefasst 
     - ich mache mich auf das Problem gefasst 
 
+- reinfassen:
+    - bitte nicht reinfassen 
+    - ich fasse in den Sack rein und schaue ob wir es haben
+
 ### packen 
 - packen:
     - wir können diese Aufgabe packen  
     - es hat mich gepackt 
+    - ich bin am packen
 
 - abpacken:
     - ich packe das Essen ab 
@@ -13456,6 +13635,20 @@ Klecks
 - unterbuttern:
     - ich lass mich nicht unterbuttern 
 
+### schmieren
+- schmieren:
+    - ich muss das Fahrrad schmieren 
+    - Sonnencreme auf den Rücken 
+
+- abschmieren:
+    - Speichere deine Daten regelmäßig! Wenn das Programm abschmiert, ist alles weg.
+
+- beschmieren:
+    - ein Brötchen mit Butter beschmieren
+
+- zuschmieren:
+    - er hat alles zugeschmiert
+
 ### streichen
 - streichen:
     - du kannst meinen Name aus der Liste streichen 
@@ -13504,8 +13697,7 @@ Klecks
     - der Strich 
     - ich will dir keinen Strich durch die Rechnung machen
     - unter dem Strich war das Projekt erfolgreich
-    - mit einem Strich war alles ok 
-    - unter dem Strich war das Projekt erfolgreich
+    - strich unter die ganze Nummer ziehen 
 
 - Anführungsstrich:
     - einfache Anführungstriche 
@@ -13663,7 +13855,10 @@ Klecks
     - in der Grammtik muss man sattelfest sein 
 
 - festung:
-    - die Festung
+    - die Festung 
+
+- sättigung:
+    - aufgrund der Sättigung des Marktes müssen wir neue Zielgruppen erschließen
 
 ### fix 
 - fix:
@@ -13803,6 +13998,11 @@ Klecks
 
 - verwachsen:
     - er ist mit seiner Firma verwachsen 
+
+### schrumpfen 
+- schrumpfen:
+    - die Zahl der Bevolkerung schrumpfen 
+    - meine Hose ist geschrumpft 
 
 ### sammeln
 - sammeln:
@@ -14151,6 +14351,9 @@ Stille
     - bettdecke
     - Tischdecke
 
+- Kissen:
+    - das Kissen
+
 - Deckung:
     - die Deckung 
     - in die Deckung gehen
@@ -14176,6 +14379,7 @@ Stille
     - das Dack abdecken 
     - ich werde alles mit Zeitung abdecken
     - das deckt alle Scenario[ Kosten, Schäden, Verlust] ab 
+    - die Verletzung soll abgedeckt werden
 
 - aufdecken:
     - das Kind hat sich im Schlaf aufgedeckt 
@@ -14234,6 +14438,7 @@ Stille
 
 - einschlafen:
     - er ist erst gerade eingeschlafen 
+    - mein Arm schläft ein
 
 - überschlafen:
     - ich überschlafe die Sache und morgen reden wir darüber 
@@ -14970,7 +15175,10 @@ Stille
     - das können wir als Hebel benutzen 
     - im Leben hat Geld den größten Hebel 
     - ich weiß nicht wo ich den Hebel ansetzen damit ich das schaffen kann 
-    - wenn wir das schaffen wollen sollen wir bei ihm den Heben ansetzen [anfangen]
+    - wenn wir das schaffen wollen sollen wir bei ihm den Heben ansetzen [anfangen] 
+
+- aushebeln:
+    - Hacker haben die Sicherheitsvorkehrungen der Bank ausgehebelt.
 
 - heben:
     - ich will mein Selbstbewusstsein heben 
@@ -15594,6 +15802,9 @@ Stille
 - vollpumpen:
     - ich werde mit Wissen vollgepumpt 
 
+- pump:
+    - er hat alles auf pump finanziert
+
 ### schleppen 
 - schleppen:
     - ich muss das nach oben schleppen 
@@ -15866,7 +16077,11 @@ Stille
     - Auf Wunsch kann ich das machen
     - hast du noch einen Wunsch
     - ich habe den Wunsch nach Essen
-    - ich bin auf deinen Wunsch eingegangen
+    - ich bin auf deinen Wunsch eingegangen 
+
+- Wunschvorstelleung:
+    - die Wunschvorstellung 
+    - das ist eine Wunschvorstellung
 
 - Beglückwünschung:
     - die Beglückwünschung 
@@ -16121,7 +16336,10 @@ Stille
 
 - schwindlig:
     - es ist mir schwindlig 
-    - es wird mir schwindlig
+    - es wird mir schwindlig 
+
+- schwindeln:
+    - ich habe beim Alter geschwindelt
 
 ### retten
 - retten:
@@ -16320,6 +16538,12 @@ Stille
 - abtropfen:
     - ich lass die Nudeln abtropfen 
 
+- tupfen:
+    - den Mund mit serviette tupfen 
+
+- abtupfen:
+    - das Blut abtupfen
+
 ### schaukeln && bauschen_
 - schaukeln:
     - ich muss das Kind schaukeln 
@@ -16373,6 +16597,10 @@ Stille
 - gerecht:
     - es ist nicht gerecht wenn ich das immer alleine machen 
     - er war den Verantwortungen gerecht
+
+- Anrecht:
+    - das Anrecht 
+    - du hast kein Anrecht auf das Geld
 
 - richtig:
     - das ist richtig 
@@ -16522,11 +16750,17 @@ Stille
 - erkämpfen:
     - ich habe mir die Stelle erkämpft 
 
+- umkämpfen:
+    - das ist hart umkämpfter Markt
+    - Der Markt für Smartphones ist extrem umkämpft.
+
 - rebellieren:
     - sie haben gegen die Regierung rebelliert 
 
 - rebellisch:
     - er ist rebellisch 
+
+
 
 ### dezimieren 
 - dezimieren:
@@ -17540,7 +17774,10 @@ Stille
     - der Preis 
     - der Preis ist sehr hoch
     - der Preis ist mit Frühstuck 
-    - Preise [ansteigen, abfallen, heraufsetzen, heruntersetzen, sinken, treiben, senken]
+    - Preise [ansteigen, abfallen, heraufsetzen, heruntersetzen, sinken, treiben, senken] 
+
+- Erstpreis:
+    - der Erstpreis
 
 - preisgeben:
     - er gibt nicht preis wer das gemacht hat 
@@ -17844,6 +18081,9 @@ Stille
 - zusammensacken:
     - das Projekt sackt zusammen weil kein Geld vorhanden ist [zusammenbrechen] 
 
+- wegsacken:
+    - mein Kopf ist weggesackt
+
 - Tüte:
     - die Tüte 
     - ich brauche eine Tüte 
@@ -17926,6 +18166,9 @@ Stille
 
 - armförmig:
     - es ist armförmig 
+
+- anformen:
+    - das Kissen formt sich dem Kopf an
 
 - V förmig:
     - es ist ein V förmiger Griff 
@@ -18364,6 +18607,7 @@ Stille
     - an die Hand geben 
     - er hat mich an die Hand genommen und mir zeigt wie ich das machen kann 
     - in die Hand nehmen [kümmern] 
+    - etwas geht unter der Hand weg
 
 - kurzerhand:
     - ich habe das kurzerhand abgelehnt [sofort]
@@ -18885,6 +19129,10 @@ Stille
     - aus dieser Persptive sieht die Situation anders aus 
     - es gibt keine Perspktive auf Verbesserung 
 
+- potenzial:
+    - das Potenzial 
+    - er hat großes Potenzial 
+
 ### ismus 
 - Kapitalismus
     - der Kapitalismus 
@@ -18993,6 +19241,10 @@ Stille
 
 - krachen:
     - es hat bei uns gekracht 
+
+- schrappel:
+    - der Schrappel 
+    - wenn es nicht geklappt hat, hört man einen schrappel
 
 ### grund 
 - Grund:
@@ -19242,7 +19494,7 @@ Stille
     - aus Distanz sehen 
 
 - Diskrepanz:
-    - es gibt näturlich Diskrepanz zwischen A und B 
+    - es gibt näturlich Diskrepanz zwischen A und B  
 
 ### stückeln 
 - Stück:
@@ -19251,6 +19503,10 @@ Stille
     - am Stück
     - ich kann das ein Stück weit verstanden 
     - 3 Stück Küchen 
+
+- stückwerk:
+    - der Stückwerk 
+    - alles ist ein Stückwerk
 
 - Grundstück:
     - das Grundstück 
@@ -19343,39 +19599,6 @@ Stille
 - schrittweise:
     - ich werde das allmählich machen 
 
-### ringen 
-- ringen:
-    - ich habe mit ihm zum Spaß gerungen 
-
-- abringen:
-    - er hat mir das Versprechen abgerungen [abschwatzen]
-
-- durchringen:
-    - ich muss mich durchringen das zu machen 
-
-- umringen:
-    - sie haben den Star umringt 
-
-### raffen 
-- raffen:
-    - ich kann es immer noch nicht raffen wie man das machen kann 
-    - ich habe viel Geld gerafft 
-
-- raffgierig:
-    - er ist raffgierig
-
-- aufraffen:
-    - ich muss mich zu dieser Aufgabe aufraffen
-
-- zusammenraffen:
-    - ich habe viel Geld in kurzer Zeit zusammengerafft 
-
-### raufen
-- raufen:
-    - die Kinder haben sich um ein Kuchen gerauft 
-
-- zusammenraufen:
-    - wir haben uns am Ende zusammengerauft 
 
 ### Gift
 - Gift:
@@ -20179,6 +20402,7 @@ Stille
     - die gebruachte Zeit 
     - die benötige  Zeit
     - Zeit gerissen 
+    -ich habe die Zeit vergessen
 
 - Hochzeit:
     - die Hochzeit 
@@ -20302,6 +20526,9 @@ Stille
 - wohlbefinden:
     - das Wohlbefinden 
     - das ist gut für das Wohlbefinden
+
+- wohlergehen:
+    - das wohlergehen
 
 ### Feuer 
 - Feuer:
@@ -21457,6 +21684,8 @@ Stille
 ### präsent
 - präsent:
     - man muss präsent sein 
+    - der Name ist mir nicht präsent 
+        - ich habe den Namen leider nicht präsent
 
 - präsentieren:
     - ich werde das heute präsentieren 
@@ -22458,9 +22687,6 @@ Stille
     - die Panne 
     - ich habe eine Panne mit dem Auto 
 
-- versöhnen:
-- aussöhnen:
-    - ich habe mich mit ihm versöhnt 
 
 - abgemagert:
     - ich bin abgemagert 
@@ -23652,18 +23878,106 @@ Stille
 
 - abketten:
 - anketten:
-    - ich lass mich nicht anketten
+    - ich lass mich nicht anketten 
 
+### pfiffen 
+- verpfiffen:   
+    - er hat mich beim Chef verpfifft 
+
+- verpetzen:
+    - er hat mich beim Chef verpetzt 
+
+- verpissen:
+    - verpiss dich ich will nicht mit dir reden 
+
+### prügeln
+- prügeln:
+    - ich habe mit ihm geprügelt 
+
+- einprügeln;
+    - ich habe auf ihn eingeprügelt
+
+- verprügeln:
+    - Er soll seinen Klassenkameraden in der Pause auf dem Schulhof verprügelt haben.
+
+### schleudern:
+- schleudern:
+    - das auto kann ins schleudern 
+    - Die Waschmaschine ist gerade beim Schleudern, das ist ziemlich laut.
+
+- verschleudern:
+    - ich will mein Geld nicht verschleudern
+
+### reimen 
+- reimen:
+    - das reimt sich gut mit Liebe 
+
+- zusammenreimen:
+    - wir können uns eine Lösung zusammenreimen 
+    - ie hat mir nichts gesagt, aber nach ihrem Telefonat konnte ich mir den Rest zusammenreimen 
+
+### abkönnen 
+- abkönnen:
+    - ich kann ihn überhaupt nicht ab 
+
+- wegkönnen:
+    - ich kann jetzt endlich weg
+
+- weiterkönnen:
+    - wenn ich das bekommen dann können wir endlich mit der Arbeit weiter 
+
+- loskönnen:
+    - wir können jetzt endlich los
 -*-
 abgebrüht
-ungeschoren
+ungeschoren 
+- du machst jetzt den Abgang 
+- wirkungskreis 
+- hart verdientes Geld 
+- unterschlupf 
+- auf der Tasche liege
+- aufgestylt 
+- die Biene , die Wespe
+- Installieren, installation
+- horro
+
+- in stücke schneiden 
+- ausschluss 
+
+- brauschend
+- gegen jmdn anreden 
+- Genesung 
+- pissen 
+- mit dem willst du rummachen
+- kommen immer markt immer mit dabei
+- zu lästig 
+- handtücher 
+
+- ausnahmsweise
+- übergangsweise
+- zur zeit 
+- ich muss zur Tür
+- ich kriege das gar nicht auf die Kette
+- versöhnen:
+- aussöhnen:
+    - ich habe mich mit ihm versöhnt 
+- anzweifeln 
+- zur ablenkung 
+- aufheitern
+- quengelig
+- abspachteln 
+
+
+- hinterbliebend 
+- heilig 
+- mischbar
 
 
 
 
 
 
+ 
 
-
-- 
+ 
 -*-
