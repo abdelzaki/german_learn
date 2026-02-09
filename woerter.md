@@ -944,6 +944,12 @@
 - mogeln:
     - er hat beim Spiel geschummelt 
 
+- tricksen:
+    - er hat beim Spiel getrickst 
+
+- austricksen:
+    - so kann man das System austricksen
+
 ### schummeln
 - schummeln:
     - er schummelt bei dem Spiel 
@@ -1988,6 +1994,10 @@
     - das kann man in einem Abwasch machen
     - das geht in einem Aufwasch 
 
+- waschbar:
+- auswaschbar:
+    - das ist auswaschbar
+
 ### wischen
 - wischen:
     - den Schmutz wischen 
@@ -2063,6 +2073,8 @@
     - ich habe mich entschieden ich werde nicht zurückweichen [zurückschrecken]
     - er ist vor der Entscheidung zurückgewichen
 
+- labberig:
+    - die Pommes sind labberig
 ### räumen
 - Freiraum:
 - Spielraum:
@@ -2280,6 +2292,9 @@
 
 - entzünden:
     - Die Wunde hat sich entzündet 
+
+- entzündlich:
+    - pass auf das ist entzündlich
 
 ### flach && tief
 - flach:
@@ -2522,7 +2537,8 @@
 - holen:
     - die Kinder holen
     - ich werde mir schnell Brot holen  
-    - ich gehe schnell Essen holen
+    - ich gehe schnell Essen holen 
+    - ich hole schnell was zu essen
 
 - abholen:
     - ich hole dich morgen am Bahnhof ab 
@@ -3855,6 +3871,10 @@ Klecks
     - es ist verschmutzig
     - das ist sehr dreckig 
 
+- Abgase:
+    - das Abgas 
+    - zi viel Abgase
+
 ### sau 
 - sau:
     - mein Chef hat mich zur Sau gemacht 
@@ -4235,6 +4255,9 @@ Klecks
 ### sagen
 - sagen:
     - ich sage nichts dazu 
+
+- suggerieren:
+    - Die Werbung suggeriert uns, dass wir dieses Produkt für ein glückliches Leben brauchen.“
 
 - absagen:
 - zusagen:
@@ -6468,6 +6491,8 @@ Klecks
     - er zieht Merksamkeit auf sich [auf]
     - Den Kürzeren ziehen
     - über den Tisch gezogen
+    - am einem Strang ziehen 
+        - Es ist schön zu sehen, dass ihr beide an einem Strang zieht – schade nur, dass es der falsche Strang ist
 
 - abziehen:
     - Bettbezüge abziehen 
@@ -7945,6 +7970,8 @@ Klecks
 - übernehmen:
     - das Chaos nimmt überhand
 
+- vornehmlich:
+    - es gibt hier vornehmlich reiche Leute
 ### bringen
 - bringen:
     - er hat es im Leben zu etwas bringen
@@ -8108,6 +8135,9 @@ Klecks
 
 - festmachen:
     - ich mache das fest 
+    - woran machst du fest dass er recht Hast [an]
+        - das lässt sich an etwas festmachen
+        - ch kann nicht genau sagen, warum ich ihn nicht mag; ich kann es an nichts Bestimmtem festmachen
 
 - gutmachen:
 - wettmachen: [herausreißen]
@@ -8542,6 +8572,7 @@ Klecks
 - nachhinein:
     - der Nachgang 
     - das kann man in Nachgang machen 
+    - im nachgang zu dem Meeting werde ich es dir schicken
 
 - Spaziergang:
     - der Spaziergang 
@@ -9130,7 +9161,11 @@ Klecks
 - Ablage:
     - die Ablage 
     - Die Rechnung liegt in der Ablage.
-    - ich werde das in die Ablage legen
+    - ich werde das in die Ablage legen 
+
+- Belag:
+    - der Belag 
+    - in der Werkstatt wurde ein rutschfester Bodenbelag verlegt.
 
 - auslagern:
     - die Arbeitstelle wird nach China ausgelaggert 
@@ -9522,7 +9557,10 @@ Klecks
 
 - verstecken:
     - er versteckt sich vor mir 
-    - das ist versteckenes Geld
+    - das ist versteckenes Geld 
+
+- verschleiern:
+    - die Firma verschleiert den Gewinn
 
 - wegstecken:_
     - ich stecke das Buck in die Tasche weg 
@@ -11434,6 +11472,10 @@ Klecks
 - entschlüsseln:
     - wie kann man das entschlüsseln 
 
+- Schüssel:
+    - der Schüssel 
+    - ich brauche einen Schüssel wo ich das reingeben kann
+
 ### rechnen
 - rechen:
     - wir müssen mit Verzögerung rechnen 
@@ -11784,6 +11826,9 @@ Klecks
 	- ich muss das an den Projektleiter abgeben [an]
     - ich habe es zum Review abgegeben [zu]
 
+- reingeben:
+    - ich brauche einen schüssel wo ich das gesamte reingeben kann
+
 - achtgeben:
     - ich muss auf ihn achtgeben 
     - gib acht dass nichts passiert 
@@ -11879,6 +11924,7 @@ Klecks
     - die Stelle ist schon vergeben 
     - wir wollen die Stelle an ihn vergeben
     - wir werden den Auftrag an eine Firma vergeben. 
+    - hier kannst du den Namen vergeben
 
 - vorgeben:
     - ich würde vorgeben nicht an den Inhalt der Vereinbarung nicht erinneren zu können 
@@ -12401,7 +12447,13 @@ Klecks
 - packen:
     - wir können diese Aufgabe packen  
     - es hat mich gepackt 
-    - ich bin am packen
+    - ich bin am packen 
+    - ich habe ihn an der schulter gepackt 
+    - ich packe es auf die Hand 
+
+- reinpacken:
+    - ich habe alles reingepackt
+    - das wird mir unten reingepackt
 
 - abpacken:
     - ich packe das Essen ab 
@@ -12706,7 +12758,14 @@ Klecks
     - ich habe ihn bewertet 
 
 - überbewerten:
-    - ich will die Lage nicht überbewerten
+    - ich will die Lage nicht überbewerten 
+
+- hochwertig:
+- minderwertig:
+    - sie benutzen hochwertiges Bauteil 
+
+- wertvoll:
+    - ich will nicht deine wertvollte Zeit verschwenden
 
 ### stufe 
 - Stufe:
@@ -13188,6 +13247,10 @@ Klecks
 
 - Matsch:
     - Zieh die Schuhe aus, bevor du reinkommst, du hast den ganzen Matsch an den Sohlen!
+
+- Masche:
+    - die Masche 
+    - es ist immer die gleiche Masche 
 
 ### nutzen
 - Nutzen:
@@ -14004,6 +14067,9 @@ Klecks
     - die Zahl der Bevolkerung schrumpfen 
     - meine Hose ist geschrumpft 
 
+- schröpfen:
+    - hier wird man ordentlich geschropft [ausnehmen]
+
 ### sammeln
 - sammeln:
     - Kraft sammeln 
@@ -14500,6 +14566,9 @@ Stille
 
 - aufdrehen:
     - ich drehe die Heizung auf (auf größere Leistung einstellen) 
+
+- aufgedreht:
+    - ich bin ein bisschen aufgedreht [motivert]
 
 - durchdrehen:
     - er dreht schnell durch 
@@ -17328,7 +17397,10 @@ Stille
 
 - Vorgeschmack:
     - der Vorgeschmack 
-    - das gibt uns Vorgeschmack was das bedeutet
+    - das gibt uns Vorgeschmack was das bedeutet 
+
+- herausschmecken:
+    - Leider schmeckt man das billige Fett in dem Gebäck stark heraus
 
 ### laut  
 - vorlaut:
@@ -17688,7 +17760,7 @@ Stille
     - ich lutsche den Löffel ab
 
 - ausgelutscht:
-    - er hat es ausgelutscht
+    - Ich fühle mich nach dieser Woche total ausgelutscht
 
 ### lauschen
 - lauschen:
@@ -18953,13 +19025,6 @@ Stille
 - Kontoverbindung:
     - die Kontoverbindung
 
-- Kontakt:
-    - der Kontakt 
-    - ich habe den Kontakt zu ihm verloren [haben]
-    - ich stehe mit ihm in Kontakt [stehen]
-    - ich komme nicht in Kontakt zu ihm [kommen]
-    - ich wollte den Kontankt zum ihr aufrechterhalten [aufrecherhalten] 
-    - ich werde mit ihm Kontakt aufnehmen [kontaktieren] 
 
 - Konsum:
     - der Konsum 
@@ -19297,6 +19362,74 @@ Stille
     - mir ist es egal wer es das macht 
     - mir ist kalt, warm, 
     - mir ist langweilig
+
+### spucken
+- Spucke:
+    - die Spucke
+
+- spucken:
+    - er spuckt auf den Boden 
+
+- ausspucken:
+    - im Auto spuckt er aus 
+
+- bespucken:
+    - er hat mich bespuckt 
+
+### schäl
+- schal:
+    - der Schal
+
+- Schale:
+    - die Schale
+    - In einer rauen Schale steckt oft ein weicher Kern
+
+- pauschal:
+    - ich kann das pauschal nich sagen
+
+- Pauschale:
+    - die Pauschale 
+    - für die Unkosten bekommst du Pauschale 
+
+- Schälen:
+    - ich werde den Äpfel schälen
+
+### stock 
+- stocken:
+    - die Verhandlung stockt 
+
+- aufstocken:
+    - wir müssen das aufstocken 
+
+- Stock:
+    - der Stock 
+    - ich wohne im ersten Stock  
+
+- stottern:
+    - er hat angefangen zu stottern 
+
+- stockung:
+    - Eine Stockung des Blutflusses kann zu Thrombosen führen.
+
+### winden 
+- herauswinden:
+    - er versuch sich mit ausreden aus der Situation herauszuwinden 
+
+- überwinden:
+    - ich habe das Hindernis überwunden 
+
+- Überwindung:
+    - das kostet aber Überwindung 
+
+### zähmen
+- zähmen:
+- bezähmen:
+    - man kann Wolfe nicht zähmen 
+    - ich konnte meine Angst bezähmen 
+
+- zügeln:
+    - ich versuche mich zu zügeln 
+
 *-*
 ### tanzen
 - tanzen:
@@ -19534,23 +19667,7 @@ Stille
 - zusammenstückeln:
     - ich versuche einen halbwegs vernünfitgen Zeitplan zusammenzustückeln 
 
-### schäl
-- schal:
-    - der Schal
 
-- Schale:
-    - die Schale
-    - In einer rauen Schale steckt oft ein weicher Kern
-
-- pauschal:
-    - ich kann das pauschal nich sagen
-
-- Pauschale:
-    - die Pauschale 
-    - für die Unkosten bekommst du Pauschale 
-
-- Schälen:
-    - ich werde den Äpfel schälen
 
 ### seits
 - abseits:
@@ -19813,38 +19930,6 @@ Stille
 - bequem:
     - das ist sehr bequem
 
-### stock 
-- stocken:
-    - die Verhandlung stockt 
-
-- aufstocken:
-    - wir müssen das aufstocken 
-
-- Stock:
-    - der Stock 
-    - ich wohne im ersten Stock  
-
-- stottern:
-    - er hat angefangen zu stottern
-
-### winden 
-- herauswinden:
-    - er versuch sich mit ausreden aus der Situation herauszuwinden 
-
-- überwinden:
-    - ich habe das Hindernis überwunden 
-
-- Überwindung:
-    - das kostet aber Überwindung 
-
-### zähmen
-- zähmen:
-- bezähmen:
-    - man kann Wolfe nicht zähmen 
-    - ich konnte meine Angst bezähmen 
-
-- zügeln:
-    - ich versuche mich zu zügeln 
 
 ### mini 
 - Maximum:
@@ -19920,18 +20005,7 @@ Stille
     - das Geräusch
     - ich höre nur geräusche 
 
-### spucken
-- Spucke:
-    - die Spucke
 
-- spucken:
-    - er spuckt auf den Boden 
-
-- ausspucken:
-    - im Auto spuckt er aus 
-
-- bespucken:
-    - er hat mich bespuckt 
 
 ### Rente 
 - Rente:
@@ -22569,8 +22643,7 @@ Stille
 - Magie:
     - die Magie
 
-- intensivieren:
-    - wir können das Training intensivieren  
+
 
 - Ausland:
     - das Ausland 
@@ -22697,8 +22770,6 @@ Stille
 - baff: 
     - da bin ich aber baff 
 
-- schaufeln:
-    - ich muss den Schnee schaufeln
 
 ## synome 
 
@@ -23928,6 +23999,71 @@ Stille
 
 - loskönnen:
     - wir können jetzt endlich los
+
+### inten
+- intention:
+    - die Intention
+    - das war nicht meine Intention
+
+- intensiv:
+    - das war ein intensives Training 
+
+- intensiveren:
+    - solltest du dein Training nach zwei Wochen intensivieren. 
+
+### dünn && dick 
+- dünn:
+    - er ist sehr dünn 
+
+- verdünnen:
+    - ich werde den Saft verdünnen [panschen]
+
+- dünnmachen:
+    - ich mache mich jetzt dünn 
+
+- dick:
+    - er ist so dick 
+
+### Nagel 
+- nagel:
+    - der Nagel 
+    - den Nagel auf den Kopf getroffen 
+
+- nageln
+    - ich werde das nagel 
+
+### dämpfen 
+- Dampf:
+    - der Dampf
+    - ich wollte den Dampf ablassen 
+
+- dampfen:
+    - das Heisse Essen dampft 
+
+- verdampfen:
+    - beim Kochen verdampft viel Wasser 
+    - das Wasser ist verdampft
+
+- dämpfen:
+    - die Schmerzen dämpfen
+    - Die schlechte Nachricht/Er mit seinem Pessimismus dämpfte ihre Freude 
+
+### kontakt
+- Kontakt:
+    - der Kontakt 
+    - ich habe den Kontakt zu ihm verloren [haben]
+    - ich stehe mit ihm in Kontakt [stehen]
+    - ich komme nicht in Kontakt zu ihm [kommen]
+    - ich wollte den Kontankt zum ihr aufrechterhalten [aufrecherhalten] 
+    - ich werde mit ihm Kontakt aufnehmen [kontaktieren] 
+
+- kontaktieren:
+    - ich habe ihn kontaktiert 
+
+- Takt:
+    - der Takt 
+    - der Bus fährt im 2 Stunden Takt
+
 -*-
 abgebrüht
 ungeschoren 
@@ -23966,18 +24102,18 @@ ungeschoren
 - aufheitern
 - quengelig
 - abspachteln 
+-  
+
+- stanzen 
+- bohrmaschine
+- blech
+- kanne 
+- kalttern an etwas hoch
+- ruckweise
+- flüssig
+- stockung 
 
 
-- hinterbliebend 
-- heilig 
-- mischbar
 
 
-
-
-
-
- 
-
- 
 -*-
